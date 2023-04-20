@@ -5,8 +5,9 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.kinsta.helloworld</groupId>
-  <artifactId>kinsta-java-hello-world</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <!--artifactId>kinsta-java-hello-world</artifactId-->
+  <artifactId>lorcanaapi</artifactId>
+  <version>1.0</version>
 
   <name>kinsta-java-hello-world</name>
   <!-- FIXME change it to the project's website -->
@@ -62,7 +63,7 @@
               <manifest>
                 <addClasspath>true</addClasspath>
                 <classpathPrefix>lib/</classpathPrefix>
-                <mainClass>com.kinsta.helloworld.App</mainClass>
+                <mainClass>com.lorcanaapi.App</mainClass>
               </manifest>
             </archive>
           </configuration>
