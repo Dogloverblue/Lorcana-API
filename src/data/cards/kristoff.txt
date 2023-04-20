@@ -1,0 +1,20 @@
+{
+    "name": "Kristoff",
+    "subtitle": "Offical Ice Master",
+    "ink-cost": 3,
+    "color": "Steel",
+    "diamond-amount": 0,
+    "type": "Character",
+    "subtypes": [
+        "Storyborn",
+        "Ally"
+    ],
+    "power": 3,
+    "toughness": 3,
+    "abilities": null,
+    "traits": null,
+    "lore": "Kristoff: \"You want to talk about a supply and demand problem? I sell ice for a living\" Anna: \"Ooh, that's a rough buisness to be in right now. I mean, that is really—ah, mm. That's unfortunate.\"",
+    "artist": "Ron Baird",
+    "set": "The First Chapter",
+    "set-code": "TFC"
+}

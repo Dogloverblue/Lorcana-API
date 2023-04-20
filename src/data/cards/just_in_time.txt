@@ -1,0 +1,11 @@
+{
+  "name": "Just In Time",
+  "ink-cost": 3,
+  "color": "Amber",
+  "type": "Action",
+  "effect": "You may play a character with cost 5 or less for free.",
+  "lore": "The best heroes always arrive at the perfect moment-whether they know it or not.",
+  "artist": "Leonardo Giammichele",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

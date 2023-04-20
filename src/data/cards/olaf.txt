@@ -1,0 +1,20 @@
+{
+  "name": "Olaf",
+  "subtitle": "Friendly Snowman",
+  "ink-cost": 1,
+  "color": "Amethyst",
+  "diamond-amount": 0,
+  "type": "Character",
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "power": 1,
+  "toughness": 3,
+  "abilities": null,
+  "traits": null,
+  "lore": "\"I'm Olaf and I like warm hugs!\"",
+  "artist": "unknown",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

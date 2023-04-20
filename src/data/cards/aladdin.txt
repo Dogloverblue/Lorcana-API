@@ -1,0 +1,26 @@
+{
+  "name": "Aladdin",
+  "subtitle": "Heroic Outlaw",
+  "ink-cost": 7,
+  "color": "Ruby",
+  "diamond-amount": 2,
+  "type": "Character",
+  "subtypes": [
+    "Floodborn",
+    "Hero"
+  ],
+  "power": 5,
+  "toughness": 5,
+  "abilities": [
+    {
+      "Daring Exploit": "During your turn, whenever this character banishes another character in a challenge, you gain 2 lore and each opponent loses 2 lore"
+    }
+  ],
+  "traits": [
+    "Shift 5"
+  ],
+  "lore": null,
+  "artist": "Nicholas Kole",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

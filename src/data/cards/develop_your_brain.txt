@@ -1,0 +1,11 @@
+{
+  "name": "Develop Your Brain",
+  "ink-cost": 1,
+  "color": "Sapphire",
+  "type": "Action",
+  "effect": "Look at the top 2 cards of your deck. Put one into your hand and the other on the bottom of the deck.",
+  "lore": "\"Knowledge, wisdom-there's the real power!\" -Merlin",
+  "artist": "Pao Yong",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

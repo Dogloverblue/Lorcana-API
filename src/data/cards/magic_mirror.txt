@@ -1,0 +1,11 @@
+{
+  "name": "Magic Mirror",
+  "ink-cost": 2,
+  "color": "Amethyst",
+  "type": "Item",
+  "effect": "{T}, 4🔹",
+  "lore": "\\\"What wouldst thou know, my Queen?\\\"",
+  "artist": "unknown",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

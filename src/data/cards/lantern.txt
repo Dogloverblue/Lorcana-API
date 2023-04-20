@@ -1,0 +1,16 @@
+{
+  "name": "Lantern",
+  "ink-cost": 2,
+  "color": "Amber",
+  "type": "Item",
+  "effect": null,
+  "abilities": [
+    {
+      "Birthday Lights": "{t}- You play 1⬡ less for the next character you play this turn"
+    }
+  ],
+  "lore": "Lanterns fill the sky on one special night, beacons of hope and love",
+  "artist": "Eri Welli",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

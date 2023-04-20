@@ -1,0 +1,27 @@
+{
+    "name": "Robin Hood",
+    "subtitle": "Unrivaled Archer",
+    "ink-cost": 6,
+    "color": "Sapphire",
+    "diamond-amount": 2,
+    "type": "character",
+    "subtypes": [
+        "Storyborn",
+        "Hero"
+    ],
+    "power": 4,
+    "toughness": 4,
+    "abilities": [
+        {
+            "Feed The Poor": "When you play this character, if an opponent has more cards in their hand than you, draw a card."
+        },
+        {
+            "Good Shot": "During your turn, this character has Evasive. (They can challenge characters with Evasive.)"
+        }
+    ],
+    "traits": null,
+    "lore": "\"We never rob. We just sort of borrow a bit from those who can afford it.\"",
+    "artist": "John Loren",
+    "set": "The First Chapter",
+    "set-code": "TFC"
+}

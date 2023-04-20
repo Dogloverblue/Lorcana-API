@@ -1,0 +1,23 @@
+{
+  "name": "Cheshire Car",
+  "subtitle": "Not All There",
+  "ink-cost": 3,
+  "color": "Emerald",
+  "diamond-amount": 2,
+  "type": "Character",
+  "subtypes": [
+    "Storyborn"
+  ],
+  "power": 0,
+  "toughness": 3,
+  "abilities": [
+    {
+      "Lose Something?": "When this character is challenged and banished, banish the challenging character."
+    }
+  ],
+  "traits": null,
+  "lore": "\\\"You may have noticed that I'm not all there myself.\\\"",
+  "artist": "unknown",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Part Of Your World",
+  "ink-cost": 3,
+  "color": "Amber",
+  "type": "Action-Song",
+  "effect": "Return a character card from your discard to your hand",
+  "lore": "What would I give if I could live out of these waters?",
+  "artist": "Samanta Erdini",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

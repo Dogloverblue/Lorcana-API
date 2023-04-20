@@ -1,0 +1,25 @@
+{
+    "name": "Hades",
+    "subtitle": "King of Olympus",
+    "ink-cost": 8,
+    "color": "Amber",
+    "diamond-amount": 1,
+    "type": "Character",
+    "subtypes": [
+        "Floodborn",
+        "Villian",
+        "King",
+        "Deity"
+    ],
+    "power": 6,
+    "toughness": 7,
+    "abilities": null,
+    "traits": [
+        "Shift 6 (You many pay 6⬡ to play this on top of one of your characters named Hades.)",
+        "Sinister Plot This character get +1🔷 for every other villain you have in play."
+    ],
+    "lore": null,
+    "artist": "unknown",
+    "set": "The First Chapter",
+    "set-code": "TFC"
+}

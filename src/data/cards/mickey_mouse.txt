@@ -1,0 +1,22 @@
+{
+    "name": "MICKEY MOUSE",
+    "subtitle": "Brave Little Tailor",
+    "ink-cost": 8,
+    "color": "Ruby",
+    "diamond-amount": 4,
+    "type": "character",
+    "subtypes": [
+        "Dreamborn",
+        "Hero"
+    ],
+    "power": 5,
+    "toughness": 5,
+    "abilities": null,
+    "traits": [
+        "Evasive (Only characters with Evasive can challenge this characer.)"
+    ],
+    "lore": "When defeat looms and victory hangs by a thread, a hero bolts to the rescue, patching things up through shear determination.",
+    "artist": "Nicolas Kole",
+    "set": "The First Chapter",
+    "set-code": "TFC"
+}

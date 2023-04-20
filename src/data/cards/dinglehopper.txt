@@ -1,0 +1,16 @@
+{
+  "name": "Dinglehopper",
+  "ink-cost": 1,
+  "color": "Amber",
+  "type": "Item",
+  "effect": null,
+  "abilities": [
+    {
+      "Straighten Hair": "{t}- Remove up to 1 damage from chosen character"
+    }
+  ],
+  "lore": "Enjoy the finest of human hairstyles!",
+  "artist": "Eri Welli",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

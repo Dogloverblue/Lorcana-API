@@ -1,0 +1,23 @@
+{
+  "name": "Hercules",
+  "subtitle": "True Hero",
+  "ink-cost": 3,
+  "color": "Steel",
+  "diamond-amount": 1,
+  "type": "Character",
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Prince"
+  ],
+  "power": 3,
+  "toughness": 3,
+  "abilities": null,
+  "traits": [
+    "Bodyguard (This character may enter play excerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)"
+  ],
+  "lore": "\\\"You gotta admit, that was pretty heroic.\\\"",
+  "artist": "Marcel Berg",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

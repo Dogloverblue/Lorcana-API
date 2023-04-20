@@ -1,0 +1,16 @@
+{
+  "name": "Beast's Mirror",
+  "ink-cost": 2,
+  "color": "Steel",
+  "type": "Item",
+  "effect": null,
+  "abilities": [
+    {
+      "Show Me": "{t}, 3? - If you have no cards in your hand, draw a card."
+    }
+  ],
+  "lore": "Ashamed of his monstrous form, the Beast concealed himself inside his castle, with a magic mirror as his only window to the outside world.",
+  "artist": "Samanta Erdini",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

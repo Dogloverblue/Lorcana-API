@@ -1,0 +1,11 @@
+{
+  "name": "Let It Go",
+  "ink-cost": 5,
+  "color": "Sapphire",
+  "type": "Action-Song",
+  "effect": "Put chosen character into thier player's inkwell facedown and excerted",
+  "lore": "It's time to see what I can do \nTo test the limits and break through",
+  "artist": "Milica Celikovic",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

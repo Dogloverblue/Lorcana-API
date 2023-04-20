@@ -1,0 +1,26 @@
+{
+    "name": "Elsa",
+    "subtitle": "Snow Queen",
+    "ink-cost": 3,
+    "color": "Amethyst",
+    "diamond-amount": 1,
+    "type": "character",
+    "subtypes": [
+        "Dreamborn",
+        "Hero",
+        "Queen",
+        "Sorcerer"
+    ],
+    "power": 2,
+    "toughness": 3,
+    "abilities": [
+        {
+            "FREEZE": "Excert chosen opposing character."
+        }
+    ],
+    "traits": null,
+    "lore": "Recreated by magical ink, Elsa found herself in an unfamiliar new world. Fortunately, ice works the same way everywhere.",
+    "artist": "Nicholas Kole",
+    "set": "The First Chapter",
+    "set-code": "TFC"
+}

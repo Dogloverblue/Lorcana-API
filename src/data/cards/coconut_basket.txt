@@ -1,0 +1,16 @@
+{
+  "name": "Coconut Basket",
+  "ink-cost": 2,
+  "color": "Sapphire",
+  "type": "Item",
+  "effect": null,
+  "abilities": [
+    {
+      "Consider The Coconut": "Whenever you play a character, you may remove up to 2 damage from chosen character."
+    }
+  ],
+  "lore": "The coconut is a versatile gift from the gods, used to make nearly everything - including gift baskets to carry more coconuts.",
+  "artist": "Milica Celikovic",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Mulan",
+    "subtitle": "Imperial Soilder",
+    "ink-cost": 5,
+    "color": "Ruby",
+    "diamond-amount": 1,
+    "type": "Character",
+    "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Princess"
+    ],
+    "power": 4,
+    "toughness": 5,
+    "abilities": [
+        {
+            "Lead By Example": "During your turn, whenever this character banishes another character in a challenge, your other characters get +1🔷 this turn."
+        }
+    ],
+    "traits": null,
+    "lore": null,
+    "artist": "unknown",
+    "set": "The First Chapter",
+    "set-code": "TFC"
+}

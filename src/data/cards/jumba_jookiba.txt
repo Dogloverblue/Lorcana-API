@@ -1,0 +1,21 @@
+{
+    "name": "Jumba Jookiba",
+    "subtitle": "Renegade Scientist",
+    "ink-cost": 5,
+    "color": "Emerald",
+    "diamond-amount": 2,
+    "type": "Character",
+    "subtypes": [
+        "Dreambron",
+        "Alien",
+        "Inventor"
+    ],
+    "power": 4,
+    "toughness": 5,
+    "abilities": null,
+    "traits": null,
+    "lore": "\"Created something? Ha! But that would be irresponsible and unethical. I would never, ever make more than one.\"",
+    "artist": "unknown",
+    "set": "The First Chapter",
+    "set-code": "TFC"
+}

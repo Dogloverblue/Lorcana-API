@@ -1,0 +1,21 @@
+{
+  "name": "Aurora",
+  "subtitle": "Regal Princess",
+  "ink-cost": 2,
+  "color": "Sapphire",
+  "diamond-amount": 2,
+  "type": "Character",
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "power": 2,
+  "toughness": 2,
+  "abilities": null,
+  "traits": null,
+  "lore": "\\\"They say if you dream a thing more than once, it's sure to come true\\\"",
+  "artist": "Samanta Erdini",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

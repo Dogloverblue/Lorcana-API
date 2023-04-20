@@ -1,0 +1,25 @@
+{
+  "name": "Gantu",
+  "subtitle": "Galactic Federation Captain",
+  "ink-cost": 8,
+  "color": "Silver",
+  "diamond-amount": 2,
+  "type": "Character",
+  "subtypes": [
+    "Storyborn",
+    "Alien",
+    "Captain"
+  ],
+  "power": 6,
+  "toughness": 6,
+  "abilities": [
+    {
+      "Under Arrest": "Characters with cost 2 or less can't challenge your characters"
+    }
+  ],
+  "traits": null,
+  "lore": "Relax, enjoy the trip... and don't get any ideas!",
+  "artist": "Luis Huerta",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

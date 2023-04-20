@@ -1,0 +1,24 @@
+{
+  "name": "Magic Broom",
+  "subtitle": "Bucket Brigade",
+  "ink-cost": 2,
+  "color": "Amethyst",
+  "diamond-amount": 1,
+  "type": "Character",
+  "subtypes": [
+    "Dreamborn",
+    "Broom"
+  ],
+  "power": 2,
+  "toughness": 2,
+  "abilities": [
+    {
+      "Sweep": "When you play this character, you may shuffle a card from any discard into it's player's deck."
+    }
+  ],
+  "traits": null,
+  "lore": "In the immense story-forge known as the Great Illuminary, there is always work to be done.",
+  "artist": "Dav Augereau / Guykua Ruwa",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

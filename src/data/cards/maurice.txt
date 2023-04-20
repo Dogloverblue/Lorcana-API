@@ -1,0 +1,28 @@
+{
+  "name": "Maurice",
+  "subtitle": "World-Famour Inventor",
+  "ink-cost": 6,
+  "color": "Sapphire",
+  "diamond-amount": 0,
+  "type": "Character",
+  "subtypes": [
+    "Dreamborn",
+    "Mentor",
+    "Inventor"
+  ],
+  "power": 2,
+  "toughness": 7,
+  "abilities": [
+    {
+      "Give It A Try": "Whenever this character quests, you pay 2? less for the next item you play this turn."
+    },
+    {
+      "It Works!": "Whenever you play an item, you may draw a card."
+    }
+  ],
+  "traits": null,
+  "lore": null,
+  "artist": "unknown",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

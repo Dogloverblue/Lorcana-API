@@ -1,0 +1,22 @@
+{
+  "name": "Heihei",
+  "subtitle": "Boat Snack",
+  "ink-cost": 1,
+  "color": "Amber",
+  "diamond-amount": 1,
+  "type": "Character",
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "power": 1,
+  "toughness": 2,
+  "abilities": null,
+  "traits": [
+    "Support (When this character quests, you may add thier * to another chosen character's * this turn)"
+  ],
+  "lore": "\\\"Sometimes, our strengths lie beneath the surface. Far beneath, in some cases...\\\" -Moana",
+  "artist": "Jenna Gray",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

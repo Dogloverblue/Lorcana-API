@@ -1,0 +1,11 @@
+{
+  "name": "Fire The Cannons!",
+  "ink-cost": 1,
+  "color": "Steel",
+  "type": "Action",
+  "effect": "Deal 2 damage to chosen character",
+  "lore": "Captain Hook: \"Double the powder and shorten the fuse!\" Mr. Smee: \"Shorten the powder and double the fuse!\"",
+  "artist": "Matt Chapman",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

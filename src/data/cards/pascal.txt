@@ -1,0 +1,24 @@
+{
+  "name": "Pascal",
+  "subtitle": "Rapunzel's Companion",
+  "ink-cost": 1,
+  "color": "Amethyst",
+  "diamond-amount": 1,
+  "type": "Character",
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "power": 1,
+  "toughness": 1,
+  "abilities": [
+    {
+      "Camouflage": "While you have another character in play, this character gains Evasive. (Only characters with Evasice chan challenge them.)"
+    }
+  ],
+  "traits": null,
+  "lore": "A true friend is always there for you, whether you can see them or not.",
+  "artist": "Brian Weidz",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

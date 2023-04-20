@@ -1,0 +1,20 @@
+{
+  "name": "Goofy",
+  "subtitle": "Daredevil",
+  "ink-cost": 5,
+  "color": "Ruby",
+  "diamond-amount": 0,
+  "type": "Character",
+  "subtypes": [
+    "Dreamborn",
+    "Hero"
+  ],
+  "power": 3,
+  "toughness": 4,
+  "abilities": null,
+  "traits": null,
+  "lore": "Sometimes you gotta give it the ol' jump and hyuck.",
+  "artist": "Kenneth Anderson",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

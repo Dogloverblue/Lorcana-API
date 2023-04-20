@@ -1,0 +1,16 @@
+{
+  "name": "White Rabbit's Pocket Watch",
+  "ink-cost": 3,
+  "color": "Amethyst",
+  "type": "Item",
+  "effect": null,
+  "abilities": [
+    {
+      "I'm late!": "{t}, 1🔹Chosen character gains Rush this turn. (They can challenge the turn they're played)"
+    }
+  ],
+  "lore": "\\\"No wonder you're late. Why, this watch is exactly two days slow\\\"",
+  "artist": "unknown",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

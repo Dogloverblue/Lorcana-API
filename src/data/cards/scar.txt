@@ -1,0 +1,24 @@
+{
+  "name": "Scar",
+  "subtitle": "Mastermind",
+  "ink-cost": 6,
+  "color": "Sapphire",
+  "diamond-amount": 0,
+  "type": "Character",
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "power": 5,
+  "toughness": 4,
+  "abilities": [
+    {
+      "Insidious Plot": "When you play this character, chosen opposing character gets -5🔆 this turn."
+    }
+  ],
+  "traits": null,
+  "lore": "\\\"The best plans involve a little danger. Just not for me.\\\"",
+  "artist": "unknown",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

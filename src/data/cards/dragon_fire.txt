@@ -1,0 +1,11 @@
+{
+    "name": "Dragon Fire",
+    "ink-cost": 5,
+    "color": "Ruby",
+    "type": "Action",
+    "effect": "Banish chosen character",
+    "lore": null,
+    "artist": "unknown",
+    "set": "The First Chapter",
+    "set-code": "TFC"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Maleficent",
+  "subtitle": "Sinister Visitor",
+  "ink-cost": 4,
+  "color": "Sapphire",
+  "diamond-amount": 2,
+  "type": "Character",
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "power": 3,
+  "toughness": 4,
+  "abilities": null,
+  "traits": null,
+  "lore": "\"The princess shall indeed grow in grace and beauty, beloved by all who know her. But before the sun sets on her sixteenth birthday, she shall prick her finger on the spindle of a spinning wheel...\"",
+  "artist": "Nicholas Kole",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

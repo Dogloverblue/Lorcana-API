@@ -1,0 +1,20 @@
+{
+  "name": "Flounder",
+  "subtitle": "Voice Of Reason",
+  "ink-cost": 1,
+  "color": "Sapphire",
+  "diamond-amount": 1,
+  "type": "Character",
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "power": 2,
+  "toughness": 2,
+  "abilities": null,
+  "traits": null,
+  "lore": "\"Excitment... adventure... danger lurking around ever cor- AAAAAGGH!\"",
+  "artist": "Brian Weiyz",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

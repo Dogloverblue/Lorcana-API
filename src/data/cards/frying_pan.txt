@@ -1,0 +1,16 @@
+{
+    "name": "Frying Pan",
+    "ink-cost": 2,
+    "color": "Steel",
+    "type": "Item",
+    "effect": null,
+    "abilities": [
+        {
+            "CLANG!": "Banish this item — Chosen character can't challenge during thier next turn"
+        }
+    ],
+    "lore": "It's a fine piece of cookware, but as a weapon it's truly stunning.",
+    "artist": "Kamil Murzyn",
+    "set": "The First Chapter",
+    "set-code": "TFC"
+}

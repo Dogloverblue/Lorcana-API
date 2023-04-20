@@ -1,0 +1,26 @@
+{
+  "name": "Belle",
+  "subtitle": "Inventive Engineer",
+  "ink-cost": 3,
+  "color": "Sapphire",
+  "diamond-amount": 2,
+  "type": "Character",
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Princess",
+    "Inventor"
+  ],
+  "power": 2,
+  "toughness": 3,
+  "abilities": [
+    {
+      "Tinker": "Whenever this character quests, you pay 1⬡ less for the next item you play this turn."
+    }
+  ],
+  "traits": null,
+  "lore": "A little ingenuity and a lot of heart will take you far in this world.",
+  "artist": "Gabriel Romero / Pia Smith",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

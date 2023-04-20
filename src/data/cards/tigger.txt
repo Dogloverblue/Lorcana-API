@@ -1,0 +1,22 @@
+{
+  "name": "Tigger",
+  "subtitle": "Wonderful Thing",
+  "ink-cost": 6,
+  "color": "Ruby",
+  "diamond-amount": 0,
+  "type": "Character",
+  "subtypes": [
+    "Storyborn",
+    "Tigger"
+  ],
+  "power": 4,
+  "toughness": 4,
+  "abilities": null,
+  "traits": [
+    "Evasive (Only characters with Evasive can challenge this character.)"
+  ],
+  "lore": "\\\"I'm the bounciest bouncer that ever bounced!\\\"",
+  "artist": "unknown",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

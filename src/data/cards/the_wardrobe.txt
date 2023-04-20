@@ -1,0 +1,20 @@
+{
+  "name": "The Wardrobe",
+  "subtitle": "Belle's Confident",
+  "ink-cost": 3,
+  "color": "Amethyst",
+  "diamond-amount": 1,
+  "type": "Character",
+  "subtypes": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "power": 3,
+  "toughness": 4,
+  "abilities": null,
+  "traits": null,
+  "lore": "When you simply must have the hautest counture",
+  "artist": "unknown",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}
