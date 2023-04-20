@@ -1,34 +1,25 @@
-package com.kinsta.helloworld;
+package com.lorcanaapi;
 
 import java.io.IOException;
-import java.io.OutputStream;
 import java.net.InetSocketAddress;
-import java.net.URISyntaxException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
-import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Optional;
 
 
-import java.net.URISyntaxException;
 
 
 
 import java.io.File;
 
-import com.kinsta.helloworld.handlers.FuzzyHandler;
-import com.kinsta.helloworld.handlers.JSONHandler;
-import com.kinsta.helloworld.handlers.SearchHandler;
-import com.kinsta.helloworld.handlers.TextHandler;
-import com.sun.net.httpserver.HttpExchange;
-import com.sun.net.httpserver.HttpHandler;
+import com.lorcanaapi.handlers.FuzzyHandler;
+import com.lorcanaapi.handlers.JSONHandler;
+import com.lorcanaapi.handlers.SearchHandler;
+import com.lorcanaapi.handlers.TextHandler;
 import com.sun.net.httpserver.HttpServer;
 
-import me.xdrop.fuzzywuzzy.FuzzySearch;
-import me.xdrop.fuzzywuzzy.model.ExtractedResult;
 
 
 public class App {
@@ -41,7 +32,7 @@ public class App {
         );
         server = HttpServer.create(new InetSocketAddress(port), 0);
         server.createContext("/", new TextHandler("That's not a card! To learn the proper syntax, go to https://lorcana-api.com"));
-        doMainSetupStuff();//f
+        doMainSetupStuff();
 	   
         server.setExecutor(null);
         server.start();
@@ -60,7 +51,6 @@ public class App {
     }
 public static void doMainSetupStuff() {
 	setupHashMap();
-	String line;
 	String name;
 	try {
 

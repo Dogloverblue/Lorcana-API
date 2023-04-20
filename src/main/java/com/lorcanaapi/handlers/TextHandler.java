@@ -1,4 +1,4 @@
-package com.kinsta.helloworld.handlers;
+package com.lorcanaapi.handlers;
 
 import java.io.IOException;
 import java.io.OutputStream;
