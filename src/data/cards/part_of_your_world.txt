@@ -1,6 +1,7 @@
 {
   "name": "Part Of Your World",
   "ink-cost": 3,
+  "inkable": false,
   "color": "Amber",
   "type": "Action-Song",
   "effect": "Return a character card from your discard to your hand",

@@ -1,6 +1,7 @@
 {
   "name": "Magic Mirror",
   "ink-cost": 2,
+  "inkable": false,
   "color": "Amethyst",
   "type": "Item",
   "effect": "{T}, 4🔹",

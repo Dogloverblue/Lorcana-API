@@ -2,6 +2,7 @@
     "name": "Hades",
     "subtitle": "King of Olympus",
     "ink-cost": 8,
+    "inkable": false,
     "color": "Amber",
     "diamond-amount": 1,
     "type": "Character",

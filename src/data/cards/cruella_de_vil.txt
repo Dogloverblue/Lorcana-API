@@ -2,6 +2,7 @@
     "name": "Cruella De Vil",
     "subtitle": "Miserable As Usual",
     "ink-cost": 2,
+    "inkable": true,
     "color": "Emerald",
     "diamond-amount": 1,
     "type": "character",

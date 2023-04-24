@@ -1,6 +1,7 @@
 {
     "name": "Dragon Fire",
     "ink-cost": 5,
+    "inkable": false,
     "color": "Ruby",
     "type": "Action",
     "effect": "Banish chosen character",

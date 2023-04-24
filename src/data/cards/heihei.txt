@@ -2,6 +2,7 @@
   "name": "Heihei",
   "subtitle": "Boat Snack",
   "ink-cost": 1,
+  "inkable": true,
   "color": "Amber",
   "diamond-amount": 1,
   "type": "Character",

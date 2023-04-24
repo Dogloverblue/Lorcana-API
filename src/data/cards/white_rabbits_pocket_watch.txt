@@ -1,6 +1,7 @@
 {
   "name": "White Rabbit's Pocket Watch",
   "ink-cost": 3,
+  "inkable": true,
   "color": "Amethyst",
   "type": "Item",
   "effect": null,

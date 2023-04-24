@@ -1,6 +1,7 @@
 {
   "name": "Develop Your Brain",
   "ink-cost": 1,
+  "inkable": true,
   "color": "Sapphire",
   "type": "Action",
   "effect": "Look at the top 2 cards of your deck. Put one into your hand and the other on the bottom of the deck.",

@@ -2,6 +2,7 @@
     "name": "MALEFICENT",
     "subtitle": "Monstrous Dragon",
     "ink": 9,
+    "inkable": true,
     "color": "Ruby",
     "diamond-cost": 2,
     "type": "character",

@@ -1,6 +1,7 @@
 {
   "name": "Just In Time",
   "ink-cost": 3,
+  "inkable": false,
   "color": "Amber",
   "type": "Action",
   "effect": "You may play a character with cost 5 or less for free.",

@@ -2,6 +2,7 @@
   "name": "Scar",
   "subtitle": "Mastermind",
   "ink-cost": 6,
+  "inkable": true,
   "color": "Sapphire",
   "diamond-amount": 0,
   "type": "Character",

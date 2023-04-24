@@ -2,6 +2,7 @@
     "name": "Captain Hook",
     "subtitle": "Forceful Duelist",
     "ink-cost": 1,
+    "inkable": true,
     "color": "Steel",
     "diamond-amount": 1,
     "type": "character",

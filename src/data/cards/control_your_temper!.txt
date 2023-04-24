@@ -1,6 +1,7 @@
 {
   "name": "Control Your Temper!",
   "ink-cost": 1,
+  "inkable": true,
   "color": "Amber",
   "type": "Action",
   "effect": "Chosen character gets -2※ this turn.",

@@ -2,6 +2,7 @@
   "name": "Pascal",
   "subtitle": "Rapunzel's Companion",
   "ink-cost": 1,
+  "inkable": true,
   "color": "Amethyst",
   "diamond-amount": 1,
   "type": "Character",

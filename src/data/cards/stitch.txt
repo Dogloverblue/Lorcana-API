@@ -2,6 +2,7 @@
     "name": "Stitch",
     "subtitle": "Rock Start",
     "ink-cost": 6,
+    "inkable": true,
     "color": "Amber",
     "diamond-amount": 3,
     "type": "character",

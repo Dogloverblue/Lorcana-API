@@ -2,6 +2,7 @@
   "name": "Flounder",
   "subtitle": "Voice Of Reason",
   "ink-cost": 1,
+  "inkable": true,
   "color": "Sapphire",
   "diamond-amount": 1,
   "type": "Character",

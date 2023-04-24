@@ -2,6 +2,7 @@
   "name": "Tigger",
   "subtitle": "Wonderful Thing",
   "ink-cost": 6,
+  "inkable": true,
   "color": "Ruby",
   "diamond-amount": 0,
   "type": "Character",

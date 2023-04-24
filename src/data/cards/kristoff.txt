@@ -2,6 +2,7 @@
     "name": "Kristoff",
     "subtitle": "Offical Ice Master",
     "ink-cost": 3,
+    "inkable": true,
     "color": "Steel",
     "diamond-amount": 0,
     "type": "Character",

@@ -1,6 +1,7 @@
 {
     "name": "Frying Pan",
     "ink-cost": 2,
+    "inkable": true,
     "color": "Steel",
     "type": "Item",
     "effect": null,

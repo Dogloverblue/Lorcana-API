@@ -1,6 +1,7 @@
 {
   "name": "Coconut Basket",
   "ink-cost": 2,
+  "inkable": true,
   "color": "Sapphire",
   "type": "Item",
   "effect": null,

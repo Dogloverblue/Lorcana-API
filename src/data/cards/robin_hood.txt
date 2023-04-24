@@ -2,6 +2,7 @@
     "name": "Robin Hood",
     "subtitle": "Unrivaled Archer",
     "ink-cost": 6,
+    "inkable": true,
     "color": "Sapphire",
     "diamond-amount": 2,
     "type": "character",

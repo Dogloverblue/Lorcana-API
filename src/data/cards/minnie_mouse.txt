@@ -1,17 +1,21 @@
-name: Minnie Mouse
-subtitle: Beloved Princess
-ink-cost: 2
-color: Amber
-diamond-amount: 1
-type: Character
-subtypes:
-- Dreamborn
-- Princess
-power: 2
-toughness: 3
-abilities:
-traits:
-lore: "Wherever the princess goes, her musketeers are... well, they're around somewhere, probably."
-artist: Kendall Hale
-set: The First Chapter
-set-code: TFC
+{
+  "name": "Minnie Mouse",
+  "subtitle": "Beloved Princess",
+  "ink-cost": 2,
+  "inkable": true,
+  "color": "Amber",
+  "diamond-amount": 1,
+  "type": "Character",
+  "subtypes": [
+    "Dreamborn",
+    "Princess"
+  ],
+  "power": 2,
+  "toughness": 3,
+  "abilities": null,
+  "traits": null,
+  "lore": "Wherever the princess goes, her musketeers are... well, they're around somewhere, probably.",
+  "artist": "Kendall Hale",
+  "set": "The First Chapter",
+  "set-code": "TFC"
+}

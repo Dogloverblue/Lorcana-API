@@ -2,6 +2,7 @@
     "name": "Elsa",
     "subtitle": "Snow Queen",
     "ink-cost": 3,
+    "inkable": true,
     "color": "Amethyst",
     "diamond-amount": 1,
     "type": "character",

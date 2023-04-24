@@ -2,6 +2,7 @@
   "name": "Maurice",
   "subtitle": "World-Famour Inventor",
   "ink-cost": 6,
+  "inkable": true,
   "color": "Sapphire",
   "diamond-amount": 0,
   "type": "Character",

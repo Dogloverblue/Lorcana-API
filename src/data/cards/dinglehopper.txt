@@ -1,6 +1,7 @@
 {
   "name": "Dinglehopper",
   "ink-cost": 1,
+  "inkable": true,
   "color": "Amber",
   "type": "Item",
   "effect": null,

@@ -2,6 +2,7 @@
   "name": "Hercules",
   "subtitle": "True Hero",
   "ink-cost": 3,
+  "inkable": true,
   "color": "Steel",
   "diamond-amount": 1,
   "type": "Character",

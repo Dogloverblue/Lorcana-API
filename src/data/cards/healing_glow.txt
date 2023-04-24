@@ -1,6 +1,7 @@
 {
   "name": "Healing Glow",
   "ink-cost": 1,
+  "inkable": true,
   "color": "Amber",
   "type": "Action",
   "effect": "Remove up to 2 damage from chosen character",

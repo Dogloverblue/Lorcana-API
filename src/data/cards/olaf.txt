@@ -2,6 +2,7 @@
   "name": "Olaf",
   "subtitle": "Friendly Snowman",
   "ink-cost": 1,
+  "inkable": true,
   "color": "Amethyst",
   "diamond-amount": 0,
   "type": "Character",

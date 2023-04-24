@@ -2,6 +2,7 @@
   "name": "Aladdin",
   "subtitle": "Heroic Outlaw",
   "ink-cost": 7,
+  "inkable": true,
   "color": "Ruby",
   "diamond-amount": 2,
   "type": "Character",

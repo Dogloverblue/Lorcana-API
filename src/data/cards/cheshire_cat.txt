@@ -2,6 +2,7 @@
   "name": "Cheshire Car",
   "subtitle": "Not All There",
   "ink-cost": 3,
+  "inkable": true,
   "color": "Emerald",
   "diamond-amount": 2,
   "type": "Character",

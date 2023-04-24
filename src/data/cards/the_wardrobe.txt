@@ -2,6 +2,7 @@
   "name": "The Wardrobe",
   "subtitle": "Belle's Confident",
   "ink-cost": 3,
+  "inkable": true,
   "color": "Amethyst",
   "diamond-amount": 1,
   "type": "Character",

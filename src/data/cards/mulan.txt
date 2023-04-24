@@ -2,6 +2,7 @@
     "name": "Mulan",
     "subtitle": "Imperial Soilder",
     "ink-cost": 5,
+    "inkable": true,
     "color": "Ruby",
     "diamond-amount": 1,
     "type": "Character",

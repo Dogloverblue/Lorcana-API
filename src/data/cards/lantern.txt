@@ -1,6 +1,7 @@
 {
   "name": "Lantern",
   "ink-cost": 2,
+  "inkable": false,
   "color": "Amber",
   "type": "Item",
   "effect": null,

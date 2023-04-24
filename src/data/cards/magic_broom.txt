@@ -2,6 +2,7 @@
   "name": "Magic Broom",
   "subtitle": "Bucket Brigade",
   "ink-cost": 2,
+  "inkable": true,
   "color": "Amethyst",
   "diamond-amount": 1,
   "type": "Character",
