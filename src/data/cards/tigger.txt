@@ -2,7 +2,6 @@
   "name": "Tigger",
   "subtitle": "Wonderful Thing",
   "ink-cost": 6,
-  "inkable": true,
   "color": "Ruby",
   "diamond-amount": 0,
   "type": "Character",
@@ -19,5 +18,14 @@
   "lore": "\\\"I'm the bounciest bouncer that ever bounced!\\\"",
   "artist": "unknown",
   "set": "The First Chapter",
-  "set-code": "TFC"
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/tigger/large.png",
+      "medium": "lorcana-api.com/images/tigger/medium.png",
+      "small": "lorcana-api.com/images/tigger/small.png",
+      "art-crop": "lorcana-api.com/images/tigger/art-crop.png",
+      "no-art": "lorcana-api.com/images/tigger/no-art.png"
+    }
+  ]
 }

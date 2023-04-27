@@ -1,12 +1,20 @@
 {
   "name": "Control Your Temper!",
   "ink-cost": 1,
-  "inkable": true,
   "color": "Amber",
   "type": "Action",
-  "effect": "Chosen character gets -2※ this turn.",
+  "effect": "Chosen character gets -2? this turn.",
   "lore": null,
   "artist": "Amber Kommovonga",
   "set": "The First Chapter",
-  "set-code": "TFC"
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/control your temper!/large.png",
+      "medium": "lorcana-api.com/images/control your temper!/medium.png",
+      "small": "lorcana-api.com/images/control your temper!/small.png",
+      "art-crop": "lorcana-api.com/images/control your temper!/art-crop.png",
+      "no-art": "lorcana-api.com/images/control your temper!/no-art.png"
+    }
+  ]
 }

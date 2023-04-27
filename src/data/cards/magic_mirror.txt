@@ -1,12 +1,20 @@
 {
   "name": "Magic Mirror",
   "ink-cost": 2,
-  "inkable": false,
   "color": "Amethyst",
   "type": "Item",
-  "effect": "{T}, 4🔹",
+  "effect": "{T}, 4?",
   "lore": "\\\"What wouldst thou know, my Queen?\\\"",
   "artist": "unknown",
   "set": "The First Chapter",
-  "set-code": "TFC"
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/magic mirror/large.png",
+      "medium": "lorcana-api.com/images/magic mirror/medium.png",
+      "small": "lorcana-api.com/images/magic mirror/small.png",
+      "art-crop": "lorcana-api.com/images/magic mirror/art-crop.png",
+      "no-art": "lorcana-api.com/images/magic mirror/no-art.png"
+    }
+  ]
 }

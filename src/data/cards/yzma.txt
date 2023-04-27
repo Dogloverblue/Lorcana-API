@@ -2,7 +2,6 @@
   "name": "Yzma",
   "subtitle": "Alchemist",
   "ink-cost": 2,
-  "inkable": true,
   "color": "Amethyst",
   "diamond-amount": 1,
   "type": "Character",
@@ -22,5 +21,14 @@
   "lore": "\\\"When I want your opinion, I will give it to you\\\"",
   "artist": "Hadjie Joos",
   "set": "The First Chapter",
-  "set-code": "TFC"
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/yzma/large.png",
+      "medium": "lorcana-api.com/images/yzma/medium.png",
+      "small": "lorcana-api.com/images/yzma/small.png",
+      "art-crop": "lorcana-api.com/images/yzma/art-crop.png",
+      "no-art": "lorcana-api.com/images/yzma/no-art.png"
+    }
+  ]
 }

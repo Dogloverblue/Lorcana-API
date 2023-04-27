@@ -2,7 +2,6 @@
     "name": "Jumba Jookiba",
     "subtitle": "Renegade Scientist",
     "ink-cost": 5,
-    "inkable": true,
     "color": "Emerald",
     "diamond-amount": 2,
     "type": "Character",
@@ -18,5 +17,14 @@
     "lore": "\"Created something? Ha! But that would be irresponsible and unethical. I would never, ever make more than one.\"",
     "artist": "unknown",
     "set": "The First Chapter",
-    "set-code": "TFC"
+    "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/jumba jookiba/large.png",
+      "medium": "lorcana-api.com/images/jumba jookiba/medium.png",
+      "small": "lorcana-api.com/images/jumba jookiba/small.png",
+      "art-crop": "lorcana-api.com/images/jumba jookiba/art-crop.png",
+      "no-art": "lorcana-api.com/images/jumba jookiba/no-art.png"
+    }
+  ]
 }

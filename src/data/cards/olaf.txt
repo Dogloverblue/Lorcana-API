@@ -2,7 +2,6 @@
   "name": "Olaf",
   "subtitle": "Friendly Snowman",
   "ink-cost": 1,
-  "inkable": true,
   "color": "Amethyst",
   "diamond-amount": 0,
   "type": "Character",
@@ -17,5 +16,14 @@
   "lore": "\"I'm Olaf and I like warm hugs!\"",
   "artist": "unknown",
   "set": "The First Chapter",
-  "set-code": "TFC"
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/olaf/large.png",
+      "medium": "lorcana-api.com/images/olaf/medium.png",
+      "small": "lorcana-api.com/images/olaf/small.png",
+      "art-crop": "lorcana-api.com/images/olaf/art-crop.png",
+      "no-art": "lorcana-api.com/images/olaf/no-art.png"
+    }
+  ]
 }

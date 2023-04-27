@@ -1,26 +1,30 @@
 {
-    "name": "MALEFICENT",
-    "subtitle": "Monstrous Dragon",
-    "ink": 9,
-    "inkable": true,
-    "color": "Ruby",
-    "diamond-cost": 2,
-    "type": "character",
-    "subtypes": [
-        "Storyborn",
-        "Villain",
-        "Dragon"
-    ],
-    "power": 7,
-    "toughness": 5,
-    "abilities": [
-        {
-            "Dragon Fire": "When you play this character, you may banish chosen opposing character."
-        }
-    ],
-    "traits": null,
-    "lore": "The ninth Rule of Villainy: When all else fails, turn into a dragon.",
-    "artist": "Luis Huerta",
-    "set": "The First Chapter",
-    "set-code": "TFC"
+  "name": "Maleficent",
+  "subtitle": "Sinister Visitor",
+  "ink-cost": 4,
+  "color": "Sapphire",
+  "diamond-amount": 2,
+  "type": "Character",
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "power": 3,
+  "toughness": 4,
+  "abilities": null,
+  "traits": null,
+  "lore": "\"The princess shall indeed grow in grace and beauty, beloved by all who know her. But before the sun sets on her sixteenth birthday, she shall prick her finger on the spindle of a spinning wheel...\"",
+  "artist": "Nicholas Kole",
+  "set": "The First Chapter",
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/maleficent/large.png",
+      "medium": "lorcana-api.com/images/maleficent/medium.png",
+      "small": "lorcana-api.com/images/maleficent/small.png",
+      "art-crop": "lorcana-api.com/images/maleficent/art-crop.png",
+      "no-art": "lorcana-api.com/images/maleficent/no-art.png"
+    }
+  ]
 }

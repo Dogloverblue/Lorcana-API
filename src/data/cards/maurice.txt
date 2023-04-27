@@ -2,7 +2,6 @@
   "name": "Maurice",
   "subtitle": "World-Famour Inventor",
   "ink-cost": 6,
-  "inkable": true,
   "color": "Sapphire",
   "diamond-amount": 0,
   "type": "Character",
@@ -25,5 +24,14 @@
   "lore": null,
   "artist": "unknown",
   "set": "The First Chapter",
-  "set-code": "TFC"
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/maurice/large.png",
+      "medium": "lorcana-api.com/images/maurice/medium.png",
+      "small": "lorcana-api.com/images/maurice/small.png",
+      "art-crop": "lorcana-api.com/images/maurice/art-crop.png",
+      "no-art": "lorcana-api.com/images/maurice/no-art.png"
+    }
+  ]
 }

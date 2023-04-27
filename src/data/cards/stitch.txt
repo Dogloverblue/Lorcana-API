@@ -2,7 +2,6 @@
     "name": "Stitch",
     "subtitle": "Rock Start",
     "ink-cost": 6,
-    "inkable": true,
     "color": "Amber",
     "diamond-amount": 3,
     "type": "character",
@@ -24,5 +23,14 @@
     "lore": "The best part about a beachside concert is that there's always room for one more.",
     "artist": "Simangaliso Sibaya",
     "set": "The First Chapter",
-    "set-code": "TFC"
+    "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/stitch/large.png",
+      "medium": "lorcana-api.com/images/stitch/medium.png",
+      "small": "lorcana-api.com/images/stitch/small.png",
+      "art-crop": "lorcana-api.com/images/stitch/art-crop.png",
+      "no-art": "lorcana-api.com/images/stitch/no-art.png"
+    }
+  ]
 }

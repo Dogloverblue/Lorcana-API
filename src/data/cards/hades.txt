@@ -2,7 +2,6 @@
     "name": "Hades",
     "subtitle": "King of Olympus",
     "ink-cost": 8,
-    "inkable": false,
     "color": "Amber",
     "diamond-amount": 1,
     "type": "Character",
@@ -16,11 +15,20 @@
     "toughness": 7,
     "abilities": null,
     "traits": [
-        "Shift 6 (You many pay 6⬡ to play this on top of one of your characters named Hades.)",
-        "Sinister Plot This character get +1🔷 for every other villain you have in play."
+        "Shift 6 (You many pay 6? to play this on top of one of your characters named Hades.)",
+        "Sinister Plot This character get +1? for every other villain you have in play."
     ],
     "lore": null,
     "artist": "unknown",
     "set": "The First Chapter",
-    "set-code": "TFC"
+    "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/hades/large.png",
+      "medium": "lorcana-api.com/images/hades/medium.png",
+      "small": "lorcana-api.com/images/hades/small.png",
+      "art-crop": "lorcana-api.com/images/hades/art-crop.png",
+      "no-art": "lorcana-api.com/images/hades/no-art.png"
+    }
+  ]
 }

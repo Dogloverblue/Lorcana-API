@@ -1,12 +1,20 @@
 {
   "name": "One Jump Ahead",
   "ink-cost": 2,
-  "inkable": false,
   "color": "Sapphire",
   "type": "Action-Song",
   "effect": "Put the top card of your deck into your inkwell facedown and exerted",
-  "lore": "Gotta eat to live, gotta steal to eatâ€” Tell you all about it when I got the time",
+  "lore": "Gotta eat to live, gotta steal to eat— Tell you all about it when I got the time",
   "artist": "Bill Robinson",
   "set": "The First Chapter",
-  "set-code": "TFC"
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/one jump ahead/large.png",
+      "medium": "lorcana-api.com/images/one jump ahead/medium.png",
+      "small": "lorcana-api.com/images/one jump ahead/small.png",
+      "art-crop": "lorcana-api.com/images/one jump ahead/art-crop.png",
+      "no-art": "lorcana-api.com/images/one jump ahead/no-art.png"
+    }
+  ]
 }

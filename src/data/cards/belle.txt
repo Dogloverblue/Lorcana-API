@@ -2,7 +2,6 @@
   "name": "Belle",
   "subtitle": "Inventive Engineer",
   "ink-cost": 3,
-  "inkable": true,
   "color": "Sapphire",
   "diamond-amount": 2,
   "type": "Character",
@@ -16,12 +15,21 @@
   "toughness": 3,
   "abilities": [
     {
-      "Tinker": "Whenever this character quests, you pay 1⬡ less for the next item you play this turn."
+      "Tinker": "Whenever this character quests, you pay 1? less for the next item you play this turn."
     }
   ],
   "traits": null,
   "lore": "A little ingenuity and a lot of heart will take you far in this world.",
   "artist": "Gabriel Romero / Pia Smith",
   "set": "The First Chapter",
-  "set-code": "TFC"
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/belle/large.png",
+      "medium": "lorcana-api.com/images/belle/medium.png",
+      "small": "lorcana-api.com/images/belle/small.png",
+      "art-crop": "lorcana-api.com/images/belle/art-crop.png",
+      "no-art": "lorcana-api.com/images/belle/no-art.png"
+    }
+  ]
 }

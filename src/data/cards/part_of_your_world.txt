@@ -1,12 +1,20 @@
 {
   "name": "Part Of Your World",
   "ink-cost": 3,
-  "inkable": false,
   "color": "Amber",
   "type": "Action-Song",
   "effect": "Return a character card from your discard to your hand",
   "lore": "What would I give if I could live out of these waters?",
   "artist": "Samanta Erdini",
   "set": "The First Chapter",
-  "set-code": "TFC"
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/part of your world/large.png",
+      "medium": "lorcana-api.com/images/part of your world/medium.png",
+      "small": "lorcana-api.com/images/part of your world/small.png",
+      "art-crop": "lorcana-api.com/images/part of your world/art-crop.png",
+      "no-art": "lorcana-api.com/images/part of your world/no-art.png"
+    }
+  ]
 }

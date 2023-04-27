@@ -1,0 +1,25 @@
+{
+  "name": "White Rabbit's Pocket Watch",
+  "ink-cost": 3,
+  "color": "Amethyst",
+  "type": "Item",
+  "effect": null,
+  "abilities": [
+    {
+      "I'm late!": "{t}, 1?Chosen character gains Rush this turn. (They can challenge the turn they're played)"
+    }
+  ],
+  "lore": "\\\"No wonder you're late. Why, this watch is exactly two days slow\\\"",
+  "artist": "unknown",
+  "set": "The First Chapter",
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/white rabbit's pocket watch/large.png",
+      "medium": "lorcana-api.com/images/white rabbit's pocket watch/medium.png",
+      "small": "lorcana-api.com/images/white rabbit's pocket watch/small.png",
+      "art-crop": "lorcana-api.com/images/white rabbit's pocket watch/art-crop.png",
+      "no-art": "lorcana-api.com/images/white rabbit's pocket watch/no-art.png"
+    }
+  ]
+}

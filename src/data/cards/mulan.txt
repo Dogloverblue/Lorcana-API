@@ -2,7 +2,6 @@
     "name": "Mulan",
     "subtitle": "Imperial Soilder",
     "ink-cost": 5,
-    "inkable": true,
     "color": "Ruby",
     "diamond-amount": 1,
     "type": "Character",
@@ -15,12 +14,21 @@
     "toughness": 5,
     "abilities": [
         {
-            "Lead By Example": "During your turn, whenever this character banishes another character in a challenge, your other characters get +1🔷 this turn."
+            "Lead By Example": "During your turn, whenever this character banishes another character in a challenge, your other characters get +1? this turn."
         }
     ],
     "traits": null,
     "lore": null,
     "artist": "unknown",
     "set": "The First Chapter",
-    "set-code": "TFC"
+    "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/mulan/large.png",
+      "medium": "lorcana-api.com/images/mulan/medium.png",
+      "small": "lorcana-api.com/images/mulan/small.png",
+      "art-crop": "lorcana-api.com/images/mulan/art-crop.png",
+      "no-art": "lorcana-api.com/images/mulan/no-art.png"
+    }
+  ]
 }

@@ -2,7 +2,6 @@
   "name": "Aladdin",
   "subtitle": "Heroic Outlaw",
   "ink-cost": 7,
-  "inkable": true,
   "color": "Ruby",
   "diamond-amount": 2,
   "type": "Character",
@@ -23,5 +22,14 @@
   "lore": null,
   "artist": "Nicholas Kole",
   "set": "The First Chapter",
-  "set-code": "TFC"
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/aladdin/large.png",
+      "medium": "lorcana-api.com/images/aladdin/medium.png",
+      "small": "lorcana-api.com/images/aladdin/small.png",
+      "art-crop": "lorcana-api.com/images/aladdin/art-crop.png",
+      "no-art": "lorcana-api.com/images/aladdin/no-art.png"
+    }
+  ]
 }

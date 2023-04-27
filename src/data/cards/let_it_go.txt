@@ -1,12 +1,20 @@
 {
   "name": "Let It Go",
   "ink-cost": 5,
-  "inkable": true,
   "color": "Sapphire",
   "type": "Action-Song",
   "effect": "Put chosen character into thier player's inkwell facedown and excerted",
   "lore": "It's time to see what I can do \nTo test the limits and break through",
   "artist": "Milica Celikovic",
   "set": "The First Chapter",
-  "set-code": "TFC"
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/let it go/large.png",
+      "medium": "lorcana-api.com/images/let it go/medium.png",
+      "small": "lorcana-api.com/images/let it go/small.png",
+      "art-crop": "lorcana-api.com/images/let it go/art-crop.png",
+      "no-art": "lorcana-api.com/images/let it go/no-art.png"
+    }
+  ]
 }

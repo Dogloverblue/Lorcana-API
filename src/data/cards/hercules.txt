@@ -2,7 +2,6 @@
   "name": "Hercules",
   "subtitle": "True Hero",
   "ink-cost": 3,
-  "inkable": true,
   "color": "Steel",
   "diamond-amount": 1,
   "type": "Character",
@@ -20,5 +19,14 @@
   "lore": "\\\"You gotta admit, that was pretty heroic.\\\"",
   "artist": "Marcel Berg",
   "set": "The First Chapter",
-  "set-code": "TFC"
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/hercules/large.png",
+      "medium": "lorcana-api.com/images/hercules/medium.png",
+      "small": "lorcana-api.com/images/hercules/small.png",
+      "art-crop": "lorcana-api.com/images/hercules/art-crop.png",
+      "no-art": "lorcana-api.com/images/hercules/no-art.png"
+    }
+  ]
 }

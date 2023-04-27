@@ -2,7 +2,6 @@
   "name": "Flounder",
   "subtitle": "Voice Of Reason",
   "ink-cost": 1,
-  "inkable": true,
   "color": "Sapphire",
   "diamond-amount": 1,
   "type": "Character",
@@ -17,5 +16,14 @@
   "lore": "\"Excitment... adventure... danger lurking around ever cor- AAAAAGGH!\"",
   "artist": "Brian Weiyz",
   "set": "The First Chapter",
-  "set-code": "TFC"
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/flounder/large.png",
+      "medium": "lorcana-api.com/images/flounder/medium.png",
+      "small": "lorcana-api.com/images/flounder/small.png",
+      "art-crop": "lorcana-api.com/images/flounder/art-crop.png",
+      "no-art": "lorcana-api.com/images/flounder/no-art.png"
+    }
+  ]
 }

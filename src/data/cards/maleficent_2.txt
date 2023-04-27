@@ -2,7 +2,6 @@
   "name": "Maleficent",
   "subtitle": "Sinister Visitor",
   "ink-cost": 4,
-  "inkable": true,
   "color": "Sapphire",
   "diamond-amount": 2,
   "type": "Character",

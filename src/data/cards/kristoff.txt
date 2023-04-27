@@ -2,7 +2,6 @@
     "name": "Kristoff",
     "subtitle": "Offical Ice Master",
     "ink-cost": 3,
-    "inkable": true,
     "color": "Steel",
     "diamond-amount": 0,
     "type": "Character",
@@ -14,8 +13,17 @@
     "toughness": 3,
     "abilities": null,
     "traits": null,
-    "lore": "Kristoff: \"You want to talk about a supply and demand problem? I sell ice for a living\" Anna: \"Ooh, that's a rough buisness to be in right now. I mean, that is reallyâ€”ah, mm. That's unfortunate.\"",
+    "lore": "Kristoff: \"You want to talk about a supply and demand problem? I sell ice for a living\" Anna: \"Ooh, that's a rough buisness to be in right now. I mean, that is really—ah, mm. That's unfortunate.\"",
     "artist": "Ron Baird",
     "set": "The First Chapter",
-    "set-code": "TFC"
+    "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/kristoff/large.png",
+      "medium": "lorcana-api.com/images/kristoff/medium.png",
+      "small": "lorcana-api.com/images/kristoff/small.png",
+      "art-crop": "lorcana-api.com/images/kristoff/art-crop.png",
+      "no-art": "lorcana-api.com/images/kristoff/no-art.png"
+    }
+  ]
 }

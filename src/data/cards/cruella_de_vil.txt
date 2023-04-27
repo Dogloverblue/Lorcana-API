@@ -2,7 +2,6 @@
     "name": "Cruella De Vil",
     "subtitle": "Miserable As Usual",
     "ink-cost": 2,
-    "inkable": true,
     "color": "Emerald",
     "diamond-amount": 1,
     "type": "character",
@@ -21,5 +20,14 @@
     "lore": "When she stops by, misery is company.",
     "artist": "Nicholas Kole",
     "set": "The First Chapter",
-    "set-code": "TFC"
+    "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/cruella de vil/large.png",
+      "medium": "lorcana-api.com/images/cruella de vil/medium.png",
+      "small": "lorcana-api.com/images/cruella de vil/small.png",
+      "art-crop": "lorcana-api.com/images/cruella de vil/art-crop.png",
+      "no-art": "lorcana-api.com/images/cruella de vil/no-art.png"
+    }
+  ]
 }

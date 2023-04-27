@@ -2,7 +2,6 @@
     "name": "MICKEY MOUSE",
     "subtitle": "Brave Little Tailor",
     "ink-cost": 8,
-    "inkable": true,
     "color": "Ruby",
     "diamond-amount": 4,
     "type": "character",
@@ -19,5 +18,14 @@
     "lore": "When defeat looms and victory hangs by a thread, a hero bolts to the rescue, patching things up through shear determination.",
     "artist": "Nicolas Kole",
     "set": "The First Chapter",
-    "set-code": "TFC"
+    "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/mickey mouse/large.png",
+      "medium": "lorcana-api.com/images/mickey mouse/medium.png",
+      "small": "lorcana-api.com/images/mickey mouse/small.png",
+      "art-crop": "lorcana-api.com/images/mickey mouse/art-crop.png",
+      "no-art": "lorcana-api.com/images/mickey mouse/no-art.png"
+    }
+  ]
 }

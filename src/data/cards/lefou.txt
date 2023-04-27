@@ -2,7 +2,6 @@
   "name": "Lefou",
   "subtitle": "Bumbler",
   "ink-cost": 2,
-  "inkable": true,
   "color": "Amber",
   "diamond-amount": 2,
   "type": "Character",
@@ -14,12 +13,21 @@
   "toughness": 2,
   "abilities": [
     {
-      "Loyal": "If you have a character named Gaston in play, you pay 1⬡ less to play this character."
+      "Loyal": "If you have a character named Gaston in play, you pay 1? less to play this character."
     }
   ],
   "traits": null,
   "lore": "You need a good today to be a proper bad guy",
   "artist": "Andrey Chomak",
   "set": "The First Chapter",
-  "set-code": "TFC"
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/lefou/large.png",
+      "medium": "lorcana-api.com/images/lefou/medium.png",
+      "small": "lorcana-api.com/images/lefou/small.png",
+      "art-crop": "lorcana-api.com/images/lefou/art-crop.png",
+      "no-art": "lorcana-api.com/images/lefou/no-art.png"
+    }
+  ]
 }

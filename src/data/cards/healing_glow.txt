@@ -1,12 +1,20 @@
 {
   "name": "Healing Glow",
   "ink-cost": 1,
-  "inkable": true,
   "color": "Amber",
   "type": "Action",
   "effect": "Remove up to 2 damage from chosen character",
   "lore": "\\\"Don't freak out!\\\" - Rapunzel",
   "artist": "unknown",
   "set": "The First Chapter",
-  "set-code": "TFC"
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/healing glow/large.png",
+      "medium": "lorcana-api.com/images/healing glow/medium.png",
+      "small": "lorcana-api.com/images/healing glow/small.png",
+      "art-crop": "lorcana-api.com/images/healing glow/art-crop.png",
+      "no-art": "lorcana-api.com/images/healing glow/no-art.png"
+    }
+  ]
 }

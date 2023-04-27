@@ -1,7 +1,6 @@
 {
   "name": "Dinglehopper",
   "ink-cost": 1,
-  "inkable": true,
   "color": "Amber",
   "type": "Item",
   "effect": null,
@@ -13,5 +12,14 @@
   "lore": "Enjoy the finest of human hairstyles!",
   "artist": "Eri Welli",
   "set": "The First Chapter",
-  "set-code": "TFC"
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/dinglehopper/large.png",
+      "medium": "lorcana-api.com/images/dinglehopper/medium.png",
+      "small": "lorcana-api.com/images/dinglehopper/small.png",
+      "art-crop": "lorcana-api.com/images/dinglehopper/art-crop.png",
+      "no-art": "lorcana-api.com/images/dinglehopper/no-art.png"
+    }
+  ]
 }

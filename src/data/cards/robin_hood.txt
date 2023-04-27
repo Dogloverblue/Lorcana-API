@@ -2,7 +2,6 @@
     "name": "Robin Hood",
     "subtitle": "Unrivaled Archer",
     "ink-cost": 6,
-    "inkable": true,
     "color": "Sapphire",
     "diamond-amount": 2,
     "type": "character",
@@ -24,5 +23,14 @@
     "lore": "\"We never rob. We just sort of borrow a bit from those who can afford it.\"",
     "artist": "John Loren",
     "set": "The First Chapter",
-    "set-code": "TFC"
+    "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/robin hood/large.png",
+      "medium": "lorcana-api.com/images/robin hood/medium.png",
+      "small": "lorcana-api.com/images/robin hood/small.png",
+      "art-crop": "lorcana-api.com/images/robin hood/art-crop.png",
+      "no-art": "lorcana-api.com/images/robin hood/no-art.png"
+    }
+  ]
 }

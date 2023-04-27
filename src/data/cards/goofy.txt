@@ -2,7 +2,6 @@
   "name": "Goofy",
   "subtitle": "Daredevil",
   "ink-cost": 5,
-  "inkable": true,
   "color": "Ruby",
   "diamond-amount": 0,
   "type": "Character",
@@ -17,5 +16,14 @@
   "lore": "Sometimes you gotta give it the ol' jump and hyuck.",
   "artist": "Kenneth Anderson",
   "set": "The First Chapter",
-  "set-code": "TFC"
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/goofy/large.png",
+      "medium": "lorcana-api.com/images/goofy/medium.png",
+      "small": "lorcana-api.com/images/goofy/small.png",
+      "art-crop": "lorcana-api.com/images/goofy/art-crop.png",
+      "no-art": "lorcana-api.com/images/goofy/no-art.png"
+    }
+  ]
 }

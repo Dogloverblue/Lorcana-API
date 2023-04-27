@@ -1,12 +1,20 @@
 {
   "name": "Fire The Cannons!",
   "ink-cost": 1,
-  "inkable": false,
   "color": "Steel",
   "type": "Action",
   "effect": "Deal 2 damage to chosen character",
   "lore": "Captain Hook: \"Double the powder and shorten the fuse!\" Mr. Smee: \"Shorten the powder and double the fuse!\"",
   "artist": "Matt Chapman",
   "set": "The First Chapter",
-  "set-code": "TFC"
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/fire the cannons!/large.png",
+      "medium": "lorcana-api.com/images/fire the cannons!/medium.png",
+      "small": "lorcana-api.com/images/fire the cannons!/small.png",
+      "art-crop": "lorcana-api.com/images/fire the cannons!/art-crop.png",
+      "no-art": "lorcana-api.com/images/fire the cannons!/no-art.png"
+    }
+  ]
 }

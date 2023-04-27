@@ -2,7 +2,6 @@
   "name": "Heihei",
   "subtitle": "Boat Snack",
   "ink-cost": 1,
-  "inkable": true,
   "color": "Amber",
   "diamond-amount": 1,
   "type": "Character",
@@ -19,5 +18,14 @@
   "lore": "\\\"Sometimes, our strengths lie beneath the surface. Far beneath, in some cases...\\\" -Moana",
   "artist": "Jenna Gray",
   "set": "The First Chapter",
-  "set-code": "TFC"
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/heihei/large.png",
+      "medium": "lorcana-api.com/images/heihei/medium.png",
+      "small": "lorcana-api.com/images/heihei/small.png",
+      "art-crop": "lorcana-api.com/images/heihei/art-crop.png",
+      "no-art": "lorcana-api.com/images/heihei/no-art.png"
+    }
+  ]
 }

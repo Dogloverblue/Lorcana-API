@@ -2,7 +2,6 @@
   "name": "The Wardrobe",
   "subtitle": "Belle's Confident",
   "ink-cost": 3,
-  "inkable": true,
   "color": "Amethyst",
   "diamond-amount": 1,
   "type": "Character",
@@ -17,5 +16,14 @@
   "lore": "When you simply must have the hautest counture",
   "artist": "unknown",
   "set": "The First Chapter",
-  "set-code": "TFC"
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/the wardrobe/large.png",
+      "medium": "lorcana-api.com/images/the wardrobe/medium.png",
+      "small": "lorcana-api.com/images/the wardrobe/small.png",
+      "art-crop": "lorcana-api.com/images/the wardrobe/art-crop.png",
+      "no-art": "lorcana-api.com/images/the wardrobe/no-art.png"
+    }
+  ]
 }

@@ -2,7 +2,6 @@
     "name": "Elsa",
     "subtitle": "Snow Queen",
     "ink-cost": 3,
-    "inkable": true,
     "color": "Amethyst",
     "diamond-amount": 1,
     "type": "character",
@@ -23,5 +22,14 @@
     "lore": "Recreated by magical ink, Elsa found herself in an unfamiliar new world. Fortunately, ice works the same way everywhere.",
     "artist": "Nicholas Kole",
     "set": "The First Chapter",
-    "set-code": "TFC"
+    "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/elsa/large.png",
+      "medium": "lorcana-api.com/images/elsa/medium.png",
+      "small": "lorcana-api.com/images/elsa/small.png",
+      "art-crop": "lorcana-api.com/images/elsa/art-crop.png",
+      "no-art": "lorcana-api.com/images/elsa/no-art.png"
+    }
+  ]
 }

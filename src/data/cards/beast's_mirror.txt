@@ -1,7 +1,6 @@
 {
   "name": "Beast's Mirror",
   "ink-cost": 2,
-  "inkable": true,
   "color": "Steel",
   "type": "Item",
   "effect": null,
@@ -13,5 +12,14 @@
   "lore": "Ashamed of his monstrous form, the Beast concealed himself inside his castle, with a magic mirror as his only window to the outside world.",
   "artist": "Samanta Erdini",
   "set": "The First Chapter",
-  "set-code": "TFC"
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/beast's mirror/large.png",
+      "medium": "lorcana-api.com/images/beast's mirror/medium.png",
+      "small": "lorcana-api.com/images/beast's mirror/small.png",
+      "art-crop": "lorcana-api.com/images/beast's mirror/art-crop.png",
+      "no-art": "lorcana-api.com/images/beast's mirror/no-art.png"
+    }
+  ]
 }

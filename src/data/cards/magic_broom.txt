@@ -2,7 +2,6 @@
   "name": "Magic Broom",
   "subtitle": "Bucket Brigade",
   "ink-cost": 2,
-  "inkable": true,
   "color": "Amethyst",
   "diamond-amount": 1,
   "type": "Character",
@@ -21,5 +20,14 @@
   "lore": "In the immense story-forge known as the Great Illuminary, there is always work to be done.",
   "artist": "Dav Augereau / Guykua Ruwa",
   "set": "The First Chapter",
-  "set-code": "TFC"
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/magic broom/large.png",
+      "medium": "lorcana-api.com/images/magic broom/medium.png",
+      "small": "lorcana-api.com/images/magic broom/small.png",
+      "art-crop": "lorcana-api.com/images/magic broom/art-crop.png",
+      "no-art": "lorcana-api.com/images/magic broom/no-art.png"
+    }
+  ]
 }

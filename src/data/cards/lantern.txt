@@ -1,17 +1,25 @@
 {
   "name": "Lantern",
   "ink-cost": 2,
-  "inkable": false,
   "color": "Amber",
   "type": "Item",
   "effect": null,
   "abilities": [
     {
-      "Birthday Lights": "{t}- You play 1⬡ less for the next character you play this turn"
+      "Birthday Lights": "{t}- You play 1? less for the next character you play this turn"
     }
   ],
   "lore": "Lanterns fill the sky on one special night, beacons of hope and love",
   "artist": "Eri Welli",
   "set": "The First Chapter",
-  "set-code": "TFC"
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/lantern/large.png",
+      "medium": "lorcana-api.com/images/lantern/medium.png",
+      "small": "lorcana-api.com/images/lantern/small.png",
+      "art-crop": "lorcana-api.com/images/lantern/art-crop.png",
+      "no-art": "lorcana-api.com/images/lantern/no-art.png"
+    }
+  ]
 }
