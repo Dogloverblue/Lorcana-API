@@ -12,5 +12,14 @@
   "lore": "\\\"No wonder you're late. Why, this watch is exactly two days slow\\\"",
   "artist": "unknown",
   "set": "The First Chapter",
-  "set-code": "TFC"
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "lorcana-api.com/images/white_rabbit's_pocket_watch/large.png",
+      "medium": "lorcana-api.com/images/white_rabbit's_pocket_watch/medium.png",
+      "small": "lorcana-api.com/images/white_rabbit's_pocket_watch/small.png",
+      "art-crop": "lorcana-api.com/images/white_rabbit's_pocket_watch/art-crop.png",
+      "no-art": "lorcana-api.com/images/white_rabbit's_pocket_watch/no-art.png"
+    }
+  ]
 }

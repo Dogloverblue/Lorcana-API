@@ -23,11 +23,11 @@
     "set-code": "TFC",
   "image-urls": [
     {
-      "large": "lorcana-api.com/images/cruella de vil/large.png",
-      "medium": "lorcana-api.com/images/cruella de vil/medium.png",
-      "small": "lorcana-api.com/images/cruella de vil/small.png",
-      "art-crop": "lorcana-api.com/images/cruella de vil/art-crop.png",
-      "no-art": "lorcana-api.com/images/cruella de vil/no-art.png"
+      "large": "lorcana-api.com/images/cruella_de_vil/large.png",
+      "medium": "lorcana-api.com/images/cruella_de_vil/medium.png",
+      "small": "lorcana-api.com/images/cruella_de_vil/small.png",
+      "art-crop": "lorcana-api.com/images/cruella_de_vil/art-crop.png",
+      "no-art": "lorcana-api.com/images/cruella_de_vil/no-art.png"
     }
   ]
 }

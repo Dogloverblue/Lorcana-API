@@ -15,11 +15,11 @@
   "set-code": "TFC",
   "image-urls": [
     {
-      "large": "lorcana-api.com/images/coconut basket/large.png",
-      "medium": "lorcana-api.com/images/coconut basket/medium.png",
-      "small": "lorcana-api.com/images/coconut basket/small.png",
-      "art-crop": "lorcana-api.com/images/coconut basket/art-crop.png",
-      "no-art": "lorcana-api.com/images/coconut basket/no-art.png"
+      "large": "lorcana-api.com/images/coconut_basket/large.png",
+      "medium": "lorcana-api.com/images/coconut_basket/medium.png",
+      "small": "lorcana-api.com/images/coconut_basket/small.png",
+      "art-crop": "lorcana-api.com/images/coconut_basket/art-crop.png",
+      "no-art": "lorcana-api.com/images/coconut_basket/no-art.png"
     }
   ]
 }

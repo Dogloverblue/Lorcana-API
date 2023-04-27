@@ -10,11 +10,11 @@
     "set-code": "TFC",
   "image-urls": [
     {
-      "large": "lorcana-api.com/images/dragon fire/large.png",
-      "medium": "lorcana-api.com/images/dragon fire/medium.png",
-      "small": "lorcana-api.com/images/dragon fire/small.png",
-      "art-crop": "lorcana-api.com/images/dragon fire/art-crop.png",
-      "no-art": "lorcana-api.com/images/dragon fire/no-art.png"
+      "large": "lorcana-api.com/images/dragon_fire/large.png",
+      "medium": "lorcana-api.com/images/dragon_fire/medium.png",
+      "small": "lorcana-api.com/images/dragon_fire/small.png",
+      "art-crop": "lorcana-api.com/images/dragon_fire/art-crop.png",
+      "no-art": "lorcana-api.com/images/dragon_fire/no-art.png"
     }
   ]
 }

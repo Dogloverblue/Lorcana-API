@@ -19,11 +19,11 @@
   "set-code": "TFC",
   "image-urls": [
     {
-      "large": "lorcana-api.com/images/the wardrobe/large.png",
-      "medium": "lorcana-api.com/images/the wardrobe/medium.png",
-      "small": "lorcana-api.com/images/the wardrobe/small.png",
-      "art-crop": "lorcana-api.com/images/the wardrobe/art-crop.png",
-      "no-art": "lorcana-api.com/images/the wardrobe/no-art.png"
+      "large": "lorcana-api.com/images/the_wardrobe/large.png",
+      "medium": "lorcana-api.com/images/the_wardrobe/medium.png",
+      "small": "lorcana-api.com/images/the_wardrobe/small.png",
+      "art-crop": "lorcana-api.com/images/the_wardrobe/art-crop.png",
+      "no-art": "lorcana-api.com/images/the_wardrobe/no-art.png"
     }
   ]
 }

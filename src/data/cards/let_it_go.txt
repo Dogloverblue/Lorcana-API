@@ -10,11 +10,11 @@
   "set-code": "TFC",
   "image-urls": [
     {
-      "large": "lorcana-api.com/images/let it go/large.png",
-      "medium": "lorcana-api.com/images/let it go/medium.png",
-      "small": "lorcana-api.com/images/let it go/small.png",
-      "art-crop": "lorcana-api.com/images/let it go/art-crop.png",
-      "no-art": "lorcana-api.com/images/let it go/no-art.png"
+      "large": "lorcana-api.com/images/let_it_go/large.png",
+      "medium": "lorcana-api.com/images/let_it_go/medium.png",
+      "small": "lorcana-api.com/images/let_it_go/small.png",
+      "art-crop": "lorcana-api.com/images/let_it_go/art-crop.png",
+      "no-art": "lorcana-api.com/images/let_it_go/no-art.png"
     }
   ]
 }

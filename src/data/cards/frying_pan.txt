@@ -15,11 +15,11 @@
     "set-code": "TFC",
   "image-urls": [
     {
-      "large": "lorcana-api.com/images/frying pan/large.png",
-      "medium": "lorcana-api.com/images/frying pan/medium.png",
-      "small": "lorcana-api.com/images/frying pan/small.png",
-      "art-crop": "lorcana-api.com/images/frying pan/art-crop.png",
-      "no-art": "lorcana-api.com/images/frying pan/no-art.png"
+      "large": "lorcana-api.com/images/frying_pan/large.png",
+      "medium": "lorcana-api.com/images/frying_pan/medium.png",
+      "small": "lorcana-api.com/images/frying_pan/small.png",
+      "art-crop": "lorcana-api.com/images/frying_pan/art-crop.png",
+      "no-art": "lorcana-api.com/images/frying_pan/no-art.png"
     }
   ]
 }

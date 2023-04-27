@@ -10,11 +10,11 @@
   "set-code": "TFC",
   "image-urls": [
     {
-      "large": "lorcana-api.com/images/healing glow/large.png",
-      "medium": "lorcana-api.com/images/healing glow/medium.png",
-      "small": "lorcana-api.com/images/healing glow/small.png",
-      "art-crop": "lorcana-api.com/images/healing glow/art-crop.png",
-      "no-art": "lorcana-api.com/images/healing glow/no-art.png"
+      "large": "lorcana-api.com/images/healing_glow/large.png",
+      "medium": "lorcana-api.com/images/healing_glow/medium.png",
+      "small": "lorcana-api.com/images/healing_glow/small.png",
+      "art-crop": "lorcana-api.com/images/healing_glow/art-crop.png",
+      "no-art": "lorcana-api.com/images/healing_glow/no-art.png"
     }
   ]
 }

@@ -20,11 +20,11 @@
     "set-code": "TFC",
   "image-urls": [
     {
-      "large": "lorcana-api.com/images/jumba jookiba/large.png",
-      "medium": "lorcana-api.com/images/jumba jookiba/medium.png",
-      "small": "lorcana-api.com/images/jumba jookiba/small.png",
-      "art-crop": "lorcana-api.com/images/jumba jookiba/art-crop.png",
-      "no-art": "lorcana-api.com/images/jumba jookiba/no-art.png"
+      "large": "lorcana-api.com/images/jumba_jookiba/large.png",
+      "medium": "lorcana-api.com/images/jumba_jookiba/medium.png",
+      "small": "lorcana-api.com/images/jumba_jookiba/small.png",
+      "art-crop": "lorcana-api.com/images/jumba_jookiba/art-crop.png",
+      "no-art": "lorcana-api.com/images/jumba_jookiba/no-art.png"
     }
   ]
 }

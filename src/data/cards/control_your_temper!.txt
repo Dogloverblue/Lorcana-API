@@ -10,11 +10,11 @@
   "set-code": "TFC",
   "image-urls": [
     {
-      "large": "lorcana-api.com/images/control your temper!/large.png",
-      "medium": "lorcana-api.com/images/control your temper!/medium.png",
-      "small": "lorcana-api.com/images/control your temper!/small.png",
-      "art-crop": "lorcana-api.com/images/control your temper!/art-crop.png",
-      "no-art": "lorcana-api.com/images/control your temper!/no-art.png"
+      "large": "lorcana-api.com/images/control_your_temper!/large.png",
+      "medium": "lorcana-api.com/images/control_your_temper!/medium.png",
+      "small": "lorcana-api.com/images/control_your_temper!/small.png",
+      "art-crop": "lorcana-api.com/images/control_your_temper!/art-crop.png",
+      "no-art": "lorcana-api.com/images/control_your_temper!/no-art.png"
     }
   ]
 }

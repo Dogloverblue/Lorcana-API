@@ -10,11 +10,11 @@
   "set-code": "TFC",
   "image-urls": [
     {
-      "large": "lorcana-api.com/images/fire the cannons!/large.png",
-      "medium": "lorcana-api.com/images/fire the cannons!/medium.png",
-      "small": "lorcana-api.com/images/fire the cannons!/small.png",
-      "art-crop": "lorcana-api.com/images/fire the cannons!/art-crop.png",
-      "no-art": "lorcana-api.com/images/fire the cannons!/no-art.png"
+      "large": "lorcana-api.com/images/fire_the_cannons!/large.png",
+      "medium": "lorcana-api.com/images/fire_the_cannons!/medium.png",
+      "small": "lorcana-api.com/images/fire_the_cannons!/small.png",
+      "art-crop": "lorcana-api.com/images/fire_the_cannons!/art-crop.png",
+      "no-art": "lorcana-api.com/images/fire_the_cannons!/no-art.png"
     }
   ]
 }

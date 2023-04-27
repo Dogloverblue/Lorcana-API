@@ -21,11 +21,11 @@
     "set-code": "TFC",
   "image-urls": [
     {
-      "large": "lorcana-api.com/images/captain hook/large.png",
-      "medium": "lorcana-api.com/images/captain hook/medium.png",
-      "small": "lorcana-api.com/images/captain hook/small.png",
-      "art-crop": "lorcana-api.com/images/captain hook/art-crop.png",
-      "no-art": "lorcana-api.com/images/captain hook/no-art.png"
+      "large": "lorcana-api.com/images/captain_hook/large.png",
+      "medium": "lorcana-api.com/images/captain_hook/medium.png",
+      "small": "lorcana-api.com/images/captain_hook/small.png",
+      "art-crop": "lorcana-api.com/images/captain_hook/art-crop.png",
+      "no-art": "lorcana-api.com/images/captain_hook/no-art.png"
     }
   ]
 }

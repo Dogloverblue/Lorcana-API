@@ -22,11 +22,11 @@
   "set-code": "TFC",
   "image-urls": [
     {
-      "large": "lorcana-api.com/images/cheshire car/large.png",
-      "medium": "lorcana-api.com/images/cheshire car/medium.png",
-      "small": "lorcana-api.com/images/cheshire car/small.png",
-      "art-crop": "lorcana-api.com/images/cheshire car/art-crop.png",
-      "no-art": "lorcana-api.com/images/cheshire car/no-art.png"
+      "large": "lorcana-api.com/images/cheshire_car/large.png",
+      "medium": "lorcana-api.com/images/cheshire_car/medium.png",
+      "small": "lorcana-api.com/images/cheshire_car/small.png",
+      "art-crop": "lorcana-api.com/images/cheshire_car/art-crop.png",
+      "no-art": "lorcana-api.com/images/cheshire_car/no-art.png"
     }
   ]
 }

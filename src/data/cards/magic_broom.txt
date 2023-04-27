@@ -23,11 +23,11 @@
   "set-code": "TFC",
   "image-urls": [
     {
-      "large": "lorcana-api.com/images/magic broom/large.png",
-      "medium": "lorcana-api.com/images/magic broom/medium.png",
-      "small": "lorcana-api.com/images/magic broom/small.png",
-      "art-crop": "lorcana-api.com/images/magic broom/art-crop.png",
-      "no-art": "lorcana-api.com/images/magic broom/no-art.png"
+      "large": "lorcana-api.com/images/magic_broom/large.png",
+      "medium": "lorcana-api.com/images/magic_broom/medium.png",
+      "small": "lorcana-api.com/images/magic_broom/small.png",
+      "art-crop": "lorcana-api.com/images/magic_broom/art-crop.png",
+      "no-art": "lorcana-api.com/images/magic_broom/no-art.png"
     }
   ]
 }
