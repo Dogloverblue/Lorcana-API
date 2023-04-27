@@ -24,11 +24,11 @@
   "set-code": "TFC",
   "image-urls": [
     {
-      "large": "lorcana-api.com/images/yzma/large.png",
-      "medium": "lorcana-api.com/images/yzma/medium.png",
-      "small": "lorcana-api.com/images/yzma/small.png",
-      "art-crop": "lorcana-api.com/images/yzma/art-crop.png",
-      "no-art": "lorcana-api.com/images/yzma/no-art.png"
+      "large": "https://lorcana-api.com/images/yzma/large.png",
+      "medium": "https://lorcana-api.com/images/yzma/medium.png",
+      "small": "https://lorcana-api.com/images/yzma/small.png",
+      "art-crop": "https://lorcana-api.com/images/yzma/art-crop.png",
+      "no-art": "https://lorcana-api.com/images/yzma/no-art.png"
     }
   ]
 }

@@ -23,11 +23,11 @@
   "set-code": "TFC",
   "image-urls": [
     {
-      "large": "lorcana-api.com/images/lefou/large.png",
-      "medium": "lorcana-api.com/images/lefou/medium.png",
-      "small": "lorcana-api.com/images/lefou/small.png",
-      "art-crop": "lorcana-api.com/images/lefou/art-crop.png",
-      "no-art": "lorcana-api.com/images/lefou/no-art.png"
+      "large": "https://lorcana-api.com/images/lefou/large.png",
+      "medium": "https://lorcana-api.com/images/lefou/medium.png",
+      "small": "https://lorcana-api.com/images/lefou/small.png",
+      "art-crop": "https://lorcana-api.com/images/lefou/art-crop.png",
+      "no-art": "https://lorcana-api.com/images/lefou/no-art.png"
     }
   ]
 }

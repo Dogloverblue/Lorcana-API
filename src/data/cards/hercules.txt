@@ -22,11 +22,11 @@
   "set-code": "TFC",
   "image-urls": [
     {
-      "large": "lorcana-api.com/images/hercules/large.png",
-      "medium": "lorcana-api.com/images/hercules/medium.png",
-      "small": "lorcana-api.com/images/hercules/small.png",
-      "art-crop": "lorcana-api.com/images/hercules/art-crop.png",
-      "no-art": "lorcana-api.com/images/hercules/no-art.png"
+      "large": "https://lorcana-api.com/images/hercules/large.png",
+      "medium": "https://lorcana-api.com/images/hercules/medium.png",
+      "small": "https://lorcana-api.com/images/hercules/small.png",
+      "art-crop": "https://lorcana-api.com/images/hercules/art-crop.png",
+      "no-art": "https://lorcana-api.com/images/hercules/no-art.png"
     }
   ]
 }

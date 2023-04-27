@@ -15,11 +15,11 @@
   "set-code": "TFC",
   "image-urls": [
     {
-      "large": "lorcana-api.com/images/dinglehopper/large.png",
-      "medium": "lorcana-api.com/images/dinglehopper/medium.png",
-      "small": "lorcana-api.com/images/dinglehopper/small.png",
-      "art-crop": "lorcana-api.com/images/dinglehopper/art-crop.png",
-      "no-art": "lorcana-api.com/images/dinglehopper/no-art.png"
+      "large": "https://lorcana-api.com/images/dinglehopper/large.png",
+      "medium": "https://lorcana-api.com/images/dinglehopper/medium.png",
+      "small": "https://lorcana-api.com/images/dinglehopper/small.png",
+      "art-crop": "https://lorcana-api.com/images/dinglehopper/art-crop.png",
+      "no-art": "https://lorcana-api.com/images/dinglehopper/no-art.png"
     }
   ]
 }

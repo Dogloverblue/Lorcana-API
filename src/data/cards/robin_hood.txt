@@ -26,11 +26,11 @@
     "set-code": "TFC",
   "image-urls": [
     {
-      "large": "lorcana-api.com/images/robin_hood/large.png",
-      "medium": "lorcana-api.com/images/robin_hood/medium.png",
-      "small": "lorcana-api.com/images/robin_hood/small.png",
-      "art-crop": "lorcana-api.com/images/robin_hood/art-crop.png",
-      "no-art": "lorcana-api.com/images/robin_hood/no-art.png"
+      "large": "https://lorcana-api.com/images/robin_hood/large.png",
+      "medium": "https://lorcana-api.com/images/robin_hood/medium.png",
+      "small": "https://lorcana-api.com/images/robin_hood/small.png",
+      "art-crop": "https://lorcana-api.com/images/robin_hood/art-crop.png",
+      "no-art": "https://lorcana-api.com/images/robin_hood/no-art.png"
     }
   ]
 }
