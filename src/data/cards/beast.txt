@@ -1,0 +1,35 @@
+{
+  "name": "Beast",
+  "subtitle": "Hardheaded",
+  "ink-cost": 5,
+  "inkable": true,
+  "color": "Steel",
+  "diamond-amount": 2,
+  "type": "Character",
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "power": 4,
+  "toughness": 4,
+  "abilities": [
+    {
+      "Break": "When you play this character, you may banish chosen item"
+    }
+  ],
+  "traits": null,
+  "lore": null,
+  "artist": "Cookie",
+  "set": "The First Chapter",
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "https://lorcana-api.com/images/beast/large.png",
+      "medium": "https://lorcana-api.com/images/beast/medium.png",
+      "small": "https://lorcana-api.com/images/beast/small.png",
+      "art-crop": "https://lorcana-api.com/images/beast/art-crop.png",
+      "no-art": "https://lorcana-api.com/images/beast/no-art.png"
+    }
+  ]
+}

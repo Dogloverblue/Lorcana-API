@@ -1,0 +1,22 @@
+{
+  "name": "Be Our Guest",
+  "ink-cost": 2,
+  "inkable": true,
+  "color": "Amber",
+  "type": "Action - Song",
+  "effect": "Look at the top 4 cards of your deck. You may reveal a character card and put it into your hand. Put the rest on the bottom of your deck in any order.",
+  "abilities": null,
+  "lore": null,
+  "artist": "R. La Barbera/L. Giammichele",
+  "set": "The First Chapter",
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "https://lorcana-api.com/images/be_our_guest/large.png",
+      "medium": "https://lorcana-api.com/images/be_our_guest/medium.png",
+      "small": "https://lorcana-api.com/images/be_our_guest/small.png",
+      "art-crop": "https://lorcana-api.com/images/be_our_guest/art-crop.png",
+      "no-art": "https://lorcana-api.com/images/be_our_guest/no-art.png"
+    }
+  ]
+}

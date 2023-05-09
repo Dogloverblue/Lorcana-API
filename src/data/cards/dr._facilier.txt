@@ -1,0 +1,33 @@
+{
+  "name": "Dr. Facilier",
+  "subtitle": "Charlatan",
+  "ink-cost": 2,
+  "inkable": true,
+  "color": "Amethyst",
+  "diamond-amount": 1,
+  "type": "Character",
+  "subtypes": [
+    "Storyborn",
+    "Villian",
+    "Sorcerer"
+  ],
+  "power": 0,
+  "toughness": 4,
+  "abilities": null,
+  "traits": [
+    "Challenger 2"
+  ],
+  "lore": "\\\"Enchantée. A tip of the hat from Dr. Facilier..\\\"",
+  "artist": "Grace Tran",
+  "set": "The First Chapter",
+  "set-code": "TFC",
+  "image-urls": [
+    {
+      "large": "https://lorcana-api.com/images/dr._facilier/large.png",
+      "medium": "https://lorcana-api.com/images/dr._facilier/medium.png",
+      "small": "https://lorcana-api.com/images/dr._facilier/small.png",
+      "art-crop": "https://lorcana-api.com/images/dr._facilier/art-crop.png",
+      "no-art": "https://lorcana-api.com/images/dr._facilier/no-art.png"
+    }
+  ]
+}
