@@ -2,7 +2,7 @@
     "traits": ["Challenger 2"],
     "set": "The First Chapter",
     "color": "Amethyst",
-    "lore": "\\\"Enchantée. A tip of the hat from Dr. Facilier..\\\"",
+    "lore": "\\\"Enchantee. A tip of the hat from Dr. Facilier..\\\"",
     "artist": "Grace Tran",
     "diamond-amount": 1,
     "type": "Character",
@@ -13,7 +13,7 @@
     ],
     "set-code": "TFC",
     "abilities": null,
-    "inkable": false,
+    "inkable": true,
     "subtitle": "Charlatan",
     "image-urls": [{
       "small": "https://lorcana-api.com/images/dr._facilier/small.png",

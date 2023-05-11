@@ -12,7 +12,7 @@
     ],
     "set-code": "TFC",
     "abilities": [{"Insidious Plot": "When you play this character, chosen opposing character gets -5? this turn."}],
-    "inkable": false,
+    "inkable": true,
     "subtitle": "Mastermind",
     "image-urls": [{
       "small": "https://lorcana-api.com/images/scar/small.png",

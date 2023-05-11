@@ -12,7 +12,7 @@
     ],
     "set-code": "TFC",
     "abilities": null,
-    "inkable": false,
+    "inkable": true,
     "subtitle": "Maleficent's Underlings",
     "image-urls": [{
       "small": "https://lorcana-api.com/images/goons/small.png",

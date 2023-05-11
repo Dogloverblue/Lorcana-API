@@ -16,7 +16,7 @@
       {"Give It A Try": "Whenever this character quests, you pay 2? less for the next item you play this turn."},
       {"It Works!": "Whenever you play an item, you may draw a card."}
     ],
-    "inkable": false,
+    "inkable": true,
     "subtitle": "World-Famour Inventor",
     "image-urls": [{
       "small": "https://lorcana-api.com/images/maurice/small.png",

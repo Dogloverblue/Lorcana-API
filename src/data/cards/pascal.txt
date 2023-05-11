@@ -12,7 +12,7 @@
     ],
     "set-code": "TFC",
     "abilities": [{"Camouflage": "While you have another character in play, this character gains Evasive. (Only characters with Evasice chan challenge them.)"}],
-    "inkable": false,
+    "inkable": true,
     "subtitle": "Rapunzel's Companion",
     "image-urls": [{
       "small": "https://lorcana-api.com/images/pascal/small.png",

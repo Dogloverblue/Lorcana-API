@@ -2,7 +2,7 @@
     "set": "The First Chapter",
     "color": "Ruby",
     "lore": null,
-    "inkable": false,
+    "inkable": true,
     "artist": "unknown",
     "effect": "Banish chosen character",
     "image-urls": [{

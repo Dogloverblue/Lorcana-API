@@ -13,7 +13,7 @@
     ],
     "set-code": "TFC",
     "abilities": [{"You're Excused": "Whenever this character quests, look at the top card of your deck. Put it on either the top or the bottom of your deck"}],
-    "inkable": false,
+    "inkable": true,
     "subtitle": "Alchemist",
     "image-urls": [{
       "small": "https://lorcana-api.com/images/yzma/small.png",

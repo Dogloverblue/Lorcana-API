@@ -13,7 +13,7 @@
     ],
     "set-code": "TFC",
     "abilities": null,
-    "inkable": false,
+    "inkable": true,
     "subtitle": "Regal Princess",
     "image-urls": [{
       "small": "https://lorcana-api.com/images/aurora/small.png",

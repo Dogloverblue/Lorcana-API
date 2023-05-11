@@ -1,7 +1,7 @@
 {
     "abilities": null,
     "set": "The First Chapter",
-    "inkable": false,
+    "inkable": true,
     "color": "Emerald",
     "lore": "\\\"It's only fitting that the finest hunter get the foulest beast!\\\" -Gatson",
     "artist": "unknown",

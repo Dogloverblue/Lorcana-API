@@ -13,7 +13,7 @@
     ],
     "set-code": "TFC",
     "abilities": null,
-    "inkable": false,
+    "inkable": true,
     "subtitle": "True Hero",
     "image-urls": [{
       "small": "https://lorcana-api.com/images/hercules/small.png",

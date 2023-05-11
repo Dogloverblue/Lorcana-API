@@ -2,7 +2,7 @@
     "set": "The First Chapter",
     "color": "Sapphire",
     "lore": "It's time to see what I can do \nTo test the limits and break through",
-    "inkable": false,
+    "inkable": true,
     "artist": "Milica Celikovic",
     "effect": "Put chosen character into thier player's inkwell facedown and excerted",
     "image-urls": [{

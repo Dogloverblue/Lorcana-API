@@ -12,7 +12,7 @@
     ],
     "set-code": "TFC",
     "abilities": [{"Daring Exploit": "During your turn, whenever this character banishes another character in a challenge, you gain 2 lore and each opponent loses 2 lore"}],
-    "inkable": false,
+    "inkable": true,
     "subtitle": "Heroic Outlaw",
     "image-urls": [{
       "small": "https://lorcana-api.com/images/aladdin/small.png",

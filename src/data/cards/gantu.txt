@@ -13,7 +13,7 @@
     ],
     "set-code": "TFC",
     "abilities": [{"Under Arrest": "Characters with cost 2 or less can't challenge your characters"}],
-    "inkable": false,
+    "inkable": true,
     "subtitle": "Galactic Federation Captain",
     "image-urls": [{
       "small": "https://lorcana-api.com/images/gantu/small.png",

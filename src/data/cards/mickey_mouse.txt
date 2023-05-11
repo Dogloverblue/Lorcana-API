@@ -12,7 +12,7 @@
     ],
     "set-code": "TFC",
     "abilities": null,
-    "inkable": false,
+    "inkable": true,
     "subtitle": "Brave Little Tailor",
     "image-urls": [{
       "small": "https://lorcana-api.com/images/mickey_mouse/small.png",

@@ -3,7 +3,7 @@
     "set": "The First Chapter",
     "color": "Amber",
     "lore": "Enjoy the finest of human hairstyles!",
-    "inkable": false,
+    "inkable": true,
     "artist": "Eri Welli",
     "effect": null,
     "image-urls": [{

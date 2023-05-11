@@ -12,7 +12,7 @@
     ],
     "set-code": "TFC",
     "abilities": null,
-    "inkable": false,
+    "inkable": true,
     "subtitle": "Boat Snack",
     "image-urls": [{
       "small": "https://lorcana-api.com/images/heihei/small.png",

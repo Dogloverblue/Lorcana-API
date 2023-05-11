@@ -2,7 +2,7 @@
     "set": "The First Chapter",
     "color": "Amber",
     "lore": null,
-    "inkable": false,
+    "inkable": true,
     "artist": "Amber Kommovonga",
     "effect": "Chosen character gets -2? this turn.",
     "image-urls": [{

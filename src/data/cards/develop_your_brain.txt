@@ -2,7 +2,7 @@
     "set": "The First Chapter",
     "color": "Sapphire",
     "lore": "\"Knowledge, wisdom-there's the real power!\" -Merlin",
-    "inkable": false,
+    "inkable": true,
     "artist": "Pao Yong",
     "effect": "Look at the top 2 cards of your deck. Put one into your hand and the other on the bottom of the deck.",
     "image-urls": [{

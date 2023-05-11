@@ -12,7 +12,7 @@
     ],
     "set-code": "TFC",
     "abilities": [{"You'll Be Sorry!": "When this character is challenged and banished, you may return chosen character to their player's hand."}],
-    "inkable": false,
+    "inkable": true,
     "subtitle": "Miserable As Usual",
     "image-urls": [{
       "small": "https://lorcana-api.com/images/cruella_de_vil/small.png",

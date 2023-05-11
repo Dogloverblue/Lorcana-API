@@ -13,7 +13,7 @@
     ],
     "set-code": "TFC",
     "abilities": [{"Lead By Example": "During your turn, whenever this character banishes another character in a challenge, your other characters get +1? this turn."}],
-    "inkable": false,
+    "inkable": true,
     "subtitle": "Imperial Soilder",
     "image-urls": [{
       "small": "https://lorcana-api.com/images/mulan/small.png",

@@ -12,7 +12,7 @@
     ],
     "set-code": "TFC",
     "abilities": [{"Loyal": "If you have a character named Gaston in play, you pay 1? less to play this character."}],
-    "inkable": false,
+    "inkable": true,
     "subtitle": "Bumbler",
     "image-urls": [{
       "small": "https://lorcana-api.com/images/lefou/small.png",

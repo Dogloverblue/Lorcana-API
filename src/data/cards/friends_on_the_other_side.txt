@@ -1,7 +1,7 @@
 {
     "abilities": null,
     "set": "The First Chapter",
-    "inkable": false,
+    "inkable": true,
     "color": "Amethyst",
     "lore": "The cards, the cards\\nthecards will tell...",
     "artist": "Amber Kommavongsa",

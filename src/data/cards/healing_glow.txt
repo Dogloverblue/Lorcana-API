@@ -2,7 +2,7 @@
     "set": "The First Chapter",
     "color": "Amber",
     "lore": "\\\"Don't freak out!\\\" - Rapunzel",
-    "inkable": false,
+    "inkable": true,
     "artist": "unknown",
     "effect": "Remove up to 2 damage from chosen character",
     "image-urls": [{

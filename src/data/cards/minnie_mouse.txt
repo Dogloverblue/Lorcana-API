@@ -12,7 +12,7 @@
     ],
     "set-code": "TFC",
     "abilities": null,
-    "inkable": false,
+    "inkable": true,
     "subtitle": "Beloved Princess",
     "image-urls": [{
       "small": "https://lorcana-api.com/images/minnie_mouse/small.png",

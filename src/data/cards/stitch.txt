@@ -13,7 +13,7 @@
     ],
     "set-code": "TFC",
     "abilities": [{"Adoring Fans": "Whenever you play a character with ink cost 2 or less, you may exert it to draw a card."}],
-    "inkable": false,
+    "inkable": true,
     "subtitle": "Rock Start",
     "image-urls": [{
       "small": "https://lorcana-api.com/images/stitch/small.png",

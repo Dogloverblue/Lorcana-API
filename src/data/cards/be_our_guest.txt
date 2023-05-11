@@ -1,7 +1,7 @@
 {
     "abilities": null,
     "set": "The First Chapter",
-    "inkable": false,
+    "inkable": true,
     "color": "Amber",
     "lore": null,
     "artist": "R. La Barbera/L. Giammichele",

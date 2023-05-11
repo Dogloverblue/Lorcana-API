@@ -3,7 +3,7 @@
     "set": "The First Chapter",
     "color": "Steel",
     "lore": "It's a fine piece of cookware, but as a weapon it's truly stunning.",
-    "inkable": false,
+    "inkable": true,
     "artist": "Kamil Murzyn",
     "effect": null,
     "image-urls": [{

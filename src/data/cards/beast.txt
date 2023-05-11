@@ -13,7 +13,7 @@
     ],
     "set-code": "TFC",
     "abilities": [{"Break": "When you play this character, you may banish chosen item"}],
-    "inkable": false,
+    "inkable": true,
     "subtitle": "Hardheaded",
     "image-urls": [{
       "small": "https://lorcana-api.com/images/beast/small.png",

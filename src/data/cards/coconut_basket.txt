@@ -3,7 +3,7 @@
     "set": "The First Chapter",
     "color": "Sapphire",
     "lore": "The coconut is a versatile gift from the gods, used to make nearly everything - including gift baskets to carry more coconuts.",
-    "inkable": false,
+    "inkable": true,
     "artist": "Milica Celikovic",
     "effect": null,
     "image-urls": [{

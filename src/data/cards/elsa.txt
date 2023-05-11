@@ -14,7 +14,7 @@
     ],
     "set-code": "TFC",
     "abilities": [{"FREEZE": "Excert chosen opposing character."}],
-    "inkable": false,
+    "inkable": true,
     "subtitle": "Snow Queen",
     "image-urls": [{
       "small": "https://lorcana-api.com/images/elsa/small.png",
