@@ -1,32 +1,29 @@
 {
-  "name": "Hercules",
-  "subtitle": "True Hero",
-  "ink-cost": 3,
-  "color": "Steel",
-  "diamond-amount": 1,
-  "type": "Character",
-  "subtypes": [
-    "Dreamborn",
-    "Hero",
-    "Prince"
-  ],
-  "power": 3,
-  "toughness": 3,
-  "abilities": null,
-  "traits": [
-    "Bodyguard (This character may enter play excerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)"
-  ],
-  "lore": "\\\"You gotta admit, that was pretty heroic.\\\"",
-  "artist": "Marcel Berg",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/hercules/large.png",
-      "medium": "https://lorcana-api.com/images/hercules/medium.png",
+    "traits": ["Bodyguard (This character may enter play excerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)"],
+    "set": "The First Chapter",
+    "color": "Steel",
+    "lore": "\\\"You gotta admit, that was pretty heroic.\\\"",
+    "artist": "Marcel Berg",
+    "diamond-amount": 1,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Hero",
+      "Prince"
+    ],
+    "set-code": "TFC",
+    "abilities": null,
+    "inkable": false,
+    "subtitle": "True Hero",
+    "image-urls": [{
       "small": "https://lorcana-api.com/images/hercules/small.png",
+      "no-art": "https://lorcana-api.com/images/hercules/no-art.png",
+      "large": "https://lorcana-api.com/images/hercules/large.png",
       "art-crop": "https://lorcana-api.com/images/hercules/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/hercules/no-art.png"
-    }
-  ]
-}
+      "medium": "https://lorcana-api.com/images/hercules/medium.png"
+    }],
+    "name": "Hercules",
+    "power": 3,
+    "ink-cost": 3,
+    "toughness": 3
+  }

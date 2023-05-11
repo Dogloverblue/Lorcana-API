@@ -1,35 +1,28 @@
 {
-  "name": "Aladdin",
-  "subtitle": "Heroic Outlaw",
-  "ink-cost": 7,
-  "color": "Ruby",
-  "diamond-amount": 2,
-  "type": "Character",
-  "subtypes": [
-    "Floodborn",
-    "Hero"
-  ],
-  "power": 5,
-  "toughness": 5,
-  "abilities": [
-    {
-      "Daring Exploit": "During your turn, whenever this character banishes another character in a challenge, you gain 2 lore and each opponent loses 2 lore"
-    }
-  ],
-  "traits": [
-    "Shift 5"
-  ],
-  "lore": null,
-  "artist": "Nicholas Kole",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/aladdin/large.png",
-      "medium": "https://lorcana-api.com/images/aladdin/medium.png",
+    "traits": ["Shift 5"],
+    "set": "The First Chapter",
+    "color": "Ruby",
+    "lore": null,
+    "artist": "Nicholas Kole",
+    "diamond-amount": 2,
+    "type": "Character",
+    "subtypes": [
+      "Floodborn",
+      "Hero"
+    ],
+    "set-code": "TFC",
+    "abilities": [{"Daring Exploit": "During your turn, whenever this character banishes another character in a challenge, you gain 2 lore and each opponent loses 2 lore"}],
+    "inkable": false,
+    "subtitle": "Heroic Outlaw",
+    "image-urls": [{
       "small": "https://lorcana-api.com/images/aladdin/small.png",
+      "no-art": "https://lorcana-api.com/images/aladdin/no-art.png",
+      "large": "https://lorcana-api.com/images/aladdin/large.png",
       "art-crop": "https://lorcana-api.com/images/aladdin/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/aladdin/no-art.png"
-    }
-  ]
-}
+      "medium": "https://lorcana-api.com/images/aladdin/medium.png"
+    }],
+    "name": "Aladdin",
+    "power": 5,
+    "ink-cost": 7,
+    "toughness": 5
+  }

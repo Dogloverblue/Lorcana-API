@@ -1,36 +1,29 @@
 {
-    "name": "Stitch",
-    "subtitle": "Rock Start",
-    "ink-cost": 6,
+    "traits": ["Shift 4 (You many pay 4 * to play this card on top of one of your stich characters.)"],
+    "set": "The First Chapter",
     "color": "Amber",
+    "lore": "The best part about a beachside concert is that there's always room for one more.",
+    "artist": "Simangaliso Sibaya",
     "diamond-amount": 3,
     "type": "character",
     "subtypes": [
-        "Floodborn",
-        "Hero",
-        "Alien"
+      "Floodborn",
+      "Hero",
+      "Alien"
     ],
-    "power": 3,
-    "toughness": 5,
-    "abilities": [
-        {
-            "Adoring Fans": "Whenever you play a character with ink cost 2 or less, you may exert it to draw a card."
-        }
-    ],
-    "traits": [
-        "Shift 4 (You many pay 4 * to play this card on top of one of your stich characters.)"
-    ],
-    "lore": "The best part about a beachside concert is that there's always room for one more.",
-    "artist": "Simangaliso Sibaya",
-    "set": "The First Chapter",
     "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/stitch/large.png",
-      "medium": "https://lorcana-api.com/images/stitch/medium.png",
+    "abilities": [{"Adoring Fans": "Whenever you play a character with ink cost 2 or less, you may exert it to draw a card."}],
+    "inkable": false,
+    "subtitle": "Rock Start",
+    "image-urls": [{
       "small": "https://lorcana-api.com/images/stitch/small.png",
+      "no-art": "https://lorcana-api.com/images/stitch/no-art.png",
+      "large": "https://lorcana-api.com/images/stitch/large.png",
       "art-crop": "https://lorcana-api.com/images/stitch/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/stitch/no-art.png"
-    }
-  ]
-}
+      "medium": "https://lorcana-api.com/images/stitch/medium.png"
+    }],
+    "name": "Stitch",
+    "power": 3,
+    "ink-cost": 6,
+    "toughness": 5
+  }

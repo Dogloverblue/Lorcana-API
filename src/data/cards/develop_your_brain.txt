@@ -1,20 +1,19 @@
 {
-  "name": "Develop Your Brain",
-  "ink-cost": 1,
-  "color": "Sapphire",
-  "type": "Action",
-  "effect": "Look at the top 2 cards of your deck. Put one into your hand and the other on the bottom of the deck.",
-  "lore": "\"Knowledge, wisdom-there's the real power!\" -Merlin",
-  "artist": "Pao Yong",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/develop_your_brain/large.png",
-      "medium": "https://lorcana-api.com/images/develop_your_brain/medium.png",
+    "set": "The First Chapter",
+    "color": "Sapphire",
+    "lore": "\"Knowledge, wisdom-there's the real power!\" -Merlin",
+    "inkable": false,
+    "artist": "Pao Yong",
+    "effect": "Look at the top 2 cards of your deck. Put one into your hand and the other on the bottom of the deck.",
+    "image-urls": [{
       "small": "https://lorcana-api.com/images/develop_your_brain/small.png",
+      "no-art": "https://lorcana-api.com/images/develop_your_brain/no-art.png",
+      "large": "https://lorcana-api.com/images/develop_your_brain/large.png",
       "art-crop": "https://lorcana-api.com/images/develop_your_brain/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/develop_your_brain/no-art.png"
-    }
-  ]
-}
+      "medium": "https://lorcana-api.com/images/develop_your_brain/medium.png"
+    }],
+    "name": "Develop Your Brain",
+    "ink-cost": 1,
+    "type": "Action",
+    "set-code": "TFC"
+  }

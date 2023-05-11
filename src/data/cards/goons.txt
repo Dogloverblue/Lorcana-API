@@ -1,29 +1,28 @@
 {
-  "name": "Goons",
-  "subtitle": "Maleficent's Underlings",
-  "ink-cost": 1,
-  "color": "Steel",
-  "diamond-amount": 1,
-  "type": "Character",
-  "subtypes": [
-    "Storyborn",
-    "Ally"
-  ],
-  "power": 2,
-  "toughness": 2,
-  "abilities": null,
-  "traits": null,
-  "lore": "They may seem useless, but they came with the castle.",
-  "artist": "Cam Kendall",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/goons/large.png",
-      "medium": "https://lorcana-api.com/images/goons/medium.png",
+    "traits": null,
+    "set": "The First Chapter",
+    "color": "Steel",
+    "lore": "They may seem useless, but they came with the castle.",
+    "artist": "Cam Kendall",
+    "diamond-amount": 1,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Ally"
+    ],
+    "set-code": "TFC",
+    "abilities": null,
+    "inkable": false,
+    "subtitle": "Maleficent's Underlings",
+    "image-urls": [{
       "small": "https://lorcana-api.com/images/goons/small.png",
+      "no-art": "https://lorcana-api.com/images/goons/no-art.png",
+      "large": "https://lorcana-api.com/images/goons/large.png",
       "art-crop": "https://lorcana-api.com/images/goons/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/goons/no-art.png"
-    }
-  ]
-}
+      "medium": "https://lorcana-api.com/images/goons/medium.png"
+    }],
+    "name": "Goons",
+    "power": 2,
+    "ink-cost": 1,
+    "toughness": 2
+  }

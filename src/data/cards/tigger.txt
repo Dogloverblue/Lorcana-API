@@ -1,31 +1,28 @@
 {
-  "name": "Tigger",
-  "subtitle": "Wonderful Thing",
-  "ink-cost": 6,
-  "color": "Ruby",
-  "diamond-amount": 0,
-  "type": "Character",
-  "subtypes": [
-    "Storyborn",
-    "Tigger"
-  ],
-  "power": 4,
-  "toughness": 4,
-  "abilities": null,
-  "traits": [
-    "Evasive (Only characters with Evasive can challenge this character.)"
-  ],
-  "lore": "\\\"I'm the bounciest bouncer that ever bounced!\\\"",
-  "artist": "unknown",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/tigger/large.png",
-      "medium": "https://lorcana-api.com/images/tigger/medium.png",
+    "traits": ["Evasive (Only characters with Evasive can challenge this character.)"],
+    "set": "The First Chapter",
+    "color": "Ruby",
+    "lore": "\\\"I'm the bounciest bouncer that ever bounced!\\\"",
+    "artist": "unknown",
+    "diamond-amount": 0,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Tigger"
+    ],
+    "set-code": "TFC",
+    "abilities": null,
+    "inkable": false,
+    "subtitle": "Wonderful Thing",
+    "image-urls": [{
       "small": "https://lorcana-api.com/images/tigger/small.png",
+      "no-art": "https://lorcana-api.com/images/tigger/no-art.png",
+      "large": "https://lorcana-api.com/images/tigger/large.png",
       "art-crop": "https://lorcana-api.com/images/tigger/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/tigger/no-art.png"
-    }
-  ]
-}
+      "medium": "https://lorcana-api.com/images/tigger/medium.png"
+    }],
+    "name": "Tigger",
+    "power": 4,
+    "ink-cost": 6,
+    "toughness": 4
+  }

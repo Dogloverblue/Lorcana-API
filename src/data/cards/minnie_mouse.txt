@@ -1,29 +1,28 @@
 {
-  "name": "Minnie Mouse",
-  "subtitle": "Beloved Princess",
-  "ink-cost": 2,
-  "color": "Amber",
-  "diamond-amount": 1,
-  "type": "Character",
-  "subtypes": [
-    "Dreamborn",
-    "Princess"
-  ],
-  "power": 2,
-  "toughness": 3,
-  "abilities": null,
-  "traits": null,
-  "lore": "Wherever the princess goes, her musketeers are... well, they're around somewhere, probably.",
-  "artist": "Kendall Hale",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/minnie_mouse/large.png",
-      "medium": "https://lorcana-api.com/images/minnie_mouse/medium.png",
+    "traits": null,
+    "set": "The First Chapter",
+    "color": "Amber",
+    "lore": "Wherever the princess goes, her musketeers are... well, they're around somewhere, probably.",
+    "artist": "Kendall Hale",
+    "diamond-amount": 1,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Princess"
+    ],
+    "set-code": "TFC",
+    "abilities": null,
+    "inkable": false,
+    "subtitle": "Beloved Princess",
+    "image-urls": [{
       "small": "https://lorcana-api.com/images/minnie_mouse/small.png",
+      "no-art": "https://lorcana-api.com/images/minnie_mouse/no-art.png",
+      "large": "https://lorcana-api.com/images/minnie_mouse/large.png",
       "art-crop": "https://lorcana-api.com/images/minnie_mouse/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/minnie_mouse/no-art.png"
-    }
-  ]
-}
+      "medium": "https://lorcana-api.com/images/minnie_mouse/medium.png"
+    }],
+    "name": "Minnie Mouse",
+    "power": 2,
+    "ink-cost": 2,
+    "toughness": 3
+  }

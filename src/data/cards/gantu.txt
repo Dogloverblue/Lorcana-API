@@ -1,34 +1,29 @@
 {
-  "name": "Gantu",
-  "subtitle": "Galactic Federation Captain",
-  "ink-cost": 8,
-  "color": "Silver",
-  "diamond-amount": 2,
-  "type": "Character",
-  "subtypes": [
-    "Storyborn",
-    "Alien",
-    "Captain"
-  ],
-  "power": 6,
-  "toughness": 6,
-  "abilities": [
-    {
-      "Under Arrest": "Characters with cost 2 or less can't challenge your characters"
-    }
-  ],
-  "traits": null,
-  "lore": "Relax, enjoy the trip... and don't get any ideas!",
-  "artist": "Luis Huerta",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/gantu/large.png",
-      "medium": "https://lorcana-api.com/images/gantu/medium.png",
+    "traits": null,
+    "set": "The First Chapter",
+    "color": "Silver",
+    "lore": "Relax, enjoy the trip... and don't get any ideas!",
+    "artist": "Luis Huerta",
+    "diamond-amount": 2,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Alien",
+      "Captain"
+    ],
+    "set-code": "TFC",
+    "abilities": [{"Under Arrest": "Characters with cost 2 or less can't challenge your characters"}],
+    "inkable": false,
+    "subtitle": "Galactic Federation Captain",
+    "image-urls": [{
       "small": "https://lorcana-api.com/images/gantu/small.png",
+      "no-art": "https://lorcana-api.com/images/gantu/no-art.png",
+      "large": "https://lorcana-api.com/images/gantu/large.png",
       "art-crop": "https://lorcana-api.com/images/gantu/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/gantu/no-art.png"
-    }
-  ]
-}
+      "medium": "https://lorcana-api.com/images/gantu/medium.png"
+    }],
+    "name": "Gantu",
+    "power": 6,
+    "ink-cost": 8,
+    "toughness": 6
+  }

@@ -1,35 +1,30 @@
 {
-  "name": "Belle",
-  "subtitle": "Inventive Engineer",
-  "ink-cost": 3,
-  "color": "Sapphire",
-  "diamond-amount": 2,
-  "type": "Character",
-  "subtypes": [
-    "Dreamborn",
-    "Hero",
-    "Princess",
-    "Inventor"
-  ],
-  "power": 2,
-  "toughness": 3,
-  "abilities": [
-    {
-      "Tinker": "Whenever this character quests, you pay 1? less for the next item you play this turn."
-    }
-  ],
-  "traits": null,
-  "lore": "A little ingenuity and a lot of heart will take you far in this world.",
-  "artist": "Gabriel Romero / Pia Smith",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/belle/large.png",
-      "medium": "https://lorcana-api.com/images/belle/medium.png",
+    "traits": null,
+    "set": "The First Chapter",
+    "color": "Sapphire",
+    "lore": "A little ingenuity and a lot of heart will take you far in this world.",
+    "artist": "Gabriel Romero / Pia Smith",
+    "diamond-amount": 2,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Hero",
+      "Princess",
+      "Inventor"
+    ],
+    "set-code": "TFC",
+    "abilities": [{"Tinker": "Whenever this character quests, you pay 1? less for the next item you play this turn."}],
+    "inkable": false,
+    "subtitle": "Inventive Engineer",
+    "image-urls": [{
       "small": "https://lorcana-api.com/images/belle/small.png",
+      "no-art": "https://lorcana-api.com/images/belle/no-art.png",
+      "large": "https://lorcana-api.com/images/belle/large.png",
       "art-crop": "https://lorcana-api.com/images/belle/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/belle/no-art.png"
-    }
-  ]
-}
+      "medium": "https://lorcana-api.com/images/belle/medium.png"
+    }],
+    "name": "Belle",
+    "power": 2,
+    "ink-cost": 3,
+    "toughness": 3
+  }

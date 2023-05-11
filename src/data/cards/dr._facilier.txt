@@ -1,33 +1,29 @@
 {
-  "name": "Dr. Facilier",
-  "subtitle": "Charlatan",
-  "ink-cost": 2,
-  "inkable": true,
-  "color": "Amethyst",
-  "diamond-amount": 1,
-  "type": "Character",
-  "subtypes": [
-    "Storyborn",
-    "Villian",
-    "Sorcerer"
-  ],
-  "power": 0,
-  "toughness": 4,
-  "abilities": null,
-  "traits": [
-    "Challenger 2"
-  ],
-  "lore": "\\\"EnchantÃ©e. A tip of the hat from Dr. Facilier..\\\"",
-  "artist": "Grace Tran",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/dr._facilier/large.png",
-      "medium": "https://lorcana-api.com/images/dr._facilier/medium.png",
+    "traits": ["Challenger 2"],
+    "set": "The First Chapter",
+    "color": "Amethyst",
+    "lore": "\\\"Enchantée. A tip of the hat from Dr. Facilier..\\\"",
+    "artist": "Grace Tran",
+    "diamond-amount": 1,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Villian",
+      "Sorcerer"
+    ],
+    "set-code": "TFC",
+    "abilities": null,
+    "inkable": false,
+    "subtitle": "Charlatan",
+    "image-urls": [{
       "small": "https://lorcana-api.com/images/dr._facilier/small.png",
+      "no-art": "https://lorcana-api.com/images/dr._facilier/no-art.png",
+      "large": "https://lorcana-api.com/images/dr._facilier/large.png",
       "art-crop": "https://lorcana-api.com/images/dr._facilier/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/dr._facilier/no-art.png"
-    }
-  ]
-}
+      "medium": "https://lorcana-api.com/images/dr._facilier/medium.png"
+    }],
+    "name": "Dr. Facilier",
+    "power": 0,
+    "ink-cost": 2,
+    "toughness": 4
+  }

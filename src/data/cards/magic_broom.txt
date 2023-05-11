@@ -1,33 +1,28 @@
 {
-  "name": "Magic Broom",
-  "subtitle": "Bucket Brigade",
-  "ink-cost": 2,
-  "color": "Amethyst",
-  "diamond-amount": 1,
-  "type": "Character",
-  "subtypes": [
-    "Dreamborn",
-    "Broom"
-  ],
-  "power": 2,
-  "toughness": 2,
-  "abilities": [
-    {
-      "Sweep": "When you play this character, you may shuffle a card from any discard into it's player's deck."
-    }
-  ],
-  "traits": null,
-  "lore": "In the immense story-forge known as the Great Illuminary, there is always work to be done.",
-  "artist": "Dav Augereau / Guykua Ruwa",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/magic_broom/large.png",
-      "medium": "https://lorcana-api.com/images/magic_broom/medium.png",
+    "traits": null,
+    "set": "The First Chapter",
+    "color": "Amethyst",
+    "lore": "In the immense story-forge known as the Great Illuminary, there is always work to be done.",
+    "artist": "Dav Augereau / Guykua Ruwa",
+    "diamond-amount": 1,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Broom"
+    ],
+    "set-code": "TFC",
+    "abilities": [{"Sweep": "When you play this character, you may shuffle a card from any discard into it's player's deck."}],
+    "inkable": false,
+    "subtitle": "Bucket Brigade",
+    "image-urls": [{
       "small": "https://lorcana-api.com/images/magic_broom/small.png",
+      "no-art": "https://lorcana-api.com/images/magic_broom/no-art.png",
+      "large": "https://lorcana-api.com/images/magic_broom/large.png",
       "art-crop": "https://lorcana-api.com/images/magic_broom/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/magic_broom/no-art.png"
-    }
-  ]
-}
+      "medium": "https://lorcana-api.com/images/magic_broom/medium.png"
+    }],
+    "name": "Magic Broom",
+    "power": 2,
+    "ink-cost": 2,
+    "toughness": 2
+  }

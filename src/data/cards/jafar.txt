@@ -1,33 +1,29 @@
 {
-  "name": "Jafar",
-  "subtitle": "Wicked Sorcerer",
-  "ink-cost": 4,
-  "inkable": true,
-  "color": "Amethyst",
-  "diamond-amount": 1,
-  "type": "Character",
-  "subtypes": [
-    "Dreamborn",
-    "Villain",
-    "Sorcerer"
-  ],
-  "power": 2,
-  "toughness": 5,
-  "abilities": null,
-  "traits": [
-    "Challenger 3"
-  ],
-  "lore": "\\\"Enough skulking about. It's time to show that sniveling sultan what a sorcerer can do.\\\"",
-  "artist": "Jake Parker",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/jafar/large.png",
-      "medium": "https://lorcana-api.com/images/jafar/medium.png",
+    "traits": ["Challenger 3"],
+    "set": "The First Chapter",
+    "color": "Amethyst",
+    "lore": "\\\"Enough skulking about. It's time to show that sniveling sultan what a sorcerer can do.\\\"",
+    "artist": "Jake Parker",
+    "diamond-amount": 1,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Villain",
+      "Sorcerer"
+    ],
+    "set-code": "TFC",
+    "abilities": null,
+    "inkable": false,
+    "subtitle": "Wicked Sorcerer",
+    "image-urls": [{
       "small": "https://lorcana-api.com/images/jafar/small.png",
+      "no-art": "https://lorcana-api.com/images/jafar/no-art.png",
+      "large": "https://lorcana-api.com/images/jafar/large.png",
       "art-crop": "https://lorcana-api.com/images/jafar/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/jafar/no-art.png"
-    }
-  ]
-}
+      "medium": "https://lorcana-api.com/images/jafar/medium.png"
+    }],
+    "name": "Jafar",
+    "power": 2,
+    "ink-cost": 4,
+    "toughness": 5
+  }

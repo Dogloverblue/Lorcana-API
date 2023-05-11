@@ -1,35 +1,29 @@
 {
-  "name": "Beast",
-  "subtitle": "Hardheaded",
-  "ink-cost": 5,
-  "inkable": true,
-  "color": "Steel",
-  "diamond-amount": 2,
-  "type": "Character",
-  "subtypes": [
-    "Storyborn",
-    "Hero",
-    "Prince"
-  ],
-  "power": 4,
-  "toughness": 4,
-  "abilities": [
-    {
-      "Break": "When you play this character, you may banish chosen item"
-    }
-  ],
-  "traits": null,
-  "lore": null,
-  "artist": "Cookie",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/beast/large.png",
-      "medium": "https://lorcana-api.com/images/beast/medium.png",
+    "traits": null,
+    "set": "The First Chapter",
+    "color": "Steel",
+    "lore": null,
+    "artist": "Cookie",
+    "diamond-amount": 2,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Hero",
+      "Prince"
+    ],
+    "set-code": "TFC",
+    "abilities": [{"Break": "When you play this character, you may banish chosen item"}],
+    "inkable": false,
+    "subtitle": "Hardheaded",
+    "image-urls": [{
       "small": "https://lorcana-api.com/images/beast/small.png",
+      "no-art": "https://lorcana-api.com/images/beast/no-art.png",
+      "large": "https://lorcana-api.com/images/beast/large.png",
       "art-crop": "https://lorcana-api.com/images/beast/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/beast/no-art.png"
-    }
-  ]
-}
+      "medium": "https://lorcana-api.com/images/beast/medium.png"
+    }],
+    "name": "Beast",
+    "power": 4,
+    "ink-cost": 5,
+    "toughness": 4
+  }

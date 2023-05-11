@@ -1,25 +1,20 @@
 {
-  "name": "White Rabbit's Pocket Watch",
-  "ink-cost": 3,
-  "color": "Amethyst",
-  "type": "Item",
-  "effect": null,
-  "abilities": [
-    {
-      "I'm late!": "{t}, 1?Chosen character gains Rush this turn. (They can challenge the turn they're played)"
-    }
-  ],
-  "lore": "\\\"No wonder you're late. Why, this watch is exactly two days slow\\\"",
-  "artist": "unknown",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/white_rabbit's_pocket_watch/large.png",
-      "medium": "https://lorcana-api.com/images/white_rabbit's_pocket_watch/medium.png",
+    "abilities": [{"I'm late!": "{t}, 1?Chosen character gains Rush this turn. (They can challenge the turn they're played)"}],
+    "set": "The First Chapter",
+    "color": "Amethyst",
+    "lore": "\\\"No wonder you're late. Why, this watch is exactly two days slow\\\"",
+    "inkable": false,
+    "artist": "unknown",
+    "effect": null,
+    "image-urls": [{
       "small": "https://lorcana-api.com/images/white_rabbit's_pocket_watch/small.png",
+      "no-art": "https://lorcana-api.com/images/white_rabbit's_pocket_watch/no-art.png",
+      "large": "https://lorcana-api.com/images/white_rabbit's_pocket_watch/large.png",
       "art-crop": "https://lorcana-api.com/images/white_rabbit's_pocket_watch/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/white_rabbit's_pocket_watch/no-art.png"
-    }
-  ]
-}
+      "medium": "https://lorcana-api.com/images/white_rabbit's_pocket_watch/medium.png"
+    }],
+    "name": "White Rabbit's Pocket Watch",
+    "ink-cost": 3,
+    "type": "Item",
+    "set-code": "TFC"
+  }

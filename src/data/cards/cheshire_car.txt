@@ -1,32 +1,25 @@
 {
-  "name": "Cheshire Car",
-  "subtitle": "Not All There",
-  "ink-cost": 3,
-  "color": "Emerald",
-  "diamond-amount": 2,
-  "type": "Character",
-  "subtypes": [
-    "Storyborn"
-  ],
-  "power": 0,
-  "toughness": 3,
-  "abilities": [
-    {
-      "Lose Something?": "When this character is challenged and banished, banish the challenging character."
-    }
-  ],
-  "traits": null,
-  "lore": "\\\"You may have noticed that I'm not all there myself.\\\"",
-  "artist": "unknown",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/cheshire_car/large.png",
-      "medium": "https://lorcana-api.com/images/cheshire_car/medium.png",
+    "traits": null,
+    "set": "The First Chapter",
+    "color": "Emerald",
+    "lore": "\\\"You may have noticed that I'm not all there myself.\\\"",
+    "artist": "unknown",
+    "diamond-amount": 2,
+    "type": "Character",
+    "subtypes": ["Storyborn"],
+    "set-code": "TFC",
+    "abilities": [{"Lose Something?": "When this character is challenged and banished, banish the challenging character."}],
+    "inkable": false,
+    "subtitle": "Not All There",
+    "image-urls": [{
       "small": "https://lorcana-api.com/images/cheshire_car/small.png",
+      "no-art": "https://lorcana-api.com/images/cheshire_car/no-art.png",
+      "large": "https://lorcana-api.com/images/cheshire_car/large.png",
       "art-crop": "https://lorcana-api.com/images/cheshire_car/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/cheshire_car/no-art.png"
-    }
-  ]
-}
+      "medium": "https://lorcana-api.com/images/cheshire_car/medium.png"
+    }],
+    "name": "Cheshire Car",
+    "power": 0,
+    "ink-cost": 3,
+    "toughness": 3
+  }

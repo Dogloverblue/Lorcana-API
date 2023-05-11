@@ -1,33 +1,28 @@
 {
-  "name": "Scar",
-  "subtitle": "Mastermind",
-  "ink-cost": 6,
-  "color": "Sapphire",
-  "diamond-amount": 0,
-  "type": "Character",
-  "subtypes": [
-    "Storyborn",
-    "Villain"
-  ],
-  "power": 5,
-  "toughness": 4,
-  "abilities": [
-    {
-      "Insidious Plot": "When you play this character, chosen opposing character gets -5? this turn."
-    }
-  ],
-  "traits": null,
-  "lore": "\\\"The best plans involve a little danger. Just not for me.\\\"",
-  "artist": "unknown",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/scar/large.png",
-      "medium": "https://lorcana-api.com/images/scar/medium.png",
+    "traits": null,
+    "set": "The First Chapter",
+    "color": "Sapphire",
+    "lore": "\\\"The best plans involve a little danger. Just not for me.\\\"",
+    "artist": "unknown",
+    "diamond-amount": 0,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Villain"
+    ],
+    "set-code": "TFC",
+    "abilities": [{"Insidious Plot": "When you play this character, chosen opposing character gets -5? this turn."}],
+    "inkable": false,
+    "subtitle": "Mastermind",
+    "image-urls": [{
       "small": "https://lorcana-api.com/images/scar/small.png",
+      "no-art": "https://lorcana-api.com/images/scar/no-art.png",
+      "large": "https://lorcana-api.com/images/scar/large.png",
       "art-crop": "https://lorcana-api.com/images/scar/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/scar/no-art.png"
-    }
-  ]
-}
+      "medium": "https://lorcana-api.com/images/scar/medium.png"
+    }],
+    "name": "Scar",
+    "power": 5,
+    "ink-cost": 6,
+    "toughness": 4
+  }

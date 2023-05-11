@@ -1,31 +1,30 @@
 {
-    "name": "Captain Hook",
-    "subtitle": "Forceful Duelist",
-    "ink-cost": 1,
+    "traits": "Challenger +2 \\(When challenging, this character gets +2*.\\)",
+    "set": "The First Chapter",
     "color": "Steel",
+    "lore": "He loves to make light of a foe's predicament",
+    "artist": "Marcell Berg",
     "diamond-amount": 1,
     "type": "character",
     "subtypes": [
-        "Dreamborn",
-        "Villain",
-        "Pirate",
-        "Captain"
+      "Dreamborn",
+      "Villain",
+      "Pirate",
+      "Captain"
     ],
-    "power": 1,
-    "toughness": 2,
-    "abilities": null,
-    "traits": "Challenger +2 \\(When challenging, this character gets +2*.\\)",
-    "lore": "He loves to make light of a foe's predicament",
-    "artist": "Marcell Berg",
-    "set": "The First Chapter",
     "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/captain_hook/large.png",
-      "medium": "https://lorcana-api.com/images/captain_hook/medium.png",
+    "abilities": null,
+    "inkable": false,
+    "subtitle": "Forceful Duelist",
+    "image-urls": [{
       "small": "https://lorcana-api.com/images/captain_hook/small.png",
+      "no-art": "https://lorcana-api.com/images/captain_hook/no-art.png",
+      "large": "https://lorcana-api.com/images/captain_hook/large.png",
       "art-crop": "https://lorcana-api.com/images/captain_hook/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/captain_hook/no-art.png"
-    }
-  ]
-}
+      "medium": "https://lorcana-api.com/images/captain_hook/medium.png"
+    }],
+    "name": "Captain Hook",
+    "power": 1,
+    "ink-cost": 1,
+    "toughness": 2
+  }

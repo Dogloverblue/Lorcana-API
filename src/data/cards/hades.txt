@@ -1,34 +1,33 @@
 {
-    "name": "Hades",
-    "subtitle": "King of Olympus",
-    "ink-cost": 8,
+    "traits": [
+      "Shift 6 (You many pay 6? to play this on top of one of your characters named Hades.)",
+      "Sinister Plot This character get +1? for every other villain you have in play."
+    ],
+    "set": "The First Chapter",
     "color": "Amber",
+    "lore": null,
+    "artist": "unknown",
     "diamond-amount": 1,
     "type": "Character",
     "subtypes": [
-        "Floodborn",
-        "Villian",
-        "King",
-        "Deity"
+      "Floodborn",
+      "Villian",
+      "King",
+      "Deity"
     ],
-    "power": 6,
-    "toughness": 7,
-    "abilities": null,
-    "traits": [
-        "Shift 6 (You many pay 6? to play this on top of one of your characters named Hades.)",
-        "Sinister Plot This character get +1? for every other villain you have in play."
-    ],
-    "lore": null,
-    "artist": "unknown",
-    "set": "The First Chapter",
     "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/hades/large.png",
-      "medium": "https://lorcana-api.com/images/hades/medium.png",
+    "abilities": null,
+    "inkable": false,
+    "subtitle": "King of Olympus",
+    "image-urls": [{
       "small": "https://lorcana-api.com/images/hades/small.png",
+      "no-art": "https://lorcana-api.com/images/hades/no-art.png",
+      "large": "https://lorcana-api.com/images/hades/large.png",
       "art-crop": "https://lorcana-api.com/images/hades/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/hades/no-art.png"
-    }
-  ]
-}
+      "medium": "https://lorcana-api.com/images/hades/medium.png"
+    }],
+    "name": "Hades",
+    "power": 6,
+    "ink-cost": 8,
+    "toughness": 7
+  }

@@ -1,33 +1,28 @@
 {
-  "name": "Pascal",
-  "subtitle": "Rapunzel's Companion",
-  "ink-cost": 1,
-  "color": "Amethyst",
-  "diamond-amount": 1,
-  "type": "Character",
-  "subtypes": [
-    "Storyborn",
-    "Ally"
-  ],
-  "power": 1,
-  "toughness": 1,
-  "abilities": [
-    {
-      "Camouflage": "While you have another character in play, this character gains Evasive. (Only characters with Evasice chan challenge them.)"
-    }
-  ],
-  "traits": null,
-  "lore": "A true friend is always there for you, whether you can see them or not.",
-  "artist": "Brian Weidz",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/pascal/large.png",
-      "medium": "https://lorcana-api.com/images/pascal/medium.png",
+    "traits": null,
+    "set": "The First Chapter",
+    "color": "Amethyst",
+    "lore": "A true friend is always there for you, whether you can see them or not.",
+    "artist": "Brian Weidz",
+    "diamond-amount": 1,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Ally"
+    ],
+    "set-code": "TFC",
+    "abilities": [{"Camouflage": "While you have another character in play, this character gains Evasive. (Only characters with Evasice chan challenge them.)"}],
+    "inkable": false,
+    "subtitle": "Rapunzel's Companion",
+    "image-urls": [{
       "small": "https://lorcana-api.com/images/pascal/small.png",
+      "no-art": "https://lorcana-api.com/images/pascal/no-art.png",
+      "large": "https://lorcana-api.com/images/pascal/large.png",
       "art-crop": "https://lorcana-api.com/images/pascal/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/pascal/no-art.png"
-    }
-  ]
-}
+      "medium": "https://lorcana-api.com/images/pascal/medium.png"
+    }],
+    "name": "Pascal",
+    "power": 1,
+    "ink-cost": 1,
+    "toughness": 1
+  }

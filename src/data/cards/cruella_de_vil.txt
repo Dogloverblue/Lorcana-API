@@ -1,33 +1,28 @@
 {
-    "name": "Cruella De Vil",
-    "subtitle": "Miserable As Usual",
-    "ink-cost": 2,
+    "traits": null,
+    "set": "The First Chapter",
     "color": "Emerald",
+    "lore": "When she stops by, misery is company.",
+    "artist": "Nicholas Kole",
     "diamond-amount": 1,
     "type": "character",
     "subtypes": [
-        "Storyborn",
-        "Villain"
+      "Storyborn",
+      "Villain"
     ],
-    "power": 1,
-    "toughness": 3,
-    "abilities": [
-        {
-            "You'll Be Sorry!": "When this character is challenged and banished, you may return chosen character to their player's hand."
-        }
-    ],
-    "traits": null,
-    "lore": "When she stops by, misery is company.",
-    "artist": "Nicholas Kole",
-    "set": "The First Chapter",
     "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/cruella_de_vil/large.png",
-      "medium": "https://lorcana-api.com/images/cruella_de_vil/medium.png",
+    "abilities": [{"You'll Be Sorry!": "When this character is challenged and banished, you may return chosen character to their player's hand."}],
+    "inkable": false,
+    "subtitle": "Miserable As Usual",
+    "image-urls": [{
       "small": "https://lorcana-api.com/images/cruella_de_vil/small.png",
+      "no-art": "https://lorcana-api.com/images/cruella_de_vil/no-art.png",
+      "large": "https://lorcana-api.com/images/cruella_de_vil/large.png",
       "art-crop": "https://lorcana-api.com/images/cruella_de_vil/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/cruella_de_vil/no-art.png"
-    }
-  ]
-}
+      "medium": "https://lorcana-api.com/images/cruella_de_vil/medium.png"
+    }],
+    "name": "Cruella De Vil",
+    "power": 1,
+    "ink-cost": 2,
+    "toughness": 3
+  }

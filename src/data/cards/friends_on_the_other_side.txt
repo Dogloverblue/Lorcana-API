@@ -1,22 +1,20 @@
 {
-  "name": "Friends On The Other Side",
-  "ink-cost": 3,
-  "inkable": true,
-  "color": "Amethyst",
-  "type": "Action - Song",
-  "effect": "Draw 2 Cards",
-  "abilities": null,
-  "lore": "The cards, the cards\\nthecards will tell...",
-  "artist": "Amber Kommavongsa",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/friends_on_the_other_side/large.png",
-      "medium": "https://lorcana-api.com/images/friends_on_the_other_side/medium.png",
+    "abilities": null,
+    "set": "The First Chapter",
+    "inkable": false,
+    "color": "Amethyst",
+    "lore": "The cards, the cards\\nthecards will tell...",
+    "artist": "Amber Kommavongsa",
+    "effect": "Draw 2 Cards",
+    "image-urls": [{
       "small": "https://lorcana-api.com/images/friends_on_the_other_side/small.png",
+      "no-art": "https://lorcana-api.com/images/friends_on_the_other_side/no-art.png",
+      "large": "https://lorcana-api.com/images/friends_on_the_other_side/large.png",
       "art-crop": "https://lorcana-api.com/images/friends_on_the_other_side/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/friends_on_the_other_side/no-art.png"
-    }
-  ]
-}
+      "medium": "https://lorcana-api.com/images/friends_on_the_other_side/medium.png"
+    }],
+    "name": "Friends On The Other Side",
+    "ink-cost": 3,
+    "type": "Action - Song",
+    "set-code": "TFC"
+  }
