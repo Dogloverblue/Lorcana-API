@@ -3,7 +3,7 @@
     "set": "The First Chapter",
     "inkable": true,
     "color": "Amber",
-    "lore": null,
+    "flavor_text": null,
     "artist": "R. La Barbera/L. Giammichele",
     "effect": "Look at the top 4 cards of your deck. You may reveal a character card and put it into your hand. Put the rest on the bottom of your deck in any order.",
     "image-urls": [{

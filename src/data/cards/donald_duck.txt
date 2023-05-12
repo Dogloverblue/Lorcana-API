@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Ruby",
-    "lore": "\\\"Who you callin' boisterous, buster?\\\"",
+    "flavor_text": "\\\"Who you callin' boisterous, buster?\\\"",
     "artist": "Kenneth Anderson",
-    "diamond-amount": 1,
+    "lore-value": 1,
     "type": "Character",
     "subtypes": ["Storyborn"],
     "set-code": "TFC",
@@ -19,7 +19,7 @@
       "medium": "https://lorcana-api.com/images/donald_duck-boisterous_fowl/medium.png"
     }],
     "name": "Donald Duck",
-    "power": 2,
+    "strength": 2,
     "ink-cost": 2,
-    "toughness": 3
+    "willpower": 3
   }}

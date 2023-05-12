@@ -2,7 +2,7 @@
     "abilities": [{"Show Me": "{t}, 3? - If you have no cards in your hand, draw a card."}],
     "set": "The First Chapter",
     "color": "Steel",
-    "lore": "Ashamed of his monstrous form, the Beast concealed himself inside his castle, with a magic mirror as his only window to the outside world.",
+    "flavor_text": "Ashamed of his monstrous form, the Beast concealed himself inside his castle, with a magic mirror as his only window to the outside world.",
     "inkable": true,
     "artist": "Samanta Erdini",
     "effect": null,

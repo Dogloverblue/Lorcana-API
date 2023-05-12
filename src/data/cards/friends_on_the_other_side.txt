@@ -3,7 +3,7 @@
     "set": "The First Chapter",
     "inkable": true,
     "color": "Amethyst",
-    "lore": "The cards, the cards\\nthecards will tell...",
+    "flavor_text": "The cards, the cards\\nthecards will tell...",
     "artist": "Amber Kommavongsa",
     "effect": "Draw 2 Cards",
     "image-urls": [{

@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Sapphire",
-    "lore": "\"Excitment... adventure... danger lurking around ever cor- AAAAAGGH!\"",
+    "flavor_text": "\"Excitment... adventure... danger lurking around ever cor- AAAAAGGH!\"",
     "artist": "Brian Weiyz",
-    "diamond-amount": 1,
+    "lore-value": 1,
     "type": "Character",
     "subtypes": [
       "Storyborn",
@@ -22,7 +22,7 @@
       "medium": "https://lorcana-api.com/images/flounder-voice_of_reason/medium.png"
     }],
     "name": "Flounder",
-    "power": 2,
+    "strength": 2,
     "ink-cost": 1,
-    "toughness": 2
+    "willpower": 2
   }}

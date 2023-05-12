@@ -1,7 +1,7 @@
 {
     "set": "The First Chapter",
     "color": "Amethyst",
-    "lore": "\\\"What wouldst thou know, my Queen?\\\"",
+    "flavor_text": "\\\"What wouldst thou know, my Queen?\\\"",
     "inkable": false,
     "artist": "unknown",
     "effect": "{T}, 4?",

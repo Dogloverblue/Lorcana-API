@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Amethyst",
-    "lore": "Recreated by magical ink, Elsa found herself in an unfamiliar new world. Fortunately, ice works the same way everywhere.",
+    "flavor_text": "Recreated by magical ink, Elsa found herself in an unfamiliar new world. Fortunately, ice works the same way everywhere.",
     "artist": "Nicholas Kole",
-    "diamond-amount": 1,
+    "lore-value": 1,
     "type": "character",
     "subtypes": [
       "Dreamborn",
@@ -24,7 +24,7 @@
       "medium": "https://lorcana-api.com/images/elsa-snow_queen/medium.png"
     }],
     "name": "Elsa",
-    "power": 2,
+    "strength": 2,
     "ink-cost": 3,
-    "toughness": 3
+    "willpower": 3
   }

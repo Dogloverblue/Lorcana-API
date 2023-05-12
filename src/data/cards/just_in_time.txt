@@ -1,7 +1,7 @@
 {
     "set": "The First Chapter",
     "color": "Amber",
-    "lore": "The best heroes always arrive at the perfect moment-whether they know it or not.",
+    "flavor_text": "The best heroes always arrive at the perfect moment-whether they know it or not.",
     "inkable": true,
     "artist": "Leonardo Giammichele",
     "effect": "You may play a character with cost 5 or less for free.",

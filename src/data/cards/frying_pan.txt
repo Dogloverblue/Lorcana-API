@@ -2,7 +2,7 @@
     "abilities": [{"CLANG!": "Banish this item - Chosen character can't challenge during thier next turn"}],
     "set": "The First Chapter",
     "color": "Steel",
-    "lore": "It's a fine piece of cookware, but as a weapon it's truly stunning.",
+    "flavor_text": "It's a fine piece of cookware, but as a weapon it's truly stunning.",
     "inkable": true,
     "artist": "Kamil Murzyn",
     "effect": null,

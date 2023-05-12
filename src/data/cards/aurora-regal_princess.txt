@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Sapphire",
-    "lore": "\\\"They say if you dream a thing more than once, it's sure to come true\\\"",
+    "flavor_text": "\\\"They say if you dream a thing more than once, it's sure to come true\\\"",
     "artist": "Samanta Erdini",
-    "diamond-amount": 2,
+    "lore-value": 2,
     "type": "Character",
     "subtypes": [
       "Storyborn",
@@ -23,7 +23,7 @@
       "medium": "https://lorcana-api.com/images/aurora-regal_princess/medium.png"
     }],
     "name": "Aurora",
-    "power": 2,
+    "strength": 2,
     "ink-cost": 2,
-    "toughness": 2
+    "willpower": 2
   }

@@ -1,7 +1,7 @@
 {
     "set": "The First Chapter",
     "color": "Amber",
-    "lore": "What would I give if I could live out of these waters?",
+    "flavor_text": "What would I give if I could live out of these waters?",
     "inkable": false,
     "artist": "Samanta Erdini",
     "effect": "Return a character card from your discard to your hand",

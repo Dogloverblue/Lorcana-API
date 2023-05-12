@@ -3,7 +3,7 @@
     "set": "The First Chapter",
     "inkable": true,
     "color": "Steel",
-    "lore": "\\\"Go away!\\\"",
+    "flavor_text": "\\\"Go away!\\\"",
     "artist": "Simangaliso Sibaya",
     "effect": "Deal 3 damage to the chosen character",
     "image-urls": [{

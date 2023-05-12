@@ -1,7 +1,7 @@
 {
     "set": "The First Chapter",
     "color": "Ruby",
-    "lore": null,
+    "flavor_text": null,
     "inkable": true,
     "artist": "unknown",
     "effect": "Banish chosen character",

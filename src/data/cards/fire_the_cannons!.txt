@@ -1,7 +1,7 @@
 {
     "set": "The First Chapter",
     "color": "Steel",
-    "lore": "Captain Hook: \"Double the powder and shorten the fuse!\" Mr. Smee: \"Shorten the powder and double the fuse!\"",
+    "flavor_text": "Captain Hook: \"Double the powder and shorten the fuse!\" Mr. Smee: \"Shorten the powder and double the fuse!\"",
     "inkable": false,
     "artist": "Matt Chapman",
     "effect": "Deal 2 damage to chosen character",

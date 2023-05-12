@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Amethyst",
-    "lore": "\"I'm Olaf and I like warm hugs!\"",
+    "flavor_text": "\"I'm Olaf and I like warm hugs!\"",
     "artist": "unknown",
-    "diamond-amount": 0,
+    "lore-value": 0,
     "type": "Character",
     "subtypes": [
       "Storyborn",
@@ -22,7 +22,7 @@
       "medium": "https://lorcana-api.com/images/olaf-friendly_snowman/medium.png"
     }],
     "name": "Olaf",
-    "power": 1,
+    "strength": 1,
     "ink-cost": 1,
-    "toughness": 3
+    "willpower": 3
   }}

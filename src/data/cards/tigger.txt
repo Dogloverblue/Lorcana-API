@@ -2,9 +2,9 @@
     "traits": ["Evasive (Only characters with Evasive can challenge this character.)"],
     "set": "The First Chapter",
     "color": "Ruby",
-    "lore": "\\\"I'm the bounciest bouncer that ever bounced!\\\"",
+    "flavor_text": "\\\"I'm the bounciest bouncer that ever bounced!\\\"",
     "artist": "unknown",
-    "diamond-amount": 0,
+    "lore-value": 0,
     "type": "Character",
     "subtypes": [
       "Storyborn",
@@ -22,7 +22,7 @@
       "medium": "https://lorcana-api.com/images/tigger-wonderful_thing/medium.png"
     }],
     "name": "Tigger",
-    "power": 4,
+    "strength": 4,
     "ink-cost": 6,
-    "toughness": 4
+    "willpower": 4
   }}

@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Sapphire",
-    "lore": "\"We never rob. We just sort of borrow a bit from those who can afford it.\"",
+    "flavor_text": "\"We never rob. We just sort of borrow a bit from those who can afford it.\"",
     "artist": "John Loren",
-    "diamond-amount": 2,
+    "lore-value": 2,
     "type": "character",
     "subtypes": [
       "Storyborn",
@@ -25,7 +25,7 @@
       "medium": "https://lorcana-api.com/images/robin_hood-unrivaled_archer/medium.png"
     }],
     "name": "Robin Hood",
-    "power": 4,
+    "strength": 4,
     "ink-cost": 6,
-    "toughness": 4
+    "willpower": 4
   }}

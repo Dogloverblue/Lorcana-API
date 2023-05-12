@@ -1,7 +1,7 @@
 {
     "set": "The First Chapter",
     "color": "Sapphire",
-    "lore": "Gotta eat to live, gotta steal to eat- Tell you all about it when I got the time",
+    "flavor_text": "Gotta eat to live, gotta steal to eat- Tell you all about it when I got the time",
     "inkable": false,
     "artist": "Bill Robinson",
     "effect": "Put the top card of your deck into your inkwell facedown and exerted",

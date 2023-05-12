@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Emerald",
-    "lore": "\\\"You may have noticed that I'm not all there myself.\\\"",
+    "flavor_text": "\\\"You may have noticed that I'm not all there myself.\\\"",
     "artist": "unknown",
-    "diamond-amount": 2,
+    "lore-value": 2,
     "type": "Character",
     "subtypes": ["Storyborn"],
     "set-code": "TFC",
@@ -12,7 +12,7 @@
     "inkable": true,
     "subtitle": "Not All There",
     "name": "Cheshire Car",
-    "power": 0,
+    "strength": 0,
     "ink-cost": 3,
-    "toughness": 3
+    "willpower": 3
   }

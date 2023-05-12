@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Amber",
-    "lore": "You need a good today to be a proper bad guy",
+    "flavor_text": "You need a good today to be a proper bad guy",
     "artist": "Andrey Chomak",
-    "diamond-amount": 2,
+    "lore-value": 2,
     "type": "Character",
     "subtypes": [
       "Storyborn",
@@ -22,7 +22,7 @@
       "medium": "https://lorcana-api.com/images/lefou-bumbler/medium.png"
     }],
     "name": "Lefou",
-    "power": 1,
+    "strength": 1,
     "ink-cost": 2,
-    "toughness": 2
+    "willpower": 2
   }

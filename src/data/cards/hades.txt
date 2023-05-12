@@ -5,9 +5,9 @@
     ],
     "set": "The First Chapter",
     "color": "Amber",
-    "lore": null,
+    "flavor_text": null,
     "artist": "unknown",
-    "diamond-amount": 1,
+    "lore-value": 1,
     "type": "Character",
     "subtypes": [
       "Floodborn",
@@ -27,7 +27,7 @@
       "medium": "https://lorcana-api.com/images/hades-king_of_olympus/medium.png"
     }],
     "name": "Hades",
-    "power": 6,
+    "strength": 6,
     "ink-cost": 8,
-    "toughness": 7
+    "willpower": 7
   }}

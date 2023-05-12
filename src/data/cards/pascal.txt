@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Amethyst",
-    "lore": "A true friend is always there for you, whether you can see them or not.",
+    "flavor_text": "A true friend is always there for you, whether you can see them or not.",
     "artist": "Brian Weidz",
-    "diamond-amount": 1,
+    "lore-value": 1,
     "type": "Character",
     "subtypes": [
       "Storyborn",
@@ -22,7 +22,7 @@
       "medium": "https://lorcana-api.com/images/pascal-rapunzel's_companion/medium.png"
     }],
     "name": "Pascal",
-    "power": 1,
+    "strength": 1,
     "ink-cost": 1,
-    "toughness": 1
+    "willpower": 1
   }}

@@ -2,7 +2,7 @@
     "abilities": [{"Birthday Lights": "{t}- You play 1? less for the next character you play this turn"}],
     "set": "The First Chapter",
     "color": "Amber",
-    "lore": "Lanterns fill the sky on one special night, beacons of hope and love",
+    "flavor_text": "Lanterns fill the sky on one special night, beacons of hope and love",
     "inkable": false,
     "artist": "Eri Welli",
     "effect": null,

@@ -2,9 +2,9 @@
     "traits": ["Challenger 2"],
     "set": "The First Chapter",
     "color": "Amethyst",
-    "lore": "\\\"Enchantee. A tip of the hat from Dr. Facilier..\\\"",
+    "flavor_text": "\\\"Enchantee. A tip of the hat from Dr. Facilier..\\\"",
     "artist": "Grace Tran",
-    "diamond-amount": 1,
+    "lore-value": 1,
     "type": "Character",
     "subtypes": [
       "Storyborn",
@@ -23,7 +23,7 @@
       "medium": "https://lorcana-api.com/images/dr._facilier-charlatan/medium.png"
     }],
     "name": "Dr. Facilier",
-    "power": 0,
+    "strength": 0,
     "ink-cost": 2,
-    "toughness": 4
+    "willpower": 4
   }}

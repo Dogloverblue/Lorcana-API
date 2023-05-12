@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Amethyst",
-    "lore": "\\\"When I want your opinion, I will give it to you\\\"",
+    "flavor_text": "\\\"When I want your opinion, I will give it to you\\\"",
     "artist": "Hadjie Joos",
-    "diamond-amount": 1,
+    "lore-value": 1,
     "type": "Character",
     "subtypes": [
       "Dreamborn",
@@ -23,7 +23,7 @@
       "medium": "https://lorcana-api.com/images/yzma-alchemist/medium.png"
     }],
     "name": "Yzma",
-    "power": 2,
+    "strength": 2,
     "ink-cost": 2,
-    "toughness": 2
+    "willpower": 2
   }

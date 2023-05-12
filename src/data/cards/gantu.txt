@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Silver",
-    "lore": "Relax, enjoy the trip... and don't get any ideas!",
+    "flavor_text": "Relax, enjoy the trip... and don't get any ideas!",
     "artist": "Luis Huerta",
-    "diamond-amount": 2,
+    "lore-value": 2,
     "type": "Character",
     "subtypes": [
       "Storyborn",
@@ -23,7 +23,7 @@
       "medium": "https://lorcana-api.com/images/gantu-galactic_federation_captain/medium.png"
     }],
     "name": "Gantu",
-    "power": 6,
+    "strength": 6,
     "ink-cost": 8,
-    "toughness": 6
+    "willpower": 6
   }}

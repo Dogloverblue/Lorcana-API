@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Amethyst",
-    "lore": "In the immense story-forge known as the Great Illuminary, there is always work to be done.",
+    "flavor_text": "In the immense story-forge known as the Great Illuminary, there is always work to be done.",
     "artist": "Dav Augereau / Guykua Ruwa",
-    "diamond-amount": 1,
+    "lore-value": 1,
     "type": "Character",
     "subtypes": [
       "Dreamborn",
@@ -22,7 +22,7 @@
       "medium": "https://lorcana-api.com/images/magic_broom-bucket_brigade/medium.png"
     }],
     "name": "Magic Broom",
-    "power": 2,
+    "strength": 2,
     "ink-cost": 2,
-    "toughness": 2
+    "willpower": 2
   }}

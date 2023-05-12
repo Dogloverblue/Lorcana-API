@@ -2,9 +2,9 @@
     "traits": "Challenger +2 \\(When challenging, this character gets +2*.\\)",
     "set": "The First Chapter",
     "color": "Steel",
-    "lore": "He loves to make light of a foe's predicament",
+    "flavor_text": "He loves to make light of a foe's predicament",
     "artist": "Marcell Berg",
-    "diamond-amount": 1,
+    "lore-value": 1,
     "type": "character",
     "subtypes": [
       "Dreamborn",
@@ -24,7 +24,7 @@
       "medium": "https://lorcana-api.com/images/captain_hook-forceful_duelist/medium.png"
     }],
     "name": "Captain Hook",
-    "power": 1,
+    "strength": 1,
     "ink-cost": 1,
-    "toughness": 2
+    "willpower": 2
   }

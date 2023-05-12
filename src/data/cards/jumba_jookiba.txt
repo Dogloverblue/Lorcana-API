@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Emerald",
-    "lore": "\"Created something? Ha! But that would be irresponsible and unethical. I would never, ever make more than one.\"",
+    "flavor_text": "\"Created something? Ha! But that would be irresponsible and unethical. I would never, ever make more than one.\"",
     "artist": "unknown",
-    "diamond-amount": 2,
+    "lore-value": 2,
     "type": "Character",
     "subtypes": [
       "Dreambron",
@@ -23,7 +23,7 @@
       "medium": "https://lorcana-api.com/images/jumba_jookiba-renegade_scientist/medium.png"
     }],
     "name": "Jumba Jookiba",
-    "power": 4,
+    "strength": 4,
     "ink-cost": 5,
-    "toughness": 5
+    "willpower": 5
   }}

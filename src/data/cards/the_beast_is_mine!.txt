@@ -3,7 +3,7 @@
     "set": "The First Chapter",
     "inkable": true,
     "color": "Emerald",
-    "lore": "\\\"It's only fitting that the finest hunter get the foulest beast!\\\" -Gatson",
+    "flavor_text": "\\\"It's only fitting that the finest hunter get the foulest beast!\\\" -Gatson",
     "artist": "unknown",
     "effect": "Chosen character gains Reckless during their next turn. (They can't quest and must challenge if able.)",
     "image-urls": [{

@@ -1,7 +1,7 @@
 {
     "set": "The First Chapter",
     "color": "Amber",
-    "lore": null,
+    "flavor_text": null,
     "inkable": true,
     "artist": "Amber Kommovonga",
     "effect": "Chosen character gets -2? this turn.",

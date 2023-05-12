@@ -2,7 +2,7 @@
     "abilities": [{"Straighten Hair": "{t}- Remove up to 1 damage from chosen character"}],
     "set": "The First Chapter",
     "color": "Amber",
-    "lore": "Enjoy the finest of human hairstyles!",
+    "flavor_text": "Enjoy the finest of human hairstyles!",
     "inkable": true,
     "artist": "Eri Welli",
     "effect": null,

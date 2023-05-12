@@ -2,9 +2,9 @@
     "traits": ["Challenger 3"],
     "set": "The First Chapter",
     "color": "Amethyst",
-    "lore": "\\\"Enough skulking about. It's time to show that sniveling sultan what a sorcerer can do.\\\"",
+    "flavor_text": "\\\"Enough skulking about. It's time to show that sniveling sultan what a sorcerer can do.\\\"",
     "artist": "Jake Parker",
-    "diamond-amount": 1,
+    "lore-value": 1,
     "type": "Character",
     "subtypes": [
       "Dreamborn",
@@ -23,7 +23,7 @@
       "medium": "https://lorcana-api.com/images/jafar-wicked_sorcerer/medium.png"
     }],
     "name": "Jafar",
-    "power": 2,
+    "strength": 2,
     "ink-cost": 4,
-    "toughness": 5
+    "willpower": 5
   }}

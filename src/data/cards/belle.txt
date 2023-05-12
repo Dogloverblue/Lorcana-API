@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Sapphire",
-    "lore": "A little ingenuity and a lot of heart will take you far in this world.",
+    "flavor_text": "A little ingenuity and a lot of heart will take you far in this world.",
     "artist": "Gabriel Romero / Pia Smith",
-    "diamond-amount": 2,
+    "lore-value": 2,
     "type": "Character",
     "subtypes": [
       "Dreamborn",
@@ -24,7 +24,7 @@
       "medium": "https://lorcana-api.com/images/belle-inventive_engineer/medium.png"
     }],
     "name": "Belle",
-    "power": 2,
+    "strength": 2,
     "ink-cost": 3,
-    "toughness": 3
+    "willpower": 3
   }}

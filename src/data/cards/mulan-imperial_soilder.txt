@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Ruby",
-    "lore": null,
+    "flavor_text": null,
     "artist": "unknown",
-    "diamond-amount": 1,
+    "lore-value": 1,
     "type": "Character",
     "subtypes": [
       "Storyborn",
@@ -23,7 +23,7 @@
       "medium": "https://lorcana-api.com/images/mulan-imperial_soilder/medium.png"
     }],
     "name": "Mulan",
-    "power": 4,
+    "strength": 4,
     "ink-cost": 5,
-    "toughness": 5
+    "willpower": 5
   }

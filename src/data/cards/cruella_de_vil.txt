@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Emerald",
-    "lore": "When she stops by, misery is company.",
+    "flavor_text": "When she stops by, misery is company.",
     "artist": "Nicholas Kole",
-    "diamond-amount": 1,
+    "lore-value": 1,
     "type": "character",
     "subtypes": [
       "Storyborn",
@@ -22,7 +22,7 @@
       "medium": "https://lorcana-api.com/images/cruella_de_vil-miserable_as_usual/medium.png"
     }],
     "name": "Cruella De Vil",
-    "power": 1,
+    "strength": 1,
     "ink-cost": 2,
-    "toughness": 3
+    "willpower": 3
   }}

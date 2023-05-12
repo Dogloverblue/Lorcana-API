@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Sapphire",
-    "lore": null,
+    "flavor_text": null,
     "artist": "unknown",
-    "diamond-amount": 0,
+    "lore-value": 0,
     "type": "Character",
     "subtypes": [
       "Dreamborn",
@@ -26,7 +26,7 @@
       "medium": "https://lorcana-api.com/images/maurice-world-famour_inventor/medium.png"
     }],
     "name": "Maurice",
-    "power": 2,
+    "strength": 2,
     "ink-cost": 6,
-    "toughness": 7
+    "willpower": 7
   }

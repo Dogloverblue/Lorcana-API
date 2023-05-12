@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Steel",
-    "lore": "They may seem useless, but they came with the castle.",
+    "flavor_text": "They may seem useless, but they came with the castle.",
     "artist": "Cam Kendall",
-    "diamond-amount": 1,
+    "lore-value": 1,
     "type": "Character",
     "subtypes": [
       "Storyborn",
@@ -22,7 +22,7 @@
       "medium": "https://lorcana-api.com/images/goons-maleficent's_underlings/medium.png"
     }],
     "name": "Goons",
-    "power": 2,
+    "strength": 2,
     "ink-cost": 1,
-    "toughness": 2
+    "willpower": 2
   }

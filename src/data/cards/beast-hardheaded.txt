@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Steel",
-    "lore": null,
+    "flavor_text": null,
     "artist": "Cookie",
-    "diamond-amount": 2,
+    "lore-value": 2,
     "type": "Character",
     "subtypes": [
       "Storyborn",
@@ -23,7 +23,7 @@
       "medium": "https://lorcana-api.com/images/beast-hardheaded/medium.png"
     }],
     "name": "Beast",
-    "power": 4,
+    "strength": 4,
     "ink-cost": 5,
-    "toughness": 4
+    "willpower": 4
   }

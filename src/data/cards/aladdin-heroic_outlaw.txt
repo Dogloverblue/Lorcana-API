@@ -2,9 +2,9 @@
     "traits": ["Shift 5"],
     "set": "The First Chapter",
     "color": "Ruby",
-    "lore": null,
+    "flavor_text": null,
     "artist": "Nicholas Kole",
-    "diamond-amount": 2,
+    "lore-value": 2,
     "type": "Character",
     "subtypes": [
       "Floodborn",
@@ -22,7 +22,7 @@
       "medium": "https://lorcana-api.com/images/aladdin-heroic_outlaw/medium.png"
     }],
     "name": "Aladdin",
-    "power": 5,
+    "strength": 5,
     "ink-cost": 7,
-    "toughness": 5
+    "willpower": 5
   }

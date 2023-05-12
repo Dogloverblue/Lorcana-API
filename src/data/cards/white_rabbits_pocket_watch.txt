@@ -2,7 +2,7 @@
     "abilities": [{"I'm late!": "{t}, 1?Chosen character gains Rush this turn. (They can challenge the turn they're played)"}],
     "set": "The First Chapter",
     "color": "Amethyst",
-    "lore": "\\\"No wonder you're late. Why, this watch is exactly two days slow\\\"",
+    "flavor_text": "\\\"No wonder you're late. Why, this watch is exactly two days slow\\\"",
     "inkable": true,
     "artist": "unknown",
     "effect": null,

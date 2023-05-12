@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Steel",
-    "lore": "Kristoff: \"You want to talk about a supply and demand problem? I sell ice for a living\" Anna: \"Ooh, that's a rough buisness to be in right now. I mean, that is really-ah, mm. That's unfortunate.\"",
+    "flavor_text": "Kristoff: \"You want to talk about a supply and demand problem? I sell ice for a living\" Anna: \"Ooh, that's a rough buisness to be in right now. I mean, that is really-ah, mm. That's unfortunate.\"",
     "artist": "Ron Baird",
-    "diamond-amount": 0,
+    "lore-value": 0,
     "type": "Character",
     "subtypes": [
       "Storyborn",
@@ -22,7 +22,7 @@
       "medium": "https://lorcana-api.com/images/kristoff-offical_ice_master/medium.png"
     }],
     "name": "Kristoff",
-    "power": 3,
+    "strength": 3,
     "ink-cost": 3,
-    "toughness": 3
+    "willpower": 3
   }

@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Amethyst",
-    "lore": "When you simply must have the hautest counture",
+    "flavor_text": "When you simply must have the hautest counture",
     "artist": "unknown",
-    "diamond-amount": 1,
+    "lore-value": 1,
     "type": "Character",
     "subtypes": [
       "Dreamborn",
@@ -22,7 +22,7 @@
       "medium": "https://lorcana-api.com/images/the_wardrobe-belle's_confident/medium.png"
     }],
     "name": "The Wardrobe",
-    "power": 3,
+    "strength": 3,
     "ink-cost": 3,
-    "toughness": 4
+    "willpower": 4
   }

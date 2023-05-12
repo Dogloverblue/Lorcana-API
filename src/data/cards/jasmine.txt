@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Sapphire",
-    "lore": "\\\"Try to understand. I've never done a thing on my own. I've never had any real friends.... I've never even been outside the palace walls.\\\"",
+    "flavor_text": "\\\"Try to understand. I've never done a thing on my own. I've never had any real friends.... I've never even been outside the palace walls.\\\"",
     "artist": "R. La Barbera/L. Giammichele",
-    "diamond-amount": 2,
+    "lore-value": 2,
     "type": "Character",
     "subtypes": [
       "Storyborn",
@@ -22,7 +22,7 @@
       "medium": "https://lorcana-api.com/images/jasmine-disguised/medium.png"
     }],
     "name": "Jasmine",
-    "power": 3,
+    "strength": 3,
     "ink-cost": 3,
-    "toughness": 3
+    "willpower": 3
   }}

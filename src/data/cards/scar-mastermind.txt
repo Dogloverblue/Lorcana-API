@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Sapphire",
-    "lore": "\\\"The best plans involve a little danger. Just not for me.\\\"",
+    "flavor_text": "\\\"The best plans involve a little danger. Just not for me.\\\"",
     "artist": "unknown",
-    "diamond-amount": 0,
+    "lore-value": 0,
     "type": "Character",
     "subtypes": [
       "Storyborn",
@@ -22,7 +22,7 @@
       "medium": "https://lorcana-api.com/images/scar-mastermind/medium.png"
     }],
     "name": "Scar",
-    "power": 5,
+    "strength": 5,
     "ink-cost": 6,
-    "toughness": 4
+    "willpower": 4
   }

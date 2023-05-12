@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Amber",
-    "lore": "\\\"...\\\"",
+    "flavor_text": "\\\"...\\\"",
     "artist": null,
-    "diamond-amount": 2,
+    "lore-value": 2,
     "type": "Character",
     "subtypes": [
       "Storyborn",
@@ -23,7 +23,7 @@
       "medium": "https://lorcana-api.com/images/ariel-on_human_legs/medium.png"
     }],
     "name": "Ariel",
-    "power": 3,
+    "strength": 3,
     "ink-cost": 4,
-    "toughness": 4
+    "willpower": 4
   }

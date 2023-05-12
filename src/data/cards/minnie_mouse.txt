@@ -2,9 +2,9 @@
     "traits": null,
     "set": "The First Chapter",
     "color": "Amber",
-    "lore": "Wherever the princess goes, her musketeers are... well, they're around somewhere, probably.",
+    "flavor_text": "Wherever the princess goes, her musketeers are... well, they're around somewhere, probably.",
     "artist": "Kendall Hale",
-    "diamond-amount": 1,
+    "lore-value": 1,
     "type": "Character",
     "subtypes": [
       "Dreamborn",
@@ -22,7 +22,7 @@
       "medium": "https://lorcana-api.com/images/minnie_mouse-beloved_princess/medium.png"
     }],
     "name": "Minnie Mouse",
-    "power": 2,
+    "strength": 2,
     "ink-cost": 2,
-    "toughness": 3
+    "willpower": 3
   }}

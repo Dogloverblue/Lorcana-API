@@ -2,9 +2,9 @@
     "traits": ["Challenger 2"],
     "set": "The First Chapter",
     "color": "Steel",
-    "lore": "\\\"I lost her once! I'm not gonna lose her again!\\\"",
+    "flavor_text": "\\\"I lost her once! I'm not gonna lose her again!\\\"",
     "artist": "Cristian Romero",
-    "diamond-amount": 1,
+    "lore-value": 1,
     "type": "Character",
     "subtypes": [
       "Storyborn",
@@ -23,7 +23,7 @@
       "medium": "https://lorcana-api.com/images/prince_eric-dashing_and_brave/medium.png"
     }],
     "name": "Prince Eric",
-    "power": 1,
+    "strength": 1,
     "ink-cost": 2,
-    "toughness": 3
+    "willpower": 3
   }}

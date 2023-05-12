@@ -2,9 +2,9 @@
     "traits": ["Support (When this character quests, you may add thier * to another chosen character's * this turn)"],
     "set": "The First Chapter",
     "color": "Amber",
-    "lore": "\\\"Sometimes, our strengths lie beneath the surface. Far beneath, in some cases...\\\" -Moana",
+    "flavor_text": "\\\"Sometimes, our strengths lie beneath the surface. Far beneath, in some cases...\\\" -Moana",
     "artist": "Jenna Gray",
-    "diamond-amount": 1,
+    "lore-value": 1,
     "type": "Character",
     "subtypes": [
       "Storyborn",
@@ -22,7 +22,7 @@
       "medium": "https://lorcana-api.com/images/heihei-boat_snack/medium.png"
     }],
     "name": "Heihei",
-    "power": 1,
+    "strength": 1,
     "ink-cost": 1,
-    "toughness": 2
+    "willpower": 2
   }}
