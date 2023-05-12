@@ -1,4 +1,4 @@
-{
+{"galactic_federation_captain": {
     "traits": null,
     "set": "The First Chapter",
     "color": "Silver",
@@ -16,14 +16,14 @@
     "inkable": true,
     "subtitle": "Galactic Federation Captain",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/gantu/small.png",
-      "no-art": "https://lorcana-api.com/images/gantu/no-art.png",
-      "large": "https://lorcana-api.com/images/gantu/large.png",
-      "art-crop": "https://lorcana-api.com/images/gantu/art-crop.png",
-      "medium": "https://lorcana-api.com/images/gantu/medium.png"
+      "small": "https://lorcana-api.com/images/gantu-galactic_federation_captain/small.png",
+      "no-art": "https://lorcana-api.com/images/gantu-galactic_federation_captain/no-art.png",
+      "large": "https://lorcana-api.com/images/gantu-galactic_federation_captain/large.png",
+      "art-crop": "https://lorcana-api.com/images/gantu-galactic_federation_captain/art-crop.png",
+      "medium": "https://lorcana-api.com/images/gantu-galactic_federation_captain/medium.png"
     }],
     "name": "Gantu",
     "power": 6,
     "ink-cost": 8,
     "toughness": 6
-  }
+  }}

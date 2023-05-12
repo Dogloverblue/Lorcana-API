@@ -1,4 +1,4 @@
-{
+{"snow_queen": {
     "traits": null,
     "set": "The First Chapter",
     "color": "Amethyst",
@@ -17,14 +17,14 @@
     "inkable": true,
     "subtitle": "Snow Queen",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/elsa/small.png",
-      "no-art": "https://lorcana-api.com/images/elsa/no-art.png",
-      "large": "https://lorcana-api.com/images/elsa/large.png",
-      "art-crop": "https://lorcana-api.com/images/elsa/art-crop.png",
-      "medium": "https://lorcana-api.com/images/elsa/medium.png"
+      "small": "https://lorcana-api.com/images/elsa-snow_queen/small.png",
+      "no-art": "https://lorcana-api.com/images/elsa-snow_queen/no-art.png",
+      "large": "https://lorcana-api.com/images/elsa-snow_queen/large.png",
+      "art-crop": "https://lorcana-api.com/images/elsa-snow_queen/art-crop.png",
+      "medium": "https://lorcana-api.com/images/elsa-snow_queen/medium.png"
     }],
     "name": "Elsa",
     "power": 2,
     "ink-cost": 3,
     "toughness": 3
-  }
+  }}

@@ -1,0 +1,29 @@
+{
+    "traits": null,
+    "set": "The First Chapter",
+    "color": "Sapphire",
+    "lore": "\\\"They say if you dream a thing more than once, it's sure to come true\\\"",
+    "artist": "Samanta Erdini",
+    "diamond-amount": 2,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "set-code": "TFC",
+    "abilities": null,
+    "inkable": true,
+    "subtitle": "Regal Princess",
+    "image-urls": [{
+      "small": "https://lorcana-api.com/images/aurora-regal_princess/small.png",
+      "no-art": "https://lorcana-api.com/images/aurora-regal_princess/no-art.png",
+      "large": "https://lorcana-api.com/images/aurora-regal_princess/large.png",
+      "art-crop": "https://lorcana-api.com/images/aurora-regal_princess/art-crop.png",
+      "medium": "https://lorcana-api.com/images/aurora-regal_princess/medium.png"
+    }],
+    "name": "Aurora",
+    "power": 2,
+    "ink-cost": 2,
+    "toughness": 2
+  }

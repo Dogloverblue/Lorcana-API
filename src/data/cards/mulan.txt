@@ -1,4 +1,4 @@
-{
+{"imperial_soilder": {
     "traits": null,
     "set": "The First Chapter",
     "color": "Ruby",
@@ -16,14 +16,14 @@
     "inkable": true,
     "subtitle": "Imperial Soilder",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/mulan/small.png",
-      "no-art": "https://lorcana-api.com/images/mulan/no-art.png",
-      "large": "https://lorcana-api.com/images/mulan/large.png",
-      "art-crop": "https://lorcana-api.com/images/mulan/art-crop.png",
-      "medium": "https://lorcana-api.com/images/mulan/medium.png"
+      "small": "https://lorcana-api.com/images/mulan-imperial_soilder/small.png",
+      "no-art": "https://lorcana-api.com/images/mulan-imperial_soilder/no-art.png",
+      "large": "https://lorcana-api.com/images/mulan-imperial_soilder/large.png",
+      "art-crop": "https://lorcana-api.com/images/mulan-imperial_soilder/art-crop.png",
+      "medium": "https://lorcana-api.com/images/mulan-imperial_soilder/medium.png"
     }],
     "name": "Mulan",
     "power": 4,
     "ink-cost": 5,
     "toughness": 5
-  }
+  }}

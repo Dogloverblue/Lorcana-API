@@ -1,0 +1,30 @@
+{
+    "traits": null,
+    "set": "The First Chapter",
+    "color": "Amethyst",
+    "lore": "Recreated by magical ink, Elsa found herself in an unfamiliar new world. Fortunately, ice works the same way everywhere.",
+    "artist": "Nicholas Kole",
+    "diamond-amount": 1,
+    "type": "character",
+    "subtypes": [
+      "Dreamborn",
+      "Hero",
+      "Queen",
+      "Sorcerer"
+    ],
+    "set-code": "TFC",
+    "abilities": [{"FREEZE": "Excert chosen opposing character."}],
+    "inkable": true,
+    "subtitle": "Snow Queen",
+    "image-urls": [{
+      "small": "https://lorcana-api.com/images/elsa-snow_queen/small.png",
+      "no-art": "https://lorcana-api.com/images/elsa-snow_queen/no-art.png",
+      "large": "https://lorcana-api.com/images/elsa-snow_queen/large.png",
+      "art-crop": "https://lorcana-api.com/images/elsa-snow_queen/art-crop.png",
+      "medium": "https://lorcana-api.com/images/elsa-snow_queen/medium.png"
+    }],
+    "name": "Elsa",
+    "power": 2,
+    "ink-cost": 3,
+    "toughness": 3
+  }

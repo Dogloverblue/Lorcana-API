@@ -1,4 +1,4 @@
-{
+{"forceful_duelist": {
     "traits": "Challenger +2 \\(When challenging, this character gets +2*.\\)",
     "set": "The First Chapter",
     "color": "Steel",
@@ -17,14 +17,14 @@
     "inkable": true,
     "subtitle": "Forceful Duelist",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/captain_hook/small.png",
-      "no-art": "https://lorcana-api.com/images/captain_hook/no-art.png",
-      "large": "https://lorcana-api.com/images/captain_hook/large.png",
-      "art-crop": "https://lorcana-api.com/images/captain_hook/art-crop.png",
-      "medium": "https://lorcana-api.com/images/captain_hook/medium.png"
+      "small": "https://lorcana-api.com/images/captain_hook-forceful_duelist/small.png",
+      "no-art": "https://lorcana-api.com/images/captain_hook-forceful_duelist/no-art.png",
+      "large": "https://lorcana-api.com/images/captain_hook-forceful_duelist/large.png",
+      "art-crop": "https://lorcana-api.com/images/captain_hook-forceful_duelist/art-crop.png",
+      "medium": "https://lorcana-api.com/images/captain_hook-forceful_duelist/medium.png"
     }],
     "name": "Captain Hook",
     "power": 1,
     "ink-cost": 1,
     "toughness": 2
-  }
+  }}

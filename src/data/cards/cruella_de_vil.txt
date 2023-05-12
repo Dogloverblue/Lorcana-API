@@ -1,4 +1,4 @@
-{
+{"miserable_as_usual": {
     "traits": null,
     "set": "The First Chapter",
     "color": "Emerald",
@@ -15,14 +15,14 @@
     "inkable": true,
     "subtitle": "Miserable As Usual",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/cruella_de_vil/small.png",
-      "no-art": "https://lorcana-api.com/images/cruella_de_vil/no-art.png",
-      "large": "https://lorcana-api.com/images/cruella_de_vil/large.png",
-      "art-crop": "https://lorcana-api.com/images/cruella_de_vil/art-crop.png",
-      "medium": "https://lorcana-api.com/images/cruella_de_vil/medium.png"
+      "small": "https://lorcana-api.com/images/cruella_de_vil-miserable_as_usual/small.png",
+      "no-art": "https://lorcana-api.com/images/cruella_de_vil-miserable_as_usual/no-art.png",
+      "large": "https://lorcana-api.com/images/cruella_de_vil-miserable_as_usual/large.png",
+      "art-crop": "https://lorcana-api.com/images/cruella_de_vil-miserable_as_usual/art-crop.png",
+      "medium": "https://lorcana-api.com/images/cruella_de_vil-miserable_as_usual/medium.png"
     }],
     "name": "Cruella De Vil",
     "power": 1,
     "ink-cost": 2,
     "toughness": 3
-  }
+  }}

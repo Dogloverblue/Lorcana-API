@@ -1,4 +1,4 @@
-{
+{"not_all_there": {
     "traits": null,
     "set": "The First Chapter",
     "color": "Emerald",
@@ -11,15 +11,8 @@
     "abilities": [{"Lose Something?": "When this character is challenged and banished, banish the challenging character."}],
     "inkable": true,
     "subtitle": "Not All There",
-    "image-urls": [{
-      "small": "https://lorcana-api.com/images/cheshire_car/small.png",
-      "no-art": "https://lorcana-api.com/images/cheshire_car/no-art.png",
-      "large": "https://lorcana-api.com/images/cheshire_car/large.png",
-      "art-crop": "https://lorcana-api.com/images/cheshire_car/art-crop.png",
-      "medium": "https://lorcana-api.com/images/cheshire_car/medium.png"
-    }],
     "name": "Cheshire Car",
     "power": 0,
     "ink-cost": 3,
     "toughness": 3
-  }
+  }}

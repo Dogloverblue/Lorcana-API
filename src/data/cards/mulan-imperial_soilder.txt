@@ -1,0 +1,29 @@
+{
+    "traits": null,
+    "set": "The First Chapter",
+    "color": "Ruby",
+    "lore": null,
+    "artist": "unknown",
+    "diamond-amount": 1,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "set-code": "TFC",
+    "abilities": [{"Lead By Example": "During your turn, whenever this character banishes another character in a challenge, your other characters get +1? this turn."}],
+    "inkable": true,
+    "subtitle": "Imperial Soilder",
+    "image-urls": [{
+      "small": "https://lorcana-api.com/images/mulan-imperial_soilder/small.png",
+      "no-art": "https://lorcana-api.com/images/mulan-imperial_soilder/no-art.png",
+      "large": "https://lorcana-api.com/images/mulan-imperial_soilder/large.png",
+      "art-crop": "https://lorcana-api.com/images/mulan-imperial_soilder/art-crop.png",
+      "medium": "https://lorcana-api.com/images/mulan-imperial_soilder/medium.png"
+    }],
+    "name": "Mulan",
+    "power": 4,
+    "ink-cost": 5,
+    "toughness": 5
+  }

@@ -1,4 +1,4 @@
-{
+{"beloved_princess": {
     "traits": null,
     "set": "The First Chapter",
     "color": "Amber",
@@ -15,14 +15,14 @@
     "inkable": true,
     "subtitle": "Beloved Princess",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/minnie_mouse/small.png",
-      "no-art": "https://lorcana-api.com/images/minnie_mouse/no-art.png",
-      "large": "https://lorcana-api.com/images/minnie_mouse/large.png",
-      "art-crop": "https://lorcana-api.com/images/minnie_mouse/art-crop.png",
-      "medium": "https://lorcana-api.com/images/minnie_mouse/medium.png"
+      "small": "https://lorcana-api.com/images/minnie_mouse-beloved_princess/small.png",
+      "no-art": "https://lorcana-api.com/images/minnie_mouse-beloved_princess/no-art.png",
+      "large": "https://lorcana-api.com/images/minnie_mouse-beloved_princess/large.png",
+      "art-crop": "https://lorcana-api.com/images/minnie_mouse-beloved_princess/art-crop.png",
+      "medium": "https://lorcana-api.com/images/minnie_mouse-beloved_princess/medium.png"
     }],
     "name": "Minnie Mouse",
     "power": 2,
     "ink-cost": 2,
     "toughness": 3
-  }
+  }}

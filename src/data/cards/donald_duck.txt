@@ -1,4 +1,4 @@
-{
+{"boisterous_fowl": {
     "traits": null,
     "set": "The First Chapter",
     "color": "Ruby",
@@ -12,14 +12,14 @@
     "inkable": true,
     "subtitle": "Boisterous Fowl",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/donald_duck/small.png",
-      "no-art": "https://lorcana-api.com/images/donald_duck/no-art.png",
-      "large": "https://lorcana-api.com/images/donald_duck/large.png",
-      "art-crop": "https://lorcana-api.com/images/donald_duck/art-crop.png",
-      "medium": "https://lorcana-api.com/images/donald_duck/medium.png"
+      "small": "https://lorcana-api.com/images/donald_duck-boisterous_fowl/small.png",
+      "no-art": "https://lorcana-api.com/images/donald_duck-boisterous_fowl/no-art.png",
+      "large": "https://lorcana-api.com/images/donald_duck-boisterous_fowl/large.png",
+      "art-crop": "https://lorcana-api.com/images/donald_duck-boisterous_fowl/art-crop.png",
+      "medium": "https://lorcana-api.com/images/donald_duck-boisterous_fowl/medium.png"
     }],
     "name": "Donald Duck",
     "power": 2,
     "ink-cost": 2,
     "toughness": 3
-  }
+  }}

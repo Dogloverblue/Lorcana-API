@@ -1,4 +1,4 @@
-{
+{"king_of_olympus": {
     "traits": [
       "Shift 6 (You many pay 6? to play this on top of one of your characters named Hades.)",
       "Sinister Plot This character get +1? for every other villain you have in play."
@@ -20,14 +20,14 @@
     "inkable": false,
     "subtitle": "King of Olympus",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/hades/small.png",
-      "no-art": "https://lorcana-api.com/images/hades/no-art.png",
-      "large": "https://lorcana-api.com/images/hades/large.png",
-      "art-crop": "https://lorcana-api.com/images/hades/art-crop.png",
-      "medium": "https://lorcana-api.com/images/hades/medium.png"
+      "small": "https://lorcana-api.com/images/hades-king_of_olympus/small.png",
+      "no-art": "https://lorcana-api.com/images/hades-king_of_olympus/no-art.png",
+      "large": "https://lorcana-api.com/images/hades-king_of_olympus/large.png",
+      "art-crop": "https://lorcana-api.com/images/hades-king_of_olympus/art-crop.png",
+      "medium": "https://lorcana-api.com/images/hades-king_of_olympus/medium.png"
     }],
     "name": "Hades",
     "power": 6,
     "ink-cost": 8,
     "toughness": 7
-  }
+  }}

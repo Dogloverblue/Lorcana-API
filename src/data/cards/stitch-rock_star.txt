@@ -1,0 +1,29 @@
+{
+    "traits": ["Shift 4 (You many pay 4 * to play this card on top of one of your stich characters.)"],
+    "set": "The First Chapter",
+    "color": "Amber",
+    "lore": "The best part about a beachside concert is that there's always room for one more.",
+    "artist": "Simangaliso Sibaya",
+    "diamond-amount": 3,
+    "type": "character",
+    "subtypes": [
+      "Floodborn",
+      "Hero",
+      "Alien"
+    ],
+    "set-code": "TFC",
+    "abilities": [{"Adoring Fans": "Whenever you play a character with ink cost 2 or less, you may exert it to draw a card."}],
+    "inkable": true,
+    "subtitle": "Rock Star",
+    "image-urls": [{
+      "small": "https://lorcana-api.com/images/stitch-rock_star/small.png",
+      "no-art": "https://lorcana-api.com/images/stitch-rock_star/no-art.png",
+      "large": "https://lorcana-api.com/images/stitch-rock_star/large.png",
+      "art-crop": "https://lorcana-api.com/images/stitch-rock_star/art-crop.png",
+      "medium": "https://lorcana-api.com/images/stitch-rock_star/medium.png"
+    }],
+    "name": "Stitch",
+    "power": 3,
+    "ink-cost": 6,
+    "toughness": 5
+  }

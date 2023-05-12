@@ -1,4 +1,4 @@
-{
+{"maleficent's_underlings": {
     "traits": null,
     "set": "The First Chapter",
     "color": "Steel",
@@ -15,14 +15,14 @@
     "inkable": true,
     "subtitle": "Maleficent's Underlings",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/goons/small.png",
-      "no-art": "https://lorcana-api.com/images/goons/no-art.png",
-      "large": "https://lorcana-api.com/images/goons/large.png",
-      "art-crop": "https://lorcana-api.com/images/goons/art-crop.png",
-      "medium": "https://lorcana-api.com/images/goons/medium.png"
+      "small": "https://lorcana-api.com/images/goons-maleficent's_underlings/small.png",
+      "no-art": "https://lorcana-api.com/images/goons-maleficent's_underlings/no-art.png",
+      "large": "https://lorcana-api.com/images/goons-maleficent's_underlings/large.png",
+      "art-crop": "https://lorcana-api.com/images/goons-maleficent's_underlings/art-crop.png",
+      "medium": "https://lorcana-api.com/images/goons-maleficent's_underlings/medium.png"
     }],
     "name": "Goons",
     "power": 2,
     "ink-cost": 1,
     "toughness": 2
-  }
+  }}

@@ -1,0 +1,32 @@
+{
+    "traits": null,
+    "set": "The First Chapter",
+    "color": "Sapphire",
+    "lore": null,
+    "artist": "unknown",
+    "diamond-amount": 0,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Mentor",
+      "Inventor"
+    ],
+    "set-code": "TFC",
+    "abilities": [
+      {"Give It A Try": "Whenever this character quests, you pay 2? less for the next item you play this turn."},
+      {"It Works!": "Whenever you play an item, you may draw a card."}
+    ],
+    "inkable": true,
+    "subtitle": "World-Famour Inventor",
+    "image-urls": [{
+      "small": "https://lorcana-api.com/images/maurice-world-famour_inventor/small.png",
+      "no-art": "https://lorcana-api.com/images/maurice-world-famour_inventor/no-art.png",
+      "large": "https://lorcana-api.com/images/maurice-world-famour_inventor/large.png",
+      "art-crop": "https://lorcana-api.com/images/maurice-world-famour_inventor/art-crop.png",
+      "medium": "https://lorcana-api.com/images/maurice-world-famour_inventor/medium.png"
+    }],
+    "name": "Maurice",
+    "power": 2,
+    "ink-cost": 6,
+    "toughness": 7
+  }

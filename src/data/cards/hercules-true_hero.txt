@@ -1,0 +1,29 @@
+{
+    "traits": ["Bodyguard (This character may enter play excerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)"],
+    "set": "The First Chapter",
+    "color": "Steel",
+    "lore": "\\\"You gotta admit, that was pretty heroic.\\\"",
+    "artist": "Marcel Berg",
+    "diamond-amount": 1,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Hero",
+      "Prince"
+    ],
+    "set-code": "TFC",
+    "abilities": null,
+    "inkable": true,
+    "subtitle": "True Hero",
+    "image-urls": [{
+      "small": "https://lorcana-api.com/images/hercules-true_hero/small.png",
+      "no-art": "https://lorcana-api.com/images/hercules-true_hero/no-art.png",
+      "large": "https://lorcana-api.com/images/hercules-true_hero/large.png",
+      "art-crop": "https://lorcana-api.com/images/hercules-true_hero/art-crop.png",
+      "medium": "https://lorcana-api.com/images/hercules-true_hero/medium.png"
+    }],
+    "name": "Hercules",
+    "power": 3,
+    "ink-cost": 3,
+    "toughness": 3
+  }

@@ -1,4 +1,4 @@
-{
+{"wonderful_thing": {
     "traits": ["Evasive (Only characters with Evasive can challenge this character.)"],
     "set": "The First Chapter",
     "color": "Ruby",
@@ -15,14 +15,14 @@
     "inkable": true,
     "subtitle": "Wonderful Thing",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/tigger/small.png",
-      "no-art": "https://lorcana-api.com/images/tigger/no-art.png",
-      "large": "https://lorcana-api.com/images/tigger/large.png",
-      "art-crop": "https://lorcana-api.com/images/tigger/art-crop.png",
-      "medium": "https://lorcana-api.com/images/tigger/medium.png"
+      "small": "https://lorcana-api.com/images/tigger-wonderful_thing/small.png",
+      "no-art": "https://lorcana-api.com/images/tigger-wonderful_thing/no-art.png",
+      "large": "https://lorcana-api.com/images/tigger-wonderful_thing/large.png",
+      "art-crop": "https://lorcana-api.com/images/tigger-wonderful_thing/art-crop.png",
+      "medium": "https://lorcana-api.com/images/tigger-wonderful_thing/medium.png"
     }],
     "name": "Tigger",
     "power": 4,
     "ink-cost": 6,
     "toughness": 4
-  }
+  }}

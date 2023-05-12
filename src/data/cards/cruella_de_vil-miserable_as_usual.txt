@@ -1,0 +1,28 @@
+{
+    "traits": null,
+    "set": "The First Chapter",
+    "color": "Emerald",
+    "lore": "When she stops by, misery is company.",
+    "artist": "Nicholas Kole",
+    "diamond-amount": 1,
+    "type": "character",
+    "subtypes": [
+      "Storyborn",
+      "Villain"
+    ],
+    "set-code": "TFC",
+    "abilities": [{"You'll Be Sorry!": "When this character is challenged and banished, you may return chosen character to their player's hand."}],
+    "inkable": true,
+    "subtitle": "Miserable As Usual",
+    "image-urls": [{
+      "small": "https://lorcana-api.com/images/cruella_de_vil-miserable_as_usual/small.png",
+      "no-art": "https://lorcana-api.com/images/cruella_de_vil-miserable_as_usual/no-art.png",
+      "large": "https://lorcana-api.com/images/cruella_de_vil-miserable_as_usual/large.png",
+      "art-crop": "https://lorcana-api.com/images/cruella_de_vil-miserable_as_usual/art-crop.png",
+      "medium": "https://lorcana-api.com/images/cruella_de_vil-miserable_as_usual/medium.png"
+    }],
+    "name": "Cruella De Vil",
+    "power": 1,
+    "ink-cost": 2,
+    "toughness": 3
+  }

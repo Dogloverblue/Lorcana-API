@@ -1,4 +1,4 @@
-{
+{"regal_princess": {
     "traits": null,
     "set": "The First Chapter",
     "color": "Sapphire",
@@ -16,14 +16,14 @@
     "inkable": true,
     "subtitle": "Regal Princess",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/aurora/small.png",
-      "no-art": "https://lorcana-api.com/images/aurora/no-art.png",
-      "large": "https://lorcana-api.com/images/aurora/large.png",
-      "art-crop": "https://lorcana-api.com/images/aurora/art-crop.png",
-      "medium": "https://lorcana-api.com/images/aurora/medium.png"
+      "small": "https://lorcana-api.com/images/aurora-regal_princess/small.png",
+      "no-art": "https://lorcana-api.com/images/aurora-regal_princess/no-art.png",
+      "large": "https://lorcana-api.com/images/aurora-regal_princess/large.png",
+      "art-crop": "https://lorcana-api.com/images/aurora-regal_princess/art-crop.png",
+      "medium": "https://lorcana-api.com/images/aurora-regal_princess/medium.png"
     }],
     "name": "Aurora",
     "power": 2,
     "ink-cost": 2,
     "toughness": 2
-  }
+  }}

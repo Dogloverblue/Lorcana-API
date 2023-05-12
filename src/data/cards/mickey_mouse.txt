@@ -1,4 +1,4 @@
-{
+{"brave_little_tailor": {
     "traits": ["Evasive (Only characters with Evasive can challenge this characer.)"],
     "set": "The First Chapter",
     "color": "Ruby",
@@ -15,14 +15,14 @@
     "inkable": true,
     "subtitle": "Brave Little Tailor",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/mickey_mouse/small.png",
-      "no-art": "https://lorcana-api.com/images/mickey_mouse/no-art.png",
-      "large": "https://lorcana-api.com/images/mickey_mouse/large.png",
-      "art-crop": "https://lorcana-api.com/images/mickey_mouse/art-crop.png",
-      "medium": "https://lorcana-api.com/images/mickey_mouse/medium.png"
+      "small": "https://lorcana-api.com/images/mickey_mouse-brave_little_tailor/small.png",
+      "no-art": "https://lorcana-api.com/images/mickey_mouse-brave_little_tailor/no-art.png",
+      "large": "https://lorcana-api.com/images/mickey_mouse-brave_little_tailor/large.png",
+      "art-crop": "https://lorcana-api.com/images/mickey_mouse-brave_little_tailor/art-crop.png",
+      "medium": "https://lorcana-api.com/images/mickey_mouse-brave_little_tailor/medium.png"
     }],
     "name": "Mickey Mouse",
     "power": 5,
     "ink-cost": 8,
     "toughness": 5
-  }
+  }}

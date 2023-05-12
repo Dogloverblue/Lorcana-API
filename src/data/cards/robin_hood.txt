@@ -1,4 +1,4 @@
-{
+{"unrivaled_archer": {
     "traits": null,
     "set": "The First Chapter",
     "color": "Sapphire",
@@ -18,14 +18,14 @@
     "inkable": true,
     "subtitle": "Unrivaled Archer",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/robin_hood/small.png",
-      "no-art": "https://lorcana-api.com/images/robin_hood/no-art.png",
-      "large": "https://lorcana-api.com/images/robin_hood/large.png",
-      "art-crop": "https://lorcana-api.com/images/robin_hood/art-crop.png",
-      "medium": "https://lorcana-api.com/images/robin_hood/medium.png"
+      "small": "https://lorcana-api.com/images/robin_hood-unrivaled_archer/small.png",
+      "no-art": "https://lorcana-api.com/images/robin_hood-unrivaled_archer/no-art.png",
+      "large": "https://lorcana-api.com/images/robin_hood-unrivaled_archer/large.png",
+      "art-crop": "https://lorcana-api.com/images/robin_hood-unrivaled_archer/art-crop.png",
+      "medium": "https://lorcana-api.com/images/robin_hood-unrivaled_archer/medium.png"
     }],
     "name": "Robin Hood",
     "power": 4,
     "ink-cost": 6,
     "toughness": 4
-  }
+  }}

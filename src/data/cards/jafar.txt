@@ -1,4 +1,4 @@
-{
+{"wicked_sorcerer": {
     "traits": ["Challenger 3"],
     "set": "The First Chapter",
     "color": "Amethyst",
@@ -16,14 +16,14 @@
     "inkable": true,
     "subtitle": "Wicked Sorcerer",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/jafar/small.png",
-      "no-art": "https://lorcana-api.com/images/jafar/no-art.png",
-      "large": "https://lorcana-api.com/images/jafar/large.png",
-      "art-crop": "https://lorcana-api.com/images/jafar/art-crop.png",
-      "medium": "https://lorcana-api.com/images/jafar/medium.png"
+      "small": "https://lorcana-api.com/images/jafar-wicked_sorcerer/small.png",
+      "no-art": "https://lorcana-api.com/images/jafar-wicked_sorcerer/no-art.png",
+      "large": "https://lorcana-api.com/images/jafar-wicked_sorcerer/large.png",
+      "art-crop": "https://lorcana-api.com/images/jafar-wicked_sorcerer/art-crop.png",
+      "medium": "https://lorcana-api.com/images/jafar-wicked_sorcerer/medium.png"
     }],
     "name": "Jafar",
     "power": 2,
     "ink-cost": 4,
     "toughness": 5
-  }
+  }}

@@ -1,4 +1,4 @@
-{
+{"voice_of_reason": {
     "traits": null,
     "set": "The First Chapter",
     "color": "Sapphire",
@@ -15,14 +15,14 @@
     "inkable": true,
     "subtitle": "Voice Of Reason",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/flounder/small.png",
-      "no-art": "https://lorcana-api.com/images/flounder/no-art.png",
-      "large": "https://lorcana-api.com/images/flounder/large.png",
-      "art-crop": "https://lorcana-api.com/images/flounder/art-crop.png",
-      "medium": "https://lorcana-api.com/images/flounder/medium.png"
+      "small": "https://lorcana-api.com/images/flounder-voice_of_reason/small.png",
+      "no-art": "https://lorcana-api.com/images/flounder-voice_of_reason/no-art.png",
+      "large": "https://lorcana-api.com/images/flounder-voice_of_reason/large.png",
+      "art-crop": "https://lorcana-api.com/images/flounder-voice_of_reason/art-crop.png",
+      "medium": "https://lorcana-api.com/images/flounder-voice_of_reason/medium.png"
     }],
     "name": "Flounder",
     "power": 2,
     "ink-cost": 1,
     "toughness": 2
-  }
+  }}

@@ -1,4 +1,4 @@
-{
+{"inventive_engineer": {
     "traits": null,
     "set": "The First Chapter",
     "color": "Sapphire",
@@ -17,14 +17,14 @@
     "inkable": true,
     "subtitle": "Inventive Engineer",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/belle/small.png",
-      "no-art": "https://lorcana-api.com/images/belle/no-art.png",
-      "large": "https://lorcana-api.com/images/belle/large.png",
-      "art-crop": "https://lorcana-api.com/images/belle/art-crop.png",
-      "medium": "https://lorcana-api.com/images/belle/medium.png"
+      "small": "https://lorcana-api.com/images/belle-inventive_engineer/small.png",
+      "no-art": "https://lorcana-api.com/images/belle-inventive_engineer/no-art.png",
+      "large": "https://lorcana-api.com/images/belle-inventive_engineer/large.png",
+      "art-crop": "https://lorcana-api.com/images/belle-inventive_engineer/art-crop.png",
+      "medium": "https://lorcana-api.com/images/belle-inventive_engineer/medium.png"
     }],
     "name": "Belle",
     "power": 2,
     "ink-cost": 3,
     "toughness": 3
-  }
+  }}

@@ -1,4 +1,4 @@
-{
+{"true_hero": {
     "traits": ["Bodyguard (This character may enter play excerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)"],
     "set": "The First Chapter",
     "color": "Steel",
@@ -16,14 +16,14 @@
     "inkable": true,
     "subtitle": "True Hero",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/hercules/small.png",
-      "no-art": "https://lorcana-api.com/images/hercules/no-art.png",
-      "large": "https://lorcana-api.com/images/hercules/large.png",
-      "art-crop": "https://lorcana-api.com/images/hercules/art-crop.png",
-      "medium": "https://lorcana-api.com/images/hercules/medium.png"
+      "small": "https://lorcana-api.com/images/hercules-true_hero/small.png",
+      "no-art": "https://lorcana-api.com/images/hercules-true_hero/no-art.png",
+      "large": "https://lorcana-api.com/images/hercules-true_hero/large.png",
+      "art-crop": "https://lorcana-api.com/images/hercules-true_hero/art-crop.png",
+      "medium": "https://lorcana-api.com/images/hercules-true_hero/medium.png"
     }],
     "name": "Hercules",
     "power": 3,
     "ink-cost": 3,
     "toughness": 3
-  }
+  }}

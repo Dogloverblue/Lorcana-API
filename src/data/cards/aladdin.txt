@@ -1,4 +1,4 @@
-{
+{"heroic_outlaw": {
     "traits": ["Shift 5"],
     "set": "The First Chapter",
     "color": "Ruby",
@@ -15,14 +15,14 @@
     "inkable": true,
     "subtitle": "Heroic Outlaw",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/aladdin/small.png",
-      "no-art": "https://lorcana-api.com/images/aladdin/no-art.png",
-      "large": "https://lorcana-api.com/images/aladdin/large.png",
-      "art-crop": "https://lorcana-api.com/images/aladdin/art-crop.png",
-      "medium": "https://lorcana-api.com/images/aladdin/medium.png"
+      "small": "https://lorcana-api.com/images/aladdin-heroic_outlaw/small.png",
+      "no-art": "https://lorcana-api.com/images/aladdin-heroic_outlaw/no-art.png",
+      "large": "https://lorcana-api.com/images/aladdin-heroic_outlaw/large.png",
+      "art-crop": "https://lorcana-api.com/images/aladdin-heroic_outlaw/art-crop.png",
+      "medium": "https://lorcana-api.com/images/aladdin-heroic_outlaw/medium.png"
     }],
     "name": "Aladdin",
     "power": 5,
     "ink-cost": 7,
     "toughness": 5
-  }
+  }}

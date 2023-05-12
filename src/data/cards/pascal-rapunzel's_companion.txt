@@ -1,0 +1,28 @@
+{
+    "traits": null,
+    "set": "The First Chapter",
+    "color": "Amethyst",
+    "lore": "A true friend is always there for you, whether you can see them or not.",
+    "artist": "Brian Weidz",
+    "diamond-amount": 1,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Ally"
+    ],
+    "set-code": "TFC",
+    "abilities": [{"Camouflage": "While you have another character in play, this character gains Evasive. (Only characters with Evasice chan challenge them.)"}],
+    "inkable": true,
+    "subtitle": "Rapunzel's Companion",
+    "image-urls": [{
+      "small": "https://lorcana-api.com/images/pascal-rapunzel's_companion/small.png",
+      "no-art": "https://lorcana-api.com/images/pascal-rapunzel's_companion/no-art.png",
+      "large": "https://lorcana-api.com/images/pascal-rapunzel's_companion/large.png",
+      "art-crop": "https://lorcana-api.com/images/pascal-rapunzel's_companion/art-crop.png",
+      "medium": "https://lorcana-api.com/images/pascal-rapunzel's_companion/medium.png"
+    }],
+    "name": "Pascal",
+    "power": 1,
+    "ink-cost": 1,
+    "toughness": 1
+  }

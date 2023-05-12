@@ -1,4 +1,4 @@
-{
+{"offical_ice_master": {
     "traits": null,
     "set": "The First Chapter",
     "color": "Steel",
@@ -15,14 +15,14 @@
     "inkable": true,
     "subtitle": "Offical Ice Master",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/kristoff/small.png",
-      "no-art": "https://lorcana-api.com/images/kristoff/no-art.png",
-      "large": "https://lorcana-api.com/images/kristoff/large.png",
-      "art-crop": "https://lorcana-api.com/images/kristoff/art-crop.png",
-      "medium": "https://lorcana-api.com/images/kristoff/medium.png"
+      "small": "https://lorcana-api.com/images/kristoff-offical_ice_master/small.png",
+      "no-art": "https://lorcana-api.com/images/kristoff-offical_ice_master/no-art.png",
+      "large": "https://lorcana-api.com/images/kristoff-offical_ice_master/large.png",
+      "art-crop": "https://lorcana-api.com/images/kristoff-offical_ice_master/art-crop.png",
+      "medium": "https://lorcana-api.com/images/kristoff-offical_ice_master/medium.png"
     }],
     "name": "Kristoff",
     "power": 3,
     "ink-cost": 3,
     "toughness": 3
-  }
+  }}

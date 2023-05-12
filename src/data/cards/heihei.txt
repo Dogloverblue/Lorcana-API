@@ -1,4 +1,4 @@
-{
+{"boat_snack": {
     "traits": ["Support (When this character quests, you may add thier * to another chosen character's * this turn)"],
     "set": "The First Chapter",
     "color": "Amber",
@@ -15,14 +15,14 @@
     "inkable": true,
     "subtitle": "Boat Snack",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/heihei/small.png",
-      "no-art": "https://lorcana-api.com/images/heihei/no-art.png",
-      "large": "https://lorcana-api.com/images/heihei/large.png",
-      "art-crop": "https://lorcana-api.com/images/heihei/art-crop.png",
-      "medium": "https://lorcana-api.com/images/heihei/medium.png"
+      "small": "https://lorcana-api.com/images/heihei-boat_snack/small.png",
+      "no-art": "https://lorcana-api.com/images/heihei-boat_snack/no-art.png",
+      "large": "https://lorcana-api.com/images/heihei-boat_snack/large.png",
+      "art-crop": "https://lorcana-api.com/images/heihei-boat_snack/art-crop.png",
+      "medium": "https://lorcana-api.com/images/heihei-boat_snack/medium.png"
     }],
     "name": "Heihei",
     "power": 1,
     "ink-cost": 1,
     "toughness": 2
-  }
+  }}

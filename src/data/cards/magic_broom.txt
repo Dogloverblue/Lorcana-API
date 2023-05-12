@@ -1,4 +1,4 @@
-{
+{"bucket_brigade": {
     "traits": null,
     "set": "The First Chapter",
     "color": "Amethyst",
@@ -15,14 +15,14 @@
     "inkable": true,
     "subtitle": "Bucket Brigade",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/magic_broom/small.png",
-      "no-art": "https://lorcana-api.com/images/magic_broom/no-art.png",
-      "large": "https://lorcana-api.com/images/magic_broom/large.png",
-      "art-crop": "https://lorcana-api.com/images/magic_broom/art-crop.png",
-      "medium": "https://lorcana-api.com/images/magic_broom/medium.png"
+      "small": "https://lorcana-api.com/images/magic_broom-bucket_brigade/small.png",
+      "no-art": "https://lorcana-api.com/images/magic_broom-bucket_brigade/no-art.png",
+      "large": "https://lorcana-api.com/images/magic_broom-bucket_brigade/large.png",
+      "art-crop": "https://lorcana-api.com/images/magic_broom-bucket_brigade/art-crop.png",
+      "medium": "https://lorcana-api.com/images/magic_broom-bucket_brigade/medium.png"
     }],
     "name": "Magic Broom",
     "power": 2,
     "ink-cost": 2,
     "toughness": 2
-  }
+  }}

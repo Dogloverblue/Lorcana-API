@@ -1,4 +1,4 @@
-{
+{"bumbler": {
     "traits": null,
     "set": "The First Chapter",
     "color": "Amber",
@@ -15,14 +15,14 @@
     "inkable": true,
     "subtitle": "Bumbler",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/lefou/small.png",
-      "no-art": "https://lorcana-api.com/images/lefou/no-art.png",
-      "large": "https://lorcana-api.com/images/lefou/large.png",
-      "art-crop": "https://lorcana-api.com/images/lefou/art-crop.png",
-      "medium": "https://lorcana-api.com/images/lefou/medium.png"
+      "small": "https://lorcana-api.com/images/lefou-bumbler/small.png",
+      "no-art": "https://lorcana-api.com/images/lefou-bumbler/no-art.png",
+      "large": "https://lorcana-api.com/images/lefou-bumbler/large.png",
+      "art-crop": "https://lorcana-api.com/images/lefou-bumbler/art-crop.png",
+      "medium": "https://lorcana-api.com/images/lefou-bumbler/medium.png"
     }],
     "name": "Lefou",
     "power": 1,
     "ink-cost": 2,
     "toughness": 2
-  }
+  }}

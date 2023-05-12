@@ -1,4 +1,4 @@
-{
+{"alchemist": {
     "traits": null,
     "set": "The First Chapter",
     "color": "Amethyst",
@@ -16,14 +16,14 @@
     "inkable": true,
     "subtitle": "Alchemist",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/yzma/small.png",
-      "no-art": "https://lorcana-api.com/images/yzma/no-art.png",
-      "large": "https://lorcana-api.com/images/yzma/large.png",
-      "art-crop": "https://lorcana-api.com/images/yzma/art-crop.png",
-      "medium": "https://lorcana-api.com/images/yzma/medium.png"
+      "small": "https://lorcana-api.com/images/yzma-alchemist/small.png",
+      "no-art": "https://lorcana-api.com/images/yzma-alchemist/no-art.png",
+      "large": "https://lorcana-api.com/images/yzma-alchemist/large.png",
+      "art-crop": "https://lorcana-api.com/images/yzma-alchemist/art-crop.png",
+      "medium": "https://lorcana-api.com/images/yzma-alchemist/medium.png"
     }],
     "name": "Yzma",
     "power": 2,
     "ink-cost": 2,
     "toughness": 2
-  }
+  }}

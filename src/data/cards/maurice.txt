@@ -1,4 +1,4 @@
-{
+{"world-famour_inventor": {
     "traits": null,
     "set": "The First Chapter",
     "color": "Sapphire",
@@ -19,14 +19,14 @@
     "inkable": true,
     "subtitle": "World-Famour Inventor",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/maurice/small.png",
-      "no-art": "https://lorcana-api.com/images/maurice/no-art.png",
-      "large": "https://lorcana-api.com/images/maurice/large.png",
-      "art-crop": "https://lorcana-api.com/images/maurice/art-crop.png",
-      "medium": "https://lorcana-api.com/images/maurice/medium.png"
+      "small": "https://lorcana-api.com/images/maurice-world-famour_inventor/small.png",
+      "no-art": "https://lorcana-api.com/images/maurice-world-famour_inventor/no-art.png",
+      "large": "https://lorcana-api.com/images/maurice-world-famour_inventor/large.png",
+      "art-crop": "https://lorcana-api.com/images/maurice-world-famour_inventor/art-crop.png",
+      "medium": "https://lorcana-api.com/images/maurice-world-famour_inventor/medium.png"
     }],
     "name": "Maurice",
     "power": 2,
     "ink-cost": 6,
     "toughness": 7
-  }
+  }}
