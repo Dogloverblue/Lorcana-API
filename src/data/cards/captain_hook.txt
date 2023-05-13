@@ -1,30 +1,63 @@
-{"forceful_duelist": {
-    "traits": "Challenger +2 \\(When challenging, this character gets +2*.\\)",
-    "set": "The First Chapter",
-    "color": "Steel",
-    "flavor_text": "He loves to make light of a foe's predicament",
-    "artist": "Marcell Berg",
-    "lore-value": 1,
-    "type": "character",
-    "subtypes": [
-      "Dreamborn",
-      "Villain",
-      "Pirate",
-      "Captain"
-    ],
-    "set-code": "TFC",
-    "abilities": null,
-    "inkable": true,
-    "subtitle": "Forceful Duelist",
-    "image-urls": [{
-      "small": "https://lorcana-api.com/images/captain_hook-forceful_duelist/small.png",
-      "no-art": "https://lorcana-api.com/images/captain_hook-forceful_duelist/no-art.png",
-      "large": "https://lorcana-api.com/images/captain_hook-forceful_duelist/large.png",
-      "art-crop": "https://lorcana-api.com/images/captain_hook-forceful_duelist/art-crop.png",
-      "medium": "https://lorcana-api.com/images/captain_hook-forceful_duelist/medium.png"
-    }],
-    "name": "Captain Hook",
-    "strength": 1,
-    "ink-cost": 1,
-    "willpower": 2
-  }}
+{
+    "captain_of_the_jolly_roger": {
+      "lore-value": 1,
+      "traits": [],
+      "set": "The First Chapter",
+      "color": "Steel",
+      "strength": 3,
+      "artist": "Adrianne Gumaya",
+      "willpower": 4,
+      "type": "Character",
+      "subtypes": [
+        "Storyborn",
+        "Villain",
+        "Pirate",
+        "Captain"
+      ],
+      "set-code": "TFC",
+      "abilities": {"Double The Powder!": "When you play this character, you may return an action card named Fire the Cannons! from your discard to your hand."},
+      "inkable": false,
+      "subtitle": "Captain of the Jolly Roger",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/captain_hook-captain_of_the_jolly_roger/small.png",
+        "no-art": "https://lorcana-api.com/images/captain_hook-captain_of_the_jolly_roger/no-art.png",
+        "art-crop": "https://lorcana-api.com/images/captain_hook-captain_of_the_jolly_roger/art-crop.png",
+        "medium": "https://lorcana-api.com/images/captain_hook-captain_of_the_jolly_roger/medium.png",
+        "large": "https://lorcana-api.com/images/captain_hook-captain_of_the_jolly_roger/large.png"
+      },
+      "name": "Captain Hook",
+      "ink-cost": 4,
+      "flavor-text": "\"A pretty sight, Mr. Smee. We'll pot em like sitting ducks.\"",
+      "rarity": "Rare"
+    },
+    "forceful_duelist": {
+      "traits": "Challenger +2 \\(When challenging, this character gets +2*.\\)",
+      "set": "The First Chapter",
+      "lore-value": 1,
+      "color": "Steel",
+      "strength": 1,
+      "artist": "Marcell Berg",
+      "willpower": 2,
+      "type": "character",
+      "flavor_text": "He loves to make light of a foe's predicament",
+      "subtypes": [
+        "Dreamborn",
+        "Villain",
+        "Pirate",
+        "Captain"
+      ],
+      "set-code": "TFC",
+      "abilities": null,
+      "inkable": true,
+      "subtitle": "Forceful Duelist",
+      "image-urls": [{
+        "small": "https://lorcana-api.com/images/captain_hook-forceful_duelist/small.png",
+        "no-art": "https://lorcana-api.com/images/captain_hook-forceful_duelist/no-art.png",
+        "large": "https://lorcana-api.com/images/captain_hook-forceful_duelist/large.png",
+        "art-crop": "https://lorcana-api.com/images/captain_hook-forceful_duelist/art-crop.png",
+        "medium": "https://lorcana-api.com/images/captain_hook-forceful_duelist/medium.png"
+      }],
+      "name": "Captain Hook",
+      "ink-cost": 1
+    }
+  }

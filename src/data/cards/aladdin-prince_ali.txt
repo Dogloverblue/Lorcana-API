@@ -1,0 +1,30 @@
+{
+    "lore-value": 0,
+    "traits": ["Ward"],
+    "set": "The First Chapter",
+    "color": "Emerald",
+    "strength": 2,
+    "artist": "unknown",
+    "willpower": 2,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Hero",
+      "Princce"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "subtitle": "Prince Ali",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/aladdin-prince_ali/small.png",
+      "no-art": "https://lorcana-api.com/images/aladdin-prince_ali/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/aladdin-prince_ali/art-crop.png",
+      "medium": "https://lorcana-api.com/images/aladdin-prince_ali/medium.png",
+      "large": "https://lorcana-api.com/images/aladdin-prince_ali/large.png"
+    },
+    "name": "Aladdin",
+    "ink-cost": 2,
+    "flavor-text": "Fabulously wealthy. Practically untouchable. Genuinely inauthentic.",
+    "rarity": "Common"
+  }

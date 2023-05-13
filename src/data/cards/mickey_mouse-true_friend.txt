@@ -1,0 +1,29 @@
+{
+    "lore-value": 2,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Amber",
+    "strength": 3,
+    "artist": "Dave Beauchene",
+    "willpower": 3,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Hero"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "subtitle": "True Friend",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/mickey_mouse-true_friend/small.png",
+      "no-art": "https://lorcana-api.com/images/mickey_mouse-true_friend/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/mickey_mouse-true_friend/art-crop.png",
+      "medium": "https://lorcana-api.com/images/mickey_mouse-true_friend/medium.png",
+      "large": "https://lorcana-api.com/images/mickey_mouse-true_friend/large.png"
+    },
+    "name": "Mickey Mouse",
+    "ink-cost": 3,
+    "flavor-text": "As long as he's around, new comers to the great illuminary will always get a warm welcome",
+    "rarity": "Uncommon"
+  }

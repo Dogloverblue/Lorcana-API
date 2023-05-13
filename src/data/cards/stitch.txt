@@ -1,29 +1,61 @@
-{"rock_star": {
-    "traits": ["Shift 4 (You many pay 4 * to play this card on top of one of your stich characters.)"],
-    "set": "The First Chapter",
-    "color": "Amber",
-    "flavor_text": "The best part about a beachside concert is that there's always room for one more.",
-    "artist": "Simangaliso Sibaya",
-    "lore-value": 3,
-    "type": "character",
-    "subtypes": [
-      "Floodborn",
-      "Hero",
-      "Alien"
-    ],
-    "set-code": "TFC",
-    "abilities": [{"Adoring Fans": "Whenever you play a character with ink cost 2 or less, you may exert it to draw a card."}],
-    "inkable": true,
-    "subtitle": "Rock Star",
-    "image-urls": [{
-      "small": "https://lorcana-api.com/images/stitch-rock_star/small.png",
-      "no-art": "https://lorcana-api.com/images/stitch-rock_star/no-art.png",
-      "large": "https://lorcana-api.com/images/stitch-rock_star/large.png",
-      "art-crop": "https://lorcana-api.com/images/stitch-rock_star/art-crop.png",
-      "medium": "https://lorcana-api.com/images/stitch-rock_star/medium.png"
-    }],
-    "name": "Stitch",
-    "strength": 3,
-    "ink-cost": 6,
-    "willpower": 5
-  }}
+{
+    "rock_star": {
+      "traits": ["Shift 4 (You many pay 4 * to play this card on top of one of your stich characters.)"],
+      "set": "The First Chapter",
+      "lore-value": 3,
+      "color": "Amber",
+      "strength": 3,
+      "artist": "Simangaliso Sibaya",
+      "willpower": 5,
+      "type": "character",
+      "flavor_text": "The best part about a beachside concert is that there's always room for one more.",
+      "subtypes": [
+        "Floodborn",
+        "Hero",
+        "Alien"
+      ],
+      "set-code": "TFC",
+      "abilities": [{"Adoring Fans": "Whenever you play a character with ink cost 2 or less, you may exert it to draw a card."}],
+      "inkable": true,
+      "subtitle": "Rock Star",
+      "image-urls": [{
+        "small": "https://lorcana-api.com/images/stitch-rock_star/small.png",
+        "no-art": "https://lorcana-api.com/images/stitch-rock_star/no-art.png",
+        "large": "https://lorcana-api.com/images/stitch-rock_star/large.png",
+        "art-crop": "https://lorcana-api.com/images/stitch-rock_star/art-crop.png",
+        "medium": "https://lorcana-api.com/images/stitch-rock_star/medium.png"
+      }],
+      "name": "Stitch",
+      "ink-cost": 6
+    },
+    "new_dog": {
+      "lore-value": 1,
+      "traits": [],
+      "set": "The First Chapter",
+      "color": "Amber",
+      "strength": 2,
+      "artist": "Alex Accorsi",
+      "willpower": 2,
+      "type": "Character",
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Alien"
+      ],
+      "set-code": "TFC",
+      "abilities": {},
+      "inkable": true,
+      "subtitle": "New Dog",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/stitch-new_dog/small.png",
+        "no-art": "https://lorcana-api.com/images/stitch-new_dog/no-art.png",
+        "art-crop": "https://lorcana-api.com/images/stitch-new_dog/art-crop.png",
+        "medium": "https://lorcana-api.com/images/stitch-new_dog/medium.png",
+        "large": "https://lorcana-api.com/images/stitch-new_dog/large.png"
+      },
+      "name": "Stitch",
+      "ink-cost": 1,
+      "flavor-text": "Lili: \"David! I got a new dog!\" David: \"Auwe!.... You sure it's a dog?\" Lilo: \"Uh-huh. He used to be a collie before he got ran over.\"",
+      "rarity": "Common"
+    }
+  }

@@ -1,33 +1,65 @@
-{"king_of_olympus": {
-    "traits": [
-      "Shift 6 (You many pay 6? to play this on top of one of your characters named Hades.)",
-      "Sinister Plot This character get +1? for every other villain you have in play."
-    ],
-    "set": "The First Chapter",
-    "color": "Amber",
-    "flavor_text": null,
-    "artist": "unknown",
-    "lore-value": 1,
-    "type": "Character",
-    "subtypes": [
-      "Floodborn",
-      "Villian",
-      "King",
-      "Deity"
-    ],
-    "set-code": "TFC",
-    "abilities": null,
-    "inkable": false,
-    "subtitle": "King of Olympus",
-    "image-urls": [{
-      "small": "https://lorcana-api.com/images/hades-king_of_olympus/small.png",
-      "no-art": "https://lorcana-api.com/images/hades-king_of_olympus/no-art.png",
-      "large": "https://lorcana-api.com/images/hades-king_of_olympus/large.png",
-      "art-crop": "https://lorcana-api.com/images/hades-king_of_olympus/art-crop.png",
-      "medium": "https://lorcana-api.com/images/hades-king_of_olympus/medium.png"
-    }],
-    "name": "Hades",
-    "strength": 6,
-    "ink-cost": 8,
-    "willpower": 7
-  }}
+{
+    "king_of_olympus": {
+      "traits": [
+        "Shift 6 (You many pay 6? to play this on top of one of your characters named Hades.)",
+        "Sinister Plot This character get +1? for every other villain you have in play."
+      ],
+      "set": "The First Chapter",
+      "lore-value": 1,
+      "color": "Amber",
+      "strength": 6,
+      "artist": "unknown",
+      "willpower": 7,
+      "type": "Character",
+      "flavor_text": null,
+      "subtypes": [
+        "Floodborn",
+        "Villian",
+        "King",
+        "Deity"
+      ],
+      "set-code": "TFC",
+      "abilities": null,
+      "inkable": false,
+      "subtitle": "King of Olympus",
+      "image-urls": [{
+        "small": "https://lorcana-api.com/images/hades-king_of_olympus/small.png",
+        "no-art": "https://lorcana-api.com/images/hades-king_of_olympus/no-art.png",
+        "large": "https://lorcana-api.com/images/hades-king_of_olympus/large.png",
+        "art-crop": "https://lorcana-api.com/images/hades-king_of_olympus/art-crop.png",
+        "medium": "https://lorcana-api.com/images/hades-king_of_olympus/medium.png"
+      }],
+      "name": "Hades",
+      "ink-cost": 8
+    },
+    "lord_of_the_underworld": {
+      "lore-value": 1,
+      "traits": [],
+      "set": "The First Chapter",
+      "color": "Amber",
+      "strength": 3,
+      "artist": "Randy Bishop",
+      "willpower": 2,
+      "type": "Character",
+      "subtypes": [
+        "Storyborn",
+        "Villain",
+        "Deity"
+      ],
+      "set-code": "TFC",
+      "abilities": {"Well of Souls": "When you play this character, return a character card from your discard to your hand."},
+      "inkable": false,
+      "subtitle": "Lord of the Underworld",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/hades-lord_of_the_underworld/small.png",
+        "no-art": "https://lorcana-api.com/images/hades-lord_of_the_underworld/no-art.png",
+        "art-crop": "https://lorcana-api.com/images/hades-lord_of_the_underworld/art-crop.png",
+        "medium": "https://lorcana-api.com/images/hades-lord_of_the_underworld/medium.png",
+        "large": "https://lorcana-api.com/images/hades-lord_of_the_underworld/large.png"
+      },
+      "name": "Hades",
+      "ink-cost": 4,
+      "flavor-text": "\"Production is up, costs are down, the rivers are full. Time to talk expansion.\"",
+      "rarity": "Rare"
+    }
+  }

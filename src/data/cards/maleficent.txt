@@ -1,22 +1,92 @@
-{"sinister_visitor": {
-    "traits": null,
-    "set": "The First Chapter",
-    "color": "Sapphire",
-    "flavor_text": "\"The princess shall indeed grow in grace and beauty, beloved by all who know her. But before the sun sets on her sixteenth birthday, she shall prick her finger on the spindle of a spinning wheel...\"",
-    "artist": "Nicholas Kole",
-    "lore-value": 2,
-    "type": "Character",
-    "subtypes": [
-      "Storyborn",
-      "Villain",
-      "Sorcerer"
-    ],
-    "set-code": "TFC",
-    "abilities": null,
-    "inkable": true,
-    "subtitle": "Sinister Visitor",
-    "name": "Maleficent",
-    "strength": 3,
-    "ink-cost": 4,
-    "willpower": 4
-  }}
+{
+    "biding_her_time": {
+      "lore-value": 2,
+      "traits": [],
+      "set": "The First Chapter",
+      "color": "Amethyst",
+      "strength": 1,
+      "artist": "Grace Tran",
+      "willpower": 1,
+      "type": "Character",
+      "subtypes": [
+        "Dreamborn",
+        "Villain",
+        "Sorcerer"
+      ],
+      "set-code": "TFC",
+      "abilities": {},
+      "inkable": false,
+      "subtitle": "Biding Her Time",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/maleficent-biding_her_time/small.png",
+        "no-art": "https://lorcana-api.com/images/maleficent-biding_her_time/no-art.png",
+        "large": "https://lorcana-api.com/images/maleficent-biding_her_time/large.png",
+        "art-crop": "https://lorcana-api.com/images/maleficent-biding_her_time/art-crop.png",
+        "medium": "https://lorcana-api.com/images/maleficent-biding_her_time/medium.png"
+      },
+      "name": "Maleficent",
+      "ink-cost": 1,
+      "flavor-text": "\"One mustn't rush these things, or the greatest plan might come to nothing.\"",
+      "rarity": "Rare"
+    },
+    "sorceress": {
+      "lore-value": 1,
+      "traits": [],
+      "set": "The First Chapter",
+      "color": "Amethyst",
+      "strength": 2,
+      "artist": "Valerio Buonfantino",
+      "willpower": 2,
+      "type": "Character",
+      "subtypes": [
+        "Storyborn",
+        "Villain",
+        "Sorcerer"
+      ],
+      "set-code": "TFC",
+      "abilities": {"Cast My Spell!": "When you play this character, you may draw a card."},
+      "inkable": true,
+      "subtitle": "Sorceress",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/maleficent-sorceress/small.png",
+        "no-art": "https://lorcana-api.com/images/maleficent-sorceress/no-art.png",
+        "art-crop": "https://lorcana-api.com/images/maleficent-sorceress/art-crop.png",
+        "medium": "https://lorcana-api.com/images/maleficent-sorceress/medium.png",
+        "large": "https://lorcana-api.com/images/maleficent-sorceress/large.png"
+      },
+      "name": "Maleficent",
+      "ink-cost": 3,
+      "flavor-text": "\"You dare challenge me? Fool, my magic is more powerful than you could possibly imagine!\"",
+      "rarity": "Common"
+    },
+    "sinister_visitor": {
+      "lore-value": 2,
+      "traits": [],
+      "set": "The First Chapter",
+      "color": "Sapphire",
+      "strength": 3,
+      "artist": "Nicholas Kole",
+      "willpower": 4,
+      "type": "Character",
+      "subtypes": [
+        "Storyborn",
+        "Villain",
+        "Sorcerer"
+      ],
+      "set-code": "TFC",
+      "abilities": {},
+      "inkable": true,
+      "subtitle": "Sinister Visitor",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/maleficent-sinister_visitor/small.png",
+        "no-art": "https://lorcana-api.com/images/maleficent-sinister_visitor/no-art.png",
+        "large": "https://lorcana-api.com/images/maleficent-sinister_visitor/large.png",
+        "art-crop": "https://lorcana-api.com/images/maleficent-sinister_visitor/art-crop.png",
+        "medium": "https://lorcana-api.com/images/maleficent-sinister_visitor/medium.png"
+      },
+      "name": "Maleficent",
+      "ink-cost": 4,
+      "flavor-text": "The princess shall indeed grow in grace and beauty, beloved by all who know her. But before the sun sets on her sixteenth birthday, she shall prick her finger on the spindle of a spinning wheel...",
+      "rarity": "Common"
+    }
+  }
