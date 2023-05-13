@@ -15,11 +15,11 @@
     "inkable": true,
     "subtitle": "Belle's Confident",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/the_wardrobe-belle's_confident/small.png",
-      "no-art": "https://lorcana-api.com/images/the_wardrobe-belle's_confident/no-art.png",
-      "large": "https://lorcana-api.com/images/the_wardrobe-belle's_confident/large.png",
-      "art-crop": "https://lorcana-api.com/images/the_wardrobe-belle's_confident/art-crop.png",
-      "medium": "https://lorcana-api.com/images/the_wardrobe-belle's_confident/medium.png"
+      "small": "https://lorcana-api.com/images/the_wardrobe/belle's_confident/small.png",
+      "no-art": "https://lorcana-api.com/images/the_wardrobe/belle's_confident/no-art.png",
+      "large": "https://lorcana-api.com/images/the_wardrobe/belle's_confident/large.png",
+      "art-crop": "https://lorcana-api.com/images/the_wardrobe/belle's_confident/art-crop.png",
+      "medium": "https://lorcana-api.com/images/the_wardrobe/belle's_confident/medium.png"
     }],
     "name": "The Wardrobe",
     "strength": 3,

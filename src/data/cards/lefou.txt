@@ -1,11 +1,13 @@
 {"bumbler": {
     "traits": null,
     "set": "The First Chapter",
-    "color": "Amber",
-    "flavor_text": "You need a good today to be a proper bad guy",
-    "artist": "Andrey Chomak",
     "lore-value": 2,
+    "color": "Amber",
+    "strength": 1,
+    "artist": "Andrey Chomak",
+    "willpower": 2,
     "type": "Character",
+    "flavor_text": "You need a good today to be a proper bad guy",
     "subtypes": [
       "Storyborn",
       "Ally"
@@ -15,14 +17,12 @@
     "inkable": true,
     "subtitle": "Bumbler",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/lefou-bumbler/small.png",
-      "no-art": "https://lorcana-api.com/images/lefou-bumbler/no-art.png",
-      "large": "https://lorcana-api.com/images/lefou-bumbler/large.png",
-      "art-crop": "https://lorcana-api.com/images/lefou-bumbler/art-crop.png",
-      "medium": "https://lorcana-api.com/images/lefou-bumbler/medium.png"
+      "small": "https://lorcana-api.com/images/lefou/bumbler/small.png",
+      "no-art": "https://lorcana-api.com/images/lefou/bumbler/no-art.png",
+      "large": "https://lorcana-api.com/images/lefou/bumbler/large.png",
+      "art-crop": "https://lorcana-api.com/images/lefou/bumbler/art-crop.png",
+      "medium": "https://lorcana-api.com/images/lefou/bumbler/medium.png"
     }],
     "name": "Lefou",
-    "strength": 1,
-    "ink-cost": 2,
-    "willpower": 2
+    "ink-cost": 2
   }}

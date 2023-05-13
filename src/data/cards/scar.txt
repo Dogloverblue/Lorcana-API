@@ -18,11 +18,11 @@
       "inkable": true,
       "subtitle": "Mastermind",
       "image-urls": [{
-        "small": "https://lorcana-api.com/images/scar-mastermind/small.png",
-        "no-art": "https://lorcana-api.com/images/scar-mastermind/no-art.png",
-        "large": "https://lorcana-api.com/images/scar-mastermind/large.png",
-        "art-crop": "https://lorcana-api.com/images/scar-mastermind/art-crop.png",
-        "medium": "https://lorcana-api.com/images/scar-mastermind/medium.png"
+        "small": "https://lorcana-api.com/images/scar/mastermind/small.png",
+        "no-art": "https://lorcana-api.com/images/scar/mastermind/no-art.png",
+        "large": "https://lorcana-api.com/images/scar/mastermind/large.png",
+        "art-crop": "https://lorcana-api.com/images/scar/mastermind/art-crop.png",
+        "medium": "https://lorcana-api.com/images/scar/mastermind/medium.png"
       }],
       "name": "Scar",
       "ink-cost": 6
@@ -48,11 +48,11 @@
       "inkable": true,
       "subtitle": "Fiery Usurper",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/scar-fiery_usurper/small.png",
-        "no-art": "https://lorcana-api.com/images/scar-fiery_usurper/no-art.png",
-        "art-crop": "https://lorcana-api.com/images/scar-fiery_usurper/art-crop.png",
-        "medium": "https://lorcana-api.com/images/scar-fiery_usurper/medium.png",
-        "large": "https://lorcana-api.com/images/scar-fiery_usurper/large.png"
+        "small": "https://lorcana-api.com/images/scar/fiery_usurper/small.png",
+        "no-art": "https://lorcana-api.com/images/scar/fiery_usurper/no-art.png",
+        "large": "https://lorcana-api.com/images/scar/fiery_usurper/large.png",
+        "art-crop": "https://lorcana-api.com/images/scar/fiery_usurper/art-crop.png",
+        "medium": "https://lorcana-api.com/images/scar/fiery_usurper/medium.png"
       },
       "name": "Scar",
       "ink-cost": 4,

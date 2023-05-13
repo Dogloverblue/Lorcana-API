@@ -18,11 +18,11 @@
       "inkable": false,
       "subtitle": "Biding Her Time",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/maleficent-biding_her_time/small.png",
-        "no-art": "https://lorcana-api.com/images/maleficent-biding_her_time/no-art.png",
-        "large": "https://lorcana-api.com/images/maleficent-biding_her_time/large.png",
-        "art-crop": "https://lorcana-api.com/images/maleficent-biding_her_time/art-crop.png",
-        "medium": "https://lorcana-api.com/images/maleficent-biding_her_time/medium.png"
+        "small": "https://lorcana-api.com/images/maleficent/biding_her_time/small.png",
+        "no-art": "https://lorcana-api.com/images/maleficent/biding_her_time/no-art.png",
+        "large": "https://lorcana-api.com/images/maleficent/biding_her_time/large.png",
+        "art-crop": "https://lorcana-api.com/images/maleficent/biding_her_time/art-crop.png",
+        "medium": "https://lorcana-api.com/images/maleficent/biding_her_time/medium.png"
       },
       "name": "Maleficent",
       "ink-cost": 1,
@@ -48,11 +48,11 @@
       "inkable": true,
       "subtitle": "Sorceress",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/maleficent-sorceress/small.png",
-        "no-art": "https://lorcana-api.com/images/maleficent-sorceress/no-art.png",
-        "art-crop": "https://lorcana-api.com/images/maleficent-sorceress/art-crop.png",
-        "medium": "https://lorcana-api.com/images/maleficent-sorceress/medium.png",
-        "large": "https://lorcana-api.com/images/maleficent-sorceress/large.png"
+        "small": "https://lorcana-api.com/images/maleficent/sorceress/small.png",
+        "no-art": "https://lorcana-api.com/images/maleficent/sorceress/no-art.png",
+        "large": "https://lorcana-api.com/images/maleficent/sorceress/large.png",
+        "art-crop": "https://lorcana-api.com/images/maleficent/sorceress/art-crop.png",
+        "medium": "https://lorcana-api.com/images/maleficent/sorceress/medium.png"
       },
       "name": "Maleficent",
       "ink-cost": 3,
@@ -60,33 +60,25 @@
       "rarity": "Common"
     },
     "sinister_visitor": {
-      "lore-value": 2,
-      "traits": [],
+      "traits": null,
       "set": "The First Chapter",
+      "lore-value": 2,
       "color": "Sapphire",
       "strength": 3,
       "artist": "Nicholas Kole",
       "willpower": 4,
       "type": "Character",
+      "flavor_text": "\"The princess shall indeed grow in grace and beauty, beloved by all who know her. But before the sun sets on her sixteenth birthday, she shall prick her finger on the spindle of a spinning wheel...\"",
       "subtypes": [
         "Storyborn",
         "Villain",
         "Sorcerer"
       ],
       "set-code": "TFC",
-      "abilities": {},
+      "abilities": null,
       "inkable": true,
       "subtitle": "Sinister Visitor",
-      "image-urls": {
-        "small": "https://lorcana-api.com/images/maleficent-sinister_visitor/small.png",
-        "no-art": "https://lorcana-api.com/images/maleficent-sinister_visitor/no-art.png",
-        "large": "https://lorcana-api.com/images/maleficent-sinister_visitor/large.png",
-        "art-crop": "https://lorcana-api.com/images/maleficent-sinister_visitor/art-crop.png",
-        "medium": "https://lorcana-api.com/images/maleficent-sinister_visitor/medium.png"
-      },
       "name": "Maleficent",
-      "ink-cost": 4,
-      "flavor-text": "The princess shall indeed grow in grace and beauty, beloved by all who know her. But before the sun sets on her sixteenth birthday, she shall prick her finger on the spindle of a spinning wheel...",
-      "rarity": "Common"
+      "ink-cost": 4
     }
   }

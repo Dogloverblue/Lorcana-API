@@ -15,11 +15,11 @@
     "inkable": true,
     "subtitle": "Heroic Outlaw",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/aladdin-heroic_outlaw/small.png",
-      "no-art": "https://lorcana-api.com/images/aladdin-heroic_outlaw/no-art.png",
-      "large": "https://lorcana-api.com/images/aladdin-heroic_outlaw/large.png",
-      "art-crop": "https://lorcana-api.com/images/aladdin-heroic_outlaw/art-crop.png",
-      "medium": "https://lorcana-api.com/images/aladdin-heroic_outlaw/medium.png"
+      "small": "https://lorcana-api.com/images/aladdin/heroic_outlaw/small.png",
+      "no-art": "https://lorcana-api.com/images/aladdin/heroic_outlaw/no-art.png",
+      "large": "https://lorcana-api.com/images/aladdin/heroic_outlaw/large.png",
+      "art-crop": "https://lorcana-api.com/images/aladdin/heroic_outlaw/art-crop.png",
+      "medium": "https://lorcana-api.com/images/aladdin/heroic_outlaw/medium.png"
     }],
     "name": "Aladdin",
     "strength": 5,

@@ -15,11 +15,11 @@
     "inkable": true,
     "subtitle": "Disguised",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/jasmine-disguised/small.png",
-      "no-art": "https://lorcana-api.com/images/jasmine-disguised/no-art.png",
-      "large": "https://lorcana-api.com/images/jasmine-disguised/large.png",
-      "art-crop": "https://lorcana-api.com/images/jasmine-disguised/art-crop.png",
-      "medium": "https://lorcana-api.com/images/jasmine-disguised/medium.png"
+      "small": "https://lorcana-api.com/images/jasmine/disguised/small.png",
+      "no-art": "https://lorcana-api.com/images/jasmine/disguised/no-art.png",
+      "large": "https://lorcana-api.com/images/jasmine/disguised/large.png",
+      "art-crop": "https://lorcana-api.com/images/jasmine/disguised/art-crop.png",
+      "medium": "https://lorcana-api.com/images/jasmine/disguised/medium.png"
     }],
     "name": "Jasmine",
     "strength": 3,

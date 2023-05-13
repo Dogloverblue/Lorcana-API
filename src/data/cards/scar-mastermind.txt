@@ -15,11 +15,11 @@
     "inkable": true,
     "subtitle": "Mastermind",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/scar-mastermind/small.png",
-      "no-art": "https://lorcana-api.com/images/scar-mastermind/no-art.png",
-      "large": "https://lorcana-api.com/images/scar-mastermind/large.png",
-      "art-crop": "https://lorcana-api.com/images/scar-mastermind/art-crop.png",
-      "medium": "https://lorcana-api.com/images/scar-mastermind/medium.png"
+      "small": "https://lorcana-api.com/images/scar/mastermind/small.png",
+      "no-art": "https://lorcana-api.com/images/scar/mastermind/no-art.png",
+      "large": "https://lorcana-api.com/images/scar/mastermind/large.png",
+      "art-crop": "https://lorcana-api.com/images/scar/mastermind/art-crop.png",
+      "medium": "https://lorcana-api.com/images/scar/mastermind/medium.png"
     }],
     "name": "Scar",
     "strength": 5,

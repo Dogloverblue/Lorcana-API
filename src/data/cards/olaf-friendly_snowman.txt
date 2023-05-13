@@ -15,11 +15,11 @@
     "inkable": true,
     "subtitle": "Friendly Snowman",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/olaf-friendly_snowman/small.png",
-      "no-art": "https://lorcana-api.com/images/olaf-friendly_snowman/no-art.png",
-      "large": "https://lorcana-api.com/images/olaf-friendly_snowman/large.png",
-      "art-crop": "https://lorcana-api.com/images/olaf-friendly_snowman/art-crop.png",
-      "medium": "https://lorcana-api.com/images/olaf-friendly_snowman/medium.png"
+      "small": "https://lorcana-api.com/images/olaf/friendly_snowman/small.png",
+      "no-art": "https://lorcana-api.com/images/olaf/friendly_snowman/no-art.png",
+      "large": "https://lorcana-api.com/images/olaf/friendly_snowman/large.png",
+      "art-crop": "https://lorcana-api.com/images/olaf/friendly_snowman/art-crop.png",
+      "medium": "https://lorcana-api.com/images/olaf/friendly_snowman/medium.png"
     }],
     "name": "Olaf",
     "strength": 1,

@@ -18,11 +18,11 @@
       "inkable": true,
       "subtitle": "Prince Ali",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/aladdin-prince_ali/small.png",
-        "no-art": "https://lorcana-api.com/images/aladdin-prince_ali/no-art.png",
-        "art-crop": "https://lorcana-api.com/images/aladdin-prince_ali/art-crop.png",
-        "medium": "https://lorcana-api.com/images/aladdin-prince_ali/medium.png",
-        "large": "https://lorcana-api.com/images/aladdin-prince_ali/large.png"
+        "small": "https://lorcana-api.com/images/aladdin/prince_ali/small.png",
+        "no-art": "https://lorcana-api.com/images/aladdin/prince_ali/no-art.png",
+        "large": "https://lorcana-api.com/images/aladdin/prince_ali/large.png",
+        "art-crop": "https://lorcana-api.com/images/aladdin/prince_ali/art-crop.png",
+        "medium": "https://lorcana-api.com/images/aladdin/prince_ali/medium.png"
       },
       "name": "Aladdin",
       "ink-cost": 2,
@@ -48,11 +48,11 @@
       "inkable": true,
       "subtitle": "Heroic Outlaw",
       "image-urls": [{
-        "small": "https://lorcana-api.com/images/aladdin-heroic_outlaw/small.png",
-        "no-art": "https://lorcana-api.com/images/aladdin-heroic_outlaw/no-art.png",
-        "large": "https://lorcana-api.com/images/aladdin-heroic_outlaw/large.png",
-        "art-crop": "https://lorcana-api.com/images/aladdin-heroic_outlaw/art-crop.png",
-        "medium": "https://lorcana-api.com/images/aladdin-heroic_outlaw/medium.png"
+        "small": "https://lorcana-api.com/images/aladdin/heroic_outlaw/small.png",
+        "no-art": "https://lorcana-api.com/images/aladdin/heroic_outlaw/no-art.png",
+        "large": "https://lorcana-api.com/images/aladdin/heroic_outlaw/large.png",
+        "art-crop": "https://lorcana-api.com/images/aladdin/heroic_outlaw/art-crop.png",
+        "medium": "https://lorcana-api.com/images/aladdin/heroic_outlaw/medium.png"
       }],
       "name": "Aladdin",
       "ink-cost": 7

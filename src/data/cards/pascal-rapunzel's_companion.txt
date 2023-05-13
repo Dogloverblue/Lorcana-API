@@ -15,11 +15,11 @@
     "inkable": true,
     "subtitle": "Rapunzel's Companion",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/pascal-rapunzel's_companion/small.png",
-      "no-art": "https://lorcana-api.com/images/pascal-rapunzel's_companion/no-art.png",
-      "large": "https://lorcana-api.com/images/pascal-rapunzel's_companion/large.png",
-      "art-crop": "https://lorcana-api.com/images/pascal-rapunzel's_companion/art-crop.png",
-      "medium": "https://lorcana-api.com/images/pascal-rapunzel's_companion/medium.png"
+      "small": "https://lorcana-api.com/images/pascal/rapunzel's_companion/small.png",
+      "no-art": "https://lorcana-api.com/images/pascal/rapunzel's_companion/no-art.png",
+      "large": "https://lorcana-api.com/images/pascal/rapunzel's_companion/large.png",
+      "art-crop": "https://lorcana-api.com/images/pascal/rapunzel's_companion/art-crop.png",
+      "medium": "https://lorcana-api.com/images/pascal/rapunzel's_companion/medium.png"
     }],
     "name": "Pascal",
     "strength": 1,

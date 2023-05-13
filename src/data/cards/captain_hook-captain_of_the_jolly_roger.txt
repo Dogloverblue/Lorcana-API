@@ -18,11 +18,11 @@
     "inkable": false,
     "subtitle": "Captain of the Jolly Roger",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/captain_hook-captain_of_the_jolly_roger/small.png",
-      "no-art": "https://lorcana-api.com/images/captain_hook-captain_of_the_jolly_roger/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/captain_hook-captain_of_the_jolly_roger/art-crop.png",
-      "medium": "https://lorcana-api.com/images/captain_hook-captain_of_the_jolly_roger/medium.png",
-      "large": "https://lorcana-api.com/images/captain_hook-captain_of_the_jolly_roger/large.png"
+      "small": "https://lorcana-api.com/images/captain_hook/captain_of_the_jolly_roger/small.png",
+      "no-art": "https://lorcana-api.com/images/captain_hook/captain_of_the_jolly_roger/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/captain_hook/captain_of_the_jolly_roger/art-crop.png",
+      "medium": "https://lorcana-api.com/images/captain_hook/captain_of_the_jolly_roger/medium.png",
+      "large": "https://lorcana-api.com/images/captain_hook/captain_of_the_jolly_roger/large.png"
     },
     "name": "Captain Hook",
     "ink-cost": 4,

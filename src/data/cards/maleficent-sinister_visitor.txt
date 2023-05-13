@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "Sinister Visitor",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/maleficent-sinister_visitor/small.png",
-      "no-art": "https://lorcana-api.com/images/maleficent-sinister_visitor/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/maleficent-sinister_visitor/art-crop.png",
-      "medium": "https://lorcana-api.com/images/maleficent-sinister_visitor/medium.png",
-      "large": "https://lorcana-api.com/images/maleficent-sinister_visitor/large.png"
+      "small": "https://lorcana-api.com/images/maleficent/sinister_visitor/small.png",
+      "no-art": "https://lorcana-api.com/images/maleficent/sinister_visitor/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/maleficent/sinister_visitor/art-crop.png",
+      "medium": "https://lorcana-api.com/images/maleficent/sinister_visitor/medium.png",
+      "large": "https://lorcana-api.com/images/maleficent/sinister_visitor/large.png"
     },
     "name": "Maleficent",
     "ink-cost": 4,

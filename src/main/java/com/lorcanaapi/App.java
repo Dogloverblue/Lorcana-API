@@ -1,5 +1,6 @@
 package com.lorcanaapi;
 
+import java.io.File;
 import java.io.IOException;
 import java.net.InetSocketAddress;
 import java.nio.charset.StandardCharsets;
@@ -8,11 +9,8 @@ import java.nio.file.Paths;
 import java.util.HashMap;
 import java.util.Optional;
 
-
-
-
-
-import java.io.File;
+import org.json.JSONException;
+import org.json.JSONObject;
 
 import com.lorcanaapi.handlers.FuzzyHandler;
 import com.lorcanaapi.handlers.JSONHandler;
@@ -42,7 +40,14 @@ public class App {
     public static String getAllNames() {
     	File cardDirectory = new File("src//data//cards");
     	StringBuilder sb = new StringBuilder("[\n");
+    	
     	for (File file : cardDirectory.listFiles()) {
+    		try {
+				JSONObject jo = new JSONObject(Files.readString(Paths.get(file.getAbsolutePath())));
+				jo.getString("name");
+			} catch (JSONException | IOException e) {
+				continue;
+			}
     		sb.append("    \"" + removeFileExtension(file.getName(), true) + "\",\n");
     	}
     	sb.deleteCharAt(sb.length() - 2);

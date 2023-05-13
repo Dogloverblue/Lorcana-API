@@ -1,11 +1,13 @@
 {"voice_of_reason": {
     "traits": null,
     "set": "The First Chapter",
-    "color": "Sapphire",
-    "flavor_text": "\"Excitment... adventure... danger lurking around ever cor- AAAAAGGH!\"",
-    "artist": "Brian Weiyz",
     "lore-value": 1,
+    "color": "Sapphire",
+    "strength": 2,
+    "artist": "Brian Weiyz",
+    "willpower": 2,
     "type": "Character",
+    "flavor_text": "\"Excitment... adventure... danger lurking around ever cor- AAAAAGGH!\"",
     "subtypes": [
       "Storyborn",
       "Ally"
@@ -15,14 +17,12 @@
     "inkable": true,
     "subtitle": "Voice Of Reason",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/flounder-voice_of_reason/small.png",
-      "no-art": "https://lorcana-api.com/images/flounder-voice_of_reason/no-art.png",
-      "large": "https://lorcana-api.com/images/flounder-voice_of_reason/large.png",
-      "art-crop": "https://lorcana-api.com/images/flounder-voice_of_reason/art-crop.png",
-      "medium": "https://lorcana-api.com/images/flounder-voice_of_reason/medium.png"
+      "small": "https://lorcana-api.com/images/flounder/voice_of_reason/small.png",
+      "no-art": "https://lorcana-api.com/images/flounder/voice_of_reason/no-art.png",
+      "large": "https://lorcana-api.com/images/flounder/voice_of_reason/large.png",
+      "art-crop": "https://lorcana-api.com/images/flounder/voice_of_reason/art-crop.png",
+      "medium": "https://lorcana-api.com/images/flounder/voice_of_reason/medium.png"
     }],
     "name": "Flounder",
-    "strength": 2,
-    "ink-cost": 1,
-    "willpower": 2
+    "ink-cost": 1
   }}

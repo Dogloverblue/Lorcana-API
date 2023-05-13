@@ -16,11 +16,11 @@
     "inkable": true,
     "subtitle": "Regal Princess",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/aurora-regal_princess/small.png",
-      "no-art": "https://lorcana-api.com/images/aurora-regal_princess/no-art.png",
-      "large": "https://lorcana-api.com/images/aurora-regal_princess/large.png",
-      "art-crop": "https://lorcana-api.com/images/aurora-regal_princess/art-crop.png",
-      "medium": "https://lorcana-api.com/images/aurora-regal_princess/medium.png"
+      "small": "https://lorcana-api.com/images/aurora/regal_princess/small.png",
+      "no-art": "https://lorcana-api.com/images/aurora/regal_princess/no-art.png",
+      "large": "https://lorcana-api.com/images/aurora/regal_princess/large.png",
+      "art-crop": "https://lorcana-api.com/images/aurora/regal_princess/art-crop.png",
+      "medium": "https://lorcana-api.com/images/aurora/regal_princess/medium.png"
     }],
     "name": "Aurora",
     "strength": 2,

@@ -19,11 +19,11 @@
       "inkable": true,
       "subtitle": "Rock Star",
       "image-urls": [{
-        "small": "https://lorcana-api.com/images/stitch-rock_star/small.png",
-        "no-art": "https://lorcana-api.com/images/stitch-rock_star/no-art.png",
-        "large": "https://lorcana-api.com/images/stitch-rock_star/large.png",
-        "art-crop": "https://lorcana-api.com/images/stitch-rock_star/art-crop.png",
-        "medium": "https://lorcana-api.com/images/stitch-rock_star/medium.png"
+        "small": "https://lorcana-api.com/images/stitch/rock_star/small.png",
+        "no-art": "https://lorcana-api.com/images/stitch/rock_star/no-art.png",
+        "large": "https://lorcana-api.com/images/stitch/rock_star/large.png",
+        "art-crop": "https://lorcana-api.com/images/stitch/rock_star/art-crop.png",
+        "medium": "https://lorcana-api.com/images/stitch/rock_star/medium.png"
       }],
       "name": "Stitch",
       "ink-cost": 6
@@ -47,11 +47,11 @@
       "inkable": true,
       "subtitle": "New Dog",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/stitch-new_dog/small.png",
-        "no-art": "https://lorcana-api.com/images/stitch-new_dog/no-art.png",
-        "art-crop": "https://lorcana-api.com/images/stitch-new_dog/art-crop.png",
-        "medium": "https://lorcana-api.com/images/stitch-new_dog/medium.png",
-        "large": "https://lorcana-api.com/images/stitch-new_dog/large.png"
+        "small": "https://lorcana-api.com/images/stitch/new_dog/small.png",
+        "no-art": "https://lorcana-api.com/images/stitch/new_dog/no-art.png",
+        "large": "https://lorcana-api.com/images/stitch/new_dog/large.png",
+        "art-crop": "https://lorcana-api.com/images/stitch/new_dog/art-crop.png",
+        "medium": "https://lorcana-api.com/images/stitch/new_dog/medium.png"
       },
       "name": "Stitch",
       "ink-cost": 1,

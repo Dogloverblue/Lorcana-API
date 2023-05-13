@@ -16,11 +16,11 @@
     "inkable": true,
     "subtitle": "On Human Legs",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/ariel-on_human_legs/small.png",
-      "no-art": "https://lorcana-api.com/images/ariel-on_human_legs/no-art.png",
-      "large": "https://lorcana-api.com/images/ariel-on_human_legs/large.png",
-      "art-crop": "https://lorcana-api.com/images/ariel-on_human_legs/art-crop.png",
-      "medium": "https://lorcana-api.com/images/ariel-on_human_legs/medium.png"
+      "small": "https://lorcana-api.com/images/ariel/on_human_legs/small.png",
+      "no-art": "https://lorcana-api.com/images/ariel/on_human_legs/no-art.png",
+      "large": "https://lorcana-api.com/images/ariel/on_human_legs/large.png",
+      "art-crop": "https://lorcana-api.com/images/ariel/on_human_legs/art-crop.png",
+      "medium": "https://lorcana-api.com/images/ariel/on_human_legs/medium.png"
     }],
     "name": "Ariel",
     "strength": 3,

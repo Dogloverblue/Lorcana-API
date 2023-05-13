@@ -15,11 +15,11 @@
     "inkable": true,
     "subtitle": "Daredevil",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/goofy-daredevil/small.png",
-      "no-art": "https://lorcana-api.com/images/goofy-daredevil/no-art.png",
-      "large": "https://lorcana-api.com/images/goofy-daredevil/large.png",
-      "art-crop": "https://lorcana-api.com/images/goofy-daredevil/art-crop.png",
-      "medium": "https://lorcana-api.com/images/goofy-daredevil/medium.png"
+      "small": "https://lorcana-api.com/images/goofy/daredevil/small.png",
+      "no-art": "https://lorcana-api.com/images/goofy/daredevil/no-art.png",
+      "large": "https://lorcana-api.com/images/goofy/daredevil/large.png",
+      "art-crop": "https://lorcana-api.com/images/goofy/daredevil/art-crop.png",
+      "medium": "https://lorcana-api.com/images/goofy/daredevil/medium.png"
     }],
     "name": "Goofy",
     "strength": 3,

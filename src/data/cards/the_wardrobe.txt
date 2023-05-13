@@ -1,11 +1,13 @@
 {"belle's_confident": {
     "traits": null,
     "set": "The First Chapter",
-    "color": "Amethyst",
-    "flavor_text": "When you simply must have the hautest counture",
-    "artist": "unknown",
     "lore-value": 1,
+    "color": "Amethyst",
+    "strength": 3,
+    "artist": "unknown",
+    "willpower": 4,
     "type": "Character",
+    "flavor_text": "When you simply must have the hautest counture",
     "subtypes": [
       "Dreamborn",
       "Ally"
@@ -15,14 +17,12 @@
     "inkable": true,
     "subtitle": "Belle's Confident",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/the_wardrobe-belle's_confident/small.png",
-      "no-art": "https://lorcana-api.com/images/the_wardrobe-belle's_confident/no-art.png",
-      "large": "https://lorcana-api.com/images/the_wardrobe-belle's_confident/large.png",
-      "art-crop": "https://lorcana-api.com/images/the_wardrobe-belle's_confident/art-crop.png",
-      "medium": "https://lorcana-api.com/images/the_wardrobe-belle's_confident/medium.png"
+      "small": "https://lorcana-api.com/images/the_wardrobe/belle's_confident/small.png",
+      "no-art": "https://lorcana-api.com/images/the_wardrobe/belle's_confident/no-art.png",
+      "large": "https://lorcana-api.com/images/the_wardrobe/belle's_confident/large.png",
+      "art-crop": "https://lorcana-api.com/images/the_wardrobe/belle's_confident/art-crop.png",
+      "medium": "https://lorcana-api.com/images/the_wardrobe/belle's_confident/medium.png"
     }],
     "name": "The Wardrobe",
-    "strength": 3,
-    "ink-cost": 3,
-    "willpower": 4
+    "ink-cost": 3
   }}

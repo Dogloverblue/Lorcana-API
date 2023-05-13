@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "Snow Queen",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/elsa-snow_queen/small.png",
-      "no-art": "https://lorcana-api.com/images/elsa-snow_queen/no-art.png",
-      "large": "https://lorcana-api.com/images/elsa-snow_queen/large.png",
-      "art-crop": "https://lorcana-api.com/images/elsa-snow_queen/art-crop.png",
-      "medium": "https://lorcana-api.com/images/elsa-snow_queen/medium.png"
+      "small": "https://lorcana-api.com/images/elsa/snow_queen/small.png",
+      "no-art": "https://lorcana-api.com/images/elsa/snow_queen/no-art.png",
+      "large": "https://lorcana-api.com/images/elsa/snow_queen/large.png",
+      "art-crop": "https://lorcana-api.com/images/elsa/snow_queen/art-crop.png",
+      "medium": "https://lorcana-api.com/images/elsa/snow_queen/medium.png"
     }],
     "name": "Elsa",
     "strength": 2,

@@ -20,11 +20,11 @@
     "inkable": true,
     "subtitle": "Returned King",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/simba-returned_king/small.png",
-      "no-art": "https://lorcana-api.com/images/simba-returned_king/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/simba-returned_king/art-crop.png",
-      "medium": "https://lorcana-api.com/images/simba-returned_king/medium.png",
-      "large": "https://lorcana-api.com/images/simba-returned_king/large.png"
+      "small": "https://lorcana-api.com/images/simba/returned_king/small.png",
+      "no-art": "https://lorcana-api.com/images/simba/returned_king/no-art.png",
+      "large": "https://lorcana-api.com/images/simba/returned_king/large.png",
+      "art-crop": "https://lorcana-api.com/images/simba/returned_king/art-crop.png",
+      "medium": "https://lorcana-api.com/images/simba/returned_king/medium.png"
     },
     "name": "Simba",
     "ink-cost": 7,

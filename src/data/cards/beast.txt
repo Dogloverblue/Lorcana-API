@@ -1,11 +1,13 @@
 {"hardheaded": {
     "traits": null,
     "set": "The First Chapter",
-    "color": "Steel",
-    "flavor_text": null,
-    "artist": "Cookie",
     "lore-value": 2,
+    "color": "Steel",
+    "strength": 4,
+    "artist": "Cookie",
+    "willpower": 4,
     "type": "Character",
+    "flavor_text": null,
     "subtypes": [
       "Storyborn",
       "Hero",
@@ -16,14 +18,12 @@
     "inkable": true,
     "subtitle": "Hardheaded",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/beast-hardheaded/small.png",
-      "no-art": "https://lorcana-api.com/images/beast-hardheaded/no-art.png",
-      "large": "https://lorcana-api.com/images/beast-hardheaded/large.png",
-      "art-crop": "https://lorcana-api.com/images/beast-hardheaded/art-crop.png",
-      "medium": "https://lorcana-api.com/images/beast-hardheaded/medium.png"
+      "small": "https://lorcana-api.com/images/beast/hardheaded/small.png",
+      "no-art": "https://lorcana-api.com/images/beast/hardheaded/no-art.png",
+      "large": "https://lorcana-api.com/images/beast/hardheaded/large.png",
+      "art-crop": "https://lorcana-api.com/images/beast/hardheaded/art-crop.png",
+      "medium": "https://lorcana-api.com/images/beast/hardheaded/medium.png"
     }],
     "name": "Beast",
-    "strength": 4,
-    "ink-cost": 5,
-    "willpower": 4
+    "ink-cost": 5
   }}

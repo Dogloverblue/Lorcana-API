@@ -19,11 +19,11 @@
     "inkable": true,
     "subtitle": "Fiery Usurper",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/scar-fiery_usurper/small.png",
-      "no-art": "https://lorcana-api.com/images/scar-fiery_usurper/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/scar-fiery_usurper/art-crop.png",
-      "medium": "https://lorcana-api.com/images/scar-fiery_usurper/medium.png",
-      "large": "https://lorcana-api.com/images/scar-fiery_usurper/large.png"
+      "small": "https://lorcana-api.com/images/scar/fiery_usurper/small.png",
+      "no-art": "https://lorcana-api.com/images/scar/fiery_usurper/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/scar/fiery_usurper/art-crop.png",
+      "medium": "https://lorcana-api.com/images/scar/fiery_usurper/medium.png",
+      "large": "https://lorcana-api.com/images/scar/fiery_usurper/large.png"
     },
     "name": "Scar",
     "ink-cost": 4,

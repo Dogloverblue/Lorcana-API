@@ -1,11 +1,13 @@
 {"regal_princess": {
     "traits": null,
     "set": "The First Chapter",
-    "color": "Sapphire",
-    "flavor_text": "\\\"They say if you dream a thing more than once, it's sure to come true\\\"",
-    "artist": "Samanta Erdini",
     "lore-value": 2,
+    "color": "Sapphire",
+    "strength": 2,
+    "artist": "Samanta Erdini",
+    "willpower": 2,
     "type": "Character",
+    "flavor_text": "\\\"They say if you dream a thing more than once, it's sure to come true\\\"",
     "subtypes": [
       "Storyborn",
       "Hero",
@@ -16,14 +18,12 @@
     "inkable": true,
     "subtitle": "Regal Princess",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/aurora-regal_princess/small.png",
-      "no-art": "https://lorcana-api.com/images/aurora-regal_princess/no-art.png",
-      "large": "https://lorcana-api.com/images/aurora-regal_princess/large.png",
-      "art-crop": "https://lorcana-api.com/images/aurora-regal_princess/art-crop.png",
-      "medium": "https://lorcana-api.com/images/aurora-regal_princess/medium.png"
+      "small": "https://lorcana-api.com/images/aurora/regal_princess/small.png",
+      "no-art": "https://lorcana-api.com/images/aurora/regal_princess/no-art.png",
+      "large": "https://lorcana-api.com/images/aurora/regal_princess/large.png",
+      "art-crop": "https://lorcana-api.com/images/aurora/regal_princess/art-crop.png",
+      "medium": "https://lorcana-api.com/images/aurora/regal_princess/medium.png"
     }],
     "name": "Aurora",
-    "strength": 2,
-    "ink-cost": 2,
-    "willpower": 2
+    "ink-cost": 2
   }}

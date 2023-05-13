@@ -17,11 +17,11 @@
     "inkable": false,
     "subtitle": "Detective",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/mickey_mouse-detective/small.png",
-      "no-art": "https://lorcana-api.com/images/mickey_mouse-detective/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/mickey_mouse-detective/art-crop.png",
-      "medium": "https://lorcana-api.com/images/mickey_mouse-detective/medium.png",
-      "large": "https://lorcana-api.com/images/mickey_mouse-detective/large.png"
+      "small": "https://lorcana-api.com/images/mickey_mouse/detective/small.png",
+      "no-art": "https://lorcana-api.com/images/mickey_mouse/detective/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/mickey_mouse/detective/art-crop.png",
+      "medium": "https://lorcana-api.com/images/mickey_mouse/detective/medium.png",
+      "large": "https://lorcana-api.com/images/mickey_mouse/detective/large.png"
     },
     "name": "Mickey Mouse",
     "ink-cost": 3,

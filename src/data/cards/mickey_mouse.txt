@@ -18,11 +18,11 @@
       "inkable": false,
       "subtitle": "Detective",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/mickey_mouse-detective/small.png",
-        "no-art": "https://lorcana-api.com/images/mickey_mouse-detective/no-art.png",
-        "large": "https://lorcana-api.com/images/mickey_mouse-detective/large.png",
-        "art-crop": "https://lorcana-api.com/images/mickey_mouse-detective/art-crop.png",
-        "medium": "https://lorcana-api.com/images/mickey_mouse-detective/medium.png"
+        "small": "https://lorcana-api.com/images/mickey_mouse/detective/small.png",
+        "no-art": "https://lorcana-api.com/images/mickey_mouse/detective/no-art.png",
+        "large": "https://lorcana-api.com/images/mickey_mouse/detective/large.png",
+        "art-crop": "https://lorcana-api.com/images/mickey_mouse/detective/art-crop.png",
+        "medium": "https://lorcana-api.com/images/mickey_mouse/detective/medium.png"
       },
       "name": "Mickey Mouse",
       "ink-cost": 3,
@@ -48,11 +48,11 @@
       "inkable": true,
       "subtitle": "Musketeer",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/mickey_mouse-musketeer/small.png",
-        "no-art": "https://lorcana-api.com/images/mickey_mouse-musketeer/no-art.png",
-        "art-crop": "https://lorcana-api.com/images/mickey_mouse-musketeer/art-crop.png",
-        "medium": "https://lorcana-api.com/images/mickey_mouse-musketeer/medium.png",
-        "large": "https://lorcana-api.com/images/mickey_mouse-musketeer/large.png"
+        "small": "https://lorcana-api.com/images/mickey_mouse/musketeer/small.png",
+        "no-art": "https://lorcana-api.com/images/mickey_mouse/musketeer/no-art.png",
+        "large": "https://lorcana-api.com/images/mickey_mouse/musketeer/large.png",
+        "art-crop": "https://lorcana-api.com/images/mickey_mouse/musketeer/art-crop.png",
+        "medium": "https://lorcana-api.com/images/mickey_mouse/musketeer/medium.png"
       },
       "name": "Mickey Mouse",
       "ink-cost": 6,
@@ -77,11 +77,11 @@
       "inkable": true,
       "subtitle": "True Friend",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/mickey_mouse-true_friend/small.png",
-        "no-art": "https://lorcana-api.com/images/mickey_mouse-true_friend/no-art.png",
-        "large": "https://lorcana-api.com/images/mickey_mouse-true_friend/large.png",
-        "art-crop": "https://lorcana-api.com/images/mickey_mouse-true_friend/art-crop.png",
-        "medium": "https://lorcana-api.com/images/mickey_mouse-true_friend/medium.png"
+        "small": "https://lorcana-api.com/images/mickey_mouse/true_friend/small.png",
+        "no-art": "https://lorcana-api.com/images/mickey_mouse/true_friend/no-art.png",
+        "large": "https://lorcana-api.com/images/mickey_mouse/true_friend/large.png",
+        "art-crop": "https://lorcana-api.com/images/mickey_mouse/true_friend/art-crop.png",
+        "medium": "https://lorcana-api.com/images/mickey_mouse/true_friend/medium.png"
       },
       "name": "Mickey Mouse",
       "ink-cost": 3,
@@ -107,11 +107,11 @@
       "inkable": true,
       "subtitle": "Brave Little Tailor",
       "image-urls": [{
-        "small": "https://lorcana-api.com/images/mickey_mouse-brave_little_tailor/small.png",
-        "no-art": "https://lorcana-api.com/images/mickey_mouse-brave_little_tailor/no-art.png",
-        "large": "https://lorcana-api.com/images/mickey_mouse-brave_little_tailor/large.png",
-        "art-crop": "https://lorcana-api.com/images/mickey_mouse-brave_little_tailor/art-crop.png",
-        "medium": "https://lorcana-api.com/images/mickey_mouse-brave_little_tailor/medium.png"
+        "small": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/small.png",
+        "no-art": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/no-art.png",
+        "large": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/large.png",
+        "art-crop": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/art-crop.png",
+        "medium": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/medium.png"
       }],
       "name": "Mickey Mouse",
       "ink-cost": 8
@@ -137,11 +137,11 @@
       "inkable": true,
       "subtitle": "Wayward Sorcerer",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/mickey_mouse-wayward_sorcerer/small.png",
-        "no-art": "https://lorcana-api.com/images/mickey_mouse-wayward_sorcerer/no-art.png",
-        "large": "https://lorcana-api.com/images/mickey_mouse-wayward_sorcerer/large.png",
-        "art-crop": "https://lorcana-api.com/images/mickey_mouse-wayward_sorcerer/art-crop.png",
-        "medium": "https://lorcana-api.com/images/mickey_mouse-wayward_sorcerer/medium.png"
+        "small": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/small.png",
+        "no-art": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/no-art.png",
+        "large": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/large.png",
+        "art-crop": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/art-crop.png",
+        "medium": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/medium.png"
       },
       "name": "Mickey Mouse",
       "ink-cost": 4,
@@ -167,11 +167,11 @@
       "inkable": true,
       "subtitle": "Steamboat Pilot",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/mickey_mouse-steamboat_pilot/small.png",
-        "no-art": "https://lorcana-api.com/images/mickey_mouse-steamboat_pilot/no-art.png",
-        "large": "https://lorcana-api.com/images/mickey_mouse-steamboat_pilot/large.png",
-        "art-crop": "https://lorcana-api.com/images/mickey_mouse-steamboat_pilot/art-crop.png",
-        "medium": "https://lorcana-api.com/images/mickey_mouse-steamboat_pilot/medium.png"
+        "small": "https://lorcana-api.com/images/mickey_mouse/steamboat_pilot/small.png",
+        "no-art": "https://lorcana-api.com/images/mickey_mouse/steamboat_pilot/no-art.png",
+        "large": "https://lorcana-api.com/images/mickey_mouse/steamboat_pilot/large.png",
+        "art-crop": "https://lorcana-api.com/images/mickey_mouse/steamboat_pilot/art-crop.png",
+        "medium": "https://lorcana-api.com/images/mickey_mouse/steamboat_pilot/medium.png"
       },
       "name": "Mickey Mouse",
       "ink-cost": 3,

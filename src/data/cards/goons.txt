@@ -1,11 +1,13 @@
 {"maleficent's_underlings": {
     "traits": null,
     "set": "The First Chapter",
-    "color": "Steel",
-    "flavor_text": "They may seem useless, but they came with the castle.",
-    "artist": "Cam Kendall",
     "lore-value": 1,
+    "color": "Steel",
+    "strength": 2,
+    "artist": "Cam Kendall",
+    "willpower": 2,
     "type": "Character",
+    "flavor_text": "They may seem useless, but they came with the castle.",
     "subtypes": [
       "Storyborn",
       "Ally"
@@ -15,14 +17,12 @@
     "inkable": true,
     "subtitle": "Maleficent's Underlings",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/goons-maleficent's_underlings/small.png",
-      "no-art": "https://lorcana-api.com/images/goons-maleficent's_underlings/no-art.png",
-      "large": "https://lorcana-api.com/images/goons-maleficent's_underlings/large.png",
-      "art-crop": "https://lorcana-api.com/images/goons-maleficent's_underlings/art-crop.png",
-      "medium": "https://lorcana-api.com/images/goons-maleficent's_underlings/medium.png"
+      "small": "https://lorcana-api.com/images/goons/maleficent's_underlings/small.png",
+      "no-art": "https://lorcana-api.com/images/goons/maleficent's_underlings/no-art.png",
+      "large": "https://lorcana-api.com/images/goons/maleficent's_underlings/large.png",
+      "art-crop": "https://lorcana-api.com/images/goons/maleficent's_underlings/art-crop.png",
+      "medium": "https://lorcana-api.com/images/goons/maleficent's_underlings/medium.png"
     }],
     "name": "Goons",
-    "strength": 2,
-    "ink-cost": 1,
-    "willpower": 2
+    "ink-cost": 1
   }}

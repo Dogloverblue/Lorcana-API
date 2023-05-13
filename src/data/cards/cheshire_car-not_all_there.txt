@@ -12,11 +12,11 @@
     "inkable": true,
     "subtitle": "Not All There",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/cheshire_car-not_all_there/small.png",
-      "no-art": "https://lorcana-api.com/images/cheshire_car-not_all_there/no-art.png",
-      "large": "https://lorcana-api.com/images/cheshire_car-not_all_there/large.png",
-      "art-crop": "https://lorcana-api.com/images/cheshire_car-not_all_there/art-crop.png",
-      "medium": "https://lorcana-api.com/images/cheshire_car-not_all_there/medium.png"
+      "small": "https://lorcana-api.com/images/cheshire_car/not_all_there/small.png",
+      "no-art": "https://lorcana-api.com/images/cheshire_car/not_all_there/no-art.png",
+      "large": "https://lorcana-api.com/images/cheshire_car/not_all_there/large.png",
+      "art-crop": "https://lorcana-api.com/images/cheshire_car/not_all_there/art-crop.png",
+      "medium": "https://lorcana-api.com/images/cheshire_car/not_all_there/medium.png"
     }],
     "name": "Cheshire Car",
     "strength": 0,

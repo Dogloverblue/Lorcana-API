@@ -1,11 +1,13 @@
 {"daredevil": {
     "traits": null,
     "set": "The First Chapter",
-    "color": "Ruby",
-    "flavor_text": "Sometimes you gotta give it the ol' jump and hyuck.",
-    "artist": "Kenneth Anderson",
     "lore-value": 0,
+    "color": "Ruby",
+    "strength": 3,
+    "artist": "Kenneth Anderson",
+    "willpower": 4,
     "type": "Character",
+    "flavor_text": "Sometimes you gotta give it the ol' jump and hyuck.",
     "subtypes": [
       "Dreamborn",
       "Hero"
@@ -15,14 +17,12 @@
     "inkable": true,
     "subtitle": "Daredevil",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/goofy-daredevil/small.png",
-      "no-art": "https://lorcana-api.com/images/goofy-daredevil/no-art.png",
-      "large": "https://lorcana-api.com/images/goofy-daredevil/large.png",
-      "art-crop": "https://lorcana-api.com/images/goofy-daredevil/art-crop.png",
-      "medium": "https://lorcana-api.com/images/goofy-daredevil/medium.png"
+      "small": "https://lorcana-api.com/images/goofy/daredevil/small.png",
+      "no-art": "https://lorcana-api.com/images/goofy/daredevil/no-art.png",
+      "large": "https://lorcana-api.com/images/goofy/daredevil/large.png",
+      "art-crop": "https://lorcana-api.com/images/goofy/daredevil/art-crop.png",
+      "medium": "https://lorcana-api.com/images/goofy/daredevil/medium.png"
     }],
     "name": "Goofy",
-    "strength": 3,
-    "ink-cost": 5,
-    "willpower": 4
+    "ink-cost": 5
   }}

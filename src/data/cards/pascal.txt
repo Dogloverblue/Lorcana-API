@@ -1,11 +1,13 @@
 {"rapunzel's_companion": {
     "traits": null,
     "set": "The First Chapter",
-    "color": "Amethyst",
-    "flavor_text": "A true friend is always there for you, whether you can see them or not.",
-    "artist": "Brian Weidz",
     "lore-value": 1,
+    "color": "Amethyst",
+    "strength": 1,
+    "artist": "Brian Weidz",
+    "willpower": 1,
     "type": "Character",
+    "flavor_text": "A true friend is always there for you, whether you can see them or not.",
     "subtypes": [
       "Storyborn",
       "Ally"
@@ -15,14 +17,12 @@
     "inkable": true,
     "subtitle": "Rapunzel's Companion",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/pascal-rapunzel's_companion/small.png",
-      "no-art": "https://lorcana-api.com/images/pascal-rapunzel's_companion/no-art.png",
-      "large": "https://lorcana-api.com/images/pascal-rapunzel's_companion/large.png",
-      "art-crop": "https://lorcana-api.com/images/pascal-rapunzel's_companion/art-crop.png",
-      "medium": "https://lorcana-api.com/images/pascal-rapunzel's_companion/medium.png"
+      "small": "https://lorcana-api.com/images/pascal/rapunzel's_companion/small.png",
+      "no-art": "https://lorcana-api.com/images/pascal/rapunzel's_companion/no-art.png",
+      "large": "https://lorcana-api.com/images/pascal/rapunzel's_companion/large.png",
+      "art-crop": "https://lorcana-api.com/images/pascal/rapunzel's_companion/art-crop.png",
+      "medium": "https://lorcana-api.com/images/pascal/rapunzel's_companion/medium.png"
     }],
     "name": "Pascal",
-    "strength": 1,
-    "ink-cost": 1,
-    "willpower": 1
+    "ink-cost": 1
   }}

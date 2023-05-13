@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "Musketeer",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/mickey_mouse-musketeer/small.png",
-      "no-art": "https://lorcana-api.com/images/mickey_mouse-musketeer/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/mickey_mouse-musketeer/art-crop.png",
-      "medium": "https://lorcana-api.com/images/mickey_mouse-musketeer/medium.png",
-      "large": "https://lorcana-api.com/images/mickey_mouse-musketeer/large.png"
+      "small": "https://lorcana-api.com/images/mickey_mouse/musketeer/small.png",
+      "no-art": "https://lorcana-api.com/images/mickey_mouse/musketeer/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/mickey_mouse/musketeer/art-crop.png",
+      "medium": "https://lorcana-api.com/images/mickey_mouse/musketeer/medium.png",
+      "large": "https://lorcana-api.com/images/mickey_mouse/musketeer/large.png"
     },
     "name": "Mickey Mouse",
     "ink-cost": 6,

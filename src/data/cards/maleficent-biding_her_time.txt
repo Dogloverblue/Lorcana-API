@@ -17,11 +17,11 @@
     "inkable": false,
     "subtitle": "Biding Her Time",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/maleficent-biding_her_time/small.png",
-      "no-art": "https://lorcana-api.com/images/maleficent-biding_her_time/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/maleficent-biding_her_time/art-crop.png",
-      "medium": "https://lorcana-api.com/images/maleficent-biding_her_time/medium.png",
-      "large": "https://lorcana-api.com/images/maleficent-biding_her_time/large.png"
+      "small": "https://lorcana-api.com/images/maleficent/biding_her_time/small.png",
+      "no-art": "https://lorcana-api.com/images/maleficent/biding_her_time/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/maleficent/biding_her_time/art-crop.png",
+      "medium": "https://lorcana-api.com/images/maleficent/biding_her_time/medium.png",
+      "large": "https://lorcana-api.com/images/maleficent/biding_her_time/large.png"
     },
     "name": "Maleficent",
     "ink-cost": 1,

@@ -16,11 +16,11 @@
     "inkable": true,
     "subtitle": "True Friend",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/mickey_mouse-true_friend/small.png",
-      "no-art": "https://lorcana-api.com/images/mickey_mouse-true_friend/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/mickey_mouse-true_friend/art-crop.png",
-      "medium": "https://lorcana-api.com/images/mickey_mouse-true_friend/medium.png",
-      "large": "https://lorcana-api.com/images/mickey_mouse-true_friend/large.png"
+      "small": "https://lorcana-api.com/images/mickey_mouse/true_friend/small.png",
+      "no-art": "https://lorcana-api.com/images/mickey_mouse/true_friend/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/mickey_mouse/true_friend/art-crop.png",
+      "medium": "https://lorcana-api.com/images/mickey_mouse/true_friend/medium.png",
+      "large": "https://lorcana-api.com/images/mickey_mouse/true_friend/large.png"
     },
     "name": "Mickey Mouse",
     "ink-cost": 3,

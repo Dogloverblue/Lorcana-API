@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "Prince Ali",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/aladdin-prince_ali/small.png",
-      "no-art": "https://lorcana-api.com/images/aladdin-prince_ali/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/aladdin-prince_ali/art-crop.png",
-      "medium": "https://lorcana-api.com/images/aladdin-prince_ali/medium.png",
-      "large": "https://lorcana-api.com/images/aladdin-prince_ali/large.png"
+      "small": "https://lorcana-api.com/images/aladdin/prince_ali/small.png",
+      "no-art": "https://lorcana-api.com/images/aladdin/prince_ali/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/aladdin/prince_ali/art-crop.png",
+      "medium": "https://lorcana-api.com/images/aladdin/prince_ali/medium.png",
+      "large": "https://lorcana-api.com/images/aladdin/prince_ali/large.png"
     },
     "name": "Aladdin",
     "ink-cost": 2,
