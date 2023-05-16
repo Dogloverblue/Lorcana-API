@@ -1,35 +1,29 @@
-{
-  "name": "Ariel",
-  "subtitle": "On Human Legs",
-  "ink-cost": 4,
-  "inkable": true,
-  "color": "Amber",
-  "diamond-amount": 2,
-  "type": "Character",
-  "subtypes": [
-    "Storyborn",
-    "Hero",
-    "Princess"
-  ],
-  "power": 3,
-  "toughness": 4,
-  "abilities": [
-    {
-      "Voiceless": "This character can't {t} to sing songs."
-    }
-  ],
-  "traits": null,
-  "lore": "\\\"...\\\"",
-  "artist": null,
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/ariel/large.png",
-      "medium": "https://lorcana-api.com/images/ariel/medium.png",
-      "small": "https://lorcana-api.com/images/ariel/small.png",
-      "art-crop": "https://lorcana-api.com/images/ariel/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/ariel/no-art.png"
-    }
-  ]
-}
+{"on_human_legs": {
+    "traits": null,
+    "set": "The First Chapter",
+    "lore-value": 2,
+    "color": "Amber",
+    "strength": 3,
+    "artist": null,
+    "willpower": 4,
+    "type": "Character",
+    "flavor_text": "\\\"...\\\"",
+    "subtypes": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "set-code": "TFC",
+    "abilities": [{"Voiceless": "This character can't {t} to sing songs."}],
+    "inkable": true,
+    "subtitle": "On Human Legs",
+    "image-urls": [{
+      "small": "https://lorcana-api.com/images/ariel/on_human_legs/small.png",
+      "no-art": "https://lorcana-api.com/images/ariel/on_human_legs/no-art.png",
+      "large": "https://lorcana-api.com/images/ariel/on_human_legs/large.png",
+      "art-crop": "https://lorcana-api.com/images/ariel/on_human_legs/art-crop.png",
+      "medium": "https://lorcana-api.com/images/ariel/on_human_legs/medium.png"
+    }],
+    "name": "Ariel",
+    "ink-cost": 4
+  }}

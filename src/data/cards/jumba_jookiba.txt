@@ -1,30 +1,29 @@
-{
-    "name": "Jumba Jookiba",
-    "subtitle": "Renegade Scientist",
-    "ink-cost": 5,
-    "color": "Emerald",
-    "diamond-amount": 2,
-    "type": "Character",
-    "subtypes": [
-        "Dreambron",
-        "Alien",
-        "Inventor"
-    ],
-    "power": 4,
-    "toughness": 5,
-    "abilities": null,
+{"renegade_scientist": {
     "traits": null,
-    "lore": "\"Created something? Ha! But that would be irresponsible and unethical. I would never, ever make more than one.\"",
-    "artist": "unknown",
     "set": "The First Chapter",
+    "lore-value": 2,
+    "color": "Emerald",
+    "strength": 4,
+    "artist": "unknown",
+    "willpower": 5,
+    "type": "Character",
+    "flavor_text": "\"Created something? Ha! But that would be irresponsible and unethical. I would never, ever make more than one.\"",
+    "subtypes": [
+      "Dreambron",
+      "Alien",
+      "Inventor"
+    ],
     "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/jumba_jookiba/large.png",
-      "medium": "https://lorcana-api.com/images/jumba_jookiba/medium.png",
-      "small": "https://lorcana-api.com/images/jumba_jookiba/small.png",
-      "art-crop": "https://lorcana-api.com/images/jumba_jookiba/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/jumba_jookiba/no-art.png"
-    }
-  ]
-}
+    "abilities": null,
+    "inkable": true,
+    "subtitle": "Renegade Scientist",
+    "image-urls": [{
+      "small": "https://lorcana-api.com/images/jumba_jookiba/renegade_scientist/small.png",
+      "no-art": "https://lorcana-api.com/images/jumba_jookiba/renegade_scientist/no-art.png",
+      "large": "https://lorcana-api.com/images/jumba_jookiba/renegade_scientist/large.png",
+      "art-crop": "https://lorcana-api.com/images/jumba_jookiba/renegade_scientist/art-crop.png",
+      "medium": "https://lorcana-api.com/images/jumba_jookiba/renegade_scientist/medium.png"
+    }],
+    "name": "Jumba Jookiba",
+    "ink-cost": 5
+  }}

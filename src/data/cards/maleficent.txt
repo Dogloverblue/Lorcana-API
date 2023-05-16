@@ -1,30 +1,84 @@
 {
-  "name": "Maleficent",
-  "subtitle": "Sinister Visitor",
-  "ink-cost": 4,
-  "color": "Sapphire",
-  "diamond-amount": 2,
-  "type": "Character",
-  "subtypes": [
-    "Storyborn",
-    "Villain",
-    "Sorcerer"
-  ],
-  "power": 3,
-  "toughness": 4,
-  "abilities": null,
-  "traits": null,
-  "lore": "\"The princess shall indeed grow in grace and beauty, beloved by all who know her. But before the sun sets on her sixteenth birthday, she shall prick her finger on the spindle of a spinning wheel...\"",
-  "artist": "Nicholas Kole",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/maleficent/large.png",
-      "medium": "https://lorcana-api.com/images/maleficent/medium.png",
-      "small": "https://lorcana-api.com/images/maleficent/small.png",
-      "art-crop": "https://lorcana-api.com/images/maleficent/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/maleficent/no-art.png"
+    "biding_her_time": {
+      "lore-value": 2,
+      "traits": [],
+      "set": "The First Chapter",
+      "color": "Amethyst",
+      "strength": 1,
+      "artist": "Grace Tran",
+      "willpower": 1,
+      "type": "Character",
+      "subtypes": [
+        "Dreamborn",
+        "Villain",
+        "Sorcerer"
+      ],
+      "set-code": "TFC",
+      "abilities": {},
+      "inkable": false,
+      "subtitle": "Biding Her Time",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/maleficent/biding_her_time/small.png",
+        "no-art": "https://lorcana-api.com/images/maleficent/biding_her_time/no-art.png",
+        "large": "https://lorcana-api.com/images/maleficent/biding_her_time/large.png",
+        "art-crop": "https://lorcana-api.com/images/maleficent/biding_her_time/art-crop.png",
+        "medium": "https://lorcana-api.com/images/maleficent/biding_her_time/medium.png"
+      },
+      "name": "Maleficent",
+      "ink-cost": 1,
+      "flavor-text": "\"One mustn't rush these things, or the greatest plan might come to nothing.\"",
+      "rarity": "Rare"
+    },
+    "sorceress": {
+      "lore-value": 1,
+      "traits": [],
+      "set": "The First Chapter",
+      "color": "Amethyst",
+      "strength": 2,
+      "artist": "Valerio Buonfantino",
+      "willpower": 2,
+      "type": "Character",
+      "subtypes": [
+        "Storyborn",
+        "Villain",
+        "Sorcerer"
+      ],
+      "set-code": "TFC",
+      "abilities": {"Cast My Spell!": "When you play this character, you may draw a card."},
+      "inkable": true,
+      "subtitle": "Sorceress",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/maleficent/sorceress/small.png",
+        "no-art": "https://lorcana-api.com/images/maleficent/sorceress/no-art.png",
+        "large": "https://lorcana-api.com/images/maleficent/sorceress/large.png",
+        "art-crop": "https://lorcana-api.com/images/maleficent/sorceress/art-crop.png",
+        "medium": "https://lorcana-api.com/images/maleficent/sorceress/medium.png"
+      },
+      "name": "Maleficent",
+      "ink-cost": 3,
+      "flavor-text": "\"You dare challenge me? Fool, my magic is more powerful than you could possibly imagine!\"",
+      "rarity": "Common"
+    },
+    "sinister_visitor": {
+      "traits": null,
+      "set": "The First Chapter",
+      "lore-value": 2,
+      "color": "Sapphire",
+      "strength": 3,
+      "artist": "Nicholas Kole",
+      "willpower": 4,
+      "type": "Character",
+      "flavor_text": "\"The princess shall indeed grow in grace and beauty, beloved by all who know her. But before the sun sets on her sixteenth birthday, she shall prick her finger on the spindle of a spinning wheel...\"",
+      "subtypes": [
+        "Storyborn",
+        "Villain",
+        "Sorcerer"
+      ],
+      "set-code": "TFC",
+      "abilities": null,
+      "inkable": true,
+      "subtitle": "Sinister Visitor",
+      "name": "Maleficent",
+      "ink-cost": 4
     }
-  ]
-}
+  }

@@ -1,0 +1,33 @@
+{
+    "lore-value": 2,
+    "traits": [
+      "Challenger",
+      "Evasive"
+    ],
+    "set": "The First Chapter",
+    "color": "Steel",
+    "strength": 4,
+    "artist": "Nicholas Kole",
+    "willpower": 6,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Hero",
+      "King"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Pounce": "During your turn, this character gains Evasive."},
+    "inkable": true,
+    "subtitle": "Returned King",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/simba/returned_king/small.png",
+      "no-art": "https://lorcana-api.com/images/simba/returned_king/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/simba/returned_king/art-crop.png",
+      "medium": "https://lorcana-api.com/images/simba/returned_king/medium.png",
+      "large": "https://lorcana-api.com/images/simba/returned_king/large.png"
+    },
+    "name": "Simba",
+    "ink-cost": 7,
+    "flavor-text": "\"I'll do whatever it takes to save my kingdom.\"",
+    "rarity": "Rare"
+  }

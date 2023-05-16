@@ -1,32 +1,29 @@
-{
-  "name": "Hercules",
-  "subtitle": "True Hero",
-  "ink-cost": 3,
-  "color": "Steel",
-  "diamond-amount": 1,
-  "type": "Character",
-  "subtypes": [
-    "Dreamborn",
-    "Hero",
-    "Prince"
-  ],
-  "power": 3,
-  "toughness": 3,
-  "abilities": null,
-  "traits": [
-    "Bodyguard (This character may enter play excerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)"
-  ],
-  "lore": "\\\"You gotta admit, that was pretty heroic.\\\"",
-  "artist": "Marcel Berg",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/hercules/large.png",
-      "medium": "https://lorcana-api.com/images/hercules/medium.png",
-      "small": "https://lorcana-api.com/images/hercules/small.png",
-      "art-crop": "https://lorcana-api.com/images/hercules/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/hercules/no-art.png"
-    }
-  ]
-}
+{"true_hero": {
+    "traits": ["Bodyguard (This character may enter play excerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)"],
+    "set": "The First Chapter",
+    "lore-value": 1,
+    "color": "Steel",
+    "strength": 3,
+    "artist": "Marcel Berg",
+    "willpower": 3,
+    "type": "Character",
+    "flavor_text": "\\\"You gotta admit, that was pretty heroic.\\\"",
+    "subtypes": [
+      "Dreamborn",
+      "Hero",
+      "Prince"
+    ],
+    "set-code": "TFC",
+    "abilities": null,
+    "inkable": true,
+    "subtitle": "True Hero",
+    "image-urls": [{
+      "small": "https://lorcana-api.com/images/hercules/true_hero/small.png",
+      "no-art": "https://lorcana-api.com/images/hercules/true_hero/no-art.png",
+      "large": "https://lorcana-api.com/images/hercules/true_hero/large.png",
+      "art-crop": "https://lorcana-api.com/images/hercules/true_hero/art-crop.png",
+      "medium": "https://lorcana-api.com/images/hercules/true_hero/medium.png"
+    }],
+    "name": "Hercules",
+    "ink-cost": 3
+  }}

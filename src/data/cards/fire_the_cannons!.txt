@@ -1,20 +1,19 @@
 {
-  "name": "Fire The Cannons!",
-  "ink-cost": 1,
-  "color": "Steel",
-  "type": "Action",
-  "effect": "Deal 2 damage to chosen character",
-  "lore": "Captain Hook: \"Double the powder and shorten the fuse!\" Mr. Smee: \"Shorten the powder and double the fuse!\"",
-  "artist": "Matt Chapman",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/fire_the_cannons!/large.png",
-      "medium": "https://lorcana-api.com/images/fire_the_cannons!/medium.png",
+    "set": "The First Chapter",
+    "color": "Steel",
+    "flavor_text": "Captain Hook: \"Double the powder and shorten the fuse!\" Mr. Smee: \"Shorten the powder and double the fuse!\"",
+    "inkable": false,
+    "artist": "Matt Chapman",
+    "effect": "Deal 2 damage to chosen character",
+    "image-urls": [{
       "small": "https://lorcana-api.com/images/fire_the_cannons!/small.png",
+      "no-art": "https://lorcana-api.com/images/fire_the_cannons!/no-art.png",
+      "large": "https://lorcana-api.com/images/fire_the_cannons!/large.png",
       "art-crop": "https://lorcana-api.com/images/fire_the_cannons!/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/fire_the_cannons!/no-art.png"
-    }
-  ]
-}
+      "medium": "https://lorcana-api.com/images/fire_the_cannons!/medium.png"
+    }],
+    "name": "Fire The Cannons!",
+    "ink-cost": 1,
+    "type": "Action",
+    "set-code": "TFC"
+  }

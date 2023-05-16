@@ -1,32 +1,29 @@
-{
-  "name": "Prince Eric",
-  "subtitle": "Dashing and Brave",
-  "ink-cost": 2,
-  "color": "Steel",
-  "diamond-amount": 1,
-  "type": "Character",
-  "subtypes": [
-    "Storyborn",
-    "Hero",
-    "Prince"
-  ],
-  "power": 1,
-  "toughness": 3,
-  "abilities": null,
-  "traits": [
-    "Challenger 2"
-  ],
-  "lore": "\\\"I lost her once! I'm not gonna lose her again!\\\"",
-  "artist": "Cristian Romero",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/prince_eric/large.png",
-      "medium": "https://lorcana-api.com/images/prince_eric/medium.png",
-      "small": "https://lorcana-api.com/images/prince_eric/small.png",
-      "art-crop": "https://lorcana-api.com/images/prince_eric/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/prince_eric/no-art.png"
-    }
-  ]
-}
+{"dashing_and_brave": {
+    "traits": ["Challenger 2"],
+    "set": "The First Chapter",
+    "lore-value": 1,
+    "color": "Steel",
+    "strength": 1,
+    "artist": "Cristian Romero",
+    "willpower": 3,
+    "type": "Character",
+    "flavor_text": "\\\"I lost her once! I'm not gonna lose her again!\\\"",
+    "subtypes": [
+      "Storyborn",
+      "Hero",
+      "Prince"
+    ],
+    "set-code": "TFC",
+    "abilities": null,
+    "inkable": true,
+    "subtitle": "Dashing and Brave",
+    "image-urls": [{
+      "small": "https://lorcana-api.com/images/prince_eric/dashing_and_brave/small.png",
+      "no-art": "https://lorcana-api.com/images/prince_eric/dashing_and_brave/no-art.png",
+      "large": "https://lorcana-api.com/images/prince_eric/dashing_and_brave/large.png",
+      "art-crop": "https://lorcana-api.com/images/prince_eric/dashing_and_brave/art-crop.png",
+      "medium": "https://lorcana-api.com/images/prince_eric/dashing_and_brave/medium.png"
+    }],
+    "name": "Prince Eric",
+    "ink-cost": 2
+  }}

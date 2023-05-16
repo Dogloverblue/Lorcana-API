@@ -1,31 +1,28 @@
-{
-  "name": "Heihei",
-  "subtitle": "Boat Snack",
-  "ink-cost": 1,
-  "color": "Amber",
-  "diamond-amount": 1,
-  "type": "Character",
-  "subtypes": [
-    "Storyborn",
-    "Ally"
-  ],
-  "power": 1,
-  "toughness": 2,
-  "abilities": null,
-  "traits": [
-    "Support (When this character quests, you may add thier * to another chosen character's * this turn)"
-  ],
-  "lore": "\\\"Sometimes, our strengths lie beneath the surface. Far beneath, in some cases...\\\" -Moana",
-  "artist": "Jenna Gray",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/heihei/large.png",
-      "medium": "https://lorcana-api.com/images/heihei/medium.png",
-      "small": "https://lorcana-api.com/images/heihei/small.png",
-      "art-crop": "https://lorcana-api.com/images/heihei/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/heihei/no-art.png"
-    }
-  ]
-}
+{"boat_snack": {
+    "traits": ["Support (When this character quests, you may add thier * to another chosen character's * this turn)"],
+    "set": "The First Chapter",
+    "lore-value": 1,
+    "color": "Amber",
+    "strength": 1,
+    "artist": "Jenna Gray",
+    "willpower": 2,
+    "type": "Character",
+    "flavor_text": "\\\"Sometimes, our strengths lie beneath the surface. Far beneath, in some cases...\\\" -Moana",
+    "subtypes": [
+      "Storyborn",
+      "Ally"
+    ],
+    "set-code": "TFC",
+    "abilities": null,
+    "inkable": true,
+    "subtitle": "Boat Snack",
+    "image-urls": [{
+      "small": "https://lorcana-api.com/images/heihei/boat_snack/small.png",
+      "no-art": "https://lorcana-api.com/images/heihei/boat_snack/no-art.png",
+      "large": "https://lorcana-api.com/images/heihei/boat_snack/large.png",
+      "art-crop": "https://lorcana-api.com/images/heihei/boat_snack/art-crop.png",
+      "medium": "https://lorcana-api.com/images/heihei/boat_snack/medium.png"
+    }],
+    "name": "Heihei",
+    "ink-cost": 1
+  }}

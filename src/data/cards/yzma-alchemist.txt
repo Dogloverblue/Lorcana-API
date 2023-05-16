@@ -1,0 +1,29 @@
+{
+    "traits": null,
+    "set": "The First Chapter",
+    "color": "Amethyst",
+    "flavor_text": "\\\"When I want your opinion, I will give it to you\\\"",
+    "artist": "Hadjie Joos",
+    "lore-value": 1,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Villain",
+      "Sorcerer"
+    ],
+    "set-code": "TFC",
+    "abilities": [{"You're Excused": "Whenever this character quests, look at the top card of your deck. Put it on either the top or the bottom of your deck"}],
+    "inkable": true,
+    "subtitle": "Alchemist",
+    "image-urls": [{
+      "small": "https://lorcana-api.com/images/yzma/alchemist/small.png",
+      "no-art": "https://lorcana-api.com/images/yzma/alchemist/no-art.png",
+      "large": "https://lorcana-api.com/images/yzma/alchemist/large.png",
+      "art-crop": "https://lorcana-api.com/images/yzma/alchemist/art-crop.png",
+      "medium": "https://lorcana-api.com/images/yzma/alchemist/medium.png"
+    }],
+    "name": "Yzma",
+    "strength": 2,
+    "ink-cost": 2,
+    "willpower": 2
+  }

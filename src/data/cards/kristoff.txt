@@ -1,29 +1,28 @@
-{
-    "name": "Kristoff",
-    "subtitle": "Offical Ice Master",
-    "ink-cost": 3,
-    "color": "Steel",
-    "diamond-amount": 0,
-    "type": "Character",
-    "subtypes": [
-        "Storyborn",
-        "Ally"
-    ],
-    "power": 3,
-    "toughness": 3,
-    "abilities": null,
+{"offical_ice_master": {
     "traits": null,
-    "lore": "Kristoff: \"You want to talk about a supply and demand problem? I sell ice for a living\" Anna: \"Ooh, that's a rough buisness to be in right now. I mean, that is really—ah, mm. That's unfortunate.\"",
-    "artist": "Ron Baird",
     "set": "The First Chapter",
+    "lore-value": 0,
+    "color": "Steel",
+    "strength": 3,
+    "artist": "Ron Baird",
+    "willpower": 3,
+    "type": "Character",
+    "flavor_text": "Kristoff: \"You want to talk about a supply and demand problem? I sell ice for a living\" Anna: \"Ooh, that's a rough buisness to be in right now. I mean, that is really-ah, mm. That's unfortunate.\"",
+    "subtypes": [
+      "Storyborn",
+      "Ally"
+    ],
     "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/kristoff/large.png",
-      "medium": "https://lorcana-api.com/images/kristoff/medium.png",
-      "small": "https://lorcana-api.com/images/kristoff/small.png",
-      "art-crop": "https://lorcana-api.com/images/kristoff/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/kristoff/no-art.png"
-    }
-  ]
-}
+    "abilities": null,
+    "inkable": true,
+    "subtitle": "Offical Ice Master",
+    "image-urls": [{
+      "small": "https://lorcana-api.com/images/kristoff/offical_ice_master/small.png",
+      "no-art": "https://lorcana-api.com/images/kristoff/offical_ice_master/no-art.png",
+      "large": "https://lorcana-api.com/images/kristoff/offical_ice_master/large.png",
+      "art-crop": "https://lorcana-api.com/images/kristoff/offical_ice_master/art-crop.png",
+      "medium": "https://lorcana-api.com/images/kristoff/offical_ice_master/medium.png"
+    }],
+    "name": "Kristoff",
+    "ink-cost": 3
+  }}

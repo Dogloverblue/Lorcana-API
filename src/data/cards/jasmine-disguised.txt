@@ -1,0 +1,28 @@
+{
+    "traits": null,
+    "set": "The First Chapter",
+    "color": "Sapphire",
+    "flavor_text": "\\\"Try to understand. I've never done a thing on my own. I've never had any real friends.... I've never even been outside the palace walls.\\\"",
+    "artist": "R. La Barbera/L. Giammichele",
+    "lore-value": 2,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Princess"
+    ],
+    "set-code": "TFC",
+    "abilities": null,
+    "inkable": true,
+    "subtitle": "Disguised",
+    "image-urls": [{
+      "small": "https://lorcana-api.com/images/jasmine/disguised/small.png",
+      "no-art": "https://lorcana-api.com/images/jasmine/disguised/no-art.png",
+      "large": "https://lorcana-api.com/images/jasmine/disguised/large.png",
+      "art-crop": "https://lorcana-api.com/images/jasmine/disguised/art-crop.png",
+      "medium": "https://lorcana-api.com/images/jasmine/disguised/medium.png"
+    }],
+    "name": "Jasmine",
+    "strength": 3,
+    "ink-cost": 3,
+    "willpower": 3
+  }

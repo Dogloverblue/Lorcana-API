@@ -1,31 +1,181 @@
 {
-    "name": "Mickey Mouse",
-    "subtitle": "Brave Little Tailor",
-    "ink-cost": 8,
-    "color": "Ruby",
-    "diamond-amount": 4,
-    "type": "character",
-    "subtypes": [
+    "detective": {
+      "lore-value": 1,
+      "traits": [],
+      "set": "The First Chapter",
+      "color": "Sapphire",
+      "strength": 1,
+      "artist": "Jared Nickerl",
+      "willpower": 3,
+      "type": "Character",
+      "subtypes": [
+        "Dreamborn",
+        "Hero",
+        "Detective"
+      ],
+      "set-code": "TFC",
+      "abilities": {"Get A Clue": "When you play this character, you may put the top card of your deck into your inkwell facedown and excerted."},
+      "inkable": false,
+      "subtitle": "Detective",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/mickey_mouse/detective/small.png",
+        "no-art": "https://lorcana-api.com/images/mickey_mouse/detective/no-art.png",
+        "large": "https://lorcana-api.com/images/mickey_mouse/detective/large.png",
+        "art-crop": "https://lorcana-api.com/images/mickey_mouse/detective/art-crop.png",
+        "medium": "https://lorcana-api.com/images/mickey_mouse/detective/medium.png"
+      },
+      "name": "Mickey Mouse",
+      "ink-cost": 3,
+      "flavor-text": "Whereever the seawees had come frim, Mickey was sure of one thing: something fishy was going on",
+      "rarity": "Uncommon"
+    },
+    "musketeer": {
+      "lore-value": 2,
+      "traits": [""],
+      "set": "The First Chapter",
+      "color": "Steel",
+      "strength": 2,
+      "artist": "Jochem Van Gool",
+      "willpower": 7,
+      "type": "Character",
+      "subtypes": [
+        "Dreamborn",
+        "Hero",
+        "Musketeer"
+      ],
+      "set-code": "TFC",
+      "abilities": {"All For One": "Your other musketeer character get +1{str}"},
+      "inkable": true,
+      "subtitle": "Musketeer",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/mickey_mouse/musketeer/small.png",
+        "no-art": "https://lorcana-api.com/images/mickey_mouse/musketeer/no-art.png",
+        "large": "https://lorcana-api.com/images/mickey_mouse/musketeer/large.png",
+        "art-crop": "https://lorcana-api.com/images/mickey_mouse/musketeer/art-crop.png",
+        "medium": "https://lorcana-api.com/images/mickey_mouse/musketeer/medium.png"
+      },
+      "name": "Mickey Mouse",
+      "ink-cost": 6,
+      "flavor-text": "Bodyguard",
+      "rarity": "Rare"
+    },
+    "true_friend": {
+      "lore-value": 2,
+      "traits": [],
+      "set": "The First Chapter",
+      "color": "Amber",
+      "strength": 3,
+      "artist": "Dave Beauchene",
+      "willpower": 3,
+      "type": "Character",
+      "subtypes": [
+        "Storyborn",
+        "Hero"
+      ],
+      "set-code": "TFC",
+      "abilities": {},
+      "inkable": true,
+      "subtitle": "True Friend",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/mickey_mouse/true_friend/small.png",
+        "no-art": "https://lorcana-api.com/images/mickey_mouse/true_friend/no-art.png",
+        "large": "https://lorcana-api.com/images/mickey_mouse/true_friend/large.png",
+        "art-crop": "https://lorcana-api.com/images/mickey_mouse/true_friend/art-crop.png",
+        "medium": "https://lorcana-api.com/images/mickey_mouse/true_friend/medium.png"
+      },
+      "name": "Mickey Mouse",
+      "ink-cost": 3,
+      "flavor-text": "As long as he's around, new comers to the great illuminary will always get a warm welcome",
+      "rarity": "Uncommon"
+    },
+    "brave_little_tailor": {
+      "traits": ["Evasive (Only characters with Evasive can challenge this characer.)"],
+      "set": "The First Chapter",
+      "lore-value": 4,
+      "color": "Ruby",
+      "strength": 5,
+      "artist": "Nicolas Kole",
+      "willpower": 5,
+      "type": "character",
+      "flavor_text": "When defeat looms and victory hangs by a thread, a hero bolts to the rescue, patching things up through shear determination.",
+      "subtypes": [
         "Dreamborn",
         "Hero"
-    ],
-    "power": 5,
-    "toughness": 5,
-    "abilities": null,
-    "traits": [
-        "Evasive (Only characters with Evasive can challenge this characer.)"
-    ],
-    "lore": "When defeat looms and victory hangs by a thread, a hero bolts to the rescue, patching things up through shear determination.",
-    "artist": "Nicolas Kole",
-    "set": "The First Chapter",
-    "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/mickey_mouse/large.png",
-      "medium": "https://lorcana-api.com/images/mickey_mouse/medium.png",
-      "small": "https://lorcana-api.com/images/mickey_mouse/small.png",
-      "art-crop": "https://lorcana-api.com/images/mickey_mouse/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/mickey_mouse/no-art.png"
+      ],
+      "set-code": "TFC",
+      "abilities": null,
+      "inkable": true,
+      "subtitle": "Brave Little Tailor",
+      "image-urls": [{
+        "small": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/small.png",
+        "no-art": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/no-art.png",
+        "large": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/large.png",
+        "art-crop": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/art-crop.png",
+        "medium": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/medium.png"
+      }],
+      "name": "Mickey Mouse",
+      "ink-cost": 8
+    },
+    "wayward_sorcerer": {
+      "lore-value": 2,
+      "traits": [],
+      "set": "The First Chapter",
+      "color": "Amethyst",
+      "strength": 3,
+      "artist": "Nicholas Kole",
+      "willpower": 4,
+      "type": "Character",
+      "subtypes": [
+        "Dreamborn",
+        "Sorcerer"
+      ],
+      "set-code": "TFC",
+      "abilities": {
+        "Animate Broom": "You pay 1 {i} less to play Broom characters",
+        "Ceaseless Worker": "Whenever one of your Broom characters is banished in a challenge, you may return that card to your hand."
+      },
+      "inkable": true,
+      "subtitle": "Wayward Sorcerer",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/small.png",
+        "no-art": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/no-art.png",
+        "large": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/large.png",
+        "art-crop": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/art-crop.png",
+        "medium": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/medium.png"
+      },
+      "name": "Mickey Mouse",
+      "ink-cost": 4,
+      "flavor-text": "He always goes for the clean sweep.",
+      "rarity": "Super Rare"
+    },
+    "steamboat_pilot": {
+      "lore-value": 1,
+      "traits": [],
+      "set": "The First Chapter",
+      "color": "Emerald",
+      "strength": 3,
+      "artist": "Juan Diego Leon",
+      "willpower": 4,
+      "type": "Character",
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Captain"
+      ],
+      "set-code": "TFC",
+      "abilities": {},
+      "inkable": true,
+      "subtitle": "Steamboat Pilot",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/mickey_mouse/steamboat_pilot/small.png",
+        "no-art": "https://lorcana-api.com/images/mickey_mouse/steamboat_pilot/no-art.png",
+        "large": "https://lorcana-api.com/images/mickey_mouse/steamboat_pilot/large.png",
+        "art-crop": "https://lorcana-api.com/images/mickey_mouse/steamboat_pilot/art-crop.png",
+        "medium": "https://lorcana-api.com/images/mickey_mouse/steamboat_pilot/medium.png"
+      },
+      "name": "Mickey Mouse",
+      "ink-cost": 3,
+      "flavor-text": "On rivers throughout the Inklands, the little steamboat's whistle answers the cheery tunes of its pilot",
+      "rarity": "Common"
     }
-  ]
-}
+  }

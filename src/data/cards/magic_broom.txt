@@ -1,33 +1,28 @@
-{
-  "name": "Magic Broom",
-  "subtitle": "Bucket Brigade",
-  "ink-cost": 2,
-  "color": "Amethyst",
-  "diamond-amount": 1,
-  "type": "Character",
-  "subtypes": [
-    "Dreamborn",
-    "Broom"
-  ],
-  "power": 2,
-  "toughness": 2,
-  "abilities": [
-    {
-      "Sweep": "When you play this character, you may shuffle a card from any discard into it's player's deck."
-    }
-  ],
-  "traits": null,
-  "lore": "In the immense story-forge known as the Great Illuminary, there is always work to be done.",
-  "artist": "Dav Augereau / Guykua Ruwa",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/magic_broom/large.png",
-      "medium": "https://lorcana-api.com/images/magic_broom/medium.png",
-      "small": "https://lorcana-api.com/images/magic_broom/small.png",
-      "art-crop": "https://lorcana-api.com/images/magic_broom/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/magic_broom/no-art.png"
-    }
-  ]
-}
+{"bucket_brigade": {
+    "traits": null,
+    "set": "The First Chapter",
+    "lore-value": 1,
+    "color": "Amethyst",
+    "strength": 2,
+    "artist": "Dav Augereau / Guykua Ruwa",
+    "willpower": 2,
+    "type": "Character",
+    "flavor_text": "In the immense story-forge known as the Great Illuminary, there is always work to be done.",
+    "subtypes": [
+      "Dreamborn",
+      "Broom"
+    ],
+    "set-code": "TFC",
+    "abilities": [{"Sweep": "When you play this character, you may shuffle a card from any discard into it's player's deck."}],
+    "inkable": true,
+    "subtitle": "Bucket Brigade",
+    "image-urls": [{
+      "small": "https://lorcana-api.com/images/magic_broom/bucket_brigade/small.png",
+      "no-art": "https://lorcana-api.com/images/magic_broom/bucket_brigade/no-art.png",
+      "large": "https://lorcana-api.com/images/magic_broom/bucket_brigade/large.png",
+      "art-crop": "https://lorcana-api.com/images/magic_broom/bucket_brigade/art-crop.png",
+      "medium": "https://lorcana-api.com/images/magic_broom/bucket_brigade/medium.png"
+    }],
+    "name": "Magic Broom",
+    "ink-cost": 2
+  }}

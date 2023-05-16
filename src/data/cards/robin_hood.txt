@@ -1,36 +1,31 @@
-{
-    "name": "Robin Hood",
-    "subtitle": "Unrivaled Archer",
-    "ink-cost": 6,
-    "color": "Sapphire",
-    "diamond-amount": 2,
-    "type": "character",
-    "subtypes": [
-        "Storyborn",
-        "Hero"
-    ],
-    "power": 4,
-    "toughness": 4,
-    "abilities": [
-        {
-            "Feed The Poor": "When you play this character, if an opponent has more cards in their hand than you, draw a card."
-        },
-        {
-            "Good Shot": "During your turn, this character has Evasive. (They can challenge characters with Evasive.)"
-        }
-    ],
+{"unrivaled_archer": {
     "traits": null,
-    "lore": "\"We never rob. We just sort of borrow a bit from those who can afford it.\"",
-    "artist": "John Loren",
     "set": "The First Chapter",
+    "lore-value": 2,
+    "color": "Sapphire",
+    "strength": 4,
+    "artist": "John Loren",
+    "willpower": 4,
+    "type": "character",
+    "flavor_text": "\"We never rob. We just sort of borrow a bit from those who can afford it.\"",
+    "subtypes": [
+      "Storyborn",
+      "Hero"
+    ],
     "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/robin_hood/large.png",
-      "medium": "https://lorcana-api.com/images/robin_hood/medium.png",
-      "small": "https://lorcana-api.com/images/robin_hood/small.png",
-      "art-crop": "https://lorcana-api.com/images/robin_hood/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/robin_hood/no-art.png"
-    }
-  ]
-}
+    "abilities": [
+      {"Feed The Poor": "When you play this character, if an opponent has more cards in their hand than you, draw a card."},
+      {"Good Shot": "During your turn, this character has Evasive. (They can challenge characters with Evasive.)"}
+    ],
+    "inkable": true,
+    "subtitle": "Unrivaled Archer",
+    "image-urls": [{
+      "small": "https://lorcana-api.com/images/robin_hood/unrivaled_archer/small.png",
+      "no-art": "https://lorcana-api.com/images/robin_hood/unrivaled_archer/no-art.png",
+      "large": "https://lorcana-api.com/images/robin_hood/unrivaled_archer/large.png",
+      "art-crop": "https://lorcana-api.com/images/robin_hood/unrivaled_archer/art-crop.png",
+      "medium": "https://lorcana-api.com/images/robin_hood/unrivaled_archer/medium.png"
+    }],
+    "name": "Robin Hood",
+    "ink-cost": 6
+  }}

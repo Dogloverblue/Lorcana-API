@@ -1,20 +1,19 @@
 {
+    "set": "The First Chapter",
+    "color": "Ruby",
+    "flavor_text": null,
+    "inkable": true,
+    "artist": "unknown",
+    "effect": "Banish chosen character",
+    "image-urls": [{
+      "small": "https://lorcana-api.com/images/dragon_fire/small.png",
+      "no-art": "https://lorcana-api.com/images/dragon_fire/no-art.png",
+      "large": "https://lorcana-api.com/images/dragon_fire/large.png",
+      "art-crop": "https://lorcana-api.com/images/dragon_fire/art-crop.png",
+      "medium": "https://lorcana-api.com/images/dragon_fire/medium.png"
+    }],
     "name": "Dragon Fire",
     "ink-cost": 5,
-    "color": "Ruby",
     "type": "Action",
-    "effect": "Banish chosen character",
-    "lore": null,
-    "artist": "unknown",
-    "set": "The First Chapter",
-    "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/dragon_fire/large.png",
-      "medium": "https://lorcana-api.com/images/dragon_fire/medium.png",
-      "small": "https://lorcana-api.com/images/dragon_fire/small.png",
-      "art-crop": "https://lorcana-api.com/images/dragon_fire/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/dragon_fire/no-art.png"
-    }
-  ]
-}
+    "set-code": "TFC"
+  }

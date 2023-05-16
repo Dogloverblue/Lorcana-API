@@ -1,29 +1,28 @@
-{
-  "name": "Flounder",
-  "subtitle": "Voice Of Reason",
-  "ink-cost": 1,
-  "color": "Sapphire",
-  "diamond-amount": 1,
-  "type": "Character",
-  "subtypes": [
-    "Storyborn",
-    "Ally"
-  ],
-  "power": 2,
-  "toughness": 2,
-  "abilities": null,
-  "traits": null,
-  "lore": "\"Excitment... adventure... danger lurking around ever cor- AAAAAGGH!\"",
-  "artist": "Brian Weiyz",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/flounder/large.png",
-      "medium": "https://lorcana-api.com/images/flounder/medium.png",
-      "small": "https://lorcana-api.com/images/flounder/small.png",
-      "art-crop": "https://lorcana-api.com/images/flounder/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/flounder/no-art.png"
-    }
-  ]
-}
+{"voice_of_reason": {
+    "traits": null,
+    "set": "The First Chapter",
+    "lore-value": 1,
+    "color": "Sapphire",
+    "strength": 2,
+    "artist": "Brian Weiyz",
+    "willpower": 2,
+    "type": "Character",
+    "flavor_text": "\"Excitment... adventure... danger lurking around ever cor- AAAAAGGH!\"",
+    "subtypes": [
+      "Storyborn",
+      "Ally"
+    ],
+    "set-code": "TFC",
+    "abilities": null,
+    "inkable": true,
+    "subtitle": "Voice Of Reason",
+    "image-urls": [{
+      "small": "https://lorcana-api.com/images/flounder/voice_of_reason/small.png",
+      "no-art": "https://lorcana-api.com/images/flounder/voice_of_reason/no-art.png",
+      "large": "https://lorcana-api.com/images/flounder/voice_of_reason/large.png",
+      "art-crop": "https://lorcana-api.com/images/flounder/voice_of_reason/art-crop.png",
+      "medium": "https://lorcana-api.com/images/flounder/voice_of_reason/medium.png"
+    }],
+    "name": "Flounder",
+    "ink-cost": 1
+  }}

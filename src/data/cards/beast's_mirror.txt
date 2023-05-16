@@ -1,25 +1,20 @@
 {
-  "name": "Beast's Mirror",
-  "ink-cost": 2,
-  "color": "Steel",
-  "type": "Item",
-  "effect": null,
-  "abilities": [
-    {
-      "Show Me": "{t}, 3? - If you have no cards in your hand, draw a card."
-    }
-  ],
-  "lore": "Ashamed of his monstrous form, the Beast concealed himself inside his castle, with a magic mirror as his only window to the outside world.",
-  "artist": "Samanta Erdini",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/beast's_mirror/large.png",
-      "medium": "https://lorcana-api.com/images/beast's_mirror/medium.png",
+    "abilities": [{"Show Me": "{t}, 3? - If you have no cards in your hand, draw a card."}],
+    "set": "The First Chapter",
+    "color": "Steel",
+    "flavor_text": "Ashamed of his monstrous form, the Beast concealed himself inside his castle, with a magic mirror as his only window to the outside world.",
+    "inkable": true,
+    "artist": "Samanta Erdini",
+    "effect": null,
+    "image-urls": [{
       "small": "https://lorcana-api.com/images/beast's_mirror/small.png",
+      "no-art": "https://lorcana-api.com/images/beast's_mirror/no-art.png",
+      "large": "https://lorcana-api.com/images/beast's_mirror/large.png",
       "art-crop": "https://lorcana-api.com/images/beast's_mirror/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/beast's_mirror/no-art.png"
-    }
-  ]
-}
+      "medium": "https://lorcana-api.com/images/beast's_mirror/medium.png"
+    }],
+    "name": "Beast's Mirror",
+    "ink-cost": 2,
+    "type": "Item",
+    "set-code": "TFC"
+  }

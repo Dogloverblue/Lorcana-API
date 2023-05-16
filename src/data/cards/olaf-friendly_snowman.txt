@@ -1,0 +1,28 @@
+{
+    "traits": null,
+    "set": "The First Chapter",
+    "color": "Amethyst",
+    "flavor_text": "\"I'm Olaf and I like warm hugs!\"",
+    "artist": "unknown",
+    "lore-value": 0,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Ally"
+    ],
+    "set-code": "TFC",
+    "abilities": null,
+    "inkable": true,
+    "subtitle": "Friendly Snowman",
+    "image-urls": [{
+      "small": "https://lorcana-api.com/images/olaf/friendly_snowman/small.png",
+      "no-art": "https://lorcana-api.com/images/olaf/friendly_snowman/no-art.png",
+      "large": "https://lorcana-api.com/images/olaf/friendly_snowman/large.png",
+      "art-crop": "https://lorcana-api.com/images/olaf/friendly_snowman/art-crop.png",
+      "medium": "https://lorcana-api.com/images/olaf/friendly_snowman/medium.png"
+    }],
+    "name": "Olaf",
+    "strength": 1,
+    "ink-cost": 1,
+    "willpower": 3
+  }

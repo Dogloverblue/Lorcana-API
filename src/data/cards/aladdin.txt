@@ -1,35 +1,60 @@
 {
-  "name": "Aladdin",
-  "subtitle": "Heroic Outlaw",
-  "ink-cost": 7,
-  "color": "Ruby",
-  "diamond-amount": 2,
-  "type": "Character",
-  "subtypes": [
-    "Floodborn",
-    "Hero"
-  ],
-  "power": 5,
-  "toughness": 5,
-  "abilities": [
-    {
-      "Daring Exploit": "During your turn, whenever this character banishes another character in a challenge, you gain 2 lore and each opponent loses 2 lore"
+    "prince_ali": {
+      "lore-value": 0,
+      "traits": ["Ward"],
+      "set": "The First Chapter",
+      "color": "Emerald",
+      "strength": 2,
+      "artist": "unknown",
+      "willpower": 2,
+      "type": "Character",
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Princce"
+      ],
+      "set-code": "TFC",
+      "abilities": {},
+      "inkable": true,
+      "subtitle": "Prince Ali",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/aladdin/prince_ali/small.png",
+        "no-art": "https://lorcana-api.com/images/aladdin/prince_ali/no-art.png",
+        "large": "https://lorcana-api.com/images/aladdin/prince_ali/large.png",
+        "art-crop": "https://lorcana-api.com/images/aladdin/prince_ali/art-crop.png",
+        "medium": "https://lorcana-api.com/images/aladdin/prince_ali/medium.png"
+      },
+      "name": "Aladdin",
+      "ink-cost": 2,
+      "flavor-text": "Fabulously wealthy. Practically untouchable. Genuinely inauthentic.",
+      "rarity": "Common"
+    },
+    "heroic_outlaw": {
+      "traits": ["Shift 5"],
+      "set": "The First Chapter",
+      "lore-value": 2,
+      "color": "Ruby",
+      "strength": 5,
+      "artist": "Nicholas Kole",
+      "willpower": 5,
+      "type": "Character",
+      "flavor_text": null,
+      "subtypes": [
+        "Floodborn",
+        "Hero"
+      ],
+      "set-code": "TFC",
+      "abilities": [{"Daring Exploit": "During your turn, whenever this character banishes another character in a challenge, you gain 2 lore and each opponent loses 2 lore"}],
+      "inkable": true,
+      "subtitle": "Heroic Outlaw",
+      "image-urls": [{
+        "small": "https://lorcana-api.com/images/aladdin/heroic_outlaw/small.png",
+        "no-art": "https://lorcana-api.com/images/aladdin/heroic_outlaw/no-art.png",
+        "large": "https://lorcana-api.com/images/aladdin/heroic_outlaw/large.png",
+        "art-crop": "https://lorcana-api.com/images/aladdin/heroic_outlaw/art-crop.png",
+        "medium": "https://lorcana-api.com/images/aladdin/heroic_outlaw/medium.png"
+      }],
+      "name": "Aladdin",
+      "ink-cost": 7
     }
-  ],
-  "traits": [
-    "Shift 5"
-  ],
-  "lore": null,
-  "artist": "Nicholas Kole",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/aladdin/large.png",
-      "medium": "https://lorcana-api.com/images/aladdin/medium.png",
-      "small": "https://lorcana-api.com/images/aladdin/small.png",
-      "art-crop": "https://lorcana-api.com/images/aladdin/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/aladdin/no-art.png"
-    }
-  ]
-}
+  }

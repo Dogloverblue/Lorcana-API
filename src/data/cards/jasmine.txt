@@ -1,29 +1,28 @@
-{
-  "name": "Jasmine",
-  "subtitle": "Disguised",
-  "ink-cost": 3,
-  "color": "Sapphire",
-  "diamond-amount": 2,
-  "type": "Character",
-  "subtypes": [
-    "Storyborn",
-    "Princess"
-  ],
-  "power": 3,
-  "toughness": 3,
-  "abilities": null,
-  "traits": null,
-  "lore": "\\\"Try to understand. I've never done a thing on my own. I've never had any real friends.... I've never even been outside the palace walls.\\\"",
-  "artist": "R. La Barbera/L. Giammichele",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/jasmine/large.png",
-      "medium": "https://lorcana-api.com/images/jasmine/medium.png",
-      "small": "https://lorcana-api.com/images/jasmine/small.png",
-      "art-crop": "https://lorcana-api.com/images/jasmine/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/jasmine/no-art.png"
-    }
-  ]
-}
+{"disguised": {
+    "traits": null,
+    "set": "The First Chapter",
+    "lore-value": 2,
+    "color": "Sapphire",
+    "strength": 3,
+    "artist": "R. La Barbera/L. Giammichele",
+    "willpower": 3,
+    "type": "Character",
+    "flavor_text": "\\\"Try to understand. I've never done a thing on my own. I've never had any real friends.... I've never even been outside the palace walls.\\\"",
+    "subtypes": [
+      "Storyborn",
+      "Princess"
+    ],
+    "set-code": "TFC",
+    "abilities": null,
+    "inkable": true,
+    "subtitle": "Disguised",
+    "image-urls": [{
+      "small": "https://lorcana-api.com/images/jasmine/disguised/small.png",
+      "no-art": "https://lorcana-api.com/images/jasmine/disguised/no-art.png",
+      "large": "https://lorcana-api.com/images/jasmine/disguised/large.png",
+      "art-crop": "https://lorcana-api.com/images/jasmine/disguised/art-crop.png",
+      "medium": "https://lorcana-api.com/images/jasmine/disguised/medium.png"
+    }],
+    "name": "Jasmine",
+    "ink-cost": 3
+  }}

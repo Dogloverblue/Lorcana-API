@@ -1,0 +1,32 @@
+{
+    "lore-value": 2,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Amethyst",
+    "strength": 3,
+    "artist": "Nicholas Kole",
+    "willpower": 4,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Sorcerer"
+    ],
+    "set-code": "TFC",
+    "abilities": {
+      "Animate Broom": "You pay 1 {i} less to play Broom characters",
+      "Ceaseless Worker": "Whenever one of your Broom characters is banished in a challenge, you may return that card to your hand."
+    },
+    "inkable": true,
+    "subtitle": "Wayward Sorcerer",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/small.png",
+      "no-art": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/art-crop.png",
+      "medium": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/medium.png",
+      "large": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/large.png"
+    },
+    "name": "Mickey Mouse",
+    "ink-cost": 4,
+    "flavor-text": "He always goes for the clean sweep.",
+    "rarity": "Super Rare"
+  }

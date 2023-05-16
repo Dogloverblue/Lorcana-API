@@ -1,25 +1,20 @@
 {
+    "abilities": [{"CLANG!": "Banish this item - Chosen character can't challenge during thier next turn"}],
+    "set": "The First Chapter",
+    "color": "Steel",
+    "flavor_text": "It's a fine piece of cookware, but as a weapon it's truly stunning.",
+    "inkable": true,
+    "artist": "Kamil Murzyn",
+    "effect": null,
+    "image-urls": [{
+      "small": "https://lorcana-api.com/images/frying_pan/small.png",
+      "no-art": "https://lorcana-api.com/images/frying_pan/no-art.png",
+      "large": "https://lorcana-api.com/images/frying_pan/large.png",
+      "art-crop": "https://lorcana-api.com/images/frying_pan/art-crop.png",
+      "medium": "https://lorcana-api.com/images/frying_pan/medium.png"
+    }],
     "name": "Frying Pan",
     "ink-cost": 2,
-    "color": "Steel",
     "type": "Item",
-    "effect": null,
-    "abilities": [
-        {
-            "CLANG!": "Banish this item — Chosen character can't challenge during thier next turn"
-        }
-    ],
-    "lore": "It's a fine piece of cookware, but as a weapon it's truly stunning.",
-    "artist": "Kamil Murzyn",
-    "set": "The First Chapter",
-    "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/frying_pan/large.png",
-      "medium": "https://lorcana-api.com/images/frying_pan/medium.png",
-      "small": "https://lorcana-api.com/images/frying_pan/small.png",
-      "art-crop": "https://lorcana-api.com/images/frying_pan/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/frying_pan/no-art.png"
-    }
-  ]
-}
+    "set-code": "TFC"
+  }

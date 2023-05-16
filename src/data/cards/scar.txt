@@ -1,33 +1,62 @@
 {
-  "name": "Scar",
-  "subtitle": "Mastermind",
-  "ink-cost": 6,
-  "color": "Sapphire",
-  "diamond-amount": 0,
-  "type": "Character",
-  "subtypes": [
-    "Storyborn",
-    "Villain"
-  ],
-  "power": 5,
-  "toughness": 4,
-  "abilities": [
-    {
-      "Insidious Plot": "When you play this character, chosen opposing character gets -5? this turn."
+    "mastermind": {
+      "traits": null,
+      "set": "The First Chapter",
+      "lore-value": 0,
+      "color": "Sapphire",
+      "strength": 5,
+      "artist": "unknown",
+      "willpower": 4,
+      "type": "Character",
+      "flavor_text": "\\\"The best plans involve a little danger. Just not for me.\\\"",
+      "subtypes": [
+        "Storyborn",
+        "Villain"
+      ],
+      "set-code": "TFC",
+      "abilities": [{"Insidious Plot": "When you play this character, chosen opposing character gets -5? this turn."}],
+      "inkable": true,
+      "subtitle": "Mastermind",
+      "image-urls": [{
+        "small": "https://lorcana-api.com/images/scar/mastermind/small.png",
+        "no-art": "https://lorcana-api.com/images/scar/mastermind/no-art.png",
+        "large": "https://lorcana-api.com/images/scar/mastermind/large.png",
+        "art-crop": "https://lorcana-api.com/images/scar/mastermind/art-crop.png",
+        "medium": "https://lorcana-api.com/images/scar/mastermind/medium.png"
+      }],
+      "name": "Scar",
+      "ink-cost": 6
+    },
+    "fiery_usurper": {
+      "lore-value": 1,
+      "traits": [
+        "",
+        ""
+      ],
+      "set": "The First Chapter",
+      "color": "Ruby",
+      "strength": 5,
+      "artist": "Amber Kommavongsa",
+      "willpower": 3,
+      "type": "Character",
+      "subtypes": [
+        "Dreamborn",
+        "Villain"
+      ],
+      "set-code": "TFC",
+      "abilities": {},
+      "inkable": true,
+      "subtitle": "Fiery Usurper",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/scar/fiery_usurper/small.png",
+        "no-art": "https://lorcana-api.com/images/scar/fiery_usurper/no-art.png",
+        "large": "https://lorcana-api.com/images/scar/fiery_usurper/large.png",
+        "art-crop": "https://lorcana-api.com/images/scar/fiery_usurper/art-crop.png",
+        "medium": "https://lorcana-api.com/images/scar/fiery_usurper/medium.png"
+      },
+      "name": "Scar",
+      "ink-cost": 4,
+      "flavor-text": "Consumed by the flames of ambition.",
+      "rarity": "Common"
     }
-  ],
-  "traits": null,
-  "lore": "\\\"The best plans involve a little danger. Just not for me.\\\"",
-  "artist": "unknown",
-  "set": "The First Chapter",
-  "set-code": "TFC",
-  "image-urls": [
-    {
-      "large": "https://lorcana-api.com/images/scar/large.png",
-      "medium": "https://lorcana-api.com/images/scar/medium.png",
-      "small": "https://lorcana-api.com/images/scar/small.png",
-      "art-crop": "https://lorcana-api.com/images/scar/art-crop.png",
-      "no-art": "https://lorcana-api.com/images/scar/no-art.png"
-    }
-  ]
-}
+  }
