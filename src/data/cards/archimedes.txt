@@ -1,0 +1,29 @@
+{"highly_educated_owl": {
+    "lore-value": 1,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Amethyst",
+    "strength": 2,
+    "artist": "Kendall Hale",
+    "willpower": 2,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Ally"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "subtitle": "Highly Educated Owl",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/archimedes-highly_educated_owl/small.png",
+      "no-art": "https://lorcana-api.com/images/archimedes-highly_educated_owl/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/archimedes-highly_educated_owl/art-crop.png",
+      "medium": "https://lorcana-api.com/images/archimedes-highly_educated_owl/medium.png",
+      "large": "https://lorcana-api.com/images/archimedes-highly_educated_owl/large.png"
+    },
+    "name": "Archimedes",
+    "ink-cost": 1,
+    "flavor-text": "\"Flying is not merely some crude, mechanical process. It is a delicate art. Purely aesthetic. Poetry of motion. And the best way to learn it is to do it!\"",
+    "rarity": "Common"
+  }}

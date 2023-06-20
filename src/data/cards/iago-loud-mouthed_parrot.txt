@@ -1,0 +1,29 @@
+{
+    "lore-value": 1,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Emerald",
+    "strength": 1,
+    "artist": "Brian Weisz",
+    "willpower": 4,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Ally"
+    ],
+    "set-code": "TFC",
+    "abilities": {"You Got a Problem": "{t}-Chosen character gains Reckless during thier next turn. (They can't quest and must challenge if able.)"},
+    "inkable": true,
+    "subtitle": "Loud-Mouthed Parrot",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/iago-loud-mouthed_parrot/small.png",
+      "no-art": "https://lorcana-api.com/images/iago-loud-mouthed_parrot/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/iago-loud-mouthed_parrot/art-crop.png",
+      "medium": "https://lorcana-api.com/images/iago-loud-mouthed_parrot/medium.png",
+      "large": "https://lorcana-api.com/images/iago-loud-mouthed_parrot/large.png"
+    },
+    "name": "Iago",
+    "ink-cost": 3,
+    "flavor-text": "",
+    "rarity": "Rare"
+  }

@@ -1,29 +1,61 @@
-{"hardheaded": {
-    "traits": null,
-    "set": "The First Chapter",
-    "lore-value": 2,
-    "color": "Steel",
-    "strength": 4,
-    "artist": "Cookie",
-    "willpower": 4,
-    "type": "Character",
-    "flavor_text": null,
-    "subtypes": [
-      "Storyborn",
-      "Hero",
-      "Prince"
-    ],
-    "set-code": "TFC",
-    "abilities": [{"Break": "When you play this character, you may banish chosen item"}],
-    "inkable": true,
-    "subtitle": "Hardheaded",
-    "image-urls": [{
-      "small": "https://lorcana-api.com/images/beast/hardheaded/small.png",
-      "no-art": "https://lorcana-api.com/images/beast/hardheaded/no-art.png",
-      "large": "https://lorcana-api.com/images/beast/hardheaded/large.png",
-      "art-crop": "https://lorcana-api.com/images/beast/hardheaded/art-crop.png",
-      "medium": "https://lorcana-api.com/images/beast/hardheaded/medium.png"
-    }],
-    "name": "Beast",
-    "ink-cost": 5
-  }}
+{
+    "hardheaded": {
+      "traits": null,
+      "set": "The First Chapter",
+      "lore-value": 2,
+      "color": "Steel",
+      "strength": 4,
+      "artist": "Cookie",
+      "willpower": 4,
+      "type": "Character",
+      "flavor_text": null,
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Prince"
+      ],
+      "set-code": "TFC",
+      "abilities": [{"Break": "When you play this character, you may banish chosen item"}],
+      "inkable": true,
+      "subtitle": "Hardheaded",
+      "image-urls": [{
+        "small": "https://lorcana-api.com/images/beast/hardheaded/small.png",
+        "no-art": "https://lorcana-api.com/images/beast/hardheaded/no-art.png",
+        "large": "https://lorcana-api.com/images/beast/hardheaded/large.png",
+        "art-crop": "https://lorcana-api.com/images/beast/hardheaded/art-crop.png",
+        "medium": "https://lorcana-api.com/images/beast/hardheaded/medium.png"
+      }],
+      "name": "Beast",
+      "ink-cost": 5
+    },
+    "wolfsbane": {
+      "lore-value": 0,
+      "traits": ["Rush"],
+      "set": "The First Chapter",
+      "color": "Emerald",
+      "strength": 4,
+      "artist": "Jeff Murchie",
+      "willpower": 4,
+      "type": "Character",
+      "subtypes": [
+        "Dreamborn",
+        "Hero",
+        "Prince"
+      ],
+      "set-code": "TFC",
+      "abilities": {"Roar": "When you play this character, excert all opposing damaged characters."},
+      "inkable": false,
+      "subtitle": "Wolfsbane",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/beast-wolfsbane/small.png",
+        "no-art": "https://lorcana-api.com/images/beast-wolfsbane/no-art.png",
+        "art-crop": "https://lorcana-api.com/images/beast-wolfsbane/art-crop.png",
+        "medium": "https://lorcana-api.com/images/beast-wolfsbane/medium.png",
+        "large": "https://lorcana-api.com/images/beast-wolfsbane/large.png"
+      },
+      "name": "Beast",
+      "ink-cost": 5,
+      "flavor-text": "\"I'll take on all of you if I have to!\"",
+      "rarity": "Legendary"
+    }
+  }

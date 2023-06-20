@@ -1,0 +1,30 @@
+{
+    "lore-value": 1,
+    "traits": ["Rush"],
+    "set": "The First Chapter",
+    "color": "Amethyst",
+    "strength": 3,
+    "artist": "Giulia Riva",
+    "willpower": 3,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Mentor",
+      "Sorcerer"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": false,
+    "subtitle": "Mysterious Sage",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/rafiki-mysterious_sage/small.png",
+      "no-art": "https://lorcana-api.com/images/rafiki-mysterious_sage/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/rafiki-mysterious_sage/art-crop.png",
+      "medium": "https://lorcana-api.com/images/rafiki-mysterious_sage/medium.png",
+      "large": "https://lorcana-api.com/images/rafiki-mysterious_sage/large.png"
+    },
+    "name": "Rafiki",
+    "ink-cost": 3,
+    "flavor-text": "\"The past can hurt. But the way I see it, you can either run from it or learn from it.\"",
+    "rarity": "Uncommon"
+  }

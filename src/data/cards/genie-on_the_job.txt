@@ -1,0 +1,29 @@
+{
+    "lore-value": 2,
+    "traits": ["Evasive"],
+    "set": "The First Chapter",
+    "color": "Emerald",
+    "strength": 3,
+    "artist": "Giulia Riva",
+    "willpower": 4,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Ally"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Disappear": "When you play this character, you may return chosen character to thier player's hand."},
+    "inkable": false,
+    "subtitle": "On the Job",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/genie-on_the_job/small.png",
+      "no-art": "https://lorcana-api.com/images/genie-on_the_job/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/genie-on_the_job/art-crop.png",
+      "medium": "https://lorcana-api.com/images/genie-on_the_job/medium.png",
+      "large": "https://lorcana-api.com/images/genie-on_the_job/large.png"
+    },
+    "name": "Genie",
+    "ink-cost": 6,
+    "flavor-text": "\"Can your friends go 'Abracadabra, let 'er rip' and then make the sucker disappear?\"",
+    "rarity": "Super Rare"
+  }
