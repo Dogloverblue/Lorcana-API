@@ -8,7 +8,7 @@ import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
 
 public class JSONHandler implements HttpHandler {
-	int JSONRequestCount = 0;
+	static int JSONRequestCount = 0;
 	String response;
     @Override
     public void handle(HttpExchange t) throws IOException {

@@ -18,7 +18,7 @@ public class SearchHandler implements HttpHandler {
 	private HashMap<String, String> equalsParams;
 	private HashMap<String, String> containsParams;
 	private HashMap<String, String> data;
-	int SearchRequestCount = 0;
+	static int SearchRequestCount = 0;
 	/**
 	 * A HTTPHandler that can return only cards with certain attributes equal to a certain value
 	 * @param data A hashmap of name-to-JSON data

@@ -7,7 +7,7 @@ import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
 
 public class TextHandler implements HttpHandler {
-			int TextRequestCount = 0;
+			static int TextRequestCount = 0;
 		    String response;
 	        @Override
 	        public void handle(HttpExchange t) throws IOException {

@@ -12,7 +12,7 @@ import me.xdrop.fuzzywuzzy.FuzzySearch;
 import me.xdrop.fuzzywuzzy.model.ExtractedResult;
 
 public class FuzzyHandler implements HttpHandler {
-		int FuzzyRequestCount = 0;
+		static int FuzzyRequestCount = 0;
 	    String response = "sd";
 	    static HashMap<String, String> data;
       @Override
