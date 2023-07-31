@@ -15,6 +15,7 @@ import org.json.JSONObject;
 import com.lorcanaapi.handlers.FuzzyHandler;
 import com.lorcanaapi.handlers.JSONHandler;
 import com.lorcanaapi.handlers.SearchHandler;
+import com.lorcanaapi.handlers.StrictHandler;
 import com.lorcanaapi.handlers.TextHandler;
 import com.sun.net.httpserver.HttpServer;
 
@@ -48,7 +49,7 @@ public class App {
 			} catch (JSONException | IOException e) {
 				continue;
 			}
-    		sb.append("    \"" + removeFileExtension(file.getName(), true) + "\",\n");
+    		sb.append("    \"" + LAPIUtils.removeFileExtension(file.getName(), true) + "\",\n");
     	}
     	sb.deleteCharAt(sb.length() - 2);
     	sb.append("]");
@@ -60,6 +61,7 @@ public static void doMainSetupStuff() {
 	try {
 
 		server.createContext("/fuzzy/", new FuzzyHandler(data));
+		server.createContext("/strict/", new StrictHandler());
 		server.createContext("/search", new SearchHandler(data));
 		server.createContext("/lists/names", new JSONHandler(getAllNames()));
 		 System.out.println(dir.exists());
@@ -76,7 +78,7 @@ public static void doMainSetupStuff() {
 		    	System.out.println("/" + name + "/" + child.getName().replaceFirst("[.][^.]+$", ""));
 		    	JSONHandler jh = new JSONHandler(content);
 		      server.createContext("/" + name + "/" + child.getName().replaceFirst("[.][^.]+$", ""), jh);
-		      server.createContext("/strict/" + child.getName().replaceFirst("[.][^.]+$", ""), jh);
+//		      server.createContext("/strict/" + child.getName().replaceFirst("[.][^.]+$", ""), jh);
 				    }
 				} 
 			}
@@ -107,14 +109,7 @@ static void setupHashMap() {
 		    
   }
     
-    public static String removeFileExtension(String filename, boolean removeAllExtensions) {
-        if (filename == null || filename.isEmpty()) {
-            return filename;
-        }
-
-        String extPattern = "(?<!^)[.]" + (removeAllExtensions ? ".*" : "[^.]*$");
-        return filename.replaceAll(extPattern, "");
-    }
+    
    
 }
 

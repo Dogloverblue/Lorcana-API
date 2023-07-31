@@ -1,0 +1,45 @@
+package com.lorcanaapi.handlers;
+
+import java.io.File;
+import java.io.IOException;
+import java.io.OutputStream;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+
+import org.json.JSONArray;
+import org.json.JSONObject;
+
+import com.sun.net.httpserver.HttpExchange;
+import com.sun.net.httpserver.HttpHandler;
+
+public class StrictHandler implements HttpHandler {
+	File cardDirectory = new File("src//data//cards");
+	static int StrictRequestCount = 0;
+	
+    @Override
+    public void handle(HttpExchange t) throws IOException {
+	System.out.println("Strict response made; it was Strict request number " + StrictRequestCount );
+	StrictRequestCount++;
+	String cardName = t.getRequestURI().toString().replace("/strict/", "");
+	JSONArray jsonToReturn = new JSONArray();
+	for (String card: cardName.split(";")) {
+		File cardFile = new File(cardDirectory + "//" + card + ".txt");
+		if (cardFile.exists()) {
+			jsonToReturn.put(new JSONObject(new String(Files.readAllBytes(Paths.get(cardFile.getAbsolutePath())))));
+		}
+	}
+	String response = jsonToReturn.toString();
+	System.out.println(response);
+    t.getResponseHeaders().set("Content-Type", String.format("application/json; charset=%s", StandardCharsets.UTF_8));
+        t.sendResponseHeaders(200, response.length());
+  
+        OutputStream os = t.getResponseBody();
+        
+        os.write(response.getBytes());
+        os.close();
+    }
+    public StrictHandler() {
+    	
+    }
+}
