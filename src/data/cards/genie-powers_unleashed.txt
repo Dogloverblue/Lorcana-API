@@ -1,0 +1,32 @@
+{
+    "lore-value": 3,
+    "traits": [
+      "Shift 6",
+      "Evasive"
+    ],
+    "set": "The First Chapter",
+    "color": "Emerald",
+    "strength": 3,
+    "artist": "Javier Salas",
+    "willpower": 5,
+    "type": "Character",
+    "subtypes": [
+      "Floodborn",
+      "Hero"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Phenomenal Cosmic Power!": "Whenever this character quests, you may play an action with cost 5 or less for free."},
+    "inkable": false,
+    "subtitle": "Powers Unleashed",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/genie-powers_unleashed/small.png",
+      "no-art": "https://lorcana-api.com/images/genie-powers_unleashed/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/genie-powers_unleashed/art-crop.png",
+      "medium": "https://lorcana-api.com/images/genie-powers_unleashed/medium.png",
+      "large": "https://lorcana-api.com/images/genie-powers_unleashed/large.png"
+    },
+    "name": "Genie",
+    "ink-cost": 8,
+    "flavor-text": "",
+    "rarity": "Rare"
+  }

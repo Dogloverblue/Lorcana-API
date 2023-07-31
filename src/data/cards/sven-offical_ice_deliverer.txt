@@ -1,0 +1,29 @@
+{
+    "lore-value": 1,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Amethyst",
+    "strength": 5,
+    "artist": "Jared Nickerl",
+    "willpower": 7,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Ally"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "subtitle": "Offical Ice Deliverer",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/sven-offical_ice_deliverer/small.png",
+      "no-art": "https://lorcana-api.com/images/sven-offical_ice_deliverer/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/sven-offical_ice_deliverer/art-crop.png",
+      "medium": "https://lorcana-api.com/images/sven-offical_ice_deliverer/medium.png",
+      "large": "https://lorcana-api.com/images/sven-offical_ice_deliverer/large.png"
+    },
+    "name": "Sven",
+    "ink-cost": 6,
+    "flavor-text": "\"Reindeer comin' through!\" - Kristoff",
+    "rarity": "Uncommon"
+  }

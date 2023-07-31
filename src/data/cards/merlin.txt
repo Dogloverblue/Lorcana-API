@@ -1,0 +1,30 @@
+{"self-appointed_mentor": {
+    "lore-value": 1,
+    "traits": ["Support"],
+    "set": "The First Chapter",
+    "color": "Sapphire",
+    "strength": 3,
+    "artist": "Dave Beauchene",
+    "willpower": 4,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Mentor",
+      "Sorcerer"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "subtitle": "Self-Appointed Mentor",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/merlin-self-appointed_mentor/small.png",
+      "no-art": "https://lorcana-api.com/images/merlin-self-appointed_mentor/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/merlin-self-appointed_mentor/art-crop.png",
+      "medium": "https://lorcana-api.com/images/merlin-self-appointed_mentor/medium.png",
+      "large": "https://lorcana-api.com/images/merlin-self-appointed_mentor/large.png"
+    },
+    "name": "Merlin",
+    "ink-cost": 4,
+    "flavor-text": "What a mess! What a medieval muddle! We'll have to modernize it.",
+    "rarity": "Common"
+  }}

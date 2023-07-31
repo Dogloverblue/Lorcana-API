@@ -1,25 +1,87 @@
-{"boisterous_fowl": {
-    "traits": null,
+{
+    "boisterous_fowl": {
+      "traits": null,
+      "set": "The First Chapter",
+      "lore-value": 1,
+      "color": "Ruby",
+      "strength": 2,
+      "artist": "Kenneth Anderson",
+      "willpower": 3,
+      "type": "Character",
+      "flavor_text": "\\\"Who you callin' boisterous, buster?\\\"",
+      "subtypes": ["Storyborn"],
+      "set-code": "TFC",
+      "abilities": null,
+      "inkable": true,
+      "subtitle": "Boisterous Fowl",
+      "image-urls": [{
+        "small": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/small.png",
+        "no-art": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/no-art.png",
+        "large": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/large.png",
+        "art-crop": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/art-crop.png",
+        "medium": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/medium.png"
+      }],
+      "name": "Donald Duck",
+      "ink-cost": 2
+    },
+    "musketeer": {
+      "lore-value": 1,
+      "traits": ["Bodyguard"],
+      "set": "The First Chapter",
+      "color": "Steel",
+      "strength": 2,
+      "artist": "Dav Augereau",
+      "willpower": 5,
+      "type": "Character",
+      "subtypes": [
+        "Dreamborn",
+        "Hero",
+        "Musketeer"
+      ],
+      "set-code": "TFC",
+      "abilities": {"Stay Alert!": "During your turn, your Muskteer characters gain Evasive. (They can challenge characters with Evasive.)"},
+      "inkable": true,
+      "subtitle": "Musketeer",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/donald_duck-musketeer/small.png",
+        "no-art": "https://lorcana-api.com/images/donald_duck-musketeer/no-art.png",
+        "art-crop": "https://lorcana-api.com/images/donald_duck-musketeer/art-crop.png",
+        "medium": "https://lorcana-api.com/images/donald_duck-musketeer/medium.png",
+        "large": "https://lorcana-api.com/images/donald_duck-musketeer/large.png"
+      },
+      "name": "Donald Duck",
+      "ink-cost": 0,
+      "flavor-text": "",
+      "rarity": "Uncommon"
+    },
+"strutting_his_stuff": {
+    "lore-value": 2,
+    "traits": ["Ward"],
     "set": "The First Chapter",
-    "lore-value": 1,
-    "color": "Ruby",
-    "strength": 2,
-    "artist": "Kenneth Anderson",
+    "color": "Sapphire",
+    "strength": 4,
+    "artist": "Cam Kendell",
     "willpower": 3,
     "type": "Character",
-    "flavor_text": "\\\"Who you callin' boisterous, buster?\\\"",
-    "subtypes": ["Storyborn"],
+    "subtypes": [
+      "Dreamborn",
+      "Hero",
+      "Inventor"
+    ],
     "set-code": "TFC",
-    "abilities": null,
+    "abilities": {},
     "inkable": true,
-    "subtitle": "Boisterous Fowl",
-    "image-urls": [{
-      "small": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/small.png",
-      "no-art": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/no-art.png",
-      "large": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/large.png",
-      "art-crop": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/art-crop.png",
-      "medium": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/medium.png"
-    }],
+    "subtitle": "Strutting His Stuff",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/donald_duck-strutting_his_stuff/small.png",
+      "no-art": "https://lorcana-api.com/images/donald_duck-strutting_his_stuff/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/donald_duck-strutting_his_stuff/art-crop.png",
+      "medium": "https://lorcana-api.com/images/donald_duck-strutting_his_stuff/medium.png",
+      "large": "https://lorcana-api.com/images/donald_duck-strutting_his_stuff/large.png"
+    },
     "name": "Donald Duck",
-    "ink-cost": 2
-  }}
+    "ink-cost": 5,
+    "flavor-text": "Walk smarter, not harder.",
+    "rarity": "Common"
+  }
+  }

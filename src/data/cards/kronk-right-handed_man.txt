@@ -1,0 +1,29 @@
+{
+    "lore-value": 2,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Steel",
+    "strength": 6,
+    "artist": "Jake Parker",
+    "willpower": 6,
+    "type": "Storyborn Ally",
+    "subtypes": [
+      "Storyborn",
+      "Ally"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "subtitle": "Right-Handed Man",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/kronk-right-handed_man/small.png",
+      "no-art": "https://lorcana-api.com/images/kronk-right-handed_man/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/kronk-right-handed_man/art-crop.png",
+      "medium": "https://lorcana-api.com/images/kronk-right-handed_man/medium.png",
+      "large": "https://lorcana-api.com/images/kronk-right-handed_man/large.png"
+    },
+    "name": "Kronk",
+    "ink-cost": 6,
+    "flavor-text": "Oh yeah, It's all coming together!",
+    "rarity": "Uncommon"
+  }

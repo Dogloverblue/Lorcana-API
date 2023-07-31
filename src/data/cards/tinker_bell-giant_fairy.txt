@@ -1,0 +1,33 @@
+{
+    "lore-value": 2,
+    "traits": ["Shift 4"],
+    "set": "The First Chapter",
+    "color": "Steel",
+    "strength": 4,
+    "artist": "Cookie",
+    "willpower": 5,
+    "type": "Character",
+    "subtypes": [
+      "Floodborn",
+      "Ally",
+      "Fairy"
+    ],
+    "set-code": "TFC",
+    "abilities": {
+      "Rock The Boat": "When you play this character, deal 1 damage to each opposing character.",
+      "Puny Pirate!": "During your turn, whenever this character banishes another charactere in a challenge, you may deal 2 damage to chosen opposing character."
+    },
+    "inkable": true,
+    "subtitle": "Giant Fairy",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/tinker_bell-giant_fairy/small.png",
+      "no-art": "https://lorcana-api.com/images/tinker_bell-giant_fairy/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/tinker_bell-giant_fairy/art-crop.png",
+      "medium": "https://lorcana-api.com/images/tinker_bell-giant_fairy/medium.png",
+      "large": "https://lorcana-api.com/images/tinker_bell-giant_fairy/large.png"
+    },
+    "name": "Tinker Bell",
+    "ink-cost": 6,
+    "flavor-text": "",
+    "rarity": "Super Rare"
+  }

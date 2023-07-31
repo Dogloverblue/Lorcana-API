@@ -1,0 +1,32 @@
+{
+    "lore-value": 2,
+    "traits": [
+      "Rush",
+      "Challenger 4"
+    ],
+    "set": "The First Chapter",
+    "color": "Amethyst",
+    "strength": 0,
+    "artist": "Koni",
+    "willpower": 4,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Deity"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": false,
+    "subtitle": "God of Lightning",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/zeus-god_of_lightning/small.png",
+      "no-art": "https://lorcana-api.com/images/zeus-god_of_lightning/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/zeus-god_of_lightning/art-crop.png",
+      "medium": "https://lorcana-api.com/images/zeus-god_of_lightning/medium.png",
+      "large": "https://lorcana-api.com/images/zeus-god_of_lightning/large.png"
+    },
+    "name": "Zeus",
+    "ink-cost": 4,
+    "flavor-text": "A little lightning solves a whole lot of problems",
+    "rarity": "Rare"
+  }

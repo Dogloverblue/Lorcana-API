@@ -1,0 +1,30 @@
+{"power_hungry": {
+    "lore-value": 3,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Amethyst",
+    "strength": 2,
+    "artist": "Simangaliso Sibaya",
+    "willpower": 8,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Villain",
+      "Sorcerer"
+    ],
+    "set-code": "TFC",
+    "abilities": {"It's Too Easy!": "When you play this character, each opponent loses 1 lore. You may draw a card for each 1 lore lost this way."},
+    "inkable": false,
+    "subtitle": "Power Hungry",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/ursula-power_hungry/small.png",
+      "no-art": "https://lorcana-api.com/images/ursula-power_hungry/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/ursula-power_hungry/art-crop.png",
+      "medium": "https://lorcana-api.com/images/ursula-power_hungry/medium.png",
+      "large": "https://lorcana-api.com/images/ursula-power_hungry/large.png"
+    },
+    "name": "Ursula",
+    "ink-cost": 7,
+    "flavor-text": "The first rule of Villainy: If you're going to be evil, you've got to have style.",
+    "rarity": "Legendary"
+  }}

@@ -1,0 +1,30 @@
+{"hook's_henchman": {
+    "lore-value": 0,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Steel",
+    "strength": 5,
+    "artist": "Leonardo Giammichele",
+    "willpower": 4,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Ally",
+      "Pirate"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Aye Aye Captain": "While you have a Captain character gets +1 {lore}."},
+    "inkable": true,
+    "subtitle": "Hook's Henchman",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/starkey-hook's_henchman/small.png",
+      "no-art": "https://lorcana-api.com/images/starkey-hook's_henchman/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/starkey-hook's_henchman/art-crop.png",
+      "medium": "https://lorcana-api.com/images/starkey-hook's_henchman/medium.png",
+      "large": "https://lorcana-api.com/images/starkey-hook's_henchman/large.png"
+    },
+    "name": "Starkey",
+    "ink-cost": 5,
+    "flavor-text": "A pirate must be tough, loyal, and strong. \"Smart\" doesn't even make the list.",
+    "rarity": "Uncommon"
+  }}

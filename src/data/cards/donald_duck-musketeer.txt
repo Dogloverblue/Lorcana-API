@@ -1,0 +1,30 @@
+{
+    "lore-value": 1,
+    "traits": ["Bodyguard"],
+    "set": "The First Chapter",
+    "color": "Steel",
+    "strength": 2,
+    "artist": "Dav Augereau",
+    "willpower": 5,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Hero",
+      "Musketeer"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Stay Alert!": "During your turn, your Muskteer characters gain Evasive. (They can challenge characters with Evasive.)"},
+    "inkable": true,
+    "subtitle": "Musketeer",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/donald_duck-musketeer/small.png",
+      "no-art": "https://lorcana-api.com/images/donald_duck-musketeer/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/donald_duck-musketeer/art-crop.png",
+      "medium": "https://lorcana-api.com/images/donald_duck-musketeer/medium.png",
+      "large": "https://lorcana-api.com/images/donald_duck-musketeer/large.png"
+    },
+    "name": "Donald Duck",
+    "ink-cost": 0,
+    "flavor-text": "",
+    "rarity": "Uncommon"
+  }

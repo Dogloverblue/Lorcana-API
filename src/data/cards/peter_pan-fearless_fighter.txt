@@ -1,0 +1,29 @@
+{
+    "lore-value": 1,
+    "traits": ["Rush"],
+    "set": "The First Chapter",
+    "color": "Ruby",
+    "strength": 3,
+    "artist": "Anh Dang",
+    "willpower": 2,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Hero"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "subtitle": "Fearless Fighter",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/peter_pan-fearless_fighter/small.png",
+      "no-art": "https://lorcana-api.com/images/peter_pan-fearless_fighter/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/peter_pan-fearless_fighter/art-crop.png",
+      "medium": "https://lorcana-api.com/images/peter_pan-fearless_fighter/medium.png",
+      "large": "https://lorcana-api.com/images/peter_pan-fearless_fighter/large.png"
+    },
+    "name": "Peter Pan",
+    "ink-cost": 3,
+    "flavor-text": "\"Nobody calls Pan a coward and lives! I'll fight you man-to-=man, with one hand behind my back",
+    "rarity": "Common"
+  }

@@ -1,0 +1,29 @@
+{"arrogant_hunter": {
+    "lore-value": 0,
+    "traits": ["Reckless"],
+    "set": "The First Chapter",
+    "color": "Ruby",
+    "strength": 4,
+    "artist": "Matthew Robert Davies",
+    "willpower": 2,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Villain"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "subtitle": "Arrogant Hunter",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/gaston-arrogant_hunter/small.png",
+      "no-art": "https://lorcana-api.com/images/gaston-arrogant_hunter/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/gaston-arrogant_hunter/art-crop.png",
+      "medium": "https://lorcana-api.com/images/gaston-arrogant_hunter/medium.png",
+      "large": "https://lorcana-api.com/images/gaston-arrogant_hunter/large.png"
+    },
+    "name": "Gaston",
+    "ink-cost": 2,
+    "flavor-text": "It's not arrogance when you really are the best",
+    "rarity": "Common"
+  }}

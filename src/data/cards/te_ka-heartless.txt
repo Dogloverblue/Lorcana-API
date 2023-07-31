@@ -1,0 +1,30 @@
+{
+    "lore-value": 2,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Steel",
+    "strength": 5,
+    "artist": "Andrew Trabbold",
+    "willpower": 5,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Villain",
+      "Deity"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Seek The Heart": "During your turn, whenever this character banishes another character in a challenge, you gain 2 lore"},
+    "inkable": true,
+    "subtitle": "Heartless",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/te_ka-heartless/small.png",
+      "no-art": "https://lorcana-api.com/images/te_ka-heartless/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/te_ka-heartless/art-crop.png",
+      "medium": "https://lorcana-api.com/images/te_ka-heartless/medium.png",
+      "large": "https://lorcana-api.com/images/te_ka-heartless/large.png"
+    },
+    "name": "Te Ka",
+    "ink-cost": 6,
+    "flavor-text": "Maui: \"Ever defeat a lava monster?\" Moana: \"No, have you?\"",
+    "rarity": "Legendary"
+  }

@@ -1,0 +1,30 @@
+{
+    "lore-value": 3,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Sapphire",
+    "strength": 3,
+    "artist": "Gaku Kumatori",
+    "willpower": 6,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Villain",
+      "Sorcerer"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "subtitle": "Uninvited",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/maleficent-uninvited/small.png",
+      "no-art": "https://lorcana-api.com/images/maleficent-uninvited/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/maleficent-uninvited/art-crop.png",
+      "medium": "https://lorcana-api.com/images/maleficent-uninvited/medium.png",
+      "large": "https://lorcana-api.com/images/maleficent-uninvited/large.png"
+    },
+    "name": "Maleficent",
+    "ink-cost": 5,
+    "flavor-text": "She had no invitation- and needed no introduction.",
+    "rarity": "Rare"
+  }

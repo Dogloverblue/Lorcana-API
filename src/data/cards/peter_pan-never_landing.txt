@@ -1,0 +1,29 @@
+{
+    "lore-value": 1,
+    "traits": ["Evasive"],
+    "set": "The First Chapter",
+    "color": "Emerald",
+    "strength": 3,
+    "artist": "Koni",
+    "willpower": 2,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Hero"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "subtitle": "Never Landing",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/peter_pan-never_landing/small.png",
+      "no-art": "https://lorcana-api.com/images/peter_pan-never_landing/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/peter_pan-never_landing/art-crop.png",
+      "medium": "https://lorcana-api.com/images/peter_pan-never_landing/medium.png",
+      "large": "https://lorcana-api.com/images/peter_pan-never_landing/large.png"
+    },
+    "name": "Peter Pan",
+    "ink-cost": 3,
+    "flavor-text": "What's the matter, Hook? Can't you fly?",
+    "rarity": "Common"
+  }

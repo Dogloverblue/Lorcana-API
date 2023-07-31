@@ -1,0 +1,30 @@
+{
+    "lore-value": 2,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Ruby",
+    "strength": 5,
+    "artist": "Clio Wolfensberger",
+    "willpower": 4,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Hero",
+      "Princess"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Tangle": "When you play this character, each opponent loses 1 lore."},
+    "inkable": false,
+    "subtitle": "Letting Down Her Hair",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/rapunzel-letting_down_her_hair/small.png",
+      "no-art": "https://lorcana-api.com/images/rapunzel-letting_down_her_hair/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/rapunzel-letting_down_her_hair/art-crop.png",
+      "medium": "https://lorcana-api.com/images/rapunzel-letting_down_her_hair/medium.png",
+      "large": "https://lorcana-api.com/images/rapunzel-letting_down_her_hair/large.png"
+    },
+    "name": "Rapunzel",
+    "ink-cost": 6,
+    "flavor-text": "Who are you? And how did you find me?",
+    "rarity": "Uncommon"
+  }

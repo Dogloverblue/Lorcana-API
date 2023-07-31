@@ -1,0 +1,62 @@
+{
+    "heartless": {
+      "lore-value": 2,
+      "traits": [],
+      "set": "The First Chapter",
+      "color": "Steel",
+      "strength": 5,
+      "artist": "Andrew Trabbold",
+      "willpower": 5,
+      "type": "Character",
+      "subtypes": [
+        "Dreamborn",
+        "Villain",
+        "Deity"
+      ],
+      "set-code": "TFC",
+      "abilities": {"Seek The Heart": "During your turn, whenever this character banishes another character in a challenge, you gain 2 lore"},
+      "inkable": true,
+      "subtitle": "Heartless",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/te_ka-heartless/small.png",
+        "no-art": "https://lorcana-api.com/images/te_ka-heartless/no-art.png",
+        "large": "https://lorcana-api.com/images/te_ka-heartless/large.png",
+        "art-crop": "https://lorcana-api.com/images/te_ka-heartless/art-crop.png",
+        "medium": "https://lorcana-api.com/images/te_ka-heartless/medium.png"
+      },
+      "name": "Te Ka",
+      "ink-cost": 6,
+      "flavor-text": "Maui: \"Ever defeat a lava monster?\" Moana: \"No, have you?\"",
+      "rarity": "Legendary"
+    },
+    "the_burning_one": {
+      "lore-value": 0,
+      "traits": ["Reckless"],
+      "set": "The First Chapter",
+      "color": "Ruby",
+      "strength": 8,
+      "artist": "Kamil Murzyn",
+      "willpower": 6,
+      "type": "Character",
+      "subtypes": [
+        "Storyborn",
+        "Villain",
+        "Deity"
+      ],
+      "set-code": "TFC",
+      "abilities": {},
+      "inkable": true,
+      "subtitle": "The Burning One",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/te_ka-the_burning_one/small.png",
+        "no-art": "https://lorcana-api.com/images/te_ka-the_burning_one/no-art.png",
+        "art-crop": "https://lorcana-api.com/images/te_ka-the_burning_one/art-crop.png",
+        "medium": "https://lorcana-api.com/images/te_ka-the_burning_one/medium.png",
+        "large": "https://lorcana-api.com/images/te_ka-the_burning_one/large.png"
+      },
+      "name": "Te Ka",
+      "ink-cost": 6,
+      "flavor-text": "She burns for that which was stolen from her.",
+      "rarity": "Super Rare"
+    }
+  }

@@ -1,0 +1,29 @@
+{"opportunistic_official": {
+    "lore-value": 1,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Emerald",
+    "strength": 2,
+    "artist": "R. La Barbera / L. Giammichele",
+    "willpower": 2,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Villain"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "subtitle": "Opportunistic Official",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/duke_of_weselton-opportunistic_official/small.png",
+      "no-art": "https://lorcana-api.com/images/duke_of_weselton-opportunistic_official/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/duke_of_weselton-opportunistic_official/art-crop.png",
+      "medium": "https://lorcana-api.com/images/duke_of_weselton-opportunistic_official/medium.png",
+      "large": "https://lorcana-api.com/images/duke_of_weselton-opportunistic_official/large.png"
+    },
+    "name": "Duke Of Weselton",
+    "ink-cost": 4,
+    "flavor-text": "Sorcery! I knew there was something dubious going on here.",
+    "rarity": "Common"
+  }}

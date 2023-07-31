@@ -1,0 +1,29 @@
+{
+    "lore-value": 1,
+    "traits": ["Singer 4"],
+    "set": "The First Chapter",
+    "color": "Amber",
+    "strength": 2,
+    "artist": "Isaiah Mesq",
+    "willpower": 2,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Ally"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "subtitle": "Court Composer",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/sebastion-court_composer/small.png",
+      "no-art": "https://lorcana-api.com/images/sebastion-court_composer/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/sebastion-court_composer/art-crop.png",
+      "medium": "https://lorcana-api.com/images/sebastion-court_composer/medium.png",
+      "large": "https://lorcana-api.com/images/sebastion-court_composer/large.png"
+    },
+    "name": "Sebastion",
+    "ink-cost": 2,
+    "flavor-text": "I should be writing symphonies, not tagging along after some headstrong teenager.",
+    "rarity": "Common"
+  }

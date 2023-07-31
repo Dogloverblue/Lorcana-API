@@ -1,0 +1,30 @@
+{
+    "lore-value": 2,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Ruby",
+    "strength": 2,
+    "artist": "Tanisha Cherislin",
+    "willpower": 6,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "set-code": "TFC",
+    "abilities": {"This Is Not Who You Are": "When you play this character, you may banish chosen character named Te K?."},
+    "inkable": true,
+    "subtitle": "Chosen by the Ocean",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/moana-chosen_by_the_ocean/small.png",
+      "no-art": "https://lorcana-api.com/images/moana-chosen_by_the_ocean/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/moana-chosen_by_the_ocean/art-crop.png",
+      "medium": "https://lorcana-api.com/images/moana-chosen_by_the_ocean/medium.png",
+      "large": "https://lorcana-api.com/images/moana-chosen_by_the_ocean/large.png"
+    },
+    "name": "Moana",
+    "ink-cost": 5,
+    "flavor-text": "\"You know who you are.\"",
+    "rarity": "Uncommon"
+  }

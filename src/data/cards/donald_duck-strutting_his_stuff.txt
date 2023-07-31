@@ -1,0 +1,30 @@
+{
+    "lore-value": 2,
+    "traits": ["Ward"],
+    "set": "The First Chapter",
+    "color": "Sapphire",
+    "strength": 4,
+    "artist": "Cam Kendell",
+    "willpower": 3,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Hero",
+      "Inventor"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "subtitle": "Strutting His Stuff",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/donald_duck-strutting_his_stuff/small.png",
+      "no-art": "https://lorcana-api.com/images/donald_duck-strutting_his_stuff/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/donald_duck-strutting_his_stuff/art-crop.png",
+      "medium": "https://lorcana-api.com/images/donald_duck-strutting_his_stuff/medium.png",
+      "large": "https://lorcana-api.com/images/donald_duck-strutting_his_stuff/large.png"
+    },
+    "name": "Donald Duck",
+    "ink-cost": 5,
+    "flavor-text": "Walk smarter, not harder.",
+    "rarity": "Common"
+  }

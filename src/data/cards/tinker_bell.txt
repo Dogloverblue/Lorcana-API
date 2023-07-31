@@ -1,0 +1,65 @@
+{
+    "most_helpful": {
+      "lore-value": 1,
+      "traits": ["Evasive"],
+      "set": "The First Chapter",
+      "color": "Emerald",
+      "strength": 2,
+      "artist": "Caner Soylu",
+      "willpower": 3,
+      "type": "Character",
+      "subtypes": [
+        "Storyborn",
+        "Ally",
+        "Fairy"
+      ],
+      "set-code": "TFC",
+      "abilities": {"Pixie Dust": "When you play this character, chosen character gains Evasive this turn."},
+      "inkable": true,
+      "subtitle": "Most Helpful",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/tinker_bell-most_helpful/small.png",
+        "no-art": "https://lorcana-api.com/images/tinker_bell-most_helpful/no-art.png",
+        "art-crop": "https://lorcana-api.com/images/tinker_bell-most_helpful/art-crop.png",
+        "medium": "https://lorcana-api.com/images/tinker_bell-most_helpful/medium.png",
+        "large": "https://lorcana-api.com/images/tinker_bell-most_helpful/large.png"
+      },
+      "name": "Tinker Bell",
+      "ink-cost": 4,
+      "flavor-text": "",
+      "rarity": "Common"
+    },
+    "giant_fairy": {
+      "lore-value": 2,
+      "traits": ["Shift 4"],
+      "set": "The First Chapter",
+      "color": "Steel",
+      "strength": 4,
+      "artist": "Cookie",
+      "willpower": 5,
+      "type": "Character",
+      "subtypes": [
+        "Floodborn",
+        "Ally",
+        "Fairy"
+      ],
+      "set-code": "TFC",
+      "abilities": {
+        "Puny Pirate!": "During your turn, whenever this character banishes another charactere in a challenge, you may deal 2 damage to chosen opposing character.",
+        "Rock The Boat": "When you play this character, deal 1 damage to each opposing character."
+      },
+      "inkable": true,
+      "subtitle": "Giant Fairy",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/tinker_bell-giant_fairy/small.png",
+        "no-art": "https://lorcana-api.com/images/tinker_bell-giant_fairy/no-art.png",
+        "large": "https://lorcana-api.com/images/tinker_bell-giant_fairy/large.png",
+        "art-crop": "https://lorcana-api.com/images/tinker_bell-giant_fairy/art-crop.png",
+        "medium": "https://lorcana-api.com/images/tinker_bell-giant_fairy/medium.png"
+      },
+      "name": "Tinker Bell",
+      "ink-cost": 6,
+      "flavor-text": "",
+      "rarity": "Super Rare"
+    }
+  }

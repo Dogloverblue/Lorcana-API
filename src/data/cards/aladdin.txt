@@ -56,5 +56,63 @@
       }],
       "name": "Aladdin",
       "ink-cost": 7
-    }
+    },
+    "cornered_swordsman": {
+      "lore-value": 2,
+      "traits": [],
+      "set": "The First Chapter",
+      "color": "Steel",
+      "strength": 2,
+      "artist": "Randy Bishop",
+      "willpower": 1,
+      "type": "Character",
+      "subtypes": [
+        "Storyborn",
+        "Hero"
+      ],
+      "set-code": "TFC",
+      "abilities": {},
+      "inkable": true,
+      "subtitle": "Cornered Swordsman",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/aladdin-cornered_swordsman/small.png",
+        "no-art": "https://lorcana-api.com/images/aladdin-cornered_swordsman/no-art.png",
+        "art-crop": "https://lorcana-api.com/images/aladdin-cornered_swordsman/art-crop.png",
+        "medium": "https://lorcana-api.com/images/aladdin-cornered_swordsman/medium.png",
+        "large": "https://lorcana-api.com/images/aladdin-cornered_swordsman/large.png"
+      },
+      "name": "Aladdin",
+      "ink-cost": 2,
+      "flavor-text": "\"Oh ho! So the street rat found a sword and a backbone!\" -Razoul",
+      "rarity": "Common"
+    },
+"street_rat": {
+    "lore-value": 1,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Ruby",
+    "strength": 2,
+    "artist": "Peter Brockhammer",
+    "willpower": 2,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Hero"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Improvise": "When you play this character, each opponent loses 1 lore."},
+    "inkable": true,
+    "subtitle": "Street Rat",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/alladdin-street_rat/small.png",
+      "no-art": "https://lorcana-api.com/images/alladdin-street_rat/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/alladdin-street_rat/art-crop.png",
+      "medium": "https://lorcana-api.com/images/alladdin-street_rat/medium.png",
+      "large": "https://lorcana-api.com/images/alladdin-street_rat/large.png"
+    },
+    "name": "Alladdin",
+    "ink-cost": 3,
+    "flavor-text": "It can be hard to tell the difference between a diamond in the rough and someone who's just, well, rough.",
+    "rarity": "Common"
+  }
   }

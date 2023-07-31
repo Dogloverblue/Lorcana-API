@@ -1,0 +1,29 @@
+{"ol'_rascal": {
+    "lore-value": 2,
+    "traits": ["Evasive"],
+    "set": "The First Chapter",
+    "color": "Ruby",
+    "strength": 2,
+    "artist": "Brian Weisz",
+    "willpower": 3,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Hero"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "subtitle": "Ol' Rascal",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/pongo-ol'_rascal/small.png",
+      "no-art": "https://lorcana-api.com/images/pongo-ol'_rascal/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/pongo-ol'_rascal/art-crop.png",
+      "medium": "https://lorcana-api.com/images/pongo-ol'_rascal/medium.png",
+      "large": "https://lorcana-api.com/images/pongo-ol'_rascal/large.png"
+    },
+    "name": "Pongo",
+    "ink-cost": 4,
+    "flavor-text": "At first I had no particular plan, just anything to attract attention. You know, stir things up a bit.",
+    "rarity": "Common"
+  }}

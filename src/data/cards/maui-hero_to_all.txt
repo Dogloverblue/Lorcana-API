@@ -1,0 +1,33 @@
+{
+    "lore-value": 0,
+    "traits": [
+      "Rush",
+      "Reckless"
+    ],
+    "set": "The First Chapter",
+    "color": "Ruby",
+    "strength": 6,
+    "artist": "Pixel / Marco Giogianni",
+    "willpower": 5,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Hero",
+      "Deity"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "subtitle": "Hero to All",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/maui-hero_to_all/small.png",
+      "no-art": "https://lorcana-api.com/images/maui-hero_to_all/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/maui-hero_to_all/art-crop.png",
+      "medium": "https://lorcana-api.com/images/maui-hero_to_all/medium.png",
+      "large": "https://lorcana-api.com/images/maui-hero_to_all/large.png"
+    },
+    "name": "Maui",
+    "ink-cost": 5,
+    "flavor-text": "\"What I believe you were trying to say is 'Thank you.'\"",
+    "rarity": "Common"
+  }

@@ -1,0 +1,30 @@
+{
+    "lore-value": 1,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Amethyst",
+    "strength": 4,
+    "artist": "Matthew Robert Davies",
+    "willpower": 5,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Villain",
+      "Queen"
+    ],
+    "set-code": "TFC",
+    "abilities": {"I Summon Thee": "{t} - Draw a card."},
+    "inkable": true,
+    "subtitle": "Wicked and Vain",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/the_queen-wicked_and_vain/small.png",
+      "no-art": "https://lorcana-api.com/images/the_queen-wicked_and_vain/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/the_queen-wicked_and_vain/art-crop.png",
+      "medium": "https://lorcana-api.com/images/the_queen-wicked_and_vain/medium.png",
+      "large": "https://lorcana-api.com/images/the_queen-wicked_and_vain/large.png"
+    },
+    "name": "The Queen",
+    "ink-cost": 5,
+    "flavor-text": "Sublime beauty matched with peerless cunning. Is there any question who is the fairest?",
+    "rarity": "Super Rare"
+  }

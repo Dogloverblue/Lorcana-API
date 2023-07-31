@@ -1,0 +1,29 @@
+{"ursula's_spy": {
+    "lore-value": 1,
+    "traits": ["Evasive"],
+    "set": "The First Chapter",
+    "color": "Amethyst",
+    "strength": 3,
+    "artist": "Brian Weisz",
+    "willpower": 3,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Ally"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Sinister Slither": "Your characters named Flotsam gain Evasive."},
+    "inkable": true,
+    "subtitle": "Ursula's Spy",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/jetsam-ursula's_spy/small.png",
+      "no-art": "https://lorcana-api.com/images/jetsam-ursula's_spy/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/jetsam-ursula's_spy/art-crop.png",
+      "medium": "https://lorcana-api.com/images/jetsam-ursula's_spy/medium.png",
+      "large": "https://lorcana-api.com/images/jetsam-ursula's_spy/large.png"
+    },
+    "name": "Jetsam",
+    "ink-cost": 4,
+    "flavor-text": "We can help you get anything you want....",
+    "rarity": "Common"
+  }}

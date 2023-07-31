@@ -30,4 +30,65 @@
     "ink-cost": 7,
     "flavor-text": "\"I'll do whatever it takes to save my kingdom.\"",
     "rarity": "Rare"
-  }}
+  },
+"future_king": {
+      "lore-value": 1,
+      "traits": [],
+      "set": "The First Chapter",
+      "color": "Steel",
+      "strength": 1,
+      "artist": "Nicholas Kole",
+      "willpower": 2,
+      "type": "Character",
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Prince"
+      ],
+      "set-code": "TFC",
+      "abilities": {"Guess What?": "When you play this character, you may draw a card, then choose and discard a card."},
+      "inkable": true,
+      "subtitle": "Future King",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/simba-future_king/small.png",
+        "no-art": "https://lorcana-api.com/images/simba-future_king/no-art.png",
+        "large": "https://lorcana-api.com/images/simba-future_king/large.png",
+        "art-crop": "https://lorcana-api.com/images/simba-future_king/art-crop.png",
+        "medium": "https://lorcana-api.com/images/simba-future_king/medium.png"
+      },
+      "name": "Simba",
+      "ink-cost": 1,
+      "flavor-text": "I'm gonna be the best king the Pride Lands have ever seen!",
+      "rarity": "Common"
+    },
+    "protective_cub": {
+      "lore-value": 1,
+      "traits": ["Bodyguard"],
+      "set": "The First Chapter",
+      "color": "Amber",
+      "strength": 2,
+      "artist": "Filipe Laurentino",
+      "willpower": 3,
+      "type": "Character",
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Prince"
+      ],
+      "set-code": "TFC",
+      "abilities": {},
+      "inkable": true,
+      "subtitle": "Protective Cub",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/simba-protective_cub/small.png",
+        "no-art": "https://lorcana-api.com/images/simba-protective_cub/no-art.png",
+        "art-crop": "https://lorcana-api.com/images/simba-protective_cub/art-crop.png",
+        "medium": "https://lorcana-api.com/images/simba-protective_cub/medium.png",
+        "large": "https://lorcana-api.com/images/simba-protective_cub/large.png"
+      },
+      "name": "Simba",
+      "ink-cost": 2,
+      "flavor-text": "Courage comes in all sizes",
+      "rarity": "Common"
+    }
+}

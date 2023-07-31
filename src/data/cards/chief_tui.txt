@@ -1,0 +1,30 @@
+{"respected_leader": {
+    "lore-value": 3,
+    "traits": ["Support"],
+    "set": "The First Chapter",
+    "color": "Sapphire",
+    "strength": 3,
+    "artist": "Pirel",
+    "willpower": 6,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Mentor",
+      "King"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "subtitle": "Respected Leader",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/chief_tui-respected_leader/small.png",
+      "no-art": "https://lorcana-api.com/images/chief_tui-respected_leader/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/chief_tui-respected_leader/art-crop.png",
+      "medium": "https://lorcana-api.com/images/chief_tui-respected_leader/medium.png",
+      "large": "https://lorcana-api.com/images/chief_tui-respected_leader/large.png"
+    },
+    "name": "Chief Tui",
+    "ink-cost": 7,
+    "flavor-text": "\"You can always rely on the strength of those who love you.\"",
+    "rarity": "Uncommon"
+  }}

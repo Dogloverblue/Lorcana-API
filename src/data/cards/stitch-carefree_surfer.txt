@@ -1,0 +1,30 @@
+{
+    "lore-value": 2,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Amber",
+    "strength": 4,
+    "artist": "Marcel Berg",
+    "willpower": 8,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Hero",
+      "Alien"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Ohana": "When you play this character, you have 2 or more other characters in play, you may draw 2 cards."},
+    "inkable": true,
+    "subtitle": "carefree Surfer",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/stitch-carefree_surfer/small.png",
+      "no-art": "https://lorcana-api.com/images/stitch-carefree_surfer/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/stitch-carefree_surfer/art-crop.png",
+      "medium": "https://lorcana-api.com/images/stitch-carefree_surfer/medium.png",
+      "large": "https://lorcana-api.com/images/stitch-carefree_surfer/large.png"
+    },
+    "name": "Stitch",
+    "ink-cost": 7,
+    "flavor-text": "\"So you're from outer space, huh? I hear the surfing's choice.\" - David",
+    "rarity": "Legendary"
+  }
