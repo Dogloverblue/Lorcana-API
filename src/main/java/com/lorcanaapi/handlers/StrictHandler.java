@@ -10,6 +10,7 @@ import java.nio.file.Paths;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+import com.lorcanaapi.ErrorJSONObject;
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
 
@@ -28,7 +29,10 @@ public class StrictHandler implements HttpHandler {
 		File cardFile = new File(cardDirectory + "//" + args[0] + ".txt");
 //		if ()
 		response = new JSONObject(new String(Files.readAllBytes(Paths.get(cardFile.getAbsolutePath())))).toString();
-	} else {
+	} else if (args.length > 100) {
+		response = new ErrorJSONObject("request_too_large", 413, "That request is too large! You can only request up to 100 requests per request").toString();
+	}
+	else {
 	for (String card: cardName.split(";")) {
 		File cardFile = new File(cardDirectory + "//" + card + ".txt");
 		if (cardFile.exists()) {
