@@ -16,20 +16,28 @@ import com.sun.net.httpserver.HttpHandler;
 public class StrictHandler implements HttpHandler {
 	File cardDirectory = new File("src//data//cards");
 	static int StrictRequestCount = 0;
-	
+	String response;
     @Override
     public void handle(HttpExchange t) throws IOException {
 	System.out.println("Strict response made; it was Strict request number " + StrictRequestCount );
 	StrictRequestCount++;
 	String cardName = t.getRequestURI().toString().replace("/strict/", "");
 	JSONArray jsonToReturn = new JSONArray();
+	String[] args = cardName.split(";");
+	if (args.length < 2) {
+		File cardFile = new File(cardDirectory + "//" + args[0] + ".txt");
+//		if ()
+		response = new JSONObject(new String(Files.readAllBytes(Paths.get(cardFile.getAbsolutePath())))).toString();
+	} else {
 	for (String card: cardName.split(";")) {
 		File cardFile = new File(cardDirectory + "//" + card + ".txt");
 		if (cardFile.exists()) {
 			jsonToReturn.put(new JSONObject(new String(Files.readAllBytes(Paths.get(cardFile.getAbsolutePath())))));
 		}
 	}
-	String response = jsonToReturn.toString();
+	
+	response = jsonToReturn.toString();
+	}
 	System.out.println(response);
     t.getResponseHeaders().set("Content-Type", String.format("application/json; charset=%s", StandardCharsets.UTF_8));
         t.sendResponseHeaders(200, response.length());
