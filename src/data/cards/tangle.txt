@@ -1,0 +1,21 @@
+{
+    "set": "The First Chapter",
+    "color": "Ruby",
+    "artist": "Eri Welli",
+    "type": "Action",
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "effect": "Each opponent loses 1 lore.",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/tangle/small.png",
+      "no-art": "https://lorcana-api.com/images/tangle/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/tangle/art-crop.png",
+      "medium": "https://lorcana-api.com/images/tangle/medium.png",
+      "large": "https://lorcana-api.com/images/tangle/large.png"
+    },
+    "name": "Tangle",
+    "ink-cost": 2,
+    "flavor-text": "\"Stay right there! I mean, you don't have a choice, I guess. But still! Don't move!\" - Rapunzel",
+    "rarity": "Common"
+  }

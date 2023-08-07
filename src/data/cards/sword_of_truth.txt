@@ -1,0 +1,21 @@
+{
+    "set": "The First Chapter",
+    "color": "Ruby",
+    "artist": "Andrew Trabbold",
+    "type": "Item",
+    "set-code": "TFC",
+    "abilities": {"Final Enchantment": "Banish this item - Banish chosen villain character."},
+    "inkable": false,
+    "effect": "",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/sword_of_truth/small.png",
+      "no-art": "https://lorcana-api.com/images/sword_of_truth/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/sword_of_truth/art-crop.png",
+      "medium": "https://lorcana-api.com/images/sword_of_truth/medium.png",
+      "large": "https://lorcana-api.com/images/sword_of_truth/large.png"
+    },
+    "name": "Sword Of Truth",
+    "ink-cost": 4,
+    "flavor-text": "Almost as powerful as True Love's Kiss.",
+    "rarity": "Rare"
+  }

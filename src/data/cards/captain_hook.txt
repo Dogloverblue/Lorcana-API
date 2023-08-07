@@ -59,5 +59,36 @@
       }],
       "name": "Captain Hook",
       "ink-cost": 1
+    },
+    "ruthless_pirate": {
+      "lore-value": 2,
+      "traits": ["Rush"],
+      "set": "The First Chapter",
+      "color": "Ruby",
+      "strength": 5,
+      "artist": "Cam Kendall",
+      "willpower": 5,
+      "type": "Character",
+      "subtypes": [
+        "Storyborn",
+        "Villain",
+        "Pirate",
+        "Captain"
+      ],
+      "set-code": "TFC",
+      "abilities": {"You Coward!": "While this character is excerted, opposing characters with Evasive gain Reckless"},
+      "inkable": false,
+      "subtitle": "Ruthless Pirate",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/captain_hook-ruthless_pirate/small.png",
+        "no-art": "https://lorcana-api.com/images/captain_hook-ruthless_pirate/no-art.png",
+        "art-crop": "https://lorcana-api.com/images/captain_hook-ruthless_pirate/art-crop.png",
+        "medium": "https://lorcana-api.com/images/captain_hook-ruthless_pirate/medium.png",
+        "large": "https://lorcana-api.com/images/captain_hook-ruthless_pirate/large.png"
+      },
+      "name": "Captain Hook",
+      "ink-cost": 7,
+      "flavor-text": "\"You wouldn't dare fight old hook man-to-man!\"",
+      "rarity": "Rare"
     }
   }

@@ -1,0 +1,29 @@
+{"storyteller": {
+    "lore-value": 1,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Sapphire",
+    "strength": 1,
+    "artist": "Fliipe Laurentino",
+    "willpower": 1,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Mentory"
+    ],
+    "set-code": "TFC",
+    "abilities": {"I Will Be With You": "When this character is banished, you may put this card into your inkwell facedown and excerted."},
+    "inkable": true,
+    "subtitle": "Storyteller",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/gramma_tala-storyteller/small.png",
+      "no-art": "https://lorcana-api.com/images/gramma_tala-storyteller/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/gramma_tala-storyteller/art-crop.png",
+      "medium": "https://lorcana-api.com/images/gramma_tala-storyteller/medium.png",
+      "large": "https://lorcana-api.com/images/gramma_tala-storyteller/large.png"
+    },
+    "name": "Gramma Tala",
+    "ink-cost": 2,
+    "flavor-text": "Moana: \"Is there something you want to tell me?\" Gramma Tala: \"Is there something you want to hear?\"",
+    "rarity": "Uncommon"
+  }}

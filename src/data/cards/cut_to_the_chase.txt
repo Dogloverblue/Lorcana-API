@@ -1,0 +1,21 @@
+{
+    "set": "The First Chapter",
+    "color": "Ruby",
+    "artist": "Ellie Horie",
+    "type": "Action",
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "effect": "Chosen character gains Rush this turn. (They can challenge the turn they're played.)",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/cut_to_the_chase/small.png",
+      "no-art": "https://lorcana-api.com/images/cut_to_the_chase/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/cut_to_the_chase/art-crop.png",
+      "medium": "https://lorcana-api.com/images/cut_to_the_chase/medium.png",
+      "large": "https://lorcana-api.com/images/cut_to_the_chase/large.png"
+    },
+    "name": "Cut To The Chase",
+    "ink-cost": 2,
+    "flavor-text": "\"Surprise!\"",
+    "rarity": "Uncommon"
+  }

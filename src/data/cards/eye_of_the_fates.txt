@@ -1,0 +1,21 @@
+{
+    "set": "The First Chapter",
+    "color": "Sapphire",
+    "artist": "Ron Baird",
+    "type": "Item",
+    "set-code": "TFC",
+    "abilities": {"See The Future": "{t} - Chosen character gets +1{lore} this turn."},
+    "inkable": true,
+    "effect": "",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/eye_of_the_fates/small.png",
+      "no-art": "https://lorcana-api.com/images/eye_of_the_fates/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/eye_of_the_fates/art-crop.png",
+      "medium": "https://lorcana-api.com/images/eye_of_the_fates/medium.png",
+      "large": "https://lorcana-api.com/images/eye_of_the_fates/large.png"
+    },
+    "name": "Eye Of The Fates",
+    "ink-cost": 4,
+    "flavor-text": "You can change the future once you know what you're looking at.",
+    "rarity": "Uncommon"
+  }

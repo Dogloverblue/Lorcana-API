@@ -1,0 +1,21 @@
+{
+    "set": "The First Chapter",
+    "color": "Ruby",
+    "artist": "Eri Welli",
+    "type": "Item",
+    "set-code": "TFC",
+    "abilities": {"Fireproof": "{t}, 3{ink} - Read chosen character. They can't quest for the rest of this turn."},
+    "inkable": true,
+    "effect": "",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/shield_of_virtue/small.png",
+      "no-art": "https://lorcana-api.com/images/shield_of_virtue/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/shield_of_virtue/art-crop.png",
+      "medium": "https://lorcana-api.com/images/shield_of_virtue/medium.png",
+      "large": "https://lorcana-api.com/images/shield_of_virtue/large.png"
+    },
+    "name": "Shield Of Virtue",
+    "ink-cost": 1,
+    "flavor-text": "\"Arm thyself with this enchanted Shield of Virtue and this mighty Sword of Truth, for these weapons of righteousness will triumph over evil.\" -Flora",
+    "rarity": "Uncommon"
+  }

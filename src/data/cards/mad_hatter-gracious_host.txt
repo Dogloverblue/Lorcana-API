@@ -1,0 +1,26 @@
+{
+    "lore-value": 3,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Emerald",
+    "strength": 2,
+    "artist": "Rosa la Barvera",
+    "willpower": 4,
+    "type": "Character",
+    "subtypes": ["Storynborn"],
+    "set-code": "TFC",
+    "abilities": {"Tea Party": "Whenever this character is challenged, you may draw a card."},
+    "inkable": true,
+    "subtitle": "Gracious Host",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/mad_hatter-gracious_host/small.png",
+      "no-art": "https://lorcana-api.com/images/mad_hatter-gracious_host/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/mad_hatter-gracious_host/art-crop.png",
+      "medium": "https://lorcana-api.com/images/mad_hatter-gracious_host/medium.png",
+      "large": "https://lorcana-api.com/images/mad_hatter-gracious_host/large.png"
+    },
+    "name": "Mad Hatter",
+    "ink-cost": 5,
+    "flavor-text": "Mad Hatter: \"Would you like a little more tea?\" Alice: \"I haven't had any yet, so I can't very well take more.\"",
+    "rarity": "Uncommon"
+  }

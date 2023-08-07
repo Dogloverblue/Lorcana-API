@@ -87,5 +87,35 @@
     "ink-cost": 7,
     "flavor-text": "\"So you're from outer space, huh? I hear the surfing's choice.\" - David",
     "rarity": "Legendary"
+  },
+"abomination": {
+    "lore-value": 3,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Ruby",
+    "strength": 4,
+    "artist": "Bill Robinson",
+    "willpower": 6,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Hero",
+      "Alien"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "subtitle": "Abomination",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/stich-abomination/small.png",
+      "no-art": "https://lorcana-api.com/images/stich-abomination/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/stich-abomination/art-crop.png",
+      "medium": "https://lorcana-api.com/images/stich-abomination/medium.png",
+      "large": "https://lorcana-api.com/images/stich-abomination/large.png"
+    },
+    "name": "Stich",
+    "ink-cost": 6,
+    "flavor-text": "\"His destructive programming is taking effect. He will be irresisibly drawn to large cities, where he will back up sewers, reverse street signs, and steal everyone's left shoe.\" -Jumba Jookiba",
+    "rarity": "Rare"
   }
 }

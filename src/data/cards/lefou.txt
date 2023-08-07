@@ -1,28 +1,59 @@
-{"bumbler": {
-    "traits": null,
-    "set": "The First Chapter",
-    "lore-value": 2,
-    "color": "Amber",
-    "strength": 1,
-    "artist": "Andrey Chomak",
-    "willpower": 2,
-    "type": "Character",
-    "flavor_text": "You need a good today to be a proper bad guy",
-    "subtypes": [
-      "Storyborn",
-      "Ally"
-    ],
-    "set-code": "TFC",
-    "abilities": [{"Loyal": "If you have a character named Gaston in play, you pay 1? less to play this character."}],
-    "inkable": true,
-    "subtitle": "Bumbler",
-    "image-urls": [{
-      "small": "https://lorcana-api.com/images/lefou/bumbler/small.png",
-      "no-art": "https://lorcana-api.com/images/lefou/bumbler/no-art.png",
-      "large": "https://lorcana-api.com/images/lefou/bumbler/large.png",
-      "art-crop": "https://lorcana-api.com/images/lefou/bumbler/art-crop.png",
-      "medium": "https://lorcana-api.com/images/lefou/bumbler/medium.png"
-    }],
-    "name": "Lefou",
-    "ink-cost": 2
-  }}
+{
+    "bumbler": {
+      "traits": null,
+      "set": "The First Chapter",
+      "lore-value": 2,
+      "color": "Amber",
+      "strength": 1,
+      "artist": "Andrey Chomak",
+      "willpower": 2,
+      "type": "Character",
+      "flavor_text": "You need a good today to be a proper bad guy",
+      "subtypes": [
+        "Storyborn",
+        "Ally"
+      ],
+      "set-code": "TFC",
+      "abilities": [{"Loyal": "If you have a character named Gaston in play, you pay 1? less to play this character."}],
+      "inkable": true,
+      "subtitle": "Bumbler",
+      "image-urls": [{
+        "small": "https://lorcana-api.com/images/lefou/bumbler/small.png",
+        "no-art": "https://lorcana-api.com/images/lefou/bumbler/no-art.png",
+        "large": "https://lorcana-api.com/images/lefou/bumbler/large.png",
+        "art-crop": "https://lorcana-api.com/images/lefou/bumbler/art-crop.png",
+        "medium": "https://lorcana-api.com/images/lefou/bumbler/medium.png"
+      }],
+      "name": "Lefou",
+      "ink-cost": 2
+    },
+    "instigator": {
+      "lore-value": 1,
+      "traits": [],
+      "set": "The First Chapter",
+      "color": "Ruby",
+      "strength": 2,
+      "artist": "Gaku Kumatori",
+      "willpower": 2,
+      "type": "Character",
+      "subtypes": [
+        "Dreamborn",
+        "Ally"
+      ],
+      "set-code": "TFC",
+      "abilities": {"Fan The Flames": "When you play this character, ready chosen character, They can't quest for the rest of this turn."},
+      "inkable": true,
+      "subtitle": "Instigator",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/lefou-instigator/small.png",
+        "no-art": "https://lorcana-api.com/images/lefou-instigator/no-art.png",
+        "art-crop": "https://lorcana-api.com/images/lefou-instigator/art-crop.png",
+        "medium": "https://lorcana-api.com/images/lefou-instigator/medium.png",
+        "large": "https://lorcana-api.com/images/lefou-instigator/large.png"
+      },
+      "name": "Lefou",
+      "ink-cost": 2,
+      "flavor-text": "All a mob needs is a push in the wrong direction",
+      "rarity": "Rare"
+    }
+  }

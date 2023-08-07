@@ -1,0 +1,21 @@
+{
+    "set": "The First Chapter",
+    "color": "Ruby",
+    "artist": "Koni",
+    "type": "Action",
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "effect": "Chosen Character gets +2 {strength} this turn.",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/he's_got_a_sword!/small.png",
+      "no-art": "https://lorcana-api.com/images/he's_got_a_sword!/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/he's_got_a_sword!/art-crop.png",
+      "medium": "https://lorcana-api.com/images/he's_got_a_sword!/medium.png",
+      "large": "https://lorcana-api.com/images/he's_got_a_sword!/large.png"
+    },
+    "name": "He's Got A Sword!",
+    "ink-cost": 1,
+    "flavor-text": "\"We've all got swords!\" - Razoul",
+    "rarity": "Common"
+  }

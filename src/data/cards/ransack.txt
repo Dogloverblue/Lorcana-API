@@ -1,0 +1,21 @@
+{
+    "set": "The First Chapter",
+    "color": "Steel",
+    "artist": "Amber Kommavongsa",
+    "type": "Action",
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "effect": "Draw 2 cards, then choose and discord 2 cards.",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/ransack/small.png",
+      "no-art": "https://lorcana-api.com/images/ransack/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/ransack/art-crop.png",
+      "medium": "https://lorcana-api.com/images/ransack/medium.png",
+      "large": "https://lorcana-api.com/images/ransack/large.png"
+    },
+    "name": "Ransack",
+    "ink-cost": 2,
+    "flavor-text": "Who has time to read labels?",
+    "rarity": "Uncommon"
+  }
