@@ -49,7 +49,7 @@ public class App {
 			} catch (JSONException | IOException e) {
 				continue;
 			}
-    		sb.append("    \"" + LAPIUtils.removeFileExtension(file.getName(), true) + "\",\n");
+    		sb.append("    \"" + LAPIUtils.removeFileExtension(file.getName(), false) + "\",\n");
     	}
     	sb.deleteCharAt(sb.length() - 2);
     	sb.append("]");
