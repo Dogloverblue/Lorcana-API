@@ -42,7 +42,6 @@ public class StrictHandler implements HttpHandler {
 	
 	response = jsonToReturn.toString();
 	}
-	System.out.println(response);
     t.getResponseHeaders().set("Content-Type", String.format("application/json; charset=%s", StandardCharsets.UTF_8));
         t.sendResponseHeaders(200, response.length());
   

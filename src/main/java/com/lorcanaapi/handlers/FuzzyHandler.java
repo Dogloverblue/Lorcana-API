@@ -23,9 +23,6 @@ public class FuzzyHandler implements HttpHandler {
           ExtractedResult result = FuzzySearch.extractOne(String.valueOf(t.getRequestURI()).replace("/fuzzy/", ""), data.keySet());
           response = data.get(result.getString());
           t.sendResponseHeaders(200, response.length() + 10);
-          //   System.out.println("URI: " + t.getRequestURI());
-        //  System.out.println("response: " + response);
-         // System.out.println("sus input: " + String.valueOf(t.getRequestURI()).replace("/fuzzy/", ""));
           OutputStream os = t.getResponseBody();
           os.write(response.getBytes());
           os.close();

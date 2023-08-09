@@ -1,0 +1,29 @@
+{"persistent_guardian": {
+    "lore-value": 1,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Amethyst",
+    "strength": 5,
+    "artist": "Kendall Hale / Anh Dang",
+    "willpower": 5,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Ally"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Durable": "When this character is banished in a challenge, you may return this card to your hand."},
+    "inkable": false,
+    "subtitle": "Persistent Guardian",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/marshmallow-persistent_guardian/small.png",
+      "no-art": "https://lorcana-api.com/images/marshmallow-persistent_guardian/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/marshmallow-persistent_guardian/art-crop.png",
+      "medium": "https://lorcana-api.com/images/marshmallow-persistent_guardian/medium.png",
+      "large": "https://lorcana-api.com/images/marshmallow-persistent_guardian/large.png"
+    },
+    "name": "MarshMallow",
+    "ink-cost": 6,
+    "flavor-text": "\"Hey! We were just talking about you! All good things, all good things.\"\\n - Olaf",
+    "rarity": "Super Rare"
+  }}

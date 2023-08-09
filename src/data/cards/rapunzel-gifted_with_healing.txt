@@ -1,0 +1,30 @@
+{
+    "lore-value": 2,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Amber",
+    "strength": 1,
+    "artist": "Jochem Van Gool",
+    "willpower": 5,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Gleam And Glow": "When you play this character, remove up to 3 damage from one of your characters. Draw a card for each 1 damage removed this way."},
+    "inkable": true,
+    "subtitle": "Gifted with Healing",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/rapunzel-gifted_with_healing/small.png",
+      "no-art": "https://lorcana-api.com/images/rapunzel-gifted_with_healing/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/rapunzel-gifted_with_healing/art-crop.png",
+      "medium": "https://lorcana-api.com/images/rapunzel-gifted_with_healing/medium.png",
+      "large": "https://lorcana-api.com/images/rapunzel-gifted_with_healing/large.png"
+    },
+    "name": "Rapunzel",
+    "ink-cost": 4,
+    "flavor-text": "",
+    "rarity": "Legendary"
+  }

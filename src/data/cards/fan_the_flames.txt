@@ -1,0 +1,21 @@
+{
+    "set": "The First Chapter",
+    "color": "Ruby",
+    "artist": "Jenna Gray",
+    "type": "Action",
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "effect": "Ready chosen character. They can't quest for the rest of this turn.",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/fan_the_flames/small.png",
+      "no-art": "https://lorcana-api.com/images/fan_the_flames/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/fan_the_flames/art-crop.png",
+      "medium": "https://lorcana-api.com/images/fan_the_flames/medium.png",
+      "large": "https://lorcana-api.com/images/fan_the_flames/large.png"
+    },
+    "name": "Fan The Flames",
+    "ink-cost": 1,
+    "flavor-text": "Pretty words can move a crowd, but so can ugly ones.",
+    "rarity": "Uncommon"
+  }

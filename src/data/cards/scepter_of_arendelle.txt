@@ -1,0 +1,21 @@
+{
+    "set": "The First Chapter",
+    "color": "Sapphire",
+    "artist": "Grace Tran",
+    "type": "Item",
+    "set-code": "TFC",
+    "abilities": {"Command": "{tap} - Chosen character gains Support this turn. (Whenever they quest, you may add their {strength} to another chosen character's {strength} this turn.)"},
+    "inkable": true,
+    "effect": "",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/scepter_of_arendelle/small.png",
+      "no-art": "https://lorcana-api.com/images/scepter_of_arendelle/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/scepter_of_arendelle/art-crop.png",
+      "medium": "https://lorcana-api.com/images/scepter_of_arendelle/medium.png",
+      "large": "https://lorcana-api.com/images/scepter_of_arendelle/large.png"
+    },
+    "name": "Scepter Of Arendelle",
+    "ink-cost": 1,
+    "flavor-text": "",
+    "rarity": "Uncommon"
+  }

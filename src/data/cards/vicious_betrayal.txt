@@ -1,0 +1,21 @@
+{
+    "set": "The First Chapter",
+    "color": "Emerald",
+    "artist": "Michaela Martin",
+    "type": "Action",
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "effect": "Chosen character gets +2 {strength} this turn. If a villain character is chosen, they get +3 {strength} insead.",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/vicious_betrayal/small.png",
+      "no-art": "https://lorcana-api.com/images/vicious_betrayal/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/vicious_betrayal/art-crop.png",
+      "medium": "https://lorcana-api.com/images/vicious_betrayal/medium.png",
+      "large": "https://lorcana-api.com/images/vicious_betrayal/large.png"
+    },
+    "name": "Vicious Betrayal",
+    "ink-cost": 1,
+    "flavor-text": "\"A true king takes matters into his own claws.\"\\n - Scar",
+    "rarity": "Common"
+  }

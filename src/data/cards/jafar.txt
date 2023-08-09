@@ -1,29 +1,61 @@
-{"wicked_sorcerer": {
-    "traits": ["Challenger 3"],
-    "set": "The First Chapter",
-    "lore-value": 1,
-    "color": "Amethyst",
-    "strength": 2,
-    "artist": "Jake Parker",
-    "willpower": 5,
-    "type": "Character",
-    "flavor_text": "\\\"Enough skulking about. It's time to show that sniveling sultan what a sorcerer can do.\\\"",
-    "subtypes": [
-      "Dreamborn",
-      "Villain",
-      "Sorcerer"
-    ],
-    "set-code": "TFC",
-    "abilities": null,
-    "inkable": true,
-    "subtitle": "Wicked Sorcerer",
-    "image-urls": [{
-      "small": "https://lorcana-api.com/images/jafar/wicked_sorcerer/small.png",
-      "no-art": "https://lorcana-api.com/images/jafar/wicked_sorcerer/no-art.png",
-      "large": "https://lorcana-api.com/images/jafar/wicked_sorcerer/large.png",
-      "art-crop": "https://lorcana-api.com/images/jafar/wicked_sorcerer/art-crop.png",
-      "medium": "https://lorcana-api.com/images/jafar/wicked_sorcerer/medium.png"
-    }],
-    "name": "Jafar",
-    "ink-cost": 4
-  }}
+{
+    "keeper_of_secrets": {
+      "lore-value": 2,
+      "traits": [],
+      "set": "The First Chapter",
+      "color": "Amethyst",
+      "strength": 0,
+      "artist": "Marcel Berg",
+      "willpower": 5,
+      "type": "Character",
+      "subtypes": [
+        "Dreamborn",
+        "Villain",
+        "Sorcerer"
+      ],
+      "set-code": "TFC",
+      "abilities": {"Hidden Wonders": "This character gets +1{strength} for each card in your hand."},
+      "inkable": true,
+      "subtitle": "Keeper of secrets",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/jafar-keeper_of_secrets/small.png",
+        "no-art": "https://lorcana-api.com/images/jafar-keeper_of_secrets/no-art.png",
+        "art-crop": "https://lorcana-api.com/images/jafar-keeper_of_secrets/art-crop.png",
+        "medium": "https://lorcana-api.com/images/jafar-keeper_of_secrets/medium.png",
+        "large": "https://lorcana-api.com/images/jafar-keeper_of_secrets/large.png"
+      },
+      "name": "Jafar",
+      "ink-cost": 4,
+      "flavor-text": "There's more than one way to bury secrets.",
+      "rarity": "Rare"
+    },
+    "wicked_sorcerer": {
+      "traits": ["Challenger 3"],
+      "set": "The First Chapter",
+      "lore-value": 1,
+      "color": "Amethyst",
+      "strength": 2,
+      "artist": "Jake Parker",
+      "willpower": 5,
+      "type": "Character",
+      "flavor_text": "\\\"Enough skulking about. It's time to show that sniveling sultan what a sorcerer can do.\\\"",
+      "subtypes": [
+        "Dreamborn",
+        "Villain",
+        "Sorcerer"
+      ],
+      "set-code": "TFC",
+      "abilities": null,
+      "inkable": true,
+      "subtitle": "Wicked Sorcerer",
+      "image-urls": [{
+        "small": "https://lorcana-api.com/images/jafar/wicked_sorcerer/small.png",
+        "no-art": "https://lorcana-api.com/images/jafar/wicked_sorcerer/no-art.png",
+        "large": "https://lorcana-api.com/images/jafar/wicked_sorcerer/large.png",
+        "art-crop": "https://lorcana-api.com/images/jafar/wicked_sorcerer/art-crop.png",
+        "medium": "https://lorcana-api.com/images/jafar/wicked_sorcerer/medium.png"
+      }],
+      "name": "Jafar",
+      "ink-cost": 4
+    }
+  }

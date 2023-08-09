@@ -1,0 +1,29 @@
+{"no-good_scoundrel": {
+    "lore-value": 1,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Emerald",
+    "strength": 4,
+    "artist": "Isaiah Mesq",
+    "willpower": 3,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Ally"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "subtitle": "No-Good Scoundrel",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/horace-no-good_scoundrel/small.png",
+      "no-art": "https://lorcana-api.com/images/horace-no-good_scoundrel/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/horace-no-good_scoundrel/art-crop.png",
+      "medium": "https://lorcana-api.com/images/horace-no-good_scoundrel/medium.png",
+      "large": "https://lorcana-api.com/images/horace-no-good_scoundrel/large.png"
+    },
+    "name": "Horace",
+    "ink-cost": 3,
+    "flavor-text": "\"Well, they ain't in here, Jasper.\"",
+    "rarity": "Common"
+  }}

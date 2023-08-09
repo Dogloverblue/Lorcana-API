@@ -1,0 +1,21 @@
+{
+    "set": "The First Chapter",
+    "color": "Amber",
+    "artist": "Jenna Gray",
+    "type": "Item",
+    "set-code": "TFC",
+    "abilities": {"Now, Sing!": "Whenever you play a song, you may pay 1 {ink} to draw a card."},
+    "inkable": false,
+    "effect": "",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/ursula's_shell_necklace/small.png",
+      "no-art": "https://lorcana-api.com/images/ursula's_shell_necklace/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/ursula's_shell_necklace/art-crop.png",
+      "medium": "https://lorcana-api.com/images/ursula's_shell_necklace/medium.png",
+      "large": "https://lorcana-api.com/images/ursula's_shell_necklace/large.png"
+    },
+    "name": "Ursula's Shell Necklace",
+    "ink-cost": 3,
+    "flavor-text": "\"Singing is a lovely pastime... if you've got the voice for it.\" \\n - Ursula",
+    "rarity": "Rare"
+  }

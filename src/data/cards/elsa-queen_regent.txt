@@ -1,0 +1,31 @@
+{
+    "lore-value": 1,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Amethyst",
+    "strength": 4,
+    "artist": "Duyen Nguyen / Aubrey Archer",
+    "willpower": 4,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Hero",
+      "Queen",
+      "Sorcerer"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "subtitle": "Queen Regent",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/elsa-queen_regent/small.png",
+      "no-art": "https://lorcana-api.com/images/elsa-queen_regent/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/elsa-queen_regent/art-crop.png",
+      "medium": "https://lorcana-api.com/images/elsa-queen_regent/medium.png",
+      "large": "https://lorcana-api.com/images/elsa-queen_regent/large.png"
+    },
+    "name": "Elsa",
+    "ink-cost": 4,
+    "flavor-text": "\"I never know what I was capable of.\"",
+    "rarity": "Common"
+  }

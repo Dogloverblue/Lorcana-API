@@ -1,0 +1,21 @@
+{
+    "set": "The First Chapter",
+    "color": "Steel",
+    "artist": "Koni",
+    "type": "Action - Song",
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": false,
+    "effect": "Each player discards their hand and draws 7.",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/a_whole_new_world/small.png",
+      "no-art": "https://lorcana-api.com/images/a_whole_new_world/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/a_whole_new_world/art-crop.png",
+      "medium": "https://lorcana-api.com/images/a_whole_new_world/medium.png",
+      "large": "https://lorcana-api.com/images/a_whole_new_world/large.png"
+    },
+    "name": "A Whole New World",
+    "ink-cost": 5,
+    "flavor-text": "Shining, shimmering, splendid...",
+    "rarity": "Super Rare"
+  }

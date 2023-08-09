@@ -1,0 +1,21 @@
+{
+    "set": "The First Chapter",
+    "color": "Emerald",
+    "artist": "Ellie Horie",
+    "type": "Action",
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": false,
+    "effect": "Return an action card from your discard to your hand.",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/do_it_again!/small.png",
+      "no-art": "https://lorcana-api.com/images/do_it_again!/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/do_it_again!/art-crop.png",
+      "medium": "https://lorcana-api.com/images/do_it_again!/medium.png",
+      "large": "https://lorcana-api.com/images/do_it_again!/large.png"
+    },
+    "name": "Do It Again!",
+    "ink-cost": 3,
+    "flavor-text": "\"...Then scrub the terrace, sweep the halls and the stairs, clean the chimneys. And of course there's the mending, and the sewing, and the laundry...\"\\n - Lady Tremaine",
+    "rarity": "Rare"
+  }

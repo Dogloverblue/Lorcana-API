@@ -1,0 +1,21 @@
+{
+    "set": "The First Chapter",
+    "color": "Emerald",
+    "artist": "R. La Barbera / L. Giammichele",
+    "type": "Action - Song",
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": false,
+    "effect": "Return chosen character to their player's hand.",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/mother_knows_best/small.png",
+      "no-art": "https://lorcana-api.com/images/mother_knows_best/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/mother_knows_best/art-crop.png",
+      "medium": "https://lorcana-api.com/images/mother_knows_best/medium.png",
+      "large": "https://lorcana-api.com/images/mother_knows_best/large.png"
+    },
+    "name": "Mother Knows Best",
+    "ink-cost": 3,
+    "flavor-text": "One way or another\\nSomething will go wrong, I swear",
+    "rarity": "Uncommon"
+  }

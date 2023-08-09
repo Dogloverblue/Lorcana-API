@@ -20,9 +20,9 @@
       "image-urls": {
         "small": "https://lorcana-api.com/images/tinker_bell-most_helpful/small.png",
         "no-art": "https://lorcana-api.com/images/tinker_bell-most_helpful/no-art.png",
+        "large": "https://lorcana-api.com/images/tinker_bell-most_helpful/large.png",
         "art-crop": "https://lorcana-api.com/images/tinker_bell-most_helpful/art-crop.png",
-        "medium": "https://lorcana-api.com/images/tinker_bell-most_helpful/medium.png",
-        "large": "https://lorcana-api.com/images/tinker_bell-most_helpful/large.png"
+        "medium": "https://lorcana-api.com/images/tinker_bell-most_helpful/medium.png"
       },
       "name": "Tinker Bell",
       "ink-cost": 4,
@@ -61,5 +61,35 @@
       "ink-cost": 6,
       "flavor-text": "",
       "rarity": "Super Rare"
+    },
+    "peter_pan's_ally": {
+      "lore-value": 2,
+      "traits": ["Evasive"],
+      "set": "The First Chapter",
+      "color": "Amethyst",
+      "strength": 3,
+      "artist": "Adrianne Gumaya",
+      "willpower": 3,
+      "type": "Character",
+      "subtypes": [
+        "Storyborn",
+        "Ally",
+        "Fairy"
+      ],
+      "set-code": "TFC",
+      "abilities": {"Loyal And Devoted": "Your characters name Peter Pan gain Challenger 1"},
+      "inkable": false,
+      "subtitle": "Peter Pan's Ally",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/tinker_bell-peter_pan's_ally/small.png",
+        "no-art": "https://lorcana-api.com/images/tinker_bell-peter_pan's_ally/no-art.png",
+        "art-crop": "https://lorcana-api.com/images/tinker_bell-peter_pan's_ally/art-crop.png",
+        "medium": "https://lorcana-api.com/images/tinker_bell-peter_pan's_ally/medium.png",
+        "large": "https://lorcana-api.com/images/tinker_bell-peter_pan's_ally/large.png"
+      },
+      "name": "Tinker Bell",
+      "ink-cost": 5,
+      "flavor-text": "",
+      "rarity": "Common"
     }
   }

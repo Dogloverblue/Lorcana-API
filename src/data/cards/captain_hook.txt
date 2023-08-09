@@ -1,4 +1,38 @@
 {
+    "thinking_a_happy_though": {
+      "lore-value": 1,
+      "traits": [
+        "Shift 3",
+        "Challenger 3"
+      ],
+      "set": "The First Chapter",
+      "color": "Steel",
+      "strength": 2,
+      "artist": "Elliot Bocxtaele",
+      "willpower": 5,
+      "type": "Character",
+      "subtypes": [
+        "Floodborn",
+        "Villain",
+        "Pirate",
+        "Captain"
+      ],
+      "set-code": "TFC",
+      "abilities": {"Stolen Dust": "Characters with cost 3 or less can't challenge this character,"},
+      "inkable": false,
+      "subtitle": "Thinking a Happy Though",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/captain_hook-thinking_a_happy_though/small.png",
+        "no-art": "https://lorcana-api.com/images/captain_hook-thinking_a_happy_though/no-art.png",
+        "art-crop": "https://lorcana-api.com/images/captain_hook-thinking_a_happy_though/art-crop.png",
+        "medium": "https://lorcana-api.com/images/captain_hook-thinking_a_happy_though/medium.png",
+        "large": "https://lorcana-api.com/images/captain_hook-thinking_a_happy_though/large.png"
+      },
+      "name": "Captain Hook",
+      "ink-cost": 5,
+      "flavor-text": "",
+      "rarity": "Rare"
+    },
     "captain_of_the_jolly_roger": {
       "lore-value": 1,
       "traits": [],
@@ -82,9 +116,9 @@
       "image-urls": {
         "small": "https://lorcana-api.com/images/captain_hook-ruthless_pirate/small.png",
         "no-art": "https://lorcana-api.com/images/captain_hook-ruthless_pirate/no-art.png",
+        "large": "https://lorcana-api.com/images/captain_hook-ruthless_pirate/large.png",
         "art-crop": "https://lorcana-api.com/images/captain_hook-ruthless_pirate/art-crop.png",
-        "medium": "https://lorcana-api.com/images/captain_hook-ruthless_pirate/medium.png",
-        "large": "https://lorcana-api.com/images/captain_hook-ruthless_pirate/large.png"
+        "medium": "https://lorcana-api.com/images/captain_hook-ruthless_pirate/medium.png"
       },
       "name": "Captain Hook",
       "ink-cost": 7,

@@ -1,0 +1,61 @@
+{"thirteenth_in_line": {
+    "lore-value": 2,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Steel",
+    "strength": 3,
+    "artist": "Kendall Hale",
+    "willpower": 3,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Villain",
+      "Prince"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Stage A Little Accident": "Whenever this character quests, you may deal 1 damage to chosen character."},
+    "inkable": true,
+    "subtitle": "Thirteenth in Line",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/hans-thirteenth_in_line/small.png",
+      "no-art": "https://lorcana-api.com/images/hans-thirteenth_in_line/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/hans-thirteenth_in_line/art-crop.png",
+      "medium": "https://lorcana-api.com/images/hans-thirteenth_in_line/medium.png",
+      "large": "https://lorcana-api.com/images/hans-thirteenth_in_line/large.png"
+    },
+    "name": "Hans",
+    "ink-cost": 4,
+    "flavor-text": "Tired of being last, he decided to cut the line.",
+    "rarity": "Super Rare"
+  },
+"scheming_prince": {
+    "lore-value": 3,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Emerald",
+    "strength": 3,
+    "artist": "Massimiliano Narciso",
+    "willpower": 3,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Villain",
+      "Prince"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "subtitle": "Scheming Prince",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/hans-scheming_prince/small.png",
+      "no-art": "https://lorcana-api.com/images/hans-scheming_prince/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/hans-scheming_prince/art-crop.png",
+      "medium": "https://lorcana-api.com/images/hans-scheming_prince/medium.png",
+      "large": "https://lorcana-api.com/images/hans-scheming_prince/large.png"
+    },
+    "name": "Hans",
+    "ink-cost": 4,
+    "flavor-text": "Rules are like older siblings. All they do is get in the way.",
+    "rarity": "Rare"
+  }
+}

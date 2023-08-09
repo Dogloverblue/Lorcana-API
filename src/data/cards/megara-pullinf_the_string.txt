@@ -1,0 +1,29 @@
+{
+    "lore-value": 1,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Emerald",
+    "strength": 2,
+    "artist": "Aubrey Archer",
+    "willpower": 1,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Ally"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Wonder Boy": "When you play this character, chosen character gets +2{strength} this turn."},
+    "inkable": true,
+    "subtitle": "Pullinf the String",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/megara-pullinf_the_string/small.png",
+      "no-art": "https://lorcana-api.com/images/megara-pullinf_the_string/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/megara-pullinf_the_string/art-crop.png",
+      "medium": "https://lorcana-api.com/images/megara-pullinf_the_string/medium.png",
+      "large": "https://lorcana-api.com/images/megara-pullinf_the_string/large.png"
+    },
+    "name": "Megara",
+    "ink-cost": 2,
+    "flavor-text": "\"A deal's a deal. But falling in love was never supposed to be a part of it.\"",
+    "rarity": "Common"
+  }

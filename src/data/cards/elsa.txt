@@ -1,30 +1,125 @@
-{"snow_queen": {
-    "traits": null,
-    "set": "The First Chapter",
-    "lore-value": 1,
-    "color": "Amethyst",
-    "strength": 2,
-    "artist": "Nicholas Kole",
-    "willpower": 3,
-    "type": "character",
-    "flavor_text": "Recreated by magical ink, Elsa found herself in an unfamiliar new world. Fortunately, ice works the same way everywhere.",
-    "subtypes": [
-      "Dreamborn",
-      "Hero",
-      "Queen",
-      "Sorcerer"
-    ],
-    "set-code": "TFC",
-    "abilities": [{"FREEZE": "Excert chosen opposing character."}],
-    "inkable": true,
-    "subtitle": "Snow Queen",
-    "image-urls": [{
-      "small": "https://lorcana-api.com/images/elsa/snow_queen/small.png",
-      "no-art": "https://lorcana-api.com/images/elsa/snow_queen/no-art.png",
-      "large": "https://lorcana-api.com/images/elsa/snow_queen/large.png",
-      "art-crop": "https://lorcana-api.com/images/elsa/snow_queen/art-crop.png",
-      "medium": "https://lorcana-api.com/images/elsa/snow_queen/medium.png"
-    }],
-    "name": "Elsa",
-    "ink-cost": 3
-  }}
+{
+    "snow_queen": {
+      "traits": null,
+      "set": "The First Chapter",
+      "lore-value": 1,
+      "color": "Amethyst",
+      "strength": 2,
+      "artist": "Nicholas Kole",
+      "willpower": 3,
+      "type": "character",
+      "flavor_text": "Recreated by magical ink, Elsa found herself in an unfamiliar new world. Fortunately, ice works the same way everywhere.",
+      "subtypes": [
+        "Dreamborn",
+        "Hero",
+        "Queen",
+        "Sorcerer"
+      ],
+      "set-code": "TFC",
+      "abilities": [{"FREEZE": "Excert chosen opposing character."}],
+      "inkable": true,
+      "subtitle": "Snow Queen",
+      "image-urls": [{
+        "small": "https://lorcana-api.com/images/elsa/snow_queen/small.png",
+        "no-art": "https://lorcana-api.com/images/elsa/snow_queen/no-art.png",
+        "large": "https://lorcana-api.com/images/elsa/snow_queen/large.png",
+        "art-crop": "https://lorcana-api.com/images/elsa/snow_queen/art-crop.png",
+        "medium": "https://lorcana-api.com/images/elsa/snow_queen/medium.png"
+      }],
+      "name": "Elsa",
+      "ink-cost": 3
+    },
+    "ice_surfer": {
+      "lore-value": 1,
+      "traits": [],
+      "set": "The First Chapter",
+      "color": "Ruby",
+      "strength": 3,
+      "artist": "Alice Pisoni / Whitney Pollett",
+      "willpower": 4,
+      "type": "Character",
+      "subtypes": [
+        "Dreamborn",
+        "Hero",
+        "Queen",
+        "Sorcerer"
+      ],
+      "set-code": "TFC",
+      "abilities": {"That's No Blizzard": "Whenever you play a character named Anna, ready this character. This character can't quest for the rest of this turn."},
+      "inkable": true,
+      "subtitle": "Ice Surfer",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/elsa-ice_surfer/small.png",
+        "no-art": "https://lorcana-api.com/images/elsa-ice_surfer/no-art.png",
+        "large": "https://lorcana-api.com/images/elsa-ice_surfer/large.png",
+        "art-crop": "https://lorcana-api.com/images/elsa-ice_surfer/art-crop.png",
+        "medium": "https://lorcana-api.com/images/elsa-ice_surfer/medium.png"
+      },
+      "name": "Elsa",
+      "ink-cost": 4,
+      "flavor-text": "\"My sister has always been there for me. I need to be there for her.\"",
+      "rarity": "Common"
+    },
+    "spirit_oof_winter": {
+      "lore-value": 3,
+      "traits": ["Shift 6"],
+      "set": "The First Chapter",
+      "color": "Amethyst",
+      "strength": 4,
+      "artist": "Matthew Robert Davies",
+      "willpower": 6,
+      "type": "Character",
+      "subtypes": [
+        "Floodborn",
+        "Hero",
+        "Queen",
+        "Sorcerer"
+      ],
+      "set-code": "TFC",
+      "abilities": {"Deep Freeze": "When you play this character, excert up to 2 chosen characters. They can't ready at the start of their next turn."},
+      "inkable": false,
+      "subtitle": "Spirit Oof Winter",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/elsa-spirit_oof_winter/small.png",
+        "no-art": "https://lorcana-api.com/images/elsa-spirit_oof_winter/no-art.png",
+        "large": "https://lorcana-api.com/images/elsa-spirit_oof_winter/large.png",
+        "art-crop": "https://lorcana-api.com/images/elsa-spirit_oof_winter/art-crop.png",
+        "medium": "https://lorcana-api.com/images/elsa-spirit_oof_winter/medium.png"
+      },
+      "name": "Elsa",
+      "ink-cost": 8,
+      "flavor-text": "Ice is stronger than you think",
+      "rarity": "Legendary"
+    },
+    "queen_regent": {
+      "lore-value": 1,
+      "traits": [],
+      "set": "The First Chapter",
+      "color": "Amethyst",
+      "strength": 4,
+      "artist": "Duyen Nguyen / Aubrey Archer",
+      "willpower": 4,
+      "type": "Character",
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Queen",
+        "Sorcerer"
+      ],
+      "set-code": "TFC",
+      "abilities": {},
+      "inkable": true,
+      "subtitle": "Queen Regent",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/elsa-queen_regent/small.png",
+        "no-art": "https://lorcana-api.com/images/elsa-queen_regent/no-art.png",
+        "art-crop": "https://lorcana-api.com/images/elsa-queen_regent/art-crop.png",
+        "medium": "https://lorcana-api.com/images/elsa-queen_regent/medium.png",
+        "large": "https://lorcana-api.com/images/elsa-queen_regent/large.png"
+      },
+      "name": "Elsa",
+      "ink-cost": 4,
+      "flavor-text": "\"I never know what I was capable of.\"",
+      "rarity": "Common"
+    }
+  }

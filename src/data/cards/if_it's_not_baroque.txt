@@ -1,0 +1,21 @@
+{
+    "set": "The First Chapter",
+    "color": "Sapphire",
+    "artist": "Kenneth Anderson",
+    "type": "Action",
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "effect": "Return an item card from your discard to your hand.",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/if_it's_not_baroque/small.png",
+      "no-art": "https://lorcana-api.com/images/if_it's_not_baroque/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/if_it's_not_baroque/art-crop.png",
+      "medium": "https://lorcana-api.com/images/if_it's_not_baroque/medium.png",
+      "large": "https://lorcana-api.com/images/if_it's_not_baroque/large.png"
+    },
+    "name": "If It's Not Baroque",
+    "ink-cost": 3,
+    "flavor-text": "\"...Don't fix it\"",
+    "rarity": "Rare"
+  }

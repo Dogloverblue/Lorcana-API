@@ -1,0 +1,21 @@
+{
+    "set": "The First Chapter",
+    "color": "Emerald",
+    "artist": "Matt Chapman",
+    "type": "Action",
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": false,
+    "effect": "Deal 2 damage to chosen damaged character.",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/stampede/small.png",
+      "no-art": "https://lorcana-api.com/images/stampede/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/stampede/art-crop.png",
+      "medium": "https://lorcana-api.com/images/stampede/medium.png",
+      "large": "https://lorcana-api.com/images/stampede/large.png"
+    },
+    "name": "Stampede",
+    "ink-cost": 1,
+    "flavor-text": "A wildebeest stampede is like a raging river: best experienced from a distance",
+    "rarity": "Common"
+  }

@@ -1,0 +1,21 @@
+{
+    "set": "The First Chapter",
+    "color": "Amethyst",
+    "artist": "Andrew Trabbold",
+    "type": "Item",
+    "set-code": "TFC",
+    "abilities": {"Take A Bite...": "1{ink}, Banish this item - Excert chosen character. If a princess character is chosen, banish her instead."},
+    "inkable": false,
+    "effect": "",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/poisoned_apple/small.png",
+      "no-art": "https://lorcana-api.com/images/poisoned_apple/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/poisoned_apple/art-crop.png",
+      "medium": "https://lorcana-api.com/images/poisoned_apple/medium.png",
+      "large": "https://lorcana-api.com/images/poisoned_apple/large.png"
+    },
+    "name": "Poisoned Apple",
+    "ink-cost": 3,
+    "flavor-text": "\"One taste of the poisoned apple, and the victim's eyes will close forever....\" -The Queen",
+    "rarity": "Rare"
+  }

@@ -1,0 +1,29 @@
+{
+    "lore-value": 2,
+    "traits": ["Shift 5"],
+    "set": "The First Chapter",
+    "color": "Emerald",
+    "strength": 6,
+    "artist": "Alex Accorsi / Kendall Hale",
+    "willpower": 5,
+    "type": "Character",
+    "subtypes": [
+      "Floodborn",
+      "Hero"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Misdirection": "Whenever you play an action, chosen opposing character can't quest during their next turn."},
+    "inkable": false,
+    "subtitle": "Artful Rogue",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/mickey_mouse-artful_rogue/small.png",
+      "no-art": "https://lorcana-api.com/images/mickey_mouse-artful_rogue/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/mickey_mouse-artful_rogue/art-crop.png",
+      "medium": "https://lorcana-api.com/images/mickey_mouse-artful_rogue/medium.png",
+      "large": "https://lorcana-api.com/images/mickey_mouse-artful_rogue/large.png"
+    },
+    "name": "Mickey Mouse",
+    "ink-cost": 7,
+    "flavor-text": "Quiet as a... well, you know.",
+    "rarity": "Super Rare"
+  }

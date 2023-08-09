@@ -1,4 +1,34 @@
 {
+    "shameless_firebrand": {
+      "lore-value": 1,
+      "traits": ["Shift 6"],
+      "set": "The First Chapter",
+      "color": "Ruby",
+      "strength": 6,
+      "artist": "Jenna Gray",
+      "willpower": 6,
+      "type": "Character",
+      "subtypes": [
+        "Floodborn",
+        "Villain",
+        "King"
+      ],
+      "set-code": "TFC",
+      "abilities": {"Rousing Speech": "When you play this character, ready your characters with cost 3 or less. They can't quest for the rest of this turn."},
+      "inkable": false,
+      "subtitle": "Shameless Firebrand",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/scar-shameless_firebrand/small.png",
+        "no-art": "https://lorcana-api.com/images/scar-shameless_firebrand/no-art.png",
+        "art-crop": "https://lorcana-api.com/images/scar-shameless_firebrand/art-crop.png",
+        "medium": "https://lorcana-api.com/images/scar-shameless_firebrand/medium.png",
+        "large": "https://lorcana-api.com/images/scar-shameless_firebrand/large.png"
+      },
+      "name": "Scar",
+      "ink-cost": 8,
+      "flavor-text": "\"The time has come to take what is ours!\"",
+      "rarity": "Rare"
+    },
     "mastermind": {
       "traits": null,
       "set": "The First Chapter",

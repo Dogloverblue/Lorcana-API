@@ -1,0 +1,29 @@
+{
+    "lore-value": 3,
+    "traits": ["Ward"],
+    "set": "The First Chapter",
+    "color": "Emerald",
+    "strength": 2,
+    "artist": "Grace Tran",
+    "willpower": 4,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "King"
+    ],
+    "set-code": "TFC",
+    "abilities": {"No Touchy!": "When this character is challenged and banished, you may banish the challenging character."},
+    "inkable": false,
+    "subtitle": "Temperamental Emperor",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/kuzco-temperamental_emperor/small.png",
+      "no-art": "https://lorcana-api.com/images/kuzco-temperamental_emperor/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/kuzco-temperamental_emperor/art-crop.png",
+      "medium": "https://lorcana-api.com/images/kuzco-temperamental_emperor/medium.png",
+      "large": "https://lorcana-api.com/images/kuzco-temperamental_emperor/large.png"
+    },
+    "name": "Kuzco",
+    "ink-cost": 5,
+    "flavor-text": "\"I asked for emeral and that is clearly jade! What is wrong with you people?\"",
+    "rarity": "Rare"
+  }

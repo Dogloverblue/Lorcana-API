@@ -1,0 +1,21 @@
+{
+    "set": "The First Chapter",
+    "color": "Steel",
+    "artist": "Dav Augereau",
+    "type": "Item",
+    "set-code": "TFC",
+    "abilities": {"All For One And One For All": "Whenever one of your characters with Bodyguard is banished, you may draw a card"},
+    "inkable": false,
+    "effect": "",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/musketeer_tabard/small.png",
+      "no-art": "https://lorcana-api.com/images/musketeer_tabard/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/musketeer_tabard/art-crop.png",
+      "medium": "https://lorcana-api.com/images/musketeer_tabard/medium.png",
+      "large": "https://lorcana-api.com/images/musketeer_tabard/large.png"
+    },
+    "name": "Musketeer Tabard",
+    "ink-cost": 4,
+    "flavor-text": "There's no such thing as a lone musketeer.",
+    "rarity": "Rare"
+  }

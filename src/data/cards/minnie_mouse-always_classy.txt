@@ -1,0 +1,29 @@
+{
+    "lore-value": 1,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Ruby",
+    "strength": 1,
+    "artist": "Kenneth Anderson",
+    "willpower": 3,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Hero"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "subtitle": "Always Classy",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/minnie_mouse-always_classy/small.png",
+      "no-art": "https://lorcana-api.com/images/minnie_mouse-always_classy/no-art.png",
+      "art-crop": "https://lorcana-api.com/images/minnie_mouse-always_classy/art-crop.png",
+      "medium": "https://lorcana-api.com/images/minnie_mouse-always_classy/medium.png",
+      "large": "https://lorcana-api.com/images/minnie_mouse-always_classy/large.png"
+    },
+    "name": "Minnie Mouse",
+    "ink-cost": 1,
+    "flavor-text": "Her fashion sense is always spot on.",
+    "rarity": "Common"
+  }
