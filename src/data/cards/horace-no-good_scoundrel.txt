@@ -16,11 +16,11 @@
     "inkable": true,
     "subtitle": "No-Good Scoundrel",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/horace-no-good_scoundrel/small.png",
-      "no-art": "https://lorcana-api.com/images/horace-no-good_scoundrel/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/horace-no-good_scoundrel/art-crop.png",
-      "medium": "https://lorcana-api.com/images/horace-no-good_scoundrel/medium.png",
-      "large": "https://lorcana-api.com/images/horace-no-good_scoundrel/large.png"
+      "small": "https://lorcana-api.com/images/horace/no-good_scoundrel/horace-no-good_scoundrel-small.png",
+      "no-art": "https://lorcana-api.com/images/horace/no-good_scoundrel/horace-no-good_scoundrel-no-art.png",
+      "large": "https://lorcana-api.com/images/horace/no-good_scoundrel/horace-no-good_scoundrel-large.png",
+      "art-crop": "https://lorcana-api.com/images/horace/no-good_scoundrel/horace-no-good_scoundrel-art-crop.png",
+      "medium": "https://lorcana-api.com/images/horace/no-good_scoundrel/horace-no-good_scoundrel-medium.png"
     },
     "name": "Horace",
     "ink-cost": 3,

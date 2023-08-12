@@ -19,11 +19,11 @@
     "inkable": false,
     "subtitle": "Powers Unleashed",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/genie-powers_unleashed/small.png",
-      "no-art": "https://lorcana-api.com/images/genie-powers_unleashed/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/genie-powers_unleashed/art-crop.png",
-      "medium": "https://lorcana-api.com/images/genie-powers_unleashed/medium.png",
-      "large": "https://lorcana-api.com/images/genie-powers_unleashed/large.png"
+      "small": "https://lorcana-api.com/images/genie/powers_unleashed/genie-powers_unleashed-small.png",
+      "no-art": "https://lorcana-api.com/images/genie/powers_unleashed/genie-powers_unleashed-no-art.png",
+      "large": "https://lorcana-api.com/images/genie/powers_unleashed/genie-powers_unleashed-large.png",
+      "art-crop": "https://lorcana-api.com/images/genie/powers_unleashed/genie-powers_unleashed-art-crop.png",
+      "medium": "https://lorcana-api.com/images/genie/powers_unleashed/genie-powers_unleashed-medium.png"
     },
     "name": "Genie",
     "ink-cost": 8,

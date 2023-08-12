@@ -8,11 +8,11 @@
     "inkable": true,
     "effect": "",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/eye_of_the_fates/small.png",
-      "no-art": "https://lorcana-api.com/images/eye_of_the_fates/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/eye_of_the_fates/art-crop.png",
-      "medium": "https://lorcana-api.com/images/eye_of_the_fates/medium.png",
-      "large": "https://lorcana-api.com/images/eye_of_the_fates/large.png"
+      "small": "https://lorcana-api.com/images/eye_of_the_fates/eye_of_the_fates-small.png",
+      "no-art": "https://lorcana-api.com/images/eye_of_the_fates/eye_of_the_fates-no-art.png",
+      "large": "https://lorcana-api.com/images/eye_of_the_fates/eye_of_the_fates-large.png",
+      "art-crop": "https://lorcana-api.com/images/eye_of_the_fates/eye_of_the_fates-art-crop.png",
+      "medium": "https://lorcana-api.com/images/eye_of_the_fates/eye_of_the_fates-medium.png"
     },
     "name": "Eye Of The Fates",
     "ink-cost": 4,

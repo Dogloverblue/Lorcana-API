@@ -8,11 +8,11 @@
     "inkable": true,
     "effect": "Chosen Character gains Support this turn. (Whenever they quest, you may add thier {strength} to another chosen character's {strength} this turn.)",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/work_together/small.png",
-      "no-art": "https://lorcana-api.com/images/work_together/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/work_together/art-crop.png",
-      "medium": "https://lorcana-api.com/images/work_together/medium.png",
-      "large": "https://lorcana-api.com/images/work_together/large.png"
+      "small": "https://lorcana-api.com/images/work_together/work_together-small.png",
+      "no-art": "https://lorcana-api.com/images/work_together/work_together-no-art.png",
+      "large": "https://lorcana-api.com/images/work_together/work_together-large.png",
+      "art-crop": "https://lorcana-api.com/images/work_together/work_together-art-crop.png",
+      "medium": "https://lorcana-api.com/images/work_together/work_together-medium.png"
     },
     "name": "Work Together",
     "ink-cost": 1,

@@ -1,11 +1,13 @@
 {
     "traits": null,
     "set": "The First Chapter",
-    "color": "Sapphire",
-    "flavor_text": "\"The princess shall indeed grow in grace and beauty, beloved by all who know her. But before the sun sets on her sixteenth birthday, she shall prick her finger on the spindle of a spinning wheel...\"",
-    "artist": "Nicholas Kole",
     "lore-value": 2,
+    "color": "Sapphire",
+    "strength": 3,
+    "artist": "Nicholas Kole",
+    "willpower": 4,
     "type": "Character",
+    "flavor_text": "\"The princess shall indeed grow in grace and beauty, beloved by all who know her. But before the sun sets on her sixteenth birthday, she shall prick her finger on the spindle of a spinning wheel...\"",
     "subtypes": [
       "Storyborn",
       "Villain",
@@ -16,7 +18,5 @@
     "inkable": true,
     "subtitle": "Sinister Visitor",
     "name": "Maleficent",
-    "strength": 3,
-    "ink-cost": 4,
-    "willpower": 4
+    "ink-cost": 4
   }

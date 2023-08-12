@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "Offical Ice Master",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/kristoff/offical_ice_master/small.png",
-      "no-art": "https://lorcana-api.com/images/kristoff/offical_ice_master/no-art.png",
-      "large": "https://lorcana-api.com/images/kristoff/offical_ice_master/large.png",
-      "art-crop": "https://lorcana-api.com/images/kristoff/offical_ice_master/art-crop.png",
-      "medium": "https://lorcana-api.com/images/kristoff/offical_ice_master/medium.png"
+      "small": "https://lorcana-api.com/images/kristoff/offical_ice_master/kristoff-offical_ice_master-small.png",
+      "no-art": "https://lorcana-api.com/images/kristoff/offical_ice_master/kristoff-offical_ice_master-no-art.png",
+      "large": "https://lorcana-api.com/images/kristoff/offical_ice_master/kristoff-offical_ice_master-large.png",
+      "art-crop": "https://lorcana-api.com/images/kristoff/offical_ice_master/kristoff-offical_ice_master-art-crop.png",
+      "medium": "https://lorcana-api.com/images/kristoff/offical_ice_master/kristoff-offical_ice_master-medium.png"
     }],
     "name": "Kristoff",
     "ink-cost": 3

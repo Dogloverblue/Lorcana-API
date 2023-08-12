@@ -1,11 +1,13 @@
 {
     "traits": ["Evasive (Only characters with Evasive can challenge this character.)"],
     "set": "The First Chapter",
-    "color": "Ruby",
-    "flavor_text": "\\\"I'm the bounciest bouncer that ever bounced!\\\"",
-    "artist": "unknown",
     "lore-value": 0,
+    "color": "Ruby",
+    "strength": 4,
+    "artist": "unknown",
+    "willpower": 4,
     "type": "Character",
+    "flavor_text": "\\\"I'm the bounciest bouncer that ever bounced!\\\"",
     "subtypes": [
       "Storyborn",
       "Tigger"
@@ -15,14 +17,12 @@
     "inkable": true,
     "subtitle": "Wonderful Thing",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/tigger/wonderful_thing/small.png",
-      "no-art": "https://lorcana-api.com/images/tigger/wonderful_thing/no-art.png",
-      "large": "https://lorcana-api.com/images/tigger/wonderful_thing/large.png",
-      "art-crop": "https://lorcana-api.com/images/tigger/wonderful_thing/art-crop.png",
-      "medium": "https://lorcana-api.com/images/tigger/wonderful_thing/medium.png"
+      "small": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-small.png",
+      "no-art": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-no-art.png",
+      "large": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-large.png",
+      "art-crop": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-art-crop.png",
+      "medium": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-medium.png"
     }],
     "name": "Tigger",
-    "strength": 4,
-    "ink-cost": 6,
-    "willpower": 4
+    "ink-cost": 6
   }

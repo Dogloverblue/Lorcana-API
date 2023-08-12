@@ -19,11 +19,11 @@
       "inkable": true,
       "subtitle": "Hardheaded",
       "image-urls": [{
-        "small": "https://lorcana-api.com/images/beast/hardheaded/small.png",
-        "no-art": "https://lorcana-api.com/images/beast/hardheaded/no-art.png",
-        "large": "https://lorcana-api.com/images/beast/hardheaded/large.png",
-        "art-crop": "https://lorcana-api.com/images/beast/hardheaded/art-crop.png",
-        "medium": "https://lorcana-api.com/images/beast/hardheaded/medium.png"
+        "small": "https://lorcana-api.com/images/beast/hardheaded/beast-hardheaded-small.png",
+        "no-art": "https://lorcana-api.com/images/beast/hardheaded/beast-hardheaded-no-art.png",
+        "large": "https://lorcana-api.com/images/beast/hardheaded/beast-hardheaded-large.png",
+        "art-crop": "https://lorcana-api.com/images/beast/hardheaded/beast-hardheaded-art-crop.png",
+        "medium": "https://lorcana-api.com/images/beast/hardheaded/beast-hardheaded-medium.png"
       }],
       "name": "Beast",
       "ink-cost": 5
@@ -47,11 +47,11 @@
       "inkable": false,
       "subtitle": "Wolfsbane",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/beast-wolfsbane/small.png",
-        "no-art": "https://lorcana-api.com/images/beast-wolfsbane/no-art.png",
-        "art-crop": "https://lorcana-api.com/images/beast-wolfsbane/art-crop.png",
-        "medium": "https://lorcana-api.com/images/beast-wolfsbane/medium.png",
-        "large": "https://lorcana-api.com/images/beast-wolfsbane/large.png"
+        "small": "https://lorcana-api.com/images/beast/wolfsbane/beast-wolfsbane-small.png",
+        "no-art": "https://lorcana-api.com/images/beast/wolfsbane/beast-wolfsbane-no-art.png",
+        "large": "https://lorcana-api.com/images/beast/wolfsbane/beast-wolfsbane-large.png",
+        "art-crop": "https://lorcana-api.com/images/beast/wolfsbane/beast-wolfsbane-art-crop.png",
+        "medium": "https://lorcana-api.com/images/beast/wolfsbane/beast-wolfsbane-medium.png"
       },
       "name": "Beast",
       "ink-cost": 5,

@@ -18,11 +18,11 @@
       "inkable": true,
       "subtitle": "Heartless",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/te_ka-heartless/small.png",
-        "no-art": "https://lorcana-api.com/images/te_ka-heartless/no-art.png",
-        "large": "https://lorcana-api.com/images/te_ka-heartless/large.png",
-        "art-crop": "https://lorcana-api.com/images/te_ka-heartless/art-crop.png",
-        "medium": "https://lorcana-api.com/images/te_ka-heartless/medium.png"
+        "small": "https://lorcana-api.com/images/te_ka/heartless/te_ka-heartless-small.png",
+        "no-art": "https://lorcana-api.com/images/te_ka/heartless/te_ka-heartless-no-art.png",
+        "large": "https://lorcana-api.com/images/te_ka/heartless/te_ka-heartless-large.png",
+        "art-crop": "https://lorcana-api.com/images/te_ka/heartless/te_ka-heartless-art-crop.png",
+        "medium": "https://lorcana-api.com/images/te_ka/heartless/te_ka-heartless-medium.png"
       },
       "name": "Te Ka",
       "ink-cost": 6,
@@ -48,11 +48,11 @@
       "inkable": true,
       "subtitle": "The Burning One",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/te_ka-the_burning_one/small.png",
-        "no-art": "https://lorcana-api.com/images/te_ka-the_burning_one/no-art.png",
-        "art-crop": "https://lorcana-api.com/images/te_ka-the_burning_one/art-crop.png",
-        "medium": "https://lorcana-api.com/images/te_ka-the_burning_one/medium.png",
-        "large": "https://lorcana-api.com/images/te_ka-the_burning_one/large.png"
+        "small": "https://lorcana-api.com/images/te_ka/the_burning_one/te_ka-the_burning_one-small.png",
+        "no-art": "https://lorcana-api.com/images/te_ka/the_burning_one/te_ka-the_burning_one-no-art.png",
+        "large": "https://lorcana-api.com/images/te_ka/the_burning_one/te_ka-the_burning_one-large.png",
+        "art-crop": "https://lorcana-api.com/images/te_ka/the_burning_one/te_ka-the_burning_one-art-crop.png",
+        "medium": "https://lorcana-api.com/images/te_ka/the_burning_one/te_ka-the_burning_one-medium.png"
       },
       "name": "Te Ka",
       "ink-cost": 6,

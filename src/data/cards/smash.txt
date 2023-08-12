@@ -3,18 +3,18 @@
     "set": "The First Chapter",
     "inkable": true,
     "color": "Steel",
-    "flavor_text": "\\\"Go away!\\\"",
     "artist": "Simangaliso Sibaya",
     "effect": "Deal 3 damage to the chosen character",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/smash/small.png",
-      "no-art": "https://lorcana-api.com/images/smash/no-art.png",
-      "large": "https://lorcana-api.com/images/smash/large.png",
-      "art-crop": "https://lorcana-api.com/images/smash/art-crop.png",
-      "medium": "https://lorcana-api.com/images/smash/medium.png"
+      "small": "https://lorcana-api.com/images/smash/smash-small.png",
+      "no-art": "https://lorcana-api.com/images/smash/smash-no-art.png",
+      "large": "https://lorcana-api.com/images/smash/smash-large.png",
+      "art-crop": "https://lorcana-api.com/images/smash/smash-art-crop.png",
+      "medium": "https://lorcana-api.com/images/smash/smash-medium.png"
     }],
     "name": "Smash",
     "ink-cost": 3,
     "type": "Action",
+    "flavor_text": "\\\"Go away!\\\"",
     "set-code": "TFC"
   }

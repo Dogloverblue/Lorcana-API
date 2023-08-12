@@ -17,11 +17,11 @@
     "inkable": false,
     "subtitle": "Mysterious Sage",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/rafiki-mysterious_sage/small.png",
-      "no-art": "https://lorcana-api.com/images/rafiki-mysterious_sage/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/rafiki-mysterious_sage/art-crop.png",
-      "medium": "https://lorcana-api.com/images/rafiki-mysterious_sage/medium.png",
-      "large": "https://lorcana-api.com/images/rafiki-mysterious_sage/large.png"
+      "small": "https://lorcana-api.com/images/rafiki/mysterious_sage/rafiki-mysterious_sage-small.png",
+      "no-art": "https://lorcana-api.com/images/rafiki/mysterious_sage/rafiki-mysterious_sage-no-art.png",
+      "large": "https://lorcana-api.com/images/rafiki/mysterious_sage/rafiki-mysterious_sage-large.png",
+      "art-crop": "https://lorcana-api.com/images/rafiki/mysterious_sage/rafiki-mysterious_sage-art-crop.png",
+      "medium": "https://lorcana-api.com/images/rafiki/mysterious_sage/rafiki-mysterious_sage-medium.png"
     },
     "name": "Rafiki",
     "ink-cost": 3,

@@ -16,11 +16,11 @@
     "inkable": true,
     "subtitle": "Offical Ice Deliverer",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/sven-offical_ice_deliverer/small.png",
-      "no-art": "https://lorcana-api.com/images/sven-offical_ice_deliverer/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/sven-offical_ice_deliverer/art-crop.png",
-      "medium": "https://lorcana-api.com/images/sven-offical_ice_deliverer/medium.png",
-      "large": "https://lorcana-api.com/images/sven-offical_ice_deliverer/large.png"
+      "small": "https://lorcana-api.com/images/sven/offical_ice_deliverer/sven-offical_ice_deliverer-small.png",
+      "no-art": "https://lorcana-api.com/images/sven/offical_ice_deliverer/sven-offical_ice_deliverer-no-art.png",
+      "large": "https://lorcana-api.com/images/sven/offical_ice_deliverer/sven-offical_ice_deliverer-large.png",
+      "art-crop": "https://lorcana-api.com/images/sven/offical_ice_deliverer/sven-offical_ice_deliverer-art-crop.png",
+      "medium": "https://lorcana-api.com/images/sven/offical_ice_deliverer/sven-offical_ice_deliverer-medium.png"
     },
     "name": "Sven",
     "ink-cost": 6,

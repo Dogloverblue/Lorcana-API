@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "Uninvited",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/maleficent-uninvited/small.png",
-      "no-art": "https://lorcana-api.com/images/maleficent-uninvited/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/maleficent-uninvited/art-crop.png",
-      "medium": "https://lorcana-api.com/images/maleficent-uninvited/medium.png",
-      "large": "https://lorcana-api.com/images/maleficent-uninvited/large.png"
+      "small": "https://lorcana-api.com/images/maleficent/uninvited/maleficent-uninvited-small.png",
+      "no-art": "https://lorcana-api.com/images/maleficent/uninvited/maleficent-uninvited-no-art.png",
+      "large": "https://lorcana-api.com/images/maleficent/uninvited/maleficent-uninvited-large.png",
+      "art-crop": "https://lorcana-api.com/images/maleficent/uninvited/maleficent-uninvited-art-crop.png",
+      "medium": "https://lorcana-api.com/images/maleficent/uninvited/maleficent-uninvited-medium.png"
     },
     "name": "Maleficent",
     "ink-cost": 5,

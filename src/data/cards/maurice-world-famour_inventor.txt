@@ -1,11 +1,13 @@
 {
     "traits": null,
     "set": "The First Chapter",
-    "color": "Sapphire",
-    "flavor_text": null,
-    "artist": "unknown",
     "lore-value": 0,
+    "color": "Sapphire",
+    "strength": 2,
+    "artist": "unknown",
+    "willpower": 7,
     "type": "Character",
+    "flavor_text": null,
     "subtypes": [
       "Dreamborn",
       "Mentor",
@@ -19,14 +21,12 @@
     "inkable": true,
     "subtitle": "World-Famour Inventor",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/maurice/world-famour_inventor/small.png",
-      "no-art": "https://lorcana-api.com/images/maurice/world-famour_inventor/no-art.png",
-      "large": "https://lorcana-api.com/images/maurice/world-famour_inventor/large.png",
-      "art-crop": "https://lorcana-api.com/images/maurice/world-famour_inventor/art-crop.png",
-      "medium": "https://lorcana-api.com/images/maurice/world-famour_inventor/medium.png"
+      "small": "https://lorcana-api.com/images/maurice/world-famour_inventor/maurice-world-famour_inventor-small.png",
+      "no-art": "https://lorcana-api.com/images/maurice/world-famour_inventor/maurice-world-famour_inventor-no-art.png",
+      "large": "https://lorcana-api.com/images/maurice/world-famour_inventor/maurice-world-famour_inventor-large.png",
+      "art-crop": "https://lorcana-api.com/images/maurice/world-famour_inventor/maurice-world-famour_inventor-art-crop.png",
+      "medium": "https://lorcana-api.com/images/maurice/world-famour_inventor/maurice-world-famour_inventor-medium.png"
     }],
     "name": "Maurice",
-    "strength": 2,
-    "ink-cost": 6,
-    "willpower": 7
+    "ink-cost": 6
   }

@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "Future King",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/simba-future_king/small.png",
-      "no-art": "https://lorcana-api.com/images/simba-future_king/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/simba-future_king/art-crop.png",
-      "medium": "https://lorcana-api.com/images/simba-future_king/medium.png",
-      "large": "https://lorcana-api.com/images/simba-future_king/large.png"
+      "small": "https://lorcana-api.com/images/simba/future_king/simba-future_king-small.png",
+      "no-art": "https://lorcana-api.com/images/simba/future_king/simba-future_king-no-art.png",
+      "large": "https://lorcana-api.com/images/simba/future_king/simba-future_king-large.png",
+      "art-crop": "https://lorcana-api.com/images/simba/future_king/simba-future_king-art-crop.png",
+      "medium": "https://lorcana-api.com/images/simba/future_king/simba-future_king-medium.png"
     },
     "name": "Simba",
     "ink-cost": 1,

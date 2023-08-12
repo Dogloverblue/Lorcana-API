@@ -1,11 +1,13 @@
 {
     "traits": null,
     "set": "The First Chapter",
-    "color": "Amethyst",
-    "flavor_text": "\\\"When I want your opinion, I will give it to you\\\"",
-    "artist": "Hadjie Joos",
     "lore-value": 1,
+    "color": "Amethyst",
+    "strength": 2,
+    "artist": "Hadjie Joos",
+    "willpower": 2,
     "type": "Character",
+    "flavor_text": "\\\"When I want your opinion, I will give it to you\\\"",
     "subtypes": [
       "Dreamborn",
       "Villain",
@@ -16,14 +18,12 @@
     "inkable": true,
     "subtitle": "Alchemist",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/yzma/alchemist/small.png",
-      "no-art": "https://lorcana-api.com/images/yzma/alchemist/no-art.png",
-      "large": "https://lorcana-api.com/images/yzma/alchemist/large.png",
-      "art-crop": "https://lorcana-api.com/images/yzma/alchemist/art-crop.png",
-      "medium": "https://lorcana-api.com/images/yzma/alchemist/medium.png"
+      "small": "https://lorcana-api.com/images/yzma/alchemist/yzma-alchemist-small.png",
+      "no-art": "https://lorcana-api.com/images/yzma/alchemist/yzma-alchemist-no-art.png",
+      "large": "https://lorcana-api.com/images/yzma/alchemist/yzma-alchemist-large.png",
+      "art-crop": "https://lorcana-api.com/images/yzma/alchemist/yzma-alchemist-art-crop.png",
+      "medium": "https://lorcana-api.com/images/yzma/alchemist/yzma-alchemist-medium.png"
     }],
     "name": "Yzma",
-    "strength": 2,
-    "ink-cost": 2,
-    "willpower": 2
+    "ink-cost": 2
   }

@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "Musketeer",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/goofy-musketeer/small.png",
-      "no-art": "https://lorcana-api.com/images/goofy-musketeer/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/goofy-musketeer/art-crop.png",
-      "medium": "https://lorcana-api.com/images/goofy-musketeer/medium.png",
-      "large": "https://lorcana-api.com/images/goofy-musketeer/large.png"
+      "small": "https://lorcana-api.com/images/goofy/musketeer/goofy-musketeer-small.png",
+      "no-art": "https://lorcana-api.com/images/goofy/musketeer/goofy-musketeer-no-art.png",
+      "large": "https://lorcana-api.com/images/goofy/musketeer/goofy-musketeer-large.png",
+      "art-crop": "https://lorcana-api.com/images/goofy/musketeer/goofy-musketeer-art-crop.png",
+      "medium": "https://lorcana-api.com/images/goofy/musketeer/goofy-musketeer-medium.png"
     },
     "name": "Goofy",
     "ink-cost": 5,

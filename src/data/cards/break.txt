@@ -8,11 +8,11 @@
     "inkable": true,
     "effect": "Banish chosen item.",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/break/small.png",
-      "no-art": "https://lorcana-api.com/images/break/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/break/art-crop.png",
-      "medium": "https://lorcana-api.com/images/break/medium.png",
-      "large": "https://lorcana-api.com/images/break/large.png"
+      "small": "https://lorcana-api.com/images/break/break-small.png",
+      "no-art": "https://lorcana-api.com/images/break/break-no-art.png",
+      "large": "https://lorcana-api.com/images/break/break-large.png",
+      "art-crop": "https://lorcana-api.com/images/break/break-art-crop.png",
+      "medium": "https://lorcana-api.com/images/break/break-medium.png"
     },
     "name": "Break",
     "ink-cost": 2,

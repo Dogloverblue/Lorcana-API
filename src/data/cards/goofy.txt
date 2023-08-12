@@ -1,58 +1,60 @@
-{"daredevil": {
-    "traits": null,
-    "set": "The First Chapter",
-    "lore-value": 0,
-    "color": "Ruby",
-    "strength": 3,
-    "artist": "Kenneth Anderson",
-    "willpower": 4,
-    "type": "Character",
-    "flavor_text": "Sometimes you gotta give it the ol' jump and hyuck.",
-    "subtypes": [
-      "Dreamborn",
-      "Hero"
-    ],
-    "set-code": "TFC",
-    "abilities": null,
-    "inkable": true,
-    "subtitle": "Daredevil",
-    "image-urls": [{
-      "small": "https://lorcana-api.com/images/goofy/daredevil/small.png",
-      "no-art": "https://lorcana-api.com/images/goofy/daredevil/no-art.png",
-      "large": "https://lorcana-api.com/images/goofy/daredevil/large.png",
-      "art-crop": "https://lorcana-api.com/images/goofy/daredevil/art-crop.png",
-      "medium": "https://lorcana-api.com/images/goofy/daredevil/medium.png"
-    }],
-    "name": "Goofy",
-    "ink-cost": 5
-  },
-"musketeer": {
-    "lore-value": 1,
-    "traits": ["Bodyguard"],
-    "set": "The First Chapter",
-    "color": "Amber",
-    "strength": 3,
-    "artist": "Jochem van Gool",
-    "willpower": 6,
-    "type": "Character",
-    "subtypes": [
-      "Dreamborn",
-      "Hero",
-      "Musketeer"
-    ],
-    "set-code": "TFC",
-    "abilities": {"And Two For Tea!": "When you play this character, you may remove up to 2 damage from each of your Musketeer characters."},
-    "inkable": true,
-    "subtitle": "Musketeer",
-    "image-urls": {
-      "small": "https://lorcana-api.com/images/goofy-musketeer/small.png",
-      "no-art": "https://lorcana-api.com/images/goofy-musketeer/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/goofy-musketeer/art-crop.png",
-      "medium": "https://lorcana-api.com/images/goofy-musketeer/medium.png",
-      "large": "https://lorcana-api.com/images/goofy-musketeer/large.png"
+{
+    "daredevil": {
+      "traits": null,
+      "set": "The First Chapter",
+      "lore-value": 0,
+      "color": "Ruby",
+      "strength": 3,
+      "artist": "Kenneth Anderson",
+      "willpower": 4,
+      "type": "Character",
+      "flavor_text": "Sometimes you gotta give it the ol' jump and hyuck.",
+      "subtypes": [
+        "Dreamborn",
+        "Hero"
+      ],
+      "set-code": "TFC",
+      "abilities": null,
+      "inkable": true,
+      "subtitle": "Daredevil",
+      "image-urls": [{
+        "small": "https://lorcana-api.com/images/goofy/daredevil/goofy-daredevil-small.png",
+        "no-art": "https://lorcana-api.com/images/goofy/daredevil/goofy-daredevil-no-art.png",
+        "large": "https://lorcana-api.com/images/goofy/daredevil/goofy-daredevil-large.png",
+        "art-crop": "https://lorcana-api.com/images/goofy/daredevil/goofy-daredevil-art-crop.png",
+        "medium": "https://lorcana-api.com/images/goofy/daredevil/goofy-daredevil-medium.png"
+      }],
+      "name": "Goofy",
+      "ink-cost": 5
     },
-    "name": "Goofy",
-    "ink-cost": 5,
-    "flavor-text": "En gawrsh!",
-    "rarity": "Uncommon"
-  }}
+    "musketeer": {
+      "lore-value": 1,
+      "traits": ["Bodyguard"],
+      "set": "The First Chapter",
+      "color": "Amber",
+      "strength": 3,
+      "artist": "Jochem van Gool",
+      "willpower": 6,
+      "type": "Character",
+      "subtypes": [
+        "Dreamborn",
+        "Hero",
+        "Musketeer"
+      ],
+      "set-code": "TFC",
+      "abilities": {"And Two For Tea!": "When you play this character, you may remove up to 2 damage from each of your Musketeer characters."},
+      "inkable": true,
+      "subtitle": "Musketeer",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/goofy/musketeer/goofy-musketeer-small.png",
+        "no-art": "https://lorcana-api.com/images/goofy/musketeer/goofy-musketeer-no-art.png",
+        "large": "https://lorcana-api.com/images/goofy/musketeer/goofy-musketeer-large.png",
+        "art-crop": "https://lorcana-api.com/images/goofy/musketeer/goofy-musketeer-art-crop.png",
+        "medium": "https://lorcana-api.com/images/goofy/musketeer/goofy-musketeer-medium.png"
+      },
+      "name": "Goofy",
+      "ink-cost": 5,
+      "flavor-text": "En gawrsh!",
+      "rarity": "Uncommon"
+    }
+  }

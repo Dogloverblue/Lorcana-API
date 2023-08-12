@@ -16,11 +16,11 @@
     "inkable": true,
     "subtitle": "Trainer of Heroes",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/philoctetes-trainer_of_heroes/small.png",
-      "no-art": "https://lorcana-api.com/images/philoctetes-trainer_of_heroes/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/philoctetes-trainer_of_heroes/art-crop.png",
-      "medium": "https://lorcana-api.com/images/philoctetes-trainer_of_heroes/medium.png",
-      "large": "https://lorcana-api.com/images/philoctetes-trainer_of_heroes/large.png"
+      "small": "https://lorcana-api.com/images/philoctetes/trainer_of_heroes/philoctetes-trainer_of_heroes-small.png",
+      "no-art": "https://lorcana-api.com/images/philoctetes/trainer_of_heroes/philoctetes-trainer_of_heroes-no-art.png",
+      "large": "https://lorcana-api.com/images/philoctetes/trainer_of_heroes/philoctetes-trainer_of_heroes-large.png",
+      "art-crop": "https://lorcana-api.com/images/philoctetes/trainer_of_heroes/philoctetes-trainer_of_heroes-art-crop.png",
+      "medium": "https://lorcana-api.com/images/philoctetes/trainer_of_heroes/philoctetes-trainer_of_heroes-medium.png"
     },
     "name": "Philoctetes",
     "ink-cost": 2,

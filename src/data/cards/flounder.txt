@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "Voice Of Reason",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/flounder/voice_of_reason/small.png",
-      "no-art": "https://lorcana-api.com/images/flounder/voice_of_reason/no-art.png",
-      "large": "https://lorcana-api.com/images/flounder/voice_of_reason/large.png",
-      "art-crop": "https://lorcana-api.com/images/flounder/voice_of_reason/art-crop.png",
-      "medium": "https://lorcana-api.com/images/flounder/voice_of_reason/medium.png"
+      "small": "https://lorcana-api.com/images/flounder/voice_of_reason/flounder-voice_of_reason-small.png",
+      "no-art": "https://lorcana-api.com/images/flounder/voice_of_reason/flounder-voice_of_reason-no-art.png",
+      "large": "https://lorcana-api.com/images/flounder/voice_of_reason/flounder-voice_of_reason-large.png",
+      "art-crop": "https://lorcana-api.com/images/flounder/voice_of_reason/flounder-voice_of_reason-art-crop.png",
+      "medium": "https://lorcana-api.com/images/flounder/voice_of_reason/flounder-voice_of_reason-medium.png"
     }],
     "name": "Flounder",
     "ink-cost": 1

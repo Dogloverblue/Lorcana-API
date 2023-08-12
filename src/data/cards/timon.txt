@@ -16,11 +16,11 @@
     "inkable": true,
     "subtitle": "Grub Rustler",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/timon-grub_rustler/small.png",
-      "no-art": "https://lorcana-api.com/images/timon-grub_rustler/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/timon-grub_rustler/art-crop.png",
-      "medium": "https://lorcana-api.com/images/timon-grub_rustler/medium.png",
-      "large": "https://lorcana-api.com/images/timon-grub_rustler/large.png"
+      "small": "https://lorcana-api.com/images/timon/grub_rustler/timon-grub_rustler-small.png",
+      "no-art": "https://lorcana-api.com/images/timon/grub_rustler/timon-grub_rustler-no-art.png",
+      "large": "https://lorcana-api.com/images/timon/grub_rustler/timon-grub_rustler-large.png",
+      "art-crop": "https://lorcana-api.com/images/timon/grub_rustler/timon-grub_rustler-art-crop.png",
+      "medium": "https://lorcana-api.com/images/timon/grub_rustler/timon-grub_rustler-medium.png"
     },
     "name": "Timon",
     "ink-cost": 1,

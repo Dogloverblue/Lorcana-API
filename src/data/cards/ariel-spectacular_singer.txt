@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "Spectacular Singer",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/ariel-spectacular_singer/small.png",
-      "no-art": "https://lorcana-api.com/images/ariel-spectacular_singer/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/ariel-spectacular_singer/art-crop.png",
-      "medium": "https://lorcana-api.com/images/ariel-spectacular_singer/medium.png",
-      "large": "https://lorcana-api.com/images/ariel-spectacular_singer/large.png"
+      "small": "https://lorcana-api.com/images/ariel/spectacular_singer/ariel-spectacular_singer-small.png",
+      "no-art": "https://lorcana-api.com/images/ariel/spectacular_singer/ariel-spectacular_singer-no-art.png",
+      "large": "https://lorcana-api.com/images/ariel/spectacular_singer/ariel-spectacular_singer-large.png",
+      "art-crop": "https://lorcana-api.com/images/ariel/spectacular_singer/ariel-spectacular_singer-art-crop.png",
+      "medium": "https://lorcana-api.com/images/ariel/spectacular_singer/ariel-spectacular_singer-medium.png"
     },
     "name": "Ariel",
     "ink-cost": 3,

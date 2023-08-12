@@ -1,19 +1,19 @@
 {
     "set": "The First Chapter",
     "color": "Sapphire",
-    "flavor_text": "It's time to see what I can do \nTo test the limits and break through",
     "inkable": true,
     "artist": "Milica Celikovic",
     "effect": "Put chosen character into thier player's inkwell facedown and excerted",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/let_it_go/small.png",
-      "no-art": "https://lorcana-api.com/images/let_it_go/no-art.png",
-      "large": "https://lorcana-api.com/images/let_it_go/large.png",
-      "art-crop": "https://lorcana-api.com/images/let_it_go/art-crop.png",
-      "medium": "https://lorcana-api.com/images/let_it_go/medium.png"
+      "small": "https://lorcana-api.com/images/let_it_go/let_it_go-small.png",
+      "no-art": "https://lorcana-api.com/images/let_it_go/let_it_go-no-art.png",
+      "large": "https://lorcana-api.com/images/let_it_go/let_it_go-large.png",
+      "art-crop": "https://lorcana-api.com/images/let_it_go/let_it_go-art-crop.png",
+      "medium": "https://lorcana-api.com/images/let_it_go/let_it_go-medium.png"
     }],
     "name": "Let It Go",
     "ink-cost": 5,
     "type": "Action-Song",
+    "flavor_text": "It's time to see what I can do \nTo test the limits and break through",
     "set-code": "TFC"
   }

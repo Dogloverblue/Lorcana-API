@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "New Dog",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/stitch/new_dog/small.png",
-      "no-art": "https://lorcana-api.com/images/stitch/new_dog/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/stitch/new_dog/art-crop.png",
-      "medium": "https://lorcana-api.com/images/stitch/new_dog/medium.png",
-      "large": "https://lorcana-api.com/images/stitch/new_dog/large.png"
+      "small": "https://lorcana-api.com/images/stitch/new_dog/stitch-new_dog-small.png",
+      "no-art": "https://lorcana-api.com/images/stitch/new_dog/stitch-new_dog-no-art.png",
+      "large": "https://lorcana-api.com/images/stitch/new_dog/stitch-new_dog-large.png",
+      "art-crop": "https://lorcana-api.com/images/stitch/new_dog/stitch-new_dog-art-crop.png",
+      "medium": "https://lorcana-api.com/images/stitch/new_dog/stitch-new_dog-medium.png"
     },
     "name": "Stitch",
     "ink-cost": 1,

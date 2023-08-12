@@ -23,11 +23,11 @@
       "inkable": false,
       "subtitle": "King of Olympus",
       "image-urls": [{
-        "small": "https://lorcana-api.com/images/hades/king_of_olympus/small.png",
-        "no-art": "https://lorcana-api.com/images/hades/king_of_olympus/no-art.png",
-        "large": "https://lorcana-api.com/images/hades/king_of_olympus/large.png",
-        "art-crop": "https://lorcana-api.com/images/hades/king_of_olympus/art-crop.png",
-        "medium": "https://lorcana-api.com/images/hades/king_of_olympus/medium.png"
+        "small": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-small.png",
+        "no-art": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-no-art.png",
+        "large": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-large.png",
+        "art-crop": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-art-crop.png",
+        "medium": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-medium.png"
       }],
       "name": "Hades",
       "ink-cost": 8
@@ -51,11 +51,11 @@
       "inkable": false,
       "subtitle": "Infernal Schemer",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/hades-infernal_schemer/small.png",
-        "no-art": "https://lorcana-api.com/images/hades-infernal_schemer/no-art.png",
-        "art-crop": "https://lorcana-api.com/images/hades-infernal_schemer/art-crop.png",
-        "medium": "https://lorcana-api.com/images/hades-infernal_schemer/medium.png",
-        "large": "https://lorcana-api.com/images/hades-infernal_schemer/large.png"
+        "small": "https://lorcana-api.com/images/hades/infernal_schemer/hades-infernal_schemer-small.png",
+        "no-art": "https://lorcana-api.com/images/hades/infernal_schemer/hades-infernal_schemer-no-art.png",
+        "large": "https://lorcana-api.com/images/hades/infernal_schemer/hades-infernal_schemer-large.png",
+        "art-crop": "https://lorcana-api.com/images/hades/infernal_schemer/hades-infernal_schemer-art-crop.png",
+        "medium": "https://lorcana-api.com/images/hades/infernal_schemer/hades-infernal_schemer-medium.png"
       },
       "name": "Hades",
       "ink-cost": 7,
@@ -81,11 +81,11 @@
       "inkable": false,
       "subtitle": "Lord of the Underworld",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/hades/lord_of_the_underworld/small.png",
-        "no-art": "https://lorcana-api.com/images/hades/lord_of_the_underworld/no-art.png",
-        "large": "https://lorcana-api.com/images/hades/lord_of_the_underworld/large.png",
-        "art-crop": "https://lorcana-api.com/images/hades/lord_of_the_underworld/art-crop.png",
-        "medium": "https://lorcana-api.com/images/hades/lord_of_the_underworld/medium.png"
+        "small": "https://lorcana-api.com/images/hades/lord_of_the_underworld/hades-lord_of_the_underworld-small.png",
+        "no-art": "https://lorcana-api.com/images/hades/lord_of_the_underworld/hades-lord_of_the_underworld-no-art.png",
+        "large": "https://lorcana-api.com/images/hades/lord_of_the_underworld/hades-lord_of_the_underworld-large.png",
+        "art-crop": "https://lorcana-api.com/images/hades/lord_of_the_underworld/hades-lord_of_the_underworld-art-crop.png",
+        "medium": "https://lorcana-api.com/images/hades/lord_of_the_underworld/hades-lord_of_the_underworld-medium.png"
       },
       "name": "Hades",
       "ink-cost": 4,

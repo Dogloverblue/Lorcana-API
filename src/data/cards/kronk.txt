@@ -18,9 +18,9 @@
     "image-urls": {
       "small": "https://lorcana-api.com/images/kronk-right-handed_man/small.png",
       "no-art": "https://lorcana-api.com/images/kronk-right-handed_man/no-art.png",
+      "large": "https://lorcana-api.com/images/kronk-right-handed_man/large.png",
       "art-crop": "https://lorcana-api.com/images/kronk-right-handed_man/art-crop.png",
-      "medium": "https://lorcana-api.com/images/kronk-right-handed_man/medium.png",
-      "large": "https://lorcana-api.com/images/kronk-right-handed_man/large.png"
+      "medium": "https://lorcana-api.com/images/kronk-right-handed_man/medium.png"
     },
     "name": "Kronk",
     "ink-cost": 6,

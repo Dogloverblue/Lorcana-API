@@ -8,11 +8,11 @@
     "inkable": false,
     "effect": "Return chosen character to their player's hand.",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/mother_knows_best/small.png",
-      "no-art": "https://lorcana-api.com/images/mother_knows_best/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/mother_knows_best/art-crop.png",
-      "medium": "https://lorcana-api.com/images/mother_knows_best/medium.png",
-      "large": "https://lorcana-api.com/images/mother_knows_best/large.png"
+      "small": "https://lorcana-api.com/images/mother_knows_best/mother_knows_best-small.png",
+      "no-art": "https://lorcana-api.com/images/mother_knows_best/mother_knows_best-no-art.png",
+      "large": "https://lorcana-api.com/images/mother_knows_best/mother_knows_best-large.png",
+      "art-crop": "https://lorcana-api.com/images/mother_knows_best/mother_knows_best-art-crop.png",
+      "medium": "https://lorcana-api.com/images/mother_knows_best/mother_knows_best-medium.png"
     },
     "name": "Mother Knows Best",
     "ink-cost": 3,

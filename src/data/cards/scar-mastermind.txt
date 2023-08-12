@@ -1,11 +1,13 @@
 {
     "traits": null,
     "set": "The First Chapter",
-    "color": "Sapphire",
-    "flavor_text": "\\\"The best plans involve a little danger. Just not for me.\\\"",
-    "artist": "unknown",
     "lore-value": 0,
+    "color": "Sapphire",
+    "strength": 5,
+    "artist": "unknown",
+    "willpower": 4,
     "type": "Character",
+    "flavor_text": "\\\"The best plans involve a little danger. Just not for me.\\\"",
     "subtypes": [
       "Storyborn",
       "Villain"
@@ -15,14 +17,12 @@
     "inkable": true,
     "subtitle": "Mastermind",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/scar/mastermind/small.png",
-      "no-art": "https://lorcana-api.com/images/scar/mastermind/no-art.png",
-      "large": "https://lorcana-api.com/images/scar/mastermind/large.png",
-      "art-crop": "https://lorcana-api.com/images/scar/mastermind/art-crop.png",
-      "medium": "https://lorcana-api.com/images/scar/mastermind/medium.png"
+      "small": "https://lorcana-api.com/images/scar/mastermind/scar-mastermind-small.png",
+      "no-art": "https://lorcana-api.com/images/scar/mastermind/scar-mastermind-no-art.png",
+      "large": "https://lorcana-api.com/images/scar/mastermind/scar-mastermind-large.png",
+      "art-crop": "https://lorcana-api.com/images/scar/mastermind/scar-mastermind-art-crop.png",
+      "medium": "https://lorcana-api.com/images/scar/mastermind/scar-mastermind-medium.png"
     }],
     "name": "Scar",
-    "strength": 5,
-    "ink-cost": 6,
-    "willpower": 4
+    "ink-cost": 6
   }

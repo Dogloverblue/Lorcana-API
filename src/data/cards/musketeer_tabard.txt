@@ -8,11 +8,11 @@
     "inkable": false,
     "effect": "",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/musketeer_tabard/small.png",
-      "no-art": "https://lorcana-api.com/images/musketeer_tabard/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/musketeer_tabard/art-crop.png",
-      "medium": "https://lorcana-api.com/images/musketeer_tabard/medium.png",
-      "large": "https://lorcana-api.com/images/musketeer_tabard/large.png"
+      "small": "https://lorcana-api.com/images/musketeer_tabard/musketeer_tabard-small.png",
+      "no-art": "https://lorcana-api.com/images/musketeer_tabard/musketeer_tabard-no-art.png",
+      "large": "https://lorcana-api.com/images/musketeer_tabard/musketeer_tabard-large.png",
+      "art-crop": "https://lorcana-api.com/images/musketeer_tabard/musketeer_tabard-art-crop.png",
+      "medium": "https://lorcana-api.com/images/musketeer_tabard/musketeer_tabard-medium.png"
     },
     "name": "Musketeer Tabard",
     "ink-cost": 4,

@@ -8,11 +8,11 @@
     "inkable": true,
     "effect": "Each opponent chooses and discards a card.",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/sudden_chill/small.png",
-      "no-art": "https://lorcana-api.com/images/sudden_chill/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/sudden_chill/art-crop.png",
-      "medium": "https://lorcana-api.com/images/sudden_chill/medium.png",
-      "large": "https://lorcana-api.com/images/sudden_chill/large.png"
+      "small": "https://lorcana-api.com/images/sudden_chill/sudden_chill-small.png",
+      "no-art": "https://lorcana-api.com/images/sudden_chill/sudden_chill-no-art.png",
+      "large": "https://lorcana-api.com/images/sudden_chill/sudden_chill-large.png",
+      "art-crop": "https://lorcana-api.com/images/sudden_chill/sudden_chill-art-crop.png",
+      "medium": "https://lorcana-api.com/images/sudden_chill/sudden_chill-medium.png"
     },
     "name": "Sudden Chill",
     "ink-cost": 2,

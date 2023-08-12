@@ -17,11 +17,11 @@
     "inkable": false,
     "subtitle": "Agent Provocateur",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/dr._facilier-agent_provocateur/small.png",
-      "no-art": "https://lorcana-api.com/images/dr._facilier-agent_provocateur/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/dr._facilier-agent_provocateur/art-crop.png",
-      "medium": "https://lorcana-api.com/images/dr._facilier-agent_provocateur/medium.png",
-      "large": "https://lorcana-api.com/images/dr._facilier-agent_provocateur/large.png"
+      "small": "https://lorcana-api.com/images/dr._facilier/agent_provocateur/dr._facilier-agent_provocateur-small.png",
+      "no-art": "https://lorcana-api.com/images/dr._facilier/agent_provocateur/dr._facilier-agent_provocateur-no-art.png",
+      "large": "https://lorcana-api.com/images/dr._facilier/agent_provocateur/dr._facilier-agent_provocateur-large.png",
+      "art-crop": "https://lorcana-api.com/images/dr._facilier/agent_provocateur/dr._facilier-agent_provocateur-art-crop.png",
+      "medium": "https://lorcana-api.com/images/dr._facilier/agent_provocateur/dr._facilier-agent_provocateur-medium.png"
     },
     "name": "Dr. Facilier",
     "ink-cost": 7,

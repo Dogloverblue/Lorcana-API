@@ -8,11 +8,11 @@
     "inkable": false,
     "effect": "",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/plasma_blaster/small.png",
-      "no-art": "https://lorcana-api.com/images/plasma_blaster/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/plasma_blaster/art-crop.png",
-      "medium": "https://lorcana-api.com/images/plasma_blaster/medium.png",
-      "large": "https://lorcana-api.com/images/plasma_blaster/large.png"
+      "small": "https://lorcana-api.com/images/plasma_blaster/plasma_blaster-small.png",
+      "no-art": "https://lorcana-api.com/images/plasma_blaster/plasma_blaster-no-art.png",
+      "large": "https://lorcana-api.com/images/plasma_blaster/plasma_blaster-large.png",
+      "art-crop": "https://lorcana-api.com/images/plasma_blaster/plasma_blaster-art-crop.png",
+      "medium": "https://lorcana-api.com/images/plasma_blaster/plasma_blaster-medium.png"
     },
     "name": "Plasma Blaster",
     "ink-cost": 3,

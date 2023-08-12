@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "Colonel's Lieutenant",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/captain-colonel's_lieutenant/small.png",
-      "no-art": "https://lorcana-api.com/images/captain-colonel's_lieutenant/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/captain-colonel's_lieutenant/art-crop.png",
-      "medium": "https://lorcana-api.com/images/captain-colonel's_lieutenant/medium.png",
-      "large": "https://lorcana-api.com/images/captain-colonel's_lieutenant/large.png"
+      "small": "https://lorcana-api.com/images/captain/colonel's_lieutenant/captain-colonel's_lieutenant-small.png",
+      "no-art": "https://lorcana-api.com/images/captain/colonel's_lieutenant/captain-colonel's_lieutenant-no-art.png",
+      "large": "https://lorcana-api.com/images/captain/colonel's_lieutenant/captain-colonel's_lieutenant-large.png",
+      "art-crop": "https://lorcana-api.com/images/captain/colonel's_lieutenant/captain-colonel's_lieutenant-art-crop.png",
+      "medium": "https://lorcana-api.com/images/captain/colonel's_lieutenant/captain-colonel's_lieutenant-medium.png"
     },
     "name": "Captain",
     "ink-cost": 5,

@@ -18,11 +18,11 @@
       "inkable": false,
       "subtitle": "Biding Her Time",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/maleficent/biding_her_time/small.png",
-        "no-art": "https://lorcana-api.com/images/maleficent/biding_her_time/no-art.png",
-        "large": "https://lorcana-api.com/images/maleficent/biding_her_time/large.png",
-        "art-crop": "https://lorcana-api.com/images/maleficent/biding_her_time/art-crop.png",
-        "medium": "https://lorcana-api.com/images/maleficent/biding_her_time/medium.png"
+        "small": "https://lorcana-api.com/images/maleficent/biding_her_time/maleficent-biding_her_time-small.png",
+        "no-art": "https://lorcana-api.com/images/maleficent/biding_her_time/maleficent-biding_her_time-no-art.png",
+        "large": "https://lorcana-api.com/images/maleficent/biding_her_time/maleficent-biding_her_time-large.png",
+        "art-crop": "https://lorcana-api.com/images/maleficent/biding_her_time/maleficent-biding_her_time-art-crop.png",
+        "medium": "https://lorcana-api.com/images/maleficent/biding_her_time/maleficent-biding_her_time-medium.png"
       },
       "name": "Maleficent",
       "ink-cost": 1,
@@ -48,16 +48,46 @@
       "inkable": true,
       "subtitle": "Sorceress",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/maleficent/sorceress/small.png",
-        "no-art": "https://lorcana-api.com/images/maleficent/sorceress/no-art.png",
-        "large": "https://lorcana-api.com/images/maleficent/sorceress/large.png",
-        "art-crop": "https://lorcana-api.com/images/maleficent/sorceress/art-crop.png",
-        "medium": "https://lorcana-api.com/images/maleficent/sorceress/medium.png"
+        "small": "https://lorcana-api.com/images/maleficent/sorceress/maleficent-sorceress-small.png",
+        "no-art": "https://lorcana-api.com/images/maleficent/sorceress/maleficent-sorceress-no-art.png",
+        "large": "https://lorcana-api.com/images/maleficent/sorceress/maleficent-sorceress-large.png",
+        "art-crop": "https://lorcana-api.com/images/maleficent/sorceress/maleficent-sorceress-art-crop.png",
+        "medium": "https://lorcana-api.com/images/maleficent/sorceress/maleficent-sorceress-medium.png"
       },
       "name": "Maleficent",
       "ink-cost": 3,
       "flavor-text": "\"You dare challenge me? Fool, my magic is more powerful than you could possibly imagine!\"",
       "rarity": "Common"
+    },
+    "uninvited": {
+      "lore-value": 3,
+      "traits": [],
+      "set": "The First Chapter",
+      "color": "Sapphire",
+      "strength": 3,
+      "artist": "Gaku Kumatori",
+      "willpower": 6,
+      "type": "Character",
+      "subtypes": [
+        "Dreamborn",
+        "Villain",
+        "Sorcerer"
+      ],
+      "set-code": "TFC",
+      "abilities": {},
+      "inkable": true,
+      "subtitle": "Uninvited",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/maleficent/uninvited/maleficent-uninvited-small.png",
+        "no-art": "https://lorcana-api.com/images/maleficent/uninvited/maleficent-uninvited-no-art.png",
+        "large": "https://lorcana-api.com/images/maleficent/uninvited/maleficent-uninvited-large.png",
+        "art-crop": "https://lorcana-api.com/images/maleficent/uninvited/maleficent-uninvited-art-crop.png",
+        "medium": "https://lorcana-api.com/images/maleficent/uninvited/maleficent-uninvited-medium.png"
+      },
+      "name": "Maleficent",
+      "ink-cost": 5,
+      "flavor-text": "She had no invitation- and needed no introduction.",
+      "rarity": "Rare"
     },
     "sinister_visitor": {
       "traits": null,
@@ -80,35 +110,5 @@
       "subtitle": "Sinister Visitor",
       "name": "Maleficent",
       "ink-cost": 4
-    },
-"uninvited": {
-    "lore-value": 3,
-    "traits": [],
-    "set": "The First Chapter",
-    "color": "Sapphire",
-    "strength": 3,
-    "artist": "Gaku Kumatori",
-    "willpower": 6,
-    "type": "Character",
-    "subtypes": [
-      "Dreamborn",
-      "Villain",
-      "Sorcerer"
-    ],
-    "set-code": "TFC",
-    "abilities": {},
-    "inkable": true,
-    "subtitle": "Uninvited",
-    "image-urls": {
-      "small": "https://lorcana-api.com/images/maleficent-uninvited/small.png",
-      "no-art": "https://lorcana-api.com/images/maleficent-uninvited/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/maleficent-uninvited/art-crop.png",
-      "medium": "https://lorcana-api.com/images/maleficent-uninvited/medium.png",
-      "large": "https://lorcana-api.com/images/maleficent-uninvited/large.png"
-    },
-    "name": "Maleficent",
-    "ink-cost": 5,
-    "flavor-text": "She had no invitation- and needed no introduction.",
-    "rarity": "Rare"
+    }
   }
-}

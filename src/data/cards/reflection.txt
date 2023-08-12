@@ -8,11 +8,11 @@
     "inkable": true,
     "effect": "Look at the top 3 cards of your deck. Put them back on the top of your deck in any order.",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/reflection/small.png",
-      "no-art": "https://lorcana-api.com/images/reflection/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/reflection/art-crop.png",
-      "medium": "https://lorcana-api.com/images/reflection/medium.png",
-      "large": "https://lorcana-api.com/images/reflection/large.png"
+      "small": "https://lorcana-api.com/images/reflection/reflection-small.png",
+      "no-art": "https://lorcana-api.com/images/reflection/reflection-no-art.png",
+      "large": "https://lorcana-api.com/images/reflection/reflection-large.png",
+      "art-crop": "https://lorcana-api.com/images/reflection/reflection-art-crop.png",
+      "medium": "https://lorcana-api.com/images/reflection/reflection-medium.png"
     },
     "name": "Reflection",
     "ink-cost": 1,

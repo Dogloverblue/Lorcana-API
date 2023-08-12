@@ -18,11 +18,11 @@
     "inkable": true,
     "subtitle": "Ice Surfer",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/elsa-ice_surfer/small.png",
-      "no-art": "https://lorcana-api.com/images/elsa-ice_surfer/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/elsa-ice_surfer/art-crop.png",
-      "medium": "https://lorcana-api.com/images/elsa-ice_surfer/medium.png",
-      "large": "https://lorcana-api.com/images/elsa-ice_surfer/large.png"
+      "small": "https://lorcana-api.com/images/elsa/ice_surfer/elsa-ice_surfer-small.png",
+      "no-art": "https://lorcana-api.com/images/elsa/ice_surfer/elsa-ice_surfer-no-art.png",
+      "large": "https://lorcana-api.com/images/elsa/ice_surfer/elsa-ice_surfer-large.png",
+      "art-crop": "https://lorcana-api.com/images/elsa/ice_surfer/elsa-ice_surfer-art-crop.png",
+      "medium": "https://lorcana-api.com/images/elsa/ice_surfer/elsa-ice_surfer-medium.png"
     },
     "name": "Elsa",
     "ink-cost": 4,

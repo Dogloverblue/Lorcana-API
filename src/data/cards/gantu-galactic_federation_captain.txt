@@ -1,11 +1,13 @@
 {
     "traits": null,
     "set": "The First Chapter",
-    "color": "Silver",
-    "flavor_text": "Relax, enjoy the trip... and don't get any ideas!",
-    "artist": "Luis Huerta",
     "lore-value": 2,
+    "color": "Silver",
+    "strength": 6,
+    "artist": "Luis Huerta",
+    "willpower": 6,
     "type": "Character",
+    "flavor_text": "Relax, enjoy the trip... and don't get any ideas!",
     "subtypes": [
       "Storyborn",
       "Alien",
@@ -16,14 +18,12 @@
     "inkable": true,
     "subtitle": "Galactic Federation Captain",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/gantu/galactic_federation_captain/small.png",
-      "no-art": "https://lorcana-api.com/images/gantu/galactic_federation_captain/no-art.png",
-      "large": "https://lorcana-api.com/images/gantu/galactic_federation_captain/large.png",
-      "art-crop": "https://lorcana-api.com/images/gantu/galactic_federation_captain/art-crop.png",
-      "medium": "https://lorcana-api.com/images/gantu/galactic_federation_captain/medium.png"
+      "small": "https://lorcana-api.com/images/gantu/galactic_federation_captain/gantu-galactic_federation_captain-small.png",
+      "no-art": "https://lorcana-api.com/images/gantu/galactic_federation_captain/gantu-galactic_federation_captain-no-art.png",
+      "large": "https://lorcana-api.com/images/gantu/galactic_federation_captain/gantu-galactic_federation_captain-large.png",
+      "art-crop": "https://lorcana-api.com/images/gantu/galactic_federation_captain/gantu-galactic_federation_captain-art-crop.png",
+      "medium": "https://lorcana-api.com/images/gantu/galactic_federation_captain/gantu-galactic_federation_captain-medium.png"
     }],
     "name": "Gantu",
-    "strength": 6,
-    "ink-cost": 8,
-    "willpower": 6
+    "ink-cost": 8
   }

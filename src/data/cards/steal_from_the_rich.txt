@@ -8,11 +8,11 @@
     "inkable": false,
     "effect": "Whenever one of your characters quests this turn, each opponent loses 1 lore.",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/steal_from_the_rich/small.png",
-      "no-art": "https://lorcana-api.com/images/steal_from_the_rich/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/steal_from_the_rich/art-crop.png",
-      "medium": "https://lorcana-api.com/images/steal_from_the_rich/medium.png",
-      "large": "https://lorcana-api.com/images/steal_from_the_rich/large.png"
+      "small": "https://lorcana-api.com/images/steal_from_the_rich/steal_from_the_rich-small.png",
+      "no-art": "https://lorcana-api.com/images/steal_from_the_rich/steal_from_the_rich-no-art.png",
+      "large": "https://lorcana-api.com/images/steal_from_the_rich/steal_from_the_rich-large.png",
+      "art-crop": "https://lorcana-api.com/images/steal_from_the_rich/steal_from_the_rich-art-crop.png",
+      "medium": "https://lorcana-api.com/images/steal_from_the_rich/steal_from_the_rich-medium.png"
     },
     "name": "Steal From The Rich",
     "ink-cost": 5,

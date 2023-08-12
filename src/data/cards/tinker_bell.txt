@@ -18,11 +18,11 @@
       "inkable": true,
       "subtitle": "Most Helpful",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/tinker_bell-most_helpful/small.png",
-        "no-art": "https://lorcana-api.com/images/tinker_bell-most_helpful/no-art.png",
-        "large": "https://lorcana-api.com/images/tinker_bell-most_helpful/large.png",
-        "art-crop": "https://lorcana-api.com/images/tinker_bell-most_helpful/art-crop.png",
-        "medium": "https://lorcana-api.com/images/tinker_bell-most_helpful/medium.png"
+        "small": "https://lorcana-api.com/images/tinker_bell/most_helpful/tinker_bell-most_helpful-small.png",
+        "no-art": "https://lorcana-api.com/images/tinker_bell/most_helpful/tinker_bell-most_helpful-no-art.png",
+        "large": "https://lorcana-api.com/images/tinker_bell/most_helpful/tinker_bell-most_helpful-large.png",
+        "art-crop": "https://lorcana-api.com/images/tinker_bell/most_helpful/tinker_bell-most_helpful-art-crop.png",
+        "medium": "https://lorcana-api.com/images/tinker_bell/most_helpful/tinker_bell-most_helpful-medium.png"
       },
       "name": "Tinker Bell",
       "ink-cost": 4,
@@ -51,11 +51,11 @@
       "inkable": true,
       "subtitle": "Giant Fairy",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/tinker_bell-giant_fairy/small.png",
-        "no-art": "https://lorcana-api.com/images/tinker_bell-giant_fairy/no-art.png",
-        "large": "https://lorcana-api.com/images/tinker_bell-giant_fairy/large.png",
-        "art-crop": "https://lorcana-api.com/images/tinker_bell-giant_fairy/art-crop.png",
-        "medium": "https://lorcana-api.com/images/tinker_bell-giant_fairy/medium.png"
+        "small": "https://lorcana-api.com/images/tinker_bell/giant_fairy/tinker_bell-giant_fairy-small.png",
+        "no-art": "https://lorcana-api.com/images/tinker_bell/giant_fairy/tinker_bell-giant_fairy-no-art.png",
+        "large": "https://lorcana-api.com/images/tinker_bell/giant_fairy/tinker_bell-giant_fairy-large.png",
+        "art-crop": "https://lorcana-api.com/images/tinker_bell/giant_fairy/tinker_bell-giant_fairy-art-crop.png",
+        "medium": "https://lorcana-api.com/images/tinker_bell/giant_fairy/tinker_bell-giant_fairy-medium.png"
       },
       "name": "Tinker Bell",
       "ink-cost": 6,
@@ -81,11 +81,11 @@
       "inkable": false,
       "subtitle": "Peter Pan's Ally",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/tinker_bell-peter_pan's_ally/small.png",
-        "no-art": "https://lorcana-api.com/images/tinker_bell-peter_pan's_ally/no-art.png",
-        "art-crop": "https://lorcana-api.com/images/tinker_bell-peter_pan's_ally/art-crop.png",
-        "medium": "https://lorcana-api.com/images/tinker_bell-peter_pan's_ally/medium.png",
-        "large": "https://lorcana-api.com/images/tinker_bell-peter_pan's_ally/large.png"
+        "small": "https://lorcana-api.com/images/tinker_bell/peter_pan's_ally/tinker_bell-peter_pan's_ally-small.png",
+        "no-art": "https://lorcana-api.com/images/tinker_bell/peter_pan's_ally/tinker_bell-peter_pan's_ally-no-art.png",
+        "large": "https://lorcana-api.com/images/tinker_bell/peter_pan's_ally/tinker_bell-peter_pan's_ally-large.png",
+        "art-crop": "https://lorcana-api.com/images/tinker_bell/peter_pan's_ally/tinker_bell-peter_pan's_ally-art-crop.png",
+        "medium": "https://lorcana-api.com/images/tinker_bell/peter_pan's_ally/tinker_bell-peter_pan's_ally-medium.png"
       },
       "name": "Tinker Bell",
       "ink-cost": 5,

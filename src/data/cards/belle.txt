@@ -21,11 +21,11 @@
       "inkable": true,
       "subtitle": "Strange but special",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/belle-strange_but_special/small.png",
-        "no-art": "https://lorcana-api.com/images/belle-strange_but_special/no-art.png",
-        "art-crop": "https://lorcana-api.com/images/belle-strange_but_special/art-crop.png",
-        "medium": "https://lorcana-api.com/images/belle-strange_but_special/medium.png",
-        "large": "https://lorcana-api.com/images/belle-strange_but_special/large.png"
+        "small": "https://lorcana-api.com/images/belle/strange_but_special/belle-strange_but_special-small.png",
+        "no-art": "https://lorcana-api.com/images/belle/strange_but_special/belle-strange_but_special-no-art.png",
+        "large": "https://lorcana-api.com/images/belle/strange_but_special/belle-strange_but_special-large.png",
+        "art-crop": "https://lorcana-api.com/images/belle/strange_but_special/belle-strange_but_special-art-crop.png",
+        "medium": "https://lorcana-api.com/images/belle/strange_but_special/belle-strange_but_special-medium.png"
       },
       "name": "Belle",
       "ink-cost": 4,
@@ -53,11 +53,11 @@
       "inkable": true,
       "subtitle": "Inventive Engineer",
       "image-urls": [{
-        "small": "https://lorcana-api.com/images/belle/inventive_engineer/small.png",
-        "no-art": "https://lorcana-api.com/images/belle/inventive_engineer/no-art.png",
-        "large": "https://lorcana-api.com/images/belle/inventive_engineer/large.png",
-        "art-crop": "https://lorcana-api.com/images/belle/inventive_engineer/art-crop.png",
-        "medium": "https://lorcana-api.com/images/belle/inventive_engineer/medium.png"
+        "small": "https://lorcana-api.com/images/belle/inventive_engineer/belle-inventive_engineer-small.png",
+        "no-art": "https://lorcana-api.com/images/belle/inventive_engineer/belle-inventive_engineer-no-art.png",
+        "large": "https://lorcana-api.com/images/belle/inventive_engineer/belle-inventive_engineer-large.png",
+        "art-crop": "https://lorcana-api.com/images/belle/inventive_engineer/belle-inventive_engineer-art-crop.png",
+        "medium": "https://lorcana-api.com/images/belle/inventive_engineer/belle-inventive_engineer-medium.png"
       }],
       "name": "Belle",
       "ink-cost": 3

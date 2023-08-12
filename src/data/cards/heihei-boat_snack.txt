@@ -1,11 +1,13 @@
 {
     "traits": ["Support (When this character quests, you may add thier * to another chosen character's * this turn)"],
     "set": "The First Chapter",
-    "color": "Amber",
-    "flavor_text": "\\\"Sometimes, our strengths lie beneath the surface. Far beneath, in some cases...\\\" -Moana",
-    "artist": "Jenna Gray",
     "lore-value": 1,
+    "color": "Amber",
+    "strength": 1,
+    "artist": "Jenna Gray",
+    "willpower": 2,
     "type": "Character",
+    "flavor_text": "\\\"Sometimes, our strengths lie beneath the surface. Far beneath, in some cases...\\\" -Moana",
     "subtypes": [
       "Storyborn",
       "Ally"
@@ -15,14 +17,12 @@
     "inkable": true,
     "subtitle": "Boat Snack",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/heihei/boat_snack/small.png",
-      "no-art": "https://lorcana-api.com/images/heihei/boat_snack/no-art.png",
-      "large": "https://lorcana-api.com/images/heihei/boat_snack/large.png",
-      "art-crop": "https://lorcana-api.com/images/heihei/boat_snack/art-crop.png",
-      "medium": "https://lorcana-api.com/images/heihei/boat_snack/medium.png"
+      "small": "https://lorcana-api.com/images/heihei/boat_snack/heihei-boat_snack-small.png",
+      "no-art": "https://lorcana-api.com/images/heihei/boat_snack/heihei-boat_snack-no-art.png",
+      "large": "https://lorcana-api.com/images/heihei/boat_snack/heihei-boat_snack-large.png",
+      "art-crop": "https://lorcana-api.com/images/heihei/boat_snack/heihei-boat_snack-art-crop.png",
+      "medium": "https://lorcana-api.com/images/heihei/boat_snack/heihei-boat_snack-medium.png"
     }],
     "name": "Heihei",
-    "strength": 1,
-    "ink-cost": 1,
-    "willpower": 2
+    "ink-cost": 1
   }

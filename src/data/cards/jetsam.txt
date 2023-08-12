@@ -16,11 +16,11 @@
     "inkable": true,
     "subtitle": "Ursula's Spy",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/jetsam-ursula's_spy/small.png",
-      "no-art": "https://lorcana-api.com/images/jetsam-ursula's_spy/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/jetsam-ursula's_spy/art-crop.png",
-      "medium": "https://lorcana-api.com/images/jetsam-ursula's_spy/medium.png",
-      "large": "https://lorcana-api.com/images/jetsam-ursula's_spy/large.png"
+      "small": "https://lorcana-api.com/images/jetsam/ursula's_spy/jetsam-ursula's_spy-small.png",
+      "no-art": "https://lorcana-api.com/images/jetsam/ursula's_spy/jetsam-ursula's_spy-no-art.png",
+      "large": "https://lorcana-api.com/images/jetsam/ursula's_spy/jetsam-ursula's_spy-large.png",
+      "art-crop": "https://lorcana-api.com/images/jetsam/ursula's_spy/jetsam-ursula's_spy-art-crop.png",
+      "medium": "https://lorcana-api.com/images/jetsam/ursula's_spy/jetsam-ursula's_spy-medium.png"
     },
     "name": "Jetsam",
     "ink-cost": 4,

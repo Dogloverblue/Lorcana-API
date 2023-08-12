@@ -8,11 +8,11 @@
     "inkable": true,
     "effect": "Draw 2 cards, then choose and discord 2 cards.",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/ransack/small.png",
-      "no-art": "https://lorcana-api.com/images/ransack/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/ransack/art-crop.png",
-      "medium": "https://lorcana-api.com/images/ransack/medium.png",
-      "large": "https://lorcana-api.com/images/ransack/large.png"
+      "small": "https://lorcana-api.com/images/ransack/ransack-small.png",
+      "no-art": "https://lorcana-api.com/images/ransack/ransack-no-art.png",
+      "large": "https://lorcana-api.com/images/ransack/ransack-large.png",
+      "art-crop": "https://lorcana-api.com/images/ransack/ransack-art-crop.png",
+      "medium": "https://lorcana-api.com/images/ransack/ransack-medium.png"
     },
     "name": "Ransack",
     "ink-cost": 2,

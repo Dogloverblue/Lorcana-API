@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "Musketeer",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/donald_duck-musketeer/small.png",
-      "no-art": "https://lorcana-api.com/images/donald_duck-musketeer/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/donald_duck-musketeer/art-crop.png",
-      "medium": "https://lorcana-api.com/images/donald_duck-musketeer/medium.png",
-      "large": "https://lorcana-api.com/images/donald_duck-musketeer/large.png"
+      "small": "https://lorcana-api.com/images/donald_duck/musketeer/donald_duck-musketeer-small.png",
+      "no-art": "https://lorcana-api.com/images/donald_duck/musketeer/donald_duck-musketeer-no-art.png",
+      "large": "https://lorcana-api.com/images/donald_duck/musketeer/donald_duck-musketeer-large.png",
+      "art-crop": "https://lorcana-api.com/images/donald_duck/musketeer/donald_duck-musketeer-art-crop.png",
+      "medium": "https://lorcana-api.com/images/donald_duck/musketeer/donald_duck-musketeer-medium.png"
     },
     "name": "Donald Duck",
     "ink-cost": 0,

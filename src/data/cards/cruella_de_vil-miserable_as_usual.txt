@@ -1,11 +1,13 @@
 {
     "traits": null,
     "set": "The First Chapter",
-    "color": "Emerald",
-    "flavor_text": "When she stops by, misery is company.",
-    "artist": "Nicholas Kole",
     "lore-value": 1,
+    "color": "Emerald",
+    "strength": 1,
+    "artist": "Nicholas Kole",
+    "willpower": 3,
     "type": "character",
+    "flavor_text": "When she stops by, misery is company.",
     "subtypes": [
       "Storyborn",
       "Villain"
@@ -15,14 +17,12 @@
     "inkable": true,
     "subtitle": "Miserable As Usual",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/cruella_de_vil/miserable_as_usual/small.png",
-      "no-art": "https://lorcana-api.com/images/cruella_de_vil/miserable_as_usual/no-art.png",
-      "large": "https://lorcana-api.com/images/cruella_de_vil/miserable_as_usual/large.png",
-      "art-crop": "https://lorcana-api.com/images/cruella_de_vil/miserable_as_usual/art-crop.png",
-      "medium": "https://lorcana-api.com/images/cruella_de_vil/miserable_as_usual/medium.png"
+      "small": "https://lorcana-api.com/images/cruella_de_vil/miserable_as_usual/cruella_de_vil-miserable_as_usual-small.png",
+      "no-art": "https://lorcana-api.com/images/cruella_de_vil/miserable_as_usual/cruella_de_vil-miserable_as_usual-no-art.png",
+      "large": "https://lorcana-api.com/images/cruella_de_vil/miserable_as_usual/cruella_de_vil-miserable_as_usual-large.png",
+      "art-crop": "https://lorcana-api.com/images/cruella_de_vil/miserable_as_usual/cruella_de_vil-miserable_as_usual-art-crop.png",
+      "medium": "https://lorcana-api.com/images/cruella_de_vil/miserable_as_usual/cruella_de_vil-miserable_as_usual-medium.png"
     }],
     "name": "Cruella De Vil",
-    "strength": 1,
-    "ink-cost": 2,
-    "willpower": 3
+    "ink-cost": 2
   }

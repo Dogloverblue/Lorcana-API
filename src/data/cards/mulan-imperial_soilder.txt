@@ -1,11 +1,13 @@
 {
     "traits": null,
     "set": "The First Chapter",
-    "color": "Ruby",
-    "flavor_text": null,
-    "artist": "unknown",
     "lore-value": 1,
+    "color": "Ruby",
+    "strength": 4,
+    "artist": "unknown",
+    "willpower": 5,
     "type": "Character",
+    "flavor_text": null,
     "subtypes": [
       "Storyborn",
       "Hero",
@@ -16,14 +18,12 @@
     "inkable": true,
     "subtitle": "Imperial Soilder",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/mulan/imperial_soilder/small.png",
-      "no-art": "https://lorcana-api.com/images/mulan/imperial_soilder/no-art.png",
-      "large": "https://lorcana-api.com/images/mulan/imperial_soilder/large.png",
-      "art-crop": "https://lorcana-api.com/images/mulan/imperial_soilder/art-crop.png",
-      "medium": "https://lorcana-api.com/images/mulan/imperial_soilder/medium.png"
+      "small": "https://lorcana-api.com/images/mulan/imperial_soilder/mulan-imperial_soilder-small.png",
+      "no-art": "https://lorcana-api.com/images/mulan/imperial_soilder/mulan-imperial_soilder-no-art.png",
+      "large": "https://lorcana-api.com/images/mulan/imperial_soilder/mulan-imperial_soilder-large.png",
+      "art-crop": "https://lorcana-api.com/images/mulan/imperial_soilder/mulan-imperial_soilder-art-crop.png",
+      "medium": "https://lorcana-api.com/images/mulan/imperial_soilder/mulan-imperial_soilder-medium.png"
     }],
     "name": "Mulan",
-    "strength": 4,
-    "ink-cost": 5,
-    "willpower": 5
+    "ink-cost": 5
   }

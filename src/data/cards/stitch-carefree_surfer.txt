@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "carefree Surfer",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/stitch-carefree_surfer/small.png",
-      "no-art": "https://lorcana-api.com/images/stitch-carefree_surfer/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/stitch-carefree_surfer/art-crop.png",
-      "medium": "https://lorcana-api.com/images/stitch-carefree_surfer/medium.png",
-      "large": "https://lorcana-api.com/images/stitch-carefree_surfer/large.png"
+      "small": "https://lorcana-api.com/images/stitch/carefree_surfer/stitch-carefree_surfer-small.png",
+      "no-art": "https://lorcana-api.com/images/stitch/carefree_surfer/stitch-carefree_surfer-no-art.png",
+      "large": "https://lorcana-api.com/images/stitch/carefree_surfer/stitch-carefree_surfer-large.png",
+      "art-crop": "https://lorcana-api.com/images/stitch/carefree_surfer/stitch-carefree_surfer-art-crop.png",
+      "medium": "https://lorcana-api.com/images/stitch/carefree_surfer/stitch-carefree_surfer-medium.png"
     },
     "name": "Stitch",
     "ink-cost": 7,

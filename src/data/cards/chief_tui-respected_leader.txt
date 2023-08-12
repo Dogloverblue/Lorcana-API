@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "Respected Leader",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/chief_tui-respected_leader/small.png",
-      "no-art": "https://lorcana-api.com/images/chief_tui-respected_leader/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/chief_tui-respected_leader/art-crop.png",
-      "medium": "https://lorcana-api.com/images/chief_tui-respected_leader/medium.png",
-      "large": "https://lorcana-api.com/images/chief_tui-respected_leader/large.png"
+      "small": "https://lorcana-api.com/images/chief_tui/respected_leader/chief_tui-respected_leader-small.png",
+      "no-art": "https://lorcana-api.com/images/chief_tui/respected_leader/chief_tui-respected_leader-no-art.png",
+      "large": "https://lorcana-api.com/images/chief_tui/respected_leader/chief_tui-respected_leader-large.png",
+      "art-crop": "https://lorcana-api.com/images/chief_tui/respected_leader/chief_tui-respected_leader-art-crop.png",
+      "medium": "https://lorcana-api.com/images/chief_tui/respected_leader/chief_tui-respected_leader-medium.png"
     },
     "name": "Chief Tui",
     "ink-cost": 7,

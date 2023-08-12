@@ -17,11 +17,11 @@
     "inkable": false,
     "subtitle": "Peter Pan's Ally",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/tinker_bell-peter_pan's_ally/small.png",
-      "no-art": "https://lorcana-api.com/images/tinker_bell-peter_pan's_ally/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/tinker_bell-peter_pan's_ally/art-crop.png",
-      "medium": "https://lorcana-api.com/images/tinker_bell-peter_pan's_ally/medium.png",
-      "large": "https://lorcana-api.com/images/tinker_bell-peter_pan's_ally/large.png"
+      "small": "https://lorcana-api.com/images/tinker_bell/peter_pan's_ally/tinker_bell-peter_pan's_ally-small.png",
+      "no-art": "https://lorcana-api.com/images/tinker_bell/peter_pan's_ally/tinker_bell-peter_pan's_ally-no-art.png",
+      "large": "https://lorcana-api.com/images/tinker_bell/peter_pan's_ally/tinker_bell-peter_pan's_ally-large.png",
+      "art-crop": "https://lorcana-api.com/images/tinker_bell/peter_pan's_ally/tinker_bell-peter_pan's_ally-art-crop.png",
+      "medium": "https://lorcana-api.com/images/tinker_bell/peter_pan's_ally/tinker_bell-peter_pan's_ally-medium.png"
     },
     "name": "Tinker Bell",
     "ink-cost": 5,

@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "Demigod",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/maui-demigod/small.png",
-      "no-art": "https://lorcana-api.com/images/maui-demigod/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/maui-demigod/art-crop.png",
-      "medium": "https://lorcana-api.com/images/maui-demigod/medium.png",
-      "large": "https://lorcana-api.com/images/maui-demigod/large.png"
+      "small": "https://lorcana-api.com/images/maui/demigod/maui-demigod-small.png",
+      "no-art": "https://lorcana-api.com/images/maui/demigod/maui-demigod-no-art.png",
+      "large": "https://lorcana-api.com/images/maui/demigod/maui-demigod-large.png",
+      "art-crop": "https://lorcana-api.com/images/maui/demigod/maui-demigod-art-crop.png",
+      "medium": "https://lorcana-api.com/images/maui/demigod/maui-demigod-medium.png"
     },
     "name": "Maui",
     "ink-cost": 8,

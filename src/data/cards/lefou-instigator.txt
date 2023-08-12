@@ -16,11 +16,11 @@
     "inkable": true,
     "subtitle": "Instigator",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/lefou-instigator/small.png",
-      "no-art": "https://lorcana-api.com/images/lefou-instigator/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/lefou-instigator/art-crop.png",
-      "medium": "https://lorcana-api.com/images/lefou-instigator/medium.png",
-      "large": "https://lorcana-api.com/images/lefou-instigator/large.png"
+      "small": "https://lorcana-api.com/images/lefou/instigator/lefou-instigator-small.png",
+      "no-art": "https://lorcana-api.com/images/lefou/instigator/lefou-instigator-no-art.png",
+      "large": "https://lorcana-api.com/images/lefou/instigator/lefou-instigator-large.png",
+      "art-crop": "https://lorcana-api.com/images/lefou/instigator/lefou-instigator-art-crop.png",
+      "medium": "https://lorcana-api.com/images/lefou/instigator/lefou-instigator-medium.png"
     },
     "name": "Lefou",
     "ink-cost": 2,

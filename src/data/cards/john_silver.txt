@@ -19,11 +19,11 @@
     "inkable": true,
     "subtitle": "Alien Pirate",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/john_silver-alien_pirate/small.png",
-      "no-art": "https://lorcana-api.com/images/john_silver-alien_pirate/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/john_silver-alien_pirate/art-crop.png",
-      "medium": "https://lorcana-api.com/images/john_silver-alien_pirate/medium.png",
-      "large": "https://lorcana-api.com/images/john_silver-alien_pirate/large.png"
+      "small": "https://lorcana-api.com/images/john_silver/alien_pirate/john_silver-alien_pirate-small.png",
+      "no-art": "https://lorcana-api.com/images/john_silver/alien_pirate/john_silver-alien_pirate-no-art.png",
+      "large": "https://lorcana-api.com/images/john_silver/alien_pirate/john_silver-alien_pirate-large.png",
+      "art-crop": "https://lorcana-api.com/images/john_silver/alien_pirate/john_silver-alien_pirate-art-crop.png",
+      "medium": "https://lorcana-api.com/images/john_silver/alien_pirate/john_silver-alien_pirate-medium.png"
     },
     "name": "John Silver",
     "ink-cost": 6,

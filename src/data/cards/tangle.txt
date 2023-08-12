@@ -8,11 +8,11 @@
     "inkable": true,
     "effect": "Each opponent loses 1 lore.",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/tangle/small.png",
-      "no-art": "https://lorcana-api.com/images/tangle/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/tangle/art-crop.png",
-      "medium": "https://lorcana-api.com/images/tangle/medium.png",
-      "large": "https://lorcana-api.com/images/tangle/large.png"
+      "small": "https://lorcana-api.com/images/tangle/tangle-small.png",
+      "no-art": "https://lorcana-api.com/images/tangle/tangle-no-art.png",
+      "large": "https://lorcana-api.com/images/tangle/tangle-large.png",
+      "art-crop": "https://lorcana-api.com/images/tangle/tangle-art-crop.png",
+      "medium": "https://lorcana-api.com/images/tangle/tangle-medium.png"
     },
     "name": "Tangle",
     "ink-cost": 2,

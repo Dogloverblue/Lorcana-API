@@ -16,11 +16,11 @@
     "inkable": true,
     "subtitle": "Cornered Swordsman",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/aladdin-cornered_swordsman/small.png",
-      "no-art": "https://lorcana-api.com/images/aladdin-cornered_swordsman/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/aladdin-cornered_swordsman/art-crop.png",
-      "medium": "https://lorcana-api.com/images/aladdin-cornered_swordsman/medium.png",
-      "large": "https://lorcana-api.com/images/aladdin-cornered_swordsman/large.png"
+      "small": "https://lorcana-api.com/images/aladdin/cornered_swordsman/aladdin-cornered_swordsman-small.png",
+      "no-art": "https://lorcana-api.com/images/aladdin/cornered_swordsman/aladdin-cornered_swordsman-no-art.png",
+      "large": "https://lorcana-api.com/images/aladdin/cornered_swordsman/aladdin-cornered_swordsman-large.png",
+      "art-crop": "https://lorcana-api.com/images/aladdin/cornered_swordsman/aladdin-cornered_swordsman-art-crop.png",
+      "medium": "https://lorcana-api.com/images/aladdin/cornered_swordsman/aladdin-cornered_swordsman-medium.png"
     },
     "name": "Aladdin",
     "ink-cost": 2,

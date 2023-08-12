@@ -1,4 +1,4 @@
-{"wicked_stepmother": {
+{
     "lore-value": 0,
     "traits": [],
     "set": "The First Chapter",
@@ -26,4 +26,4 @@
     "ink-cost": 6,
     "flavor-text": "\"If your chores are done, then clearly you...\"",
     "rarity": "Common"
-  }}
+  }

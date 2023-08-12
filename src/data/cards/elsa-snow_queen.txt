@@ -1,11 +1,13 @@
 {
     "traits": null,
     "set": "The First Chapter",
-    "color": "Amethyst",
-    "flavor_text": "Recreated by magical ink, Elsa found herself in an unfamiliar new world. Fortunately, ice works the same way everywhere.",
-    "artist": "Nicholas Kole",
     "lore-value": 1,
+    "color": "Amethyst",
+    "strength": 2,
+    "artist": "Nicholas Kole",
+    "willpower": 3,
     "type": "character",
+    "flavor_text": "Recreated by magical ink, Elsa found herself in an unfamiliar new world. Fortunately, ice works the same way everywhere.",
     "subtypes": [
       "Dreamborn",
       "Hero",
@@ -17,14 +19,12 @@
     "inkable": true,
     "subtitle": "Snow Queen",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/elsa/snow_queen/small.png",
-      "no-art": "https://lorcana-api.com/images/elsa/snow_queen/no-art.png",
-      "large": "https://lorcana-api.com/images/elsa/snow_queen/large.png",
-      "art-crop": "https://lorcana-api.com/images/elsa/snow_queen/art-crop.png",
-      "medium": "https://lorcana-api.com/images/elsa/snow_queen/medium.png"
+      "small": "https://lorcana-api.com/images/elsa/snow_queen/elsa-snow_queen-small.png",
+      "no-art": "https://lorcana-api.com/images/elsa/snow_queen/elsa-snow_queen-no-art.png",
+      "large": "https://lorcana-api.com/images/elsa/snow_queen/elsa-snow_queen-large.png",
+      "art-crop": "https://lorcana-api.com/images/elsa/snow_queen/elsa-snow_queen-art-crop.png",
+      "medium": "https://lorcana-api.com/images/elsa/snow_queen/elsa-snow_queen-medium.png"
     }],
     "name": "Elsa",
-    "strength": 2,
-    "ink-cost": 3,
-    "willpower": 3
+    "ink-cost": 3
   }

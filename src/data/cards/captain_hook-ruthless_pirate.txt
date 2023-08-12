@@ -18,11 +18,11 @@
     "inkable": false,
     "subtitle": "Ruthless Pirate",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/captain_hook-ruthless_pirate/small.png",
-      "no-art": "https://lorcana-api.com/images/captain_hook-ruthless_pirate/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/captain_hook-ruthless_pirate/art-crop.png",
-      "medium": "https://lorcana-api.com/images/captain_hook-ruthless_pirate/medium.png",
-      "large": "https://lorcana-api.com/images/captain_hook-ruthless_pirate/large.png"
+      "small": "https://lorcana-api.com/images/captain_hook/ruthless_pirate/captain_hook-ruthless_pirate-small.png",
+      "no-art": "https://lorcana-api.com/images/captain_hook/ruthless_pirate/captain_hook-ruthless_pirate-no-art.png",
+      "large": "https://lorcana-api.com/images/captain_hook/ruthless_pirate/captain_hook-ruthless_pirate-large.png",
+      "art-crop": "https://lorcana-api.com/images/captain_hook/ruthless_pirate/captain_hook-ruthless_pirate-art-crop.png",
+      "medium": "https://lorcana-api.com/images/captain_hook/ruthless_pirate/captain_hook-ruthless_pirate-medium.png"
     },
     "name": "Captain Hook",
     "ink-cost": 7,

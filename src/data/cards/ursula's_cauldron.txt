@@ -8,11 +8,11 @@
     "inkable": false,
     "effect": "",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/ursula's_cauldron/small.png",
-      "no-art": "https://lorcana-api.com/images/ursula's_cauldron/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/ursula's_cauldron/art-crop.png",
-      "medium": "https://lorcana-api.com/images/ursula's_cauldron/medium.png",
-      "large": "https://lorcana-api.com/images/ursula's_cauldron/large.png"
+      "small": "https://lorcana-api.com/images/ursula's_cauldron/ursula's_cauldron-small.png",
+      "no-art": "https://lorcana-api.com/images/ursula's_cauldron/ursula's_cauldron-no-art.png",
+      "large": "https://lorcana-api.com/images/ursula's_cauldron/ursula's_cauldron-large.png",
+      "art-crop": "https://lorcana-api.com/images/ursula's_cauldron/ursula's_cauldron-art-crop.png",
+      "medium": "https://lorcana-api.com/images/ursula's_cauldron/ursula's_cauldron-medium.png"
     },
     "name": "Ursula's Cauldron",
     "ink-cost": 2,

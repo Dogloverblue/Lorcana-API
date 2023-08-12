@@ -8,11 +8,11 @@
     "inkable": true,
     "effect": "Ready chosen character. They can't quest for the rest of this turn.",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/fan_the_flames/small.png",
-      "no-art": "https://lorcana-api.com/images/fan_the_flames/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/fan_the_flames/art-crop.png",
-      "medium": "https://lorcana-api.com/images/fan_the_flames/medium.png",
-      "large": "https://lorcana-api.com/images/fan_the_flames/large.png"
+      "small": "https://lorcana-api.com/images/fan_the_flames/fan_the_flames-small.png",
+      "no-art": "https://lorcana-api.com/images/fan_the_flames/fan_the_flames-no-art.png",
+      "large": "https://lorcana-api.com/images/fan_the_flames/fan_the_flames-large.png",
+      "art-crop": "https://lorcana-api.com/images/fan_the_flames/fan_the_flames-art-crop.png",
+      "medium": "https://lorcana-api.com/images/fan_the_flames/fan_the_flames-medium.png"
     },
     "name": "Fan The Flames",
     "ink-cost": 1,

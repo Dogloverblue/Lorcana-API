@@ -16,11 +16,11 @@
     "inkable": false,
     "subtitle": "Persistent Guardian",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/marshmallow-persistent_guardian/small.png",
-      "no-art": "https://lorcana-api.com/images/marshmallow-persistent_guardian/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/marshmallow-persistent_guardian/art-crop.png",
-      "medium": "https://lorcana-api.com/images/marshmallow-persistent_guardian/medium.png",
-      "large": "https://lorcana-api.com/images/marshmallow-persistent_guardian/large.png"
+      "small": "https://lorcana-api.com/images/marshmallow/persistent_guardian/marshmallow-persistent_guardian-small.png",
+      "no-art": "https://lorcana-api.com/images/marshmallow/persistent_guardian/marshmallow-persistent_guardian-no-art.png",
+      "large": "https://lorcana-api.com/images/marshmallow/persistent_guardian/marshmallow-persistent_guardian-large.png",
+      "art-crop": "https://lorcana-api.com/images/marshmallow/persistent_guardian/marshmallow-persistent_guardian-art-crop.png",
+      "medium": "https://lorcana-api.com/images/marshmallow/persistent_guardian/marshmallow-persistent_guardian-medium.png"
     },
     "name": "MarshMallow",
     "ink-cost": 6,

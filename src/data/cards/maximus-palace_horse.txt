@@ -19,11 +19,11 @@
     "inkable": true,
     "subtitle": "Palace Horse",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/maximus-palace_horse/small.png",
-      "no-art": "https://lorcana-api.com/images/maximus-palace_horse/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/maximus-palace_horse/art-crop.png",
-      "medium": "https://lorcana-api.com/images/maximus-palace_horse/medium.png",
-      "large": "https://lorcana-api.com/images/maximus-palace_horse/large.png"
+      "small": "https://lorcana-api.com/images/maximus/palace_horse/maximus-palace_horse-maximus-palace_horse-small.png",
+      "no-art": "https://lorcana-api.com/images/maximus/palace_horse/maximus-palace_horse-maximus-palace_horse-no-art.png",
+      "large": "https://lorcana-api.com/images/maximus/palace_horse/maximus-palace_horse-maximus-palace_horse-large.png",
+      "art-crop": "https://lorcana-api.com/images/maximus/palace_horse/maximus-palace_horse-maximus-palace_horse-art-crop.png",
+      "medium": "https://lorcana-api.com/images/maximus/palace_horse/maximus-palace_horse-maximus-palace_horse-medium.png"
     },
     "name": "Maximus",
     "ink-cost": 5,

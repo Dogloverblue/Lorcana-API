@@ -17,11 +17,11 @@
     "inkable": false,
     "subtitle": "Shameless Firebrand",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/scar-shameless_firebrand/small.png",
-      "no-art": "https://lorcana-api.com/images/scar-shameless_firebrand/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/scar-shameless_firebrand/art-crop.png",
-      "medium": "https://lorcana-api.com/images/scar-shameless_firebrand/medium.png",
-      "large": "https://lorcana-api.com/images/scar-shameless_firebrand/large.png"
+      "small": "https://lorcana-api.com/images/scar/shameless_firebrand/scar-shameless_firebrand-small.png",
+      "no-art": "https://lorcana-api.com/images/scar/shameless_firebrand/scar-shameless_firebrand-no-art.png",
+      "large": "https://lorcana-api.com/images/scar/shameless_firebrand/scar-shameless_firebrand-large.png",
+      "art-crop": "https://lorcana-api.com/images/scar/shameless_firebrand/scar-shameless_firebrand-art-crop.png",
+      "medium": "https://lorcana-api.com/images/scar/shameless_firebrand/scar-shameless_firebrand-medium.png"
     },
     "name": "Scar",
     "ink-cost": 8,

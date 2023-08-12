@@ -20,11 +20,11 @@
       "inkable": false,
       "subtitle": "Powers Unleashed",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/genie-powers_unleashed/small.png",
-        "no-art": "https://lorcana-api.com/images/genie-powers_unleashed/no-art.png",
-        "large": "https://lorcana-api.com/images/genie-powers_unleashed/large.png",
-        "art-crop": "https://lorcana-api.com/images/genie-powers_unleashed/art-crop.png",
-        "medium": "https://lorcana-api.com/images/genie-powers_unleashed/medium.png"
+        "small": "https://lorcana-api.com/images/genie/powers_unleashed/genie-powers_unleashed-small.png",
+        "no-art": "https://lorcana-api.com/images/genie/powers_unleashed/genie-powers_unleashed-no-art.png",
+        "large": "https://lorcana-api.com/images/genie/powers_unleashed/genie-powers_unleashed-large.png",
+        "art-crop": "https://lorcana-api.com/images/genie/powers_unleashed/genie-powers_unleashed-art-crop.png",
+        "medium": "https://lorcana-api.com/images/genie/powers_unleashed/genie-powers_unleashed-medium.png"
       },
       "name": "Genie",
       "ink-cost": 8,
@@ -49,11 +49,11 @@
       "inkable": false,
       "subtitle": "On the Job",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/genie-on_the_job/small.png",
-        "no-art": "https://lorcana-api.com/images/genie-on_the_job/no-art.png",
-        "large": "https://lorcana-api.com/images/genie-on_the_job/large.png",
-        "art-crop": "https://lorcana-api.com/images/genie-on_the_job/art-crop.png",
-        "medium": "https://lorcana-api.com/images/genie-on_the_job/medium.png"
+        "small": "https://lorcana-api.com/images/genie/on_the_job/genie-on_the_job-small.png",
+        "no-art": "https://lorcana-api.com/images/genie/on_the_job/genie-on_the_job-no-art.png",
+        "large": "https://lorcana-api.com/images/genie/on_the_job/genie-on_the_job-large.png",
+        "art-crop": "https://lorcana-api.com/images/genie/on_the_job/genie-on_the_job-art-crop.png",
+        "medium": "https://lorcana-api.com/images/genie/on_the_job/genie-on_the_job-medium.png"
       },
       "name": "Genie",
       "ink-cost": 6,
@@ -78,11 +78,11 @@
       "inkable": true,
       "subtitle": "The Ever Impressive",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/genie-the_ever_impressive/small.png",
-        "no-art": "https://lorcana-api.com/images/genie-the_ever_impressive/no-art.png",
-        "art-crop": "https://lorcana-api.com/images/genie-the_ever_impressive/art-crop.png",
-        "medium": "https://lorcana-api.com/images/genie-the_ever_impressive/medium.png",
-        "large": "https://lorcana-api.com/images/genie-the_ever_impressive/large.png"
+        "small": "https://lorcana-api.com/images/genie/the_ever_impressive/genie-the_ever_impressive-small.png",
+        "no-art": "https://lorcana-api.com/images/genie/the_ever_impressive/genie-the_ever_impressive-no-art.png",
+        "large": "https://lorcana-api.com/images/genie/the_ever_impressive/genie-the_ever_impressive-large.png",
+        "art-crop": "https://lorcana-api.com/images/genie/the_ever_impressive/genie-the_ever_impressive-art-crop.png",
+        "medium": "https://lorcana-api.com/images/genie/the_ever_impressive/genie-the_ever_impressive-medium.png"
       },
       "name": "Genie",
       "ink-cost": 2,

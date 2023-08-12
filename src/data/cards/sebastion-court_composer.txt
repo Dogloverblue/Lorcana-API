@@ -16,11 +16,11 @@
     "inkable": true,
     "subtitle": "Court Composer",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/sebastion-court_composer/small.png",
-      "no-art": "https://lorcana-api.com/images/sebastion-court_composer/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/sebastion-court_composer/art-crop.png",
-      "medium": "https://lorcana-api.com/images/sebastion-court_composer/medium.png",
-      "large": "https://lorcana-api.com/images/sebastion-court_composer/large.png"
+      "small": "https://lorcana-api.com/images/sebastion/court_composer/sebastion-court_composer-small.png",
+      "no-art": "https://lorcana-api.com/images/sebastion/court_composer/sebastion-court_composer-no-art.png",
+      "large": "https://lorcana-api.com/images/sebastion/court_composer/sebastion-court_composer-large.png",
+      "art-crop": "https://lorcana-api.com/images/sebastion/court_composer/sebastion-court_composer-art-crop.png",
+      "medium": "https://lorcana-api.com/images/sebastion/court_composer/sebastion-court_composer-medium.png"
     },
     "name": "Sebastion",
     "ink-cost": 2,

@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "Sorceress",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/maleficent/sorceress/small.png",
-      "no-art": "https://lorcana-api.com/images/maleficent/sorceress/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/maleficent/sorceress/art-crop.png",
-      "medium": "https://lorcana-api.com/images/maleficent/sorceress/medium.png",
-      "large": "https://lorcana-api.com/images/maleficent/sorceress/large.png"
+      "small": "https://lorcana-api.com/images/maleficent/sorceress/maleficent-sorceress-small.png",
+      "no-art": "https://lorcana-api.com/images/maleficent/sorceress/maleficent-sorceress-no-art.png",
+      "large": "https://lorcana-api.com/images/maleficent/sorceress/maleficent-sorceress-large.png",
+      "art-crop": "https://lorcana-api.com/images/maleficent/sorceress/maleficent-sorceress-art-crop.png",
+      "medium": "https://lorcana-api.com/images/maleficent/sorceress/maleficent-sorceress-medium.png"
     },
     "name": "Maleficent",
     "ink-cost": 3,

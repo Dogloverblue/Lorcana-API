@@ -8,11 +8,11 @@
     "inkable": false,
     "effect": "",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/poisoned_apple/small.png",
-      "no-art": "https://lorcana-api.com/images/poisoned_apple/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/poisoned_apple/art-crop.png",
-      "medium": "https://lorcana-api.com/images/poisoned_apple/medium.png",
-      "large": "https://lorcana-api.com/images/poisoned_apple/large.png"
+      "small": "https://lorcana-api.com/images/poisoned_apple/poisoned_apple-small.png",
+      "no-art": "https://lorcana-api.com/images/poisoned_apple/poisoned_apple-no-art.png",
+      "large": "https://lorcana-api.com/images/poisoned_apple/poisoned_apple-large.png",
+      "art-crop": "https://lorcana-api.com/images/poisoned_apple/poisoned_apple-art-crop.png",
+      "medium": "https://lorcana-api.com/images/poisoned_apple/poisoned_apple-medium.png"
     },
     "name": "Poisoned Apple",
     "ink-cost": 3,

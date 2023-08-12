@@ -8,11 +8,11 @@
     "inkable": true,
     "effect": "",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/stolen_scimitar/small.png",
-      "no-art": "https://lorcana-api.com/images/stolen_scimitar/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/stolen_scimitar/art-crop.png",
-      "medium": "https://lorcana-api.com/images/stolen_scimitar/medium.png",
-      "large": "https://lorcana-api.com/images/stolen_scimitar/large.png"
+      "small": "https://lorcana-api.com/images/stolen_scimitar/stolen_scimitar-small.png",
+      "no-art": "https://lorcana-api.com/images/stolen_scimitar/stolen_scimitar-no-art.png",
+      "large": "https://lorcana-api.com/images/stolen_scimitar/stolen_scimitar-large.png",
+      "art-crop": "https://lorcana-api.com/images/stolen_scimitar/stolen_scimitar-art-crop.png",
+      "medium": "https://lorcana-api.com/images/stolen_scimitar/stolen_scimitar-medium.png"
     },
     "name": "Stolen Scimitar",
     "ink-cost": 2,

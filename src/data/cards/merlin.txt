@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "Self-Appointed Mentor",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/merlin-self-appointed_mentor/small.png",
-      "no-art": "https://lorcana-api.com/images/merlin-self-appointed_mentor/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/merlin-self-appointed_mentor/art-crop.png",
-      "medium": "https://lorcana-api.com/images/merlin-self-appointed_mentor/medium.png",
-      "large": "https://lorcana-api.com/images/merlin-self-appointed_mentor/large.png"
+      "small": "https://lorcana-api.com/images/merlin/self-appointed_mentor/merlin-self-appointed_mentor-small.png",
+      "no-art": "https://lorcana-api.com/images/merlin/self-appointed_mentor/merlin-self-appointed_mentor-no-art.png",
+      "large": "https://lorcana-api.com/images/merlin/self-appointed_mentor/merlin-self-appointed_mentor-large.png",
+      "art-crop": "https://lorcana-api.com/images/merlin/self-appointed_mentor/merlin-self-appointed_mentor-art-crop.png",
+      "medium": "https://lorcana-api.com/images/merlin/self-appointed_mentor/merlin-self-appointed_mentor-medium.png"
     },
     "name": "Merlin",
     "ink-cost": 4,

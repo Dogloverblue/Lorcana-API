@@ -18,11 +18,11 @@
     "inkable": false,
     "subtitle": "Spirit Oof Winter",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/elsa-spirit_oof_winter/small.png",
-      "no-art": "https://lorcana-api.com/images/elsa-spirit_oof_winter/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/elsa-spirit_oof_winter/art-crop.png",
-      "medium": "https://lorcana-api.com/images/elsa-spirit_oof_winter/medium.png",
-      "large": "https://lorcana-api.com/images/elsa-spirit_oof_winter/large.png"
+      "small": "https://lorcana-api.com/images/elsa/spirit_oof_winter/elsa-spirit_oof_winter-small.png",
+      "no-art": "https://lorcana-api.com/images/elsa/spirit_oof_winter/elsa-spirit_oof_winter-no-art.png",
+      "large": "https://lorcana-api.com/images/elsa/spirit_oof_winter/elsa-spirit_oof_winter-large.png",
+      "art-crop": "https://lorcana-api.com/images/elsa/spirit_oof_winter/elsa-spirit_oof_winter-art-crop.png",
+      "medium": "https://lorcana-api.com/images/elsa/spirit_oof_winter/elsa-spirit_oof_winter-medium.png"
     },
     "name": "Elsa",
     "ink-cost": 8,

@@ -1,11 +1,13 @@
 {
     "traits": ["Shift 4 (You many pay 4 * to play this card on top of one of your stich characters.)"],
     "set": "The First Chapter",
-    "color": "Amber",
-    "flavor_text": "The best part about a beachside concert is that there's always room for one more.",
-    "artist": "Simangaliso Sibaya",
     "lore-value": 3,
+    "color": "Amber",
+    "strength": 3,
+    "artist": "Simangaliso Sibaya",
+    "willpower": 5,
     "type": "character",
+    "flavor_text": "The best part about a beachside concert is that there's always room for one more.",
     "subtypes": [
       "Floodborn",
       "Hero",
@@ -16,14 +18,12 @@
     "inkable": true,
     "subtitle": "Rock Star",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/stitch/rock_star/small.png",
-      "no-art": "https://lorcana-api.com/images/stitch/rock_star/no-art.png",
-      "large": "https://lorcana-api.com/images/stitch/rock_star/large.png",
-      "art-crop": "https://lorcana-api.com/images/stitch/rock_star/art-crop.png",
-      "medium": "https://lorcana-api.com/images/stitch/rock_star/medium.png"
+      "small": "https://lorcana-api.com/images/stitch/rock_star/stitch-rock_star-small.png",
+      "no-art": "https://lorcana-api.com/images/stitch/rock_star/stitch-rock_star-no-art.png",
+      "large": "https://lorcana-api.com/images/stitch/rock_star/stitch-rock_star-large.png",
+      "art-crop": "https://lorcana-api.com/images/stitch/rock_star/stitch-rock_star-art-crop.png",
+      "medium": "https://lorcana-api.com/images/stitch/rock_star/stitch-rock_star-medium.png"
     }],
     "name": "Stitch",
-    "strength": 3,
-    "ink-cost": 6,
-    "willpower": 5
+    "ink-cost": 6
   }

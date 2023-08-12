@@ -16,11 +16,11 @@
     "inkable": true,
     "subtitle": "The Sea King",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/triton-the_sea_king/small.png",
-      "no-art": "https://lorcana-api.com/images/triton-the_sea_king/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/triton-the_sea_king/art-crop.png",
-      "medium": "https://lorcana-api.com/images/triton-the_sea_king/medium.png",
-      "large": "https://lorcana-api.com/images/triton-the_sea_king/large.png"
+      "small": "https://lorcana-api.com/images/triton/the_sea_king/triton-the_sea_king-small.png",
+      "no-art": "https://lorcana-api.com/images/triton/the_sea_king/triton-the_sea_king-no-art.png",
+      "large": "https://lorcana-api.com/images/triton/the_sea_king/triton-the_sea_king-large.png",
+      "art-crop": "https://lorcana-api.com/images/triton/the_sea_king/triton-the_sea_king-art-crop.png",
+      "medium": "https://lorcana-api.com/images/triton/the_sea_king/triton-the_sea_king-medium.png"
     },
     "name": "Triton",
     "ink-cost": 7,

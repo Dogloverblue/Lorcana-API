@@ -18,11 +18,11 @@
       "inkable": true,
       "subtitle": "Bumbler",
       "image-urls": [{
-        "small": "https://lorcana-api.com/images/lefou/bumbler/small.png",
-        "no-art": "https://lorcana-api.com/images/lefou/bumbler/no-art.png",
-        "large": "https://lorcana-api.com/images/lefou/bumbler/large.png",
-        "art-crop": "https://lorcana-api.com/images/lefou/bumbler/art-crop.png",
-        "medium": "https://lorcana-api.com/images/lefou/bumbler/medium.png"
+        "small": "https://lorcana-api.com/images/lefou/bumbler/lefou-bumbler-small.png",
+        "no-art": "https://lorcana-api.com/images/lefou/bumbler/lefou-bumbler-no-art.png",
+        "large": "https://lorcana-api.com/images/lefou/bumbler/lefou-bumbler-large.png",
+        "art-crop": "https://lorcana-api.com/images/lefou/bumbler/lefou-bumbler-art-crop.png",
+        "medium": "https://lorcana-api.com/images/lefou/bumbler/lefou-bumbler-medium.png"
       }],
       "name": "Lefou",
       "ink-cost": 2
@@ -45,11 +45,11 @@
       "inkable": true,
       "subtitle": "Instigator",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/lefou-instigator/small.png",
-        "no-art": "https://lorcana-api.com/images/lefou-instigator/no-art.png",
-        "art-crop": "https://lorcana-api.com/images/lefou-instigator/art-crop.png",
-        "medium": "https://lorcana-api.com/images/lefou-instigator/medium.png",
-        "large": "https://lorcana-api.com/images/lefou-instigator/large.png"
+        "small": "https://lorcana-api.com/images/lefou/instigator/lefou-instigator-small.png",
+        "no-art": "https://lorcana-api.com/images/lefou/instigator/lefou-instigator-no-art.png",
+        "large": "https://lorcana-api.com/images/lefou/instigator/lefou-instigator-large.png",
+        "art-crop": "https://lorcana-api.com/images/lefou/instigator/lefou-instigator-art-crop.png",
+        "medium": "https://lorcana-api.com/images/lefou/instigator/lefou-instigator-medium.png"
       },
       "name": "Lefou",
       "ink-cost": 2,

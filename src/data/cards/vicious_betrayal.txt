@@ -8,11 +8,11 @@
     "inkable": true,
     "effect": "Chosen character gets +2 {strength} this turn. If a villain character is chosen, they get +3 {strength} insead.",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/vicious_betrayal/small.png",
-      "no-art": "https://lorcana-api.com/images/vicious_betrayal/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/vicious_betrayal/art-crop.png",
-      "medium": "https://lorcana-api.com/images/vicious_betrayal/medium.png",
-      "large": "https://lorcana-api.com/images/vicious_betrayal/large.png"
+      "small": "https://lorcana-api.com/images/vicious_betrayal/vicious_betrayal-small.png",
+      "no-art": "https://lorcana-api.com/images/vicious_betrayal/vicious_betrayal-no-art.png",
+      "large": "https://lorcana-api.com/images/vicious_betrayal/vicious_betrayal-large.png",
+      "art-crop": "https://lorcana-api.com/images/vicious_betrayal/vicious_betrayal-art-crop.png",
+      "medium": "https://lorcana-api.com/images/vicious_betrayal/vicious_betrayal-medium.png"
     },
     "name": "Vicious Betrayal",
     "ink-cost": 1,

@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "Charming Rogue",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/flynn_rider-charming_rogue/small.png",
-      "no-art": "https://lorcana-api.com/images/flynn_rider-charming_rogue/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/flynn_rider-charming_rogue/art-crop.png",
-      "medium": "https://lorcana-api.com/images/flynn_rider-charming_rogue/medium.png",
-      "large": "https://lorcana-api.com/images/flynn_rider-charming_rogue/large.png"
+      "small": "https://lorcana-api.com/images/flynn_rider/charming_rogue/flynn_rider-charming_rogue-small.png",
+      "no-art": "https://lorcana-api.com/images/flynn_rider/charming_rogue/flynn_rider-charming_rogue-no-art.png",
+      "large": "https://lorcana-api.com/images/flynn_rider/charming_rogue/flynn_rider-charming_rogue-large.png",
+      "art-crop": "https://lorcana-api.com/images/flynn_rider/charming_rogue/flynn_rider-charming_rogue-art-crop.png",
+      "medium": "https://lorcana-api.com/images/flynn_rider/charming_rogue/flynn_rider-charming_rogue-medium.png"
     },
     "name": "Flynn Rider",
     "ink-cost": 2,

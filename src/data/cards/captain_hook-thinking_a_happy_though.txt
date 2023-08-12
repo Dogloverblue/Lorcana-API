@@ -21,11 +21,11 @@
     "inkable": false,
     "subtitle": "Thinking a Happy Though",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/captain_hook-thinking_a_happy_though/small.png",
-      "no-art": "https://lorcana-api.com/images/captain_hook-thinking_a_happy_though/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/captain_hook-thinking_a_happy_though/art-crop.png",
-      "medium": "https://lorcana-api.com/images/captain_hook-thinking_a_happy_though/medium.png",
-      "large": "https://lorcana-api.com/images/captain_hook-thinking_a_happy_though/large.png"
+      "small": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_though/captain_hook-thinking_a_happy_though-small.png",
+      "no-art": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_though/captain_hook-thinking_a_happy_though-no-art.png",
+      "large": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_though/captain_hook-thinking_a_happy_though-large.png",
+      "art-crop": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_though/captain_hook-thinking_a_happy_though-art-crop.png",
+      "medium": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_though/captain_hook-thinking_a_happy_though-medium.png"
     },
     "name": "Captain Hook",
     "ink-cost": 5,

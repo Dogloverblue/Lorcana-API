@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "Abomination",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/stitch-abomination/small.png",
-      "no-art": "https://lorcana-api.com/images/stitch-abomination/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/stitch-abomination/art-crop.png",
-      "medium": "https://lorcana-api.com/images/stitch-abomination/medium.png",
-      "large": "https://lorcana-api.com/images/stitch-abomination/large.png"
+      "small": "https://lorcana-api.com/images/stitch/abomination/stitch-abomination-small.png",
+      "no-art": "https://lorcana-api.com/images/stitch/abomination/stitch-abomination-no-art.png",
+      "large": "https://lorcana-api.com/images/stitch/abomination/stitch-abomination-large.png",
+      "art-crop": "https://lorcana-api.com/images/stitch/abomination/stitch-abomination-art-crop.png",
+      "medium": "https://lorcana-api.com/images/stitch/abomination/stitch-abomination-medium.png"
     },
     "name": "stitch",
     "ink-cost": 6,

@@ -1,58 +1,60 @@
-{"galactic_hero": {
-    "lore-value": 2,
-    "traits": [],
-    "set": "The First Chapter",
-    "color": "Steel",
-    "strength": 4,
-    "artist": "Jared Nickerl",
-    "willpower": 2,
-    "type": "Character",
-    "subtypes": [
-      "Dreamborn",
-      "Hero"
-    ],
-    "set-code": "TFC",
-    "abilities": {},
-    "inkable": true,
-    "subtitle": "Galactic Hero",
-    "image-urls": {
-      "small": "https://lorcana-api.com/images/lilo-galactic_hero/small.png",
-      "no-art": "https://lorcana-api.com/images/lilo-galactic_hero/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/lilo-galactic_hero/art-crop.png",
-      "medium": "https://lorcana-api.com/images/lilo-galactic_hero/medium.png",
-      "large": "https://lorcana-api.com/images/lilo-galactic_hero/large.png"
+{
+    "galactic_hero": {
+      "lore-value": 2,
+      "traits": [],
+      "set": "The First Chapter",
+      "color": "Steel",
+      "strength": 4,
+      "artist": "Jared Nickerl",
+      "willpower": 2,
+      "type": "Character",
+      "subtypes": [
+        "Dreamborn",
+        "Hero"
+      ],
+      "set-code": "TFC",
+      "abilities": {},
+      "inkable": true,
+      "subtitle": "Galactic Hero",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/lilo/galactic_hero/lilo-galactic_hero-small.png",
+        "no-art": "https://lorcana-api.com/images/lilo/galactic_hero/lilo-galactic_hero-no-art.png",
+        "large": "https://lorcana-api.com/images/lilo/galactic_hero/lilo-galactic_hero-large.png",
+        "art-crop": "https://lorcana-api.com/images/lilo/galactic_hero/lilo-galactic_hero-art-crop.png",
+        "medium": "https://lorcana-api.com/images/lilo/galactic_hero/lilo-galactic_hero-medium.png"
+      },
+      "name": "Lilo",
+      "ink-cost": 3,
+      "flavor-text": "\"Space. That's where the aliens come from. And also tourists!\"",
+      "rarity": "Uncommon"
     },
-    "name": "Lilo",
-    "ink-cost": 3,
-    "flavor-text": "\"Space. That's where the aliens come from. And also tourists!\"",
-    "rarity": "Uncommon"
-  },
-"making_a_wish": {
-    "lore-value": 2,
-    "traits": [],
-    "set": "The First Chapter",
-    "color": "Amber",
-    "strength": 1,
-    "artist": "Dave Beauchene",
-    "willpower": 1,
-    "type": "Character",
-    "subtypes": [
-      "Storyborn",
-      "Hero"
-    ],
-    "set-code": "TFC",
-    "abilities": {},
-    "inkable": false,
-    "subtitle": "Making a Wish",
-    "image-urls": {
-      "small": "https://lorcana-api.com/images/lilo-making_a_wish/small.png",
-      "no-art": "https://lorcana-api.com/images/lilo-making_a_wish/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/lilo-making_a_wish/art-crop.png",
-      "medium": "https://lorcana-api.com/images/lilo-making_a_wish/medium.png",
-      "large": "https://lorcana-api.com/images/lilo-making_a_wish/large.png"
-    },
-    "name": "Lilo",
-    "ink-cost": 1,
-    "flavor-text": "A falling star... I have to make a wish!",
-    "rarity": "Rare"
-  }}
+    "making_a_wish": {
+      "lore-value": 2,
+      "traits": [],
+      "set": "The First Chapter",
+      "color": "Amber",
+      "strength": 1,
+      "artist": "Dave Beauchene",
+      "willpower": 1,
+      "type": "Character",
+      "subtypes": [
+        "Storyborn",
+        "Hero"
+      ],
+      "set-code": "TFC",
+      "abilities": {},
+      "inkable": false,
+      "subtitle": "Making a Wish",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/lilo/making_a_wish/lilo-making_a_wish-small.png",
+        "no-art": "https://lorcana-api.com/images/lilo/making_a_wish/lilo-making_a_wish-no-art.png",
+        "large": "https://lorcana-api.com/images/lilo/making_a_wish/lilo-making_a_wish-large.png",
+        "art-crop": "https://lorcana-api.com/images/lilo/making_a_wish/lilo-making_a_wish-art-crop.png",
+        "medium": "https://lorcana-api.com/images/lilo/making_a_wish/lilo-making_a_wish-medium.png"
+      },
+      "name": "Lilo",
+      "ink-cost": 1,
+      "flavor-text": "A falling star... I have to make a wish!",
+      "rarity": "Rare"
+    }
+  }

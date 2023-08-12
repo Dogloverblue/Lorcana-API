@@ -16,11 +16,11 @@
     "inkable": true,
     "subtitle": "The Ever Impressive",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/genie-the_ever_impressive/small.png",
-      "no-art": "https://lorcana-api.com/images/genie-the_ever_impressive/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/genie-the_ever_impressive/art-crop.png",
-      "medium": "https://lorcana-api.com/images/genie-the_ever_impressive/medium.png",
-      "large": "https://lorcana-api.com/images/genie-the_ever_impressive/large.png"
+      "small": "https://lorcana-api.com/images/genie/the_ever_impressive/genie-the_ever_impressive-small.png",
+      "no-art": "https://lorcana-api.com/images/genie/the_ever_impressive/genie-the_ever_impressive-no-art.png",
+      "large": "https://lorcana-api.com/images/genie/the_ever_impressive/genie-the_ever_impressive-large.png",
+      "art-crop": "https://lorcana-api.com/images/genie/the_ever_impressive/genie-the_ever_impressive-art-crop.png",
+      "medium": "https://lorcana-api.com/images/genie/the_ever_impressive/genie-the_ever_impressive-medium.png"
     },
     "name": "Genie",
     "ink-cost": 2,

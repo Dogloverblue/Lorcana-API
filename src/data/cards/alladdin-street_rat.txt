@@ -16,11 +16,11 @@
     "inkable": true,
     "subtitle": "Street Rat",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/alladdin-street_rat/small.png",
-      "no-art": "https://lorcana-api.com/images/alladdin-street_rat/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/alladdin-street_rat/art-crop.png",
-      "medium": "https://lorcana-api.com/images/alladdin-street_rat/medium.png",
-      "large": "https://lorcana-api.com/images/alladdin-street_rat/large.png"
+      "small": "https://lorcana-api.com/images/alladdin/street_rat/alladdin-street_rat-small.png",
+      "no-art": "https://lorcana-api.com/images/alladdin/street_rat/alladdin-street_rat-no-art.png",
+      "large": "https://lorcana-api.com/images/alladdin/street_rat/alladdin-street_rat-large.png",
+      "art-crop": "https://lorcana-api.com/images/alladdin/street_rat/alladdin-street_rat-art-crop.png",
+      "medium": "https://lorcana-api.com/images/alladdin/street_rat/alladdin-street_rat-medium.png"
     },
     "name": "Alladdin",
     "ink-cost": 3,

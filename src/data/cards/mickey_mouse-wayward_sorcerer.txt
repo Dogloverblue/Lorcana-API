@@ -19,11 +19,11 @@
     "inkable": true,
     "subtitle": "Wayward Sorcerer",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/small.png",
-      "no-art": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/art-crop.png",
-      "medium": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/medium.png",
-      "large": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/large.png"
+      "small": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/mickey_mouse-wayward_sorcerer-small.png",
+      "no-art": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/mickey_mouse-wayward_sorcerer-no-art.png",
+      "large": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/mickey_mouse-wayward_sorcerer-large.png",
+      "art-crop": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/mickey_mouse-wayward_sorcerer-art-crop.png",
+      "medium": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/mickey_mouse-wayward_sorcerer-medium.png"
     },
     "name": "Mickey Mouse",
     "ink-cost": 4,

@@ -16,11 +16,11 @@
     "inkable": true,
     "subtitle": "Fearless Fighter",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/peter_pan-fearless_fighter/small.png",
-      "no-art": "https://lorcana-api.com/images/peter_pan-fearless_fighter/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/peter_pan-fearless_fighter/art-crop.png",
-      "medium": "https://lorcana-api.com/images/peter_pan-fearless_fighter/medium.png",
-      "large": "https://lorcana-api.com/images/peter_pan-fearless_fighter/large.png"
+      "small": "https://lorcana-api.com/images/peter_pan/fearless_fighter/peter_pan-fearless_fighter-small.png",
+      "no-art": "https://lorcana-api.com/images/peter_pan/fearless_fighter/peter_pan-fearless_fighter-no-art.png",
+      "large": "https://lorcana-api.com/images/peter_pan/fearless_fighter/peter_pan-fearless_fighter-large.png",
+      "art-crop": "https://lorcana-api.com/images/peter_pan/fearless_fighter/peter_pan-fearless_fighter-art-crop.png",
+      "medium": "https://lorcana-api.com/images/peter_pan/fearless_fighter/peter_pan-fearless_fighter-medium.png"
     },
     "name": "Peter Pan",
     "ink-cost": 3,

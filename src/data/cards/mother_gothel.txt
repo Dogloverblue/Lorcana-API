@@ -16,11 +16,11 @@
     "inkable": true,
     "subtitle": "Selfish Manipulator",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/mother_gothel-selfish_manipulator/small.png",
-      "no-art": "https://lorcana-api.com/images/mother_gothel-selfish_manipulator/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/mother_gothel-selfish_manipulator/art-crop.png",
-      "medium": "https://lorcana-api.com/images/mother_gothel-selfish_manipulator/medium.png",
-      "large": "https://lorcana-api.com/images/mother_gothel-selfish_manipulator/large.png"
+      "small": "https://lorcana-api.com/images/mother_gothel/selfish_manipulator/mother_gothel-selfish_manipulator-small.png",
+      "no-art": "https://lorcana-api.com/images/mother_gothel/selfish_manipulator/mother_gothel-selfish_manipulator-no-art.png",
+      "large": "https://lorcana-api.com/images/mother_gothel/selfish_manipulator/mother_gothel-selfish_manipulator-large.png",
+      "art-crop": "https://lorcana-api.com/images/mother_gothel/selfish_manipulator/mother_gothel-selfish_manipulator-art-crop.png",
+      "medium": "https://lorcana-api.com/images/mother_gothel/selfish_manipulator/mother_gothel-selfish_manipulator-medium.png"
     },
     "name": "Mother Gothel",
     "ink-cost": 6,

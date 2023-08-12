@@ -20,11 +20,11 @@
     "inkable": true,
     "subtitle": "Hero to All",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/maui-hero_to_all/small.png",
-      "no-art": "https://lorcana-api.com/images/maui-hero_to_all/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/maui-hero_to_all/art-crop.png",
-      "medium": "https://lorcana-api.com/images/maui-hero_to_all/medium.png",
-      "large": "https://lorcana-api.com/images/maui-hero_to_all/large.png"
+      "small": "https://lorcana-api.com/images/maui/hero_to_all/maui-hero_to_all-small.png",
+      "no-art": "https://lorcana-api.com/images/maui/hero_to_all/maui-hero_to_all-no-art.png",
+      "large": "https://lorcana-api.com/images/maui/hero_to_all/maui-hero_to_all-large.png",
+      "art-crop": "https://lorcana-api.com/images/maui/hero_to_all/maui-hero_to_all-art-crop.png",
+      "medium": "https://lorcana-api.com/images/maui/hero_to_all/maui-hero_to_all-medium.png"
     },
     "name": "Maui",
     "ink-cost": 5,

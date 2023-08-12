@@ -16,11 +16,11 @@
     "inkable": true,
     "subtitle": "Ol' Rascal",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/pongo-ol'_rascal/small.png",
-      "no-art": "https://lorcana-api.com/images/pongo-ol'_rascal/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/pongo-ol'_rascal/art-crop.png",
-      "medium": "https://lorcana-api.com/images/pongo-ol'_rascal/medium.png",
-      "large": "https://lorcana-api.com/images/pongo-ol'_rascal/large.png"
+      "small": "https://lorcana-api.com/images/pongo/ol'_rascal/pongo-ol'_rascal-small.png",
+      "no-art": "https://lorcana-api.com/images/pongo/ol'_rascal/pongo-ol'_rascal-no-art.png",
+      "large": "https://lorcana-api.com/images/pongo/ol'_rascal/pongo-ol'_rascal-large.png",
+      "art-crop": "https://lorcana-api.com/images/pongo/ol'_rascal/pongo-ol'_rascal-art-crop.png",
+      "medium": "https://lorcana-api.com/images/pongo/ol'_rascal/pongo-ol'_rascal-medium.png"
     },
     "name": "Pongo",
     "ink-cost": 4,

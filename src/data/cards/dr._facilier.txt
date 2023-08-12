@@ -19,11 +19,11 @@
       "inkable": true,
       "subtitle": "Charlatan",
       "image-urls": [{
-        "small": "https://lorcana-api.com/images/dr._facilier/charlatan/small.png",
-        "no-art": "https://lorcana-api.com/images/dr._facilier/charlatan/no-art.png",
-        "large": "https://lorcana-api.com/images/dr._facilier/charlatan/large.png",
-        "art-crop": "https://lorcana-api.com/images/dr._facilier/charlatan/art-crop.png",
-        "medium": "https://lorcana-api.com/images/dr._facilier/charlatan/medium.png"
+        "small": "https://lorcana-api.com/images/dr._facilier/charlatan/dr._facilier-charlatan-small.png",
+        "no-art": "https://lorcana-api.com/images/dr._facilier/charlatan/dr._facilier-charlatan-no-art.png",
+        "large": "https://lorcana-api.com/images/dr._facilier/charlatan/dr._facilier-charlatan-large.png",
+        "art-crop": "https://lorcana-api.com/images/dr._facilier/charlatan/dr._facilier-charlatan-art-crop.png",
+        "medium": "https://lorcana-api.com/images/dr._facilier/charlatan/dr._facilier-charlatan-medium.png"
       }],
       "name": "Dr. Facilier",
       "ink-cost": 2
@@ -47,11 +47,11 @@
       "inkable": false,
       "subtitle": "Agent Provocateur",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/dr._facilier-agent_provocateur/small.png",
-        "no-art": "https://lorcana-api.com/images/dr._facilier-agent_provocateur/no-art.png",
-        "art-crop": "https://lorcana-api.com/images/dr._facilier-agent_provocateur/art-crop.png",
-        "medium": "https://lorcana-api.com/images/dr._facilier-agent_provocateur/medium.png",
-        "large": "https://lorcana-api.com/images/dr._facilier-agent_provocateur/large.png"
+        "small": "https://lorcana-api.com/images/dr._facilier/agent_provocateur/dr._facilier-agent_provocateur-small.png",
+        "no-art": "https://lorcana-api.com/images/dr._facilier/agent_provocateur/dr._facilier-agent_provocateur-no-art.png",
+        "large": "https://lorcana-api.com/images/dr._facilier/agent_provocateur/dr._facilier-agent_provocateur-large.png",
+        "art-crop": "https://lorcana-api.com/images/dr._facilier/agent_provocateur/dr._facilier-agent_provocateur-art-crop.png",
+        "medium": "https://lorcana-api.com/images/dr._facilier/agent_provocateur/dr._facilier-agent_provocateur-medium.png"
       },
       "name": "Dr. Facilier",
       "ink-cost": 7,
@@ -77,11 +77,11 @@
       "inkable": true,
       "subtitle": "Remarkable Genteman",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/dr._facilier-remarkable_genteman/small.png",
-        "no-art": "https://lorcana-api.com/images/dr._facilier-remarkable_genteman/no-art.png",
-        "large": "https://lorcana-api.com/images/dr._facilier-remarkable_genteman/large.png",
-        "art-crop": "https://lorcana-api.com/images/dr._facilier-remarkable_genteman/art-crop.png",
-        "medium": "https://lorcana-api.com/images/dr._facilier-remarkable_genteman/medium.png"
+        "small": "https://lorcana-api.com/images/dr._facilier/remarkable_genteman/dr._facilier-remarkable_genteman-small.png",
+        "no-art": "https://lorcana-api.com/images/dr._facilier/remarkable_genteman/dr._facilier-remarkable_genteman-no-art.png",
+        "large": "https://lorcana-api.com/images/dr._facilier/remarkable_genteman/dr._facilier-remarkable_genteman-large.png",
+        "art-crop": "https://lorcana-api.com/images/dr._facilier/remarkable_genteman/dr._facilier-remarkable_genteman-art-crop.png",
+        "medium": "https://lorcana-api.com/images/dr._facilier/remarkable_genteman/dr._facilier-remarkable_genteman-medium.png"
       },
       "name": "Dr. Facilier",
       "ink-cost": 3,

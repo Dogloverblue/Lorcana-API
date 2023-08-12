@@ -16,11 +16,11 @@
     "inkable": true,
     "subtitle": "Galactic Hero",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/lilo-galactic_hero/small.png",
-      "no-art": "https://lorcana-api.com/images/lilo-galactic_hero/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/lilo-galactic_hero/art-crop.png",
-      "medium": "https://lorcana-api.com/images/lilo-galactic_hero/medium.png",
-      "large": "https://lorcana-api.com/images/lilo-galactic_hero/large.png"
+      "small": "https://lorcana-api.com/images/lilo/galactic_hero/lilo-galactic_hero-small.png",
+      "no-art": "https://lorcana-api.com/images/lilo/galactic_hero/lilo-galactic_hero-no-art.png",
+      "large": "https://lorcana-api.com/images/lilo/galactic_hero/lilo-galactic_hero-large.png",
+      "art-crop": "https://lorcana-api.com/images/lilo/galactic_hero/lilo-galactic_hero-art-crop.png",
+      "medium": "https://lorcana-api.com/images/lilo/galactic_hero/lilo-galactic_hero-medium.png"
     },
     "name": "Lilo",
     "ink-cost": 3,

@@ -17,11 +17,11 @@
     "inkable": false,
     "subtitle": "Lord of the Underworld",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/hades/lord_of_the_underworld/small.png",
-      "no-art": "https://lorcana-api.com/images/hades/lord_of_the_underworld/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/hades/lord_of_the_underworld/art-crop.png",
-      "medium": "https://lorcana-api.com/images/hades/lord_of_the_underworld/medium.png",
-      "large": "https://lorcana-api.com/images/hades/lord_of_the_underworld/large.png"
+      "small": "https://lorcana-api.com/images/hades/lord_of_the_underworld/hades-lord_of_the_underworld-small.png",
+      "no-art": "https://lorcana-api.com/images/hades/lord_of_the_underworld/hades-lord_of_the_underworld-no-art.png",
+      "large": "https://lorcana-api.com/images/hades/lord_of_the_underworld/hades-lord_of_the_underworld-large.png",
+      "art-crop": "https://lorcana-api.com/images/hades/lord_of_the_underworld/hades-lord_of_the_underworld-art-crop.png",
+      "medium": "https://lorcana-api.com/images/hades/lord_of_the_underworld/hades-lord_of_the_underworld-medium.png"
     },
     "name": "Hades",
     "ink-cost": 4,

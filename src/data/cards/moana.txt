@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "Chosen by the Ocean",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/moana-chosen_by_the_ocean/small.png",
-      "no-art": "https://lorcana-api.com/images/moana-chosen_by_the_ocean/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/moana-chosen_by_the_ocean/art-crop.png",
-      "medium": "https://lorcana-api.com/images/moana-chosen_by_the_ocean/medium.png",
-      "large": "https://lorcana-api.com/images/moana-chosen_by_the_ocean/large.png"
+      "small": "https://lorcana-api.com/images/moana/chosen_by_the_ocean/moana-chosen_by_the_ocean-small.png",
+      "no-art": "https://lorcana-api.com/images/moana/chosen_by_the_ocean/moana-chosen_by_the_ocean-no-art.png",
+      "large": "https://lorcana-api.com/images/moana/chosen_by_the_ocean/moana-chosen_by_the_ocean-large.png",
+      "art-crop": "https://lorcana-api.com/images/moana/chosen_by_the_ocean/moana-chosen_by_the_ocean-art-crop.png",
+      "medium": "https://lorcana-api.com/images/moana/chosen_by_the_ocean/moana-chosen_by_the_ocean-medium.png"
     },
     "name": "Moana",
     "ink-cost": 5,

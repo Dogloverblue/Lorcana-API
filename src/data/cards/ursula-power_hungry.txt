@@ -17,11 +17,11 @@
     "inkable": false,
     "subtitle": "Power Hungry",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/ursula-power_hungry/small.png",
-      "no-art": "https://lorcana-api.com/images/ursula-power_hungry/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/ursula-power_hungry/art-crop.png",
-      "medium": "https://lorcana-api.com/images/ursula-power_hungry/medium.png",
-      "large": "https://lorcana-api.com/images/ursula-power_hungry/large.png"
+      "small": "https://lorcana-api.com/images/ursula/power_hungry/ursula-power_hungry-small.png",
+      "no-art": "https://lorcana-api.com/images/ursula/power_hungry/ursula-power_hungry-no-art.png",
+      "large": "https://lorcana-api.com/images/ursula/power_hungry/ursula-power_hungry-large.png",
+      "art-crop": "https://lorcana-api.com/images/ursula/power_hungry/ursula-power_hungry-art-crop.png",
+      "medium": "https://lorcana-api.com/images/ursula/power_hungry/ursula-power_hungry-medium.png"
     },
     "name": "Ursula",
     "ink-cost": 7,

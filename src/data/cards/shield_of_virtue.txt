@@ -8,11 +8,11 @@
     "inkable": true,
     "effect": "",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/shield_of_virtue/small.png",
-      "no-art": "https://lorcana-api.com/images/shield_of_virtue/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/shield_of_virtue/art-crop.png",
-      "medium": "https://lorcana-api.com/images/shield_of_virtue/medium.png",
-      "large": "https://lorcana-api.com/images/shield_of_virtue/large.png"
+      "small": "https://lorcana-api.com/images/shield_of_virtue/shield_of_virtue-small.png",
+      "no-art": "https://lorcana-api.com/images/shield_of_virtue/shield_of_virtue-no-art.png",
+      "large": "https://lorcana-api.com/images/shield_of_virtue/shield_of_virtue-large.png",
+      "art-crop": "https://lorcana-api.com/images/shield_of_virtue/shield_of_virtue-art-crop.png",
+      "medium": "https://lorcana-api.com/images/shield_of_virtue/shield_of_virtue-medium.png"
     },
     "name": "Shield Of Virtue",
     "ink-cost": 1,

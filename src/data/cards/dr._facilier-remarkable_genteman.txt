@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "Remarkable Genteman",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/dr._facilier-remarkable_genteman/small.png",
-      "no-art": "https://lorcana-api.com/images/dr._facilier-remarkable_genteman/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/dr._facilier-remarkable_genteman/art-crop.png",
-      "medium": "https://lorcana-api.com/images/dr._facilier-remarkable_genteman/medium.png",
-      "large": "https://lorcana-api.com/images/dr._facilier-remarkable_genteman/large.png"
+      "small": "https://lorcana-api.com/images/dr._facilier/remarkable_genteman/dr._facilier-remarkable_genteman-small.png",
+      "no-art": "https://lorcana-api.com/images/dr._facilier/remarkable_genteman/dr._facilier-remarkable_genteman-no-art.png",
+      "large": "https://lorcana-api.com/images/dr._facilier/remarkable_genteman/dr._facilier-remarkable_genteman-large.png",
+      "art-crop": "https://lorcana-api.com/images/dr._facilier/remarkable_genteman/dr._facilier-remarkable_genteman-art-crop.png",
+      "medium": "https://lorcana-api.com/images/dr._facilier/remarkable_genteman/dr._facilier-remarkable_genteman-medium.png"
     },
     "name": "Dr. Facilier",
     "ink-cost": 3,

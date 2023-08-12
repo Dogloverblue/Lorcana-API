@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "King of the Pride Lands",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/mufasa-king_of_the_pride_lands/small.png",
-      "no-art": "https://lorcana-api.com/images/mufasa-king_of_the_pride_lands/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/mufasa-king_of_the_pride_lands/art-crop.png",
-      "medium": "https://lorcana-api.com/images/mufasa-king_of_the_pride_lands/medium.png",
-      "large": "https://lorcana-api.com/images/mufasa-king_of_the_pride_lands/large.png"
+      "small": "https://lorcana-api.com/images/mufasa/king_of_the_pride_lands/mufasa-king_of_the_pride_lands-small.png",
+      "no-art": "https://lorcana-api.com/images/mufasa/king_of_the_pride_lands/mufasa-king_of_the_pride_lands-no-art.png",
+      "large": "https://lorcana-api.com/images/mufasa/king_of_the_pride_lands/mufasa-king_of_the_pride_lands-large.png",
+      "art-crop": "https://lorcana-api.com/images/mufasa/king_of_the_pride_lands/mufasa-king_of_the_pride_lands-art-crop.png",
+      "medium": "https://lorcana-api.com/images/mufasa/king_of_the_pride_lands/mufasa-king_of_the_pride_lands-medium.png"
     },
     "name": "Mufasa",
     "ink-cost": 6,

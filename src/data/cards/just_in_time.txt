@@ -1,19 +1,19 @@
 {
     "set": "The First Chapter",
     "color": "Amber",
-    "flavor_text": "The best heroes always arrive at the perfect moment-whether they know it or not.",
     "inkable": true,
     "artist": "Leonardo Giammichele",
     "effect": "You may play a character with cost 5 or less for free.",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/just_in_time/small.png",
-      "no-art": "https://lorcana-api.com/images/just_in_time/no-art.png",
-      "large": "https://lorcana-api.com/images/just_in_time/large.png",
-      "art-crop": "https://lorcana-api.com/images/just_in_time/art-crop.png",
-      "medium": "https://lorcana-api.com/images/just_in_time/medium.png"
+      "small": "https://lorcana-api.com/images/just_in_time/just_in_time-small.png",
+      "no-art": "https://lorcana-api.com/images/just_in_time/just_in_time-no-art.png",
+      "large": "https://lorcana-api.com/images/just_in_time/just_in_time-large.png",
+      "art-crop": "https://lorcana-api.com/images/just_in_time/just_in_time-art-crop.png",
+      "medium": "https://lorcana-api.com/images/just_in_time/just_in_time-medium.png"
     }],
     "name": "Just In Time",
     "ink-cost": 3,
     "type": "Action",
+    "flavor_text": "The best heroes always arrive at the perfect moment-whether they know it or not.",
     "set-code": "TFC"
   }

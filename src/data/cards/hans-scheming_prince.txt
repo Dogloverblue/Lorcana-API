@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "Scheming Prince",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/hans-scheming_prince/small.png",
-      "no-art": "https://lorcana-api.com/images/hans-scheming_prince/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/hans-scheming_prince/art-crop.png",
-      "medium": "https://lorcana-api.com/images/hans-scheming_prince/medium.png",
-      "large": "https://lorcana-api.com/images/hans-scheming_prince/large.png"
+      "small": "https://lorcana-api.com/images/hans/scheming_prince/hans-scheming_prince-small.png",
+      "no-art": "https://lorcana-api.com/images/hans/scheming_prince/hans-scheming_prince-no-art.png",
+      "large": "https://lorcana-api.com/images/hans/scheming_prince/hans-scheming_prince-large.png",
+      "art-crop": "https://lorcana-api.com/images/hans/scheming_prince/hans-scheming_prince-art-crop.png",
+      "medium": "https://lorcana-api.com/images/hans/scheming_prince/hans-scheming_prince-medium.png"
     },
     "name": "Hans",
     "ink-cost": 4,

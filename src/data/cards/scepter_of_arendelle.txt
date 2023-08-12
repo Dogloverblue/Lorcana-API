@@ -8,11 +8,11 @@
     "inkable": true,
     "effect": "",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/scepter_of_arendelle/small.png",
-      "no-art": "https://lorcana-api.com/images/scepter_of_arendelle/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/scepter_of_arendelle/art-crop.png",
-      "medium": "https://lorcana-api.com/images/scepter_of_arendelle/medium.png",
-      "large": "https://lorcana-api.com/images/scepter_of_arendelle/large.png"
+      "small": "https://lorcana-api.com/images/scepter_of_arendelle/scepter_of_arendelle-small.png",
+      "no-art": "https://lorcana-api.com/images/scepter_of_arendelle/scepter_of_arendelle-no-art.png",
+      "large": "https://lorcana-api.com/images/scepter_of_arendelle/scepter_of_arendelle-large.png",
+      "art-crop": "https://lorcana-api.com/images/scepter_of_arendelle/scepter_of_arendelle-art-crop.png",
+      "medium": "https://lorcana-api.com/images/scepter_of_arendelle/scepter_of_arendelle-medium.png"
     },
     "name": "Scepter Of Arendelle",
     "ink-cost": 1,

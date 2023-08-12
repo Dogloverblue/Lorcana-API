@@ -1,11 +1,13 @@
 {
     "traits": null,
     "set": "The First Chapter",
-    "color": "Amethyst",
-    "flavor_text": "In the immense story-forge known as the Great Illuminary, there is always work to be done.",
-    "artist": "Dav Augereau / Guykua Ruwa",
     "lore-value": 1,
+    "color": "Amethyst",
+    "strength": 2,
+    "artist": "Dav Augereau / Guykua Ruwa",
+    "willpower": 2,
     "type": "Character",
+    "flavor_text": "In the immense story-forge known as the Great Illuminary, there is always work to be done.",
     "subtypes": [
       "Dreamborn",
       "Broom"
@@ -15,14 +17,12 @@
     "inkable": true,
     "subtitle": "Bucket Brigade",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/magic_broom/bucket_brigade/small.png",
-      "no-art": "https://lorcana-api.com/images/magic_broom/bucket_brigade/no-art.png",
-      "large": "https://lorcana-api.com/images/magic_broom/bucket_brigade/large.png",
-      "art-crop": "https://lorcana-api.com/images/magic_broom/bucket_brigade/art-crop.png",
-      "medium": "https://lorcana-api.com/images/magic_broom/bucket_brigade/medium.png"
+      "small": "https://lorcana-api.com/images/magic_broom/bucket_brigade/magic_broom-bucket_brigade-small.png",
+      "no-art": "https://lorcana-api.com/images/magic_broom/bucket_brigade/magic_broom-bucket_brigade-no-art.png",
+      "large": "https://lorcana-api.com/images/magic_broom/bucket_brigade/magic_broom-bucket_brigade-large.png",
+      "art-crop": "https://lorcana-api.com/images/magic_broom/bucket_brigade/magic_broom-bucket_brigade-art-crop.png",
+      "medium": "https://lorcana-api.com/images/magic_broom/bucket_brigade/magic_broom-bucket_brigade-medium.png"
     }],
     "name": "Magic Broom",
-    "strength": 2,
-    "ink-cost": 2,
-    "willpower": 2
+    "ink-cost": 2
   }

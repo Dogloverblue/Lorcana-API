@@ -17,11 +17,11 @@
     "inkable": false,
     "subtitle": "Dragonslayer",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/prince_phillip-dragonslayer/small.png",
-      "no-art": "https://lorcana-api.com/images/prince_phillip-dragonslayer/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/prince_phillip-dragonslayer/art-crop.png",
-      "medium": "https://lorcana-api.com/images/prince_phillip-dragonslayer/medium.png",
-      "large": "https://lorcana-api.com/images/prince_phillip-dragonslayer/large.png"
+      "small": "https://lorcana-api.com/images/prince_phillip/dragonslayer/prince_phillip-dragonslayer-small.png",
+      "no-art": "https://lorcana-api.com/images/prince_phillip/dragonslayer/prince_phillip-dragonslayer-no-art.png",
+      "large": "https://lorcana-api.com/images/prince_phillip/dragonslayer/prince_phillip-dragonslayer-large.png",
+      "art-crop": "https://lorcana-api.com/images/prince_phillip/dragonslayer/prince_phillip-dragonslayer-art-crop.png",
+      "medium": "https://lorcana-api.com/images/prince_phillip/dragonslayer/prince_phillip-dragonslayer-medium.png"
     },
     "name": "Prince Phillip",
     "ink-cost": 4,

@@ -8,11 +8,11 @@
     "inkable": true,
     "effect": "",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/fishbone_quill/small.png",
-      "no-art": "https://lorcana-api.com/images/fishbone_quill/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/fishbone_quill/art-crop.png",
-      "medium": "https://lorcana-api.com/images/fishbone_quill/medium.png",
-      "large": "https://lorcana-api.com/images/fishbone_quill/large.png"
+      "small": "https://lorcana-api.com/images/fishbone_quill/fishbone_quill-small.png",
+      "no-art": "https://lorcana-api.com/images/fishbone_quill/fishbone_quill-no-art.png",
+      "large": "https://lorcana-api.com/images/fishbone_quill/fishbone_quill-large.png",
+      "art-crop": "https://lorcana-api.com/images/fishbone_quill/fishbone_quill-art-crop.png",
+      "medium": "https://lorcana-api.com/images/fishbone_quill/fishbone_quill-medium.png"
     },
     "name": "Fishbone Quill",
     "ink-cost": 3,

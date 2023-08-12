@@ -8,11 +8,11 @@
     "inkable": false,
     "effect": "",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/dr._facilier's_cards/small.png",
-      "no-art": "https://lorcana-api.com/images/dr._facilier's_cards/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/dr._facilier's_cards/art-crop.png",
-      "medium": "https://lorcana-api.com/images/dr._facilier's_cards/medium.png",
-      "large": "https://lorcana-api.com/images/dr._facilier's_cards/large.png"
+      "small": "https://lorcana-api.com/images/dr._facilier's_cards/dr._facilier's_cards-small.png",
+      "no-art": "https://lorcana-api.com/images/dr._facilier's_cards/dr._facilier's_cards-no-art.png",
+      "large": "https://lorcana-api.com/images/dr._facilier's_cards/dr._facilier's_cards-large.png",
+      "art-crop": "https://lorcana-api.com/images/dr._facilier's_cards/dr._facilier's_cards-art-crop.png",
+      "medium": "https://lorcana-api.com/images/dr._facilier's_cards/dr._facilier's_cards-medium.png"
     },
     "name": "Dr. Facilier's Cards",
     "ink-cost": 2,

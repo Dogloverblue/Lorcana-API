@@ -8,11 +8,11 @@
     "inkable": false,
     "effect": "Return an action card from your discard to your hand.",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/do_it_again!/small.png",
-      "no-art": "https://lorcana-api.com/images/do_it_again!/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/do_it_again!/art-crop.png",
-      "medium": "https://lorcana-api.com/images/do_it_again!/medium.png",
-      "large": "https://lorcana-api.com/images/do_it_again!/large.png"
+      "small": "https://lorcana-api.com/images/do_it_again!/do_it_again!-small.png",
+      "no-art": "https://lorcana-api.com/images/do_it_again!/do_it_again!-no-art.png",
+      "large": "https://lorcana-api.com/images/do_it_again!/do_it_again!-large.png",
+      "art-crop": "https://lorcana-api.com/images/do_it_again!/do_it_again!-art-crop.png",
+      "medium": "https://lorcana-api.com/images/do_it_again!/do_it_again!-medium.png"
     },
     "name": "Do It Again!",
     "ink-cost": 3,

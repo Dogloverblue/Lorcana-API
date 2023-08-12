@@ -16,11 +16,11 @@
     "inkable": false,
     "subtitle": "Temperamental Emperor",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/kuzco-temperamental_emperor/small.png",
-      "no-art": "https://lorcana-api.com/images/kuzco-temperamental_emperor/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/kuzco-temperamental_emperor/art-crop.png",
-      "medium": "https://lorcana-api.com/images/kuzco-temperamental_emperor/medium.png",
-      "large": "https://lorcana-api.com/images/kuzco-temperamental_emperor/large.png"
+      "small": "https://lorcana-api.com/images/kuzco/temperamental_emperor/kuzco-temperamental_emperor-small.png",
+      "no-art": "https://lorcana-api.com/images/kuzco/temperamental_emperor/kuzco-temperamental_emperor-no-art.png",
+      "large": "https://lorcana-api.com/images/kuzco/temperamental_emperor/kuzco-temperamental_emperor-large.png",
+      "art-crop": "https://lorcana-api.com/images/kuzco/temperamental_emperor/kuzco-temperamental_emperor-art-crop.png",
+      "medium": "https://lorcana-api.com/images/kuzco/temperamental_emperor/kuzco-temperamental_emperor-medium.png"
     },
     "name": "Kuzco",
     "ink-cost": 5,

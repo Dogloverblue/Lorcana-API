@@ -8,11 +8,11 @@
     "inkable": true,
     "effect": "",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/magic_golden_flower/small.png",
-      "no-art": "https://lorcana-api.com/images/magic_golden_flower/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/magic_golden_flower/art-crop.png",
-      "medium": "https://lorcana-api.com/images/magic_golden_flower/medium.png",
-      "large": "https://lorcana-api.com/images/magic_golden_flower/large.png"
+      "small": "https://lorcana-api.com/images/magic_golden_flower/magic_golden_flower-small.png",
+      "no-art": "https://lorcana-api.com/images/magic_golden_flower/magic_golden_flower-no-art.png",
+      "large": "https://lorcana-api.com/images/magic_golden_flower/magic_golden_flower-large.png",
+      "art-crop": "https://lorcana-api.com/images/magic_golden_flower/magic_golden_flower-art-crop.png",
+      "medium": "https://lorcana-api.com/images/magic_golden_flower/magic_golden_flower-medium.png"
     },
     "name": "Magic Golden Flower",
     "ink-cost": 1,

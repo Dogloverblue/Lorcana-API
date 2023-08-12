@@ -13,11 +13,11 @@
     "inkable": false,
     "subtitle": "jimmy-the-finger",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/helllotest-jimmy-the-finger/small.png",
-      "no-art": "https://lorcana-api.com/images/helllotest-jimmy-the-finger/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/helllotest-jimmy-the-finger/art-crop.png",
-      "medium": "https://lorcana-api.com/images/helllotest-jimmy-the-finger/medium.png",
-      "large": "https://lorcana-api.com/images/helllotest-jimmy-the-finger/large.png"
+      "small": "https://lorcana-api.com/images/helllotest/jimmy-the-finger/helllotest-jimmy-the-finger-small.png",
+      "no-art": "https://lorcana-api.com/images/helllotest/jimmy-the-finger/helllotest-jimmy-the-finger-no-art.png",
+      "large": "https://lorcana-api.com/images/helllotest/jimmy-the-finger/helllotest-jimmy-the-finger-large.png",
+      "art-crop": "https://lorcana-api.com/images/helllotest/jimmy-the-finger/helllotest-jimmy-the-finger-art-crop.png",
+      "medium": "https://lorcana-api.com/images/helllotest/jimmy-the-finger/helllotest-jimmy-the-finger-medium.png"
     },
     "name": "helllotest",
     "ink-cost": 0,

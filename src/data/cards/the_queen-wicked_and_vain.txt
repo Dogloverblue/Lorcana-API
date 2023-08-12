@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "Wicked and Vain",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/the_queen-wicked_and_vain/small.png",
-      "no-art": "https://lorcana-api.com/images/the_queen-wicked_and_vain/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/the_queen-wicked_and_vain/art-crop.png",
-      "medium": "https://lorcana-api.com/images/the_queen-wicked_and_vain/medium.png",
-      "large": "https://lorcana-api.com/images/the_queen-wicked_and_vain/large.png"
+      "small": "https://lorcana-api.com/images/the_queen/wicked_and_vain/the_queen-wicked_and_vain-small.png",
+      "no-art": "https://lorcana-api.com/images/the_queen/wicked_and_vain/the_queen-wicked_and_vain-no-art.png",
+      "large": "https://lorcana-api.com/images/the_queen/wicked_and_vain/the_queen-wicked_and_vain-large.png",
+      "art-crop": "https://lorcana-api.com/images/the_queen/wicked_and_vain/the_queen-wicked_and_vain-art-crop.png",
+      "medium": "https://lorcana-api.com/images/the_queen/wicked_and_vain/the_queen-wicked_and_vain-medium.png"
     },
     "name": "The Queen",
     "ink-cost": 5,

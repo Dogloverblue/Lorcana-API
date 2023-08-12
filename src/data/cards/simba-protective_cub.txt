@@ -17,11 +17,11 @@
     "inkable": true,
     "subtitle": "Protective Cub",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/simba-protective_cub/small.png",
-      "no-art": "https://lorcana-api.com/images/simba-protective_cub/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/simba-protective_cub/art-crop.png",
-      "medium": "https://lorcana-api.com/images/simba-protective_cub/medium.png",
-      "large": "https://lorcana-api.com/images/simba-protective_cub/large.png"
+      "small": "https://lorcana-api.com/images/simba/protective_cub/simba-protective_cub-small.png",
+      "no-art": "https://lorcana-api.com/images/simba/protective_cub/simba-protective_cub-no-art.png",
+      "large": "https://lorcana-api.com/images/simba/protective_cub/simba-protective_cub-large.png",
+      "art-crop": "https://lorcana-api.com/images/simba/protective_cub/simba-protective_cub-art-crop.png",
+      "medium": "https://lorcana-api.com/images/simba/protective_cub/simba-protective_cub-medium.png"
     },
     "name": "Simba",
     "ink-cost": 2,

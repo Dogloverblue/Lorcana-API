@@ -13,11 +13,11 @@
     "inkable": true,
     "subtitle": "Drab Little Crab",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/tamatoa-drab_little_crab/small.png",
-      "no-art": "https://lorcana-api.com/images/tamatoa-drab_little_crab/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/tamatoa-drab_little_crab/art-crop.png",
-      "medium": "https://lorcana-api.com/images/tamatoa-drab_little_crab/medium.png",
-      "large": "https://lorcana-api.com/images/tamatoa-drab_little_crab/large.png"
+      "small": "https://lorcana-api.com/images/tamatoa/drab_little_crab/tamatoa-drab_little_crab-small.png",
+      "no-art": "https://lorcana-api.com/images/tamatoa/drab_little_crab/tamatoa-drab_little_crab-no-art.png",
+      "large": "https://lorcana-api.com/images/tamatoa/drab_little_crab/tamatoa-drab_little_crab-large.png",
+      "art-crop": "https://lorcana-api.com/images/tamatoa/drab_little_crab/tamatoa-drab_little_crab-art-crop.png",
+      "medium": "https://lorcana-api.com/images/tamatoa/drab_little_crab/tamatoa-drab_little_crab-medium.png"
     },
     "name": "Tamatoa",
     "ink-cost": 2,

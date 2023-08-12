@@ -17,11 +17,11 @@
     "inkable": false,
     "subtitle": "Rightful Heir",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/simba-rightful_heir/small.png",
-      "no-art": "https://lorcana-api.com/images/simba-rightful_heir/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/simba-rightful_heir/art-crop.png",
-      "medium": "https://lorcana-api.com/images/simba-rightful_heir/medium.png",
-      "large": "https://lorcana-api.com/images/simba-rightful_heir/large.png"
+      "small": "https://lorcana-api.com/images/simba/rightful_heir/simba-rightful_heir-small.png",
+      "no-art": "https://lorcana-api.com/images/simba/rightful_heir/simba-rightful_heir-no-art.png",
+      "large": "https://lorcana-api.com/images/simba/rightful_heir/simba-rightful_heir-large.png",
+      "art-crop": "https://lorcana-api.com/images/simba/rightful_heir/simba-rightful_heir-art-crop.png",
+      "medium": "https://lorcana-api.com/images/simba/rightful_heir/simba-rightful_heir-medium.png"
     },
     "name": "Simba",
     "ink-cost": 5,

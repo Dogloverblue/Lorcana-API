@@ -8,11 +8,11 @@
     "inkable": false,
     "effect": "Deal 2 damage to chosen damaged character.",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/stampede/small.png",
-      "no-art": "https://lorcana-api.com/images/stampede/no-art.png",
-      "art-crop": "https://lorcana-api.com/images/stampede/art-crop.png",
-      "medium": "https://lorcana-api.com/images/stampede/medium.png",
-      "large": "https://lorcana-api.com/images/stampede/large.png"
+      "small": "https://lorcana-api.com/images/stampede/stampede-small.png",
+      "no-art": "https://lorcana-api.com/images/stampede/stampede-no-art.png",
+      "large": "https://lorcana-api.com/images/stampede/stampede-large.png",
+      "art-crop": "https://lorcana-api.com/images/stampede/stampede-art-crop.png",
+      "medium": "https://lorcana-api.com/images/stampede/stampede-medium.png"
     },
     "name": "Stampede",
     "ink-cost": 1,

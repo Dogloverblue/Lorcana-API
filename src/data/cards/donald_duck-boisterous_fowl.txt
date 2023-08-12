@@ -1,25 +1,25 @@
 {
     "traits": null,
     "set": "The First Chapter",
-    "color": "Ruby",
-    "flavor_text": "\\\"Who you callin' boisterous, buster?\\\"",
-    "artist": "Kenneth Anderson",
     "lore-value": 1,
+    "color": "Ruby",
+    "strength": 2,
+    "artist": "Kenneth Anderson",
+    "willpower": 3,
     "type": "Character",
+    "flavor_text": "\\\"Who you callin' boisterous, buster?\\\"",
     "subtypes": ["Storyborn"],
     "set-code": "TFC",
     "abilities": null,
     "inkable": true,
     "subtitle": "Boisterous Fowl",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/small.png",
-      "no-art": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/no-art.png",
-      "large": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/large.png",
-      "art-crop": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/art-crop.png",
-      "medium": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/medium.png"
+      "small": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/donald_duck-boisterous_fowl-small.png",
+      "no-art": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/donald_duck-boisterous_fowl-no-art.png",
+      "large": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/donald_duck-boisterous_fowl-large.png",
+      "art-crop": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/donald_duck-boisterous_fowl-art-crop.png",
+      "medium": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/donald_duck-boisterous_fowl-medium.png"
     }],
     "name": "Donald Duck",
-    "strength": 2,
-    "ink-cost": 2,
-    "willpower": 3
+    "ink-cost": 2
   }

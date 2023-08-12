@@ -22,11 +22,11 @@
       "inkable": false,
       "subtitle": "Thinking a Happy Though",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/captain_hook-thinking_a_happy_though/small.png",
-        "no-art": "https://lorcana-api.com/images/captain_hook-thinking_a_happy_though/no-art.png",
-        "art-crop": "https://lorcana-api.com/images/captain_hook-thinking_a_happy_though/art-crop.png",
-        "medium": "https://lorcana-api.com/images/captain_hook-thinking_a_happy_though/medium.png",
-        "large": "https://lorcana-api.com/images/captain_hook-thinking_a_happy_though/large.png"
+        "small": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_though/captain_hook-thinking_a_happy_though-small.png",
+        "no-art": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_though/captain_hook-thinking_a_happy_though-no-art.png",
+        "large": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_though/captain_hook-thinking_a_happy_though-large.png",
+        "art-crop": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_though/captain_hook-thinking_a_happy_though-art-crop.png",
+        "medium": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_though/captain_hook-thinking_a_happy_though-medium.png"
       },
       "name": "Captain Hook",
       "ink-cost": 5,
@@ -53,11 +53,11 @@
       "inkable": false,
       "subtitle": "Captain of the Jolly Roger",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/captain_hook/captain_of_the_jolly_roger/small.png",
-        "no-art": "https://lorcana-api.com/images/captain_hook/captain_of_the_jolly_roger/no-art.png",
-        "large": "https://lorcana-api.com/images/captain_hook/captain_of_the_jolly_roger/large.png",
-        "art-crop": "https://lorcana-api.com/images/captain_hook/captain_of_the_jolly_roger/art-crop.png",
-        "medium": "https://lorcana-api.com/images/captain_hook/captain_of_the_jolly_roger/medium.png"
+        "small": "https://lorcana-api.com/images/captain_hook/captain_of_the_jolly_roger/captain_hook-captain_of_the_jolly_roger-small.png",
+        "no-art": "https://lorcana-api.com/images/captain_hook/captain_of_the_jolly_roger/captain_hook-captain_of_the_jolly_roger-no-art.png",
+        "large": "https://lorcana-api.com/images/captain_hook/captain_of_the_jolly_roger/captain_hook-captain_of_the_jolly_roger-large.png",
+        "art-crop": "https://lorcana-api.com/images/captain_hook/captain_of_the_jolly_roger/captain_hook-captain_of_the_jolly_roger-art-crop.png",
+        "medium": "https://lorcana-api.com/images/captain_hook/captain_of_the_jolly_roger/captain_hook-captain_of_the_jolly_roger-medium.png"
       },
       "name": "Captain Hook",
       "ink-cost": 4,
@@ -85,11 +85,11 @@
       "inkable": true,
       "subtitle": "Forceful Duelist",
       "image-urls": [{
-        "small": "https://lorcana-api.com/images/captain_hook/forceful_duelist/small.png",
-        "no-art": "https://lorcana-api.com/images/captain_hook/forceful_duelist/no-art.png",
-        "large": "https://lorcana-api.com/images/captain_hook/forceful_duelist/large.png",
-        "art-crop": "https://lorcana-api.com/images/captain_hook/forceful_duelist/art-crop.png",
-        "medium": "https://lorcana-api.com/images/captain_hook/forceful_duelist/medium.png"
+        "small": "https://lorcana-api.com/images/captain_hook/forceful_duelist/captain_hook-forceful_duelist-small.png",
+        "no-art": "https://lorcana-api.com/images/captain_hook/forceful_duelist/captain_hook-forceful_duelist-no-art.png",
+        "large": "https://lorcana-api.com/images/captain_hook/forceful_duelist/captain_hook-forceful_duelist-large.png",
+        "art-crop": "https://lorcana-api.com/images/captain_hook/forceful_duelist/captain_hook-forceful_duelist-art-crop.png",
+        "medium": "https://lorcana-api.com/images/captain_hook/forceful_duelist/captain_hook-forceful_duelist-medium.png"
       }],
       "name": "Captain Hook",
       "ink-cost": 1
@@ -114,11 +114,11 @@
       "inkable": false,
       "subtitle": "Ruthless Pirate",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/captain_hook-ruthless_pirate/small.png",
-        "no-art": "https://lorcana-api.com/images/captain_hook-ruthless_pirate/no-art.png",
-        "large": "https://lorcana-api.com/images/captain_hook-ruthless_pirate/large.png",
-        "art-crop": "https://lorcana-api.com/images/captain_hook-ruthless_pirate/art-crop.png",
-        "medium": "https://lorcana-api.com/images/captain_hook-ruthless_pirate/medium.png"
+        "small": "https://lorcana-api.com/images/captain_hook/ruthless_pirate/captain_hook-ruthless_pirate-small.png",
+        "no-art": "https://lorcana-api.com/images/captain_hook/ruthless_pirate/captain_hook-ruthless_pirate-no-art.png",
+        "large": "https://lorcana-api.com/images/captain_hook/ruthless_pirate/captain_hook-ruthless_pirate-large.png",
+        "art-crop": "https://lorcana-api.com/images/captain_hook/ruthless_pirate/captain_hook-ruthless_pirate-art-crop.png",
+        "medium": "https://lorcana-api.com/images/captain_hook/ruthless_pirate/captain_hook-ruthless_pirate-medium.png"
       },
       "name": "Captain Hook",
       "ink-cost": 7,

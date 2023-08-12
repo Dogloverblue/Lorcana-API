@@ -1,11 +1,13 @@
 {
     "traits": ["Evasive (Only characters with Evasive can challenge this characer.)"],
     "set": "The First Chapter",
-    "color": "Ruby",
-    "flavor_text": "When defeat looms and victory hangs by a thread, a hero bolts to the rescue, patching things up through shear determination.",
-    "artist": "Nicolas Kole",
     "lore-value": 4,
+    "color": "Ruby",
+    "strength": 5,
+    "artist": "Nicolas Kole",
+    "willpower": 5,
     "type": "character",
+    "flavor_text": "When defeat looms and victory hangs by a thread, a hero bolts to the rescue, patching things up through shear determination.",
     "subtypes": [
       "Dreamborn",
       "Hero"
@@ -15,14 +17,12 @@
     "inkable": true,
     "subtitle": "Brave Little Tailor",
     "image-urls": [{
-      "small": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/small.png",
-      "no-art": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/no-art.png",
-      "large": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/large.png",
-      "art-crop": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/art-crop.png",
-      "medium": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/medium.png"
+      "small": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/mickey_mouse-brave_little_tailor-small.png",
+      "no-art": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/mickey_mouse-brave_little_tailor-no-art.png",
+      "large": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/mickey_mouse-brave_little_tailor-large.png",
+      "art-crop": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/mickey_mouse-brave_little_tailor-art-crop.png",
+      "medium": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/mickey_mouse-brave_little_tailor-medium.png"
     }],
     "name": "Mickey Mouse",
-    "strength": 5,
-    "ink-cost": 8,
-    "willpower": 5
+    "ink-cost": 8
   }

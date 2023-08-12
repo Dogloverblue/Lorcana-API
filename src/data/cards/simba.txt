@@ -21,11 +21,11 @@
       "inkable": true,
       "subtitle": "Returned King",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/simba/returned_king/small.png",
-        "no-art": "https://lorcana-api.com/images/simba/returned_king/no-art.png",
-        "large": "https://lorcana-api.com/images/simba/returned_king/large.png",
-        "art-crop": "https://lorcana-api.com/images/simba/returned_king/art-crop.png",
-        "medium": "https://lorcana-api.com/images/simba/returned_king/medium.png"
+        "small": "https://lorcana-api.com/images/simba/returned_king/simba-returned_king-small.png",
+        "no-art": "https://lorcana-api.com/images/simba/returned_king/simba-returned_king-no-art.png",
+        "large": "https://lorcana-api.com/images/simba/returned_king/simba-returned_king-large.png",
+        "art-crop": "https://lorcana-api.com/images/simba/returned_king/simba-returned_king-art-crop.png",
+        "medium": "https://lorcana-api.com/images/simba/returned_king/simba-returned_king-medium.png"
       },
       "name": "Simba",
       "ink-cost": 7,
@@ -51,11 +51,11 @@
       "inkable": true,
       "subtitle": "Future King",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/simba-future_king/small.png",
-        "no-art": "https://lorcana-api.com/images/simba-future_king/no-art.png",
-        "large": "https://lorcana-api.com/images/simba-future_king/large.png",
-        "art-crop": "https://lorcana-api.com/images/simba-future_king/art-crop.png",
-        "medium": "https://lorcana-api.com/images/simba-future_king/medium.png"
+        "small": "https://lorcana-api.com/images/simba/future_king/simba-future_king-small.png",
+        "no-art": "https://lorcana-api.com/images/simba/future_king/simba-future_king-no-art.png",
+        "large": "https://lorcana-api.com/images/simba/future_king/simba-future_king-large.png",
+        "art-crop": "https://lorcana-api.com/images/simba/future_king/simba-future_king-art-crop.png",
+        "medium": "https://lorcana-api.com/images/simba/future_king/simba-future_king-medium.png"
       },
       "name": "Simba",
       "ink-cost": 1,
@@ -81,11 +81,11 @@
       "inkable": true,
       "subtitle": "Protective Cub",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/simba-protective_cub/small.png",
-        "no-art": "https://lorcana-api.com/images/simba-protective_cub/no-art.png",
-        "large": "https://lorcana-api.com/images/simba-protective_cub/large.png",
-        "art-crop": "https://lorcana-api.com/images/simba-protective_cub/art-crop.png",
-        "medium": "https://lorcana-api.com/images/simba-protective_cub/medium.png"
+        "small": "https://lorcana-api.com/images/simba/protective_cub/simba-protective_cub-small.png",
+        "no-art": "https://lorcana-api.com/images/simba/protective_cub/simba-protective_cub-no-art.png",
+        "large": "https://lorcana-api.com/images/simba/protective_cub/simba-protective_cub-large.png",
+        "art-crop": "https://lorcana-api.com/images/simba/protective_cub/simba-protective_cub-art-crop.png",
+        "medium": "https://lorcana-api.com/images/simba/protective_cub/simba-protective_cub-medium.png"
       },
       "name": "Simba",
       "ink-cost": 2,
@@ -111,11 +111,11 @@
       "inkable": false,
       "subtitle": "Rightful Heir",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/simba-rightful_heir/small.png",
-        "no-art": "https://lorcana-api.com/images/simba-rightful_heir/no-art.png",
-        "art-crop": "https://lorcana-api.com/images/simba-rightful_heir/art-crop.png",
-        "medium": "https://lorcana-api.com/images/simba-rightful_heir/medium.png",
-        "large": "https://lorcana-api.com/images/simba-rightful_heir/large.png"
+        "small": "https://lorcana-api.com/images/simba/rightful_heir/simba-rightful_heir-small.png",
+        "no-art": "https://lorcana-api.com/images/simba/rightful_heir/simba-rightful_heir-no-art.png",
+        "large": "https://lorcana-api.com/images/simba/rightful_heir/simba-rightful_heir-large.png",
+        "art-crop": "https://lorcana-api.com/images/simba/rightful_heir/simba-rightful_heir-art-crop.png",
+        "medium": "https://lorcana-api.com/images/simba/rightful_heir/simba-rightful_heir-medium.png"
       },
       "name": "Simba",
       "ink-cost": 5,
