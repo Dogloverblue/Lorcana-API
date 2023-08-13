@@ -16,13 +16,13 @@
     "inkable": true,
     "subtitle": "Street Rat",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/alladdin/street_rat/alladdin-street_rat-small.png",
-      "no-art": "https://lorcana-api.com/images/alladdin/street_rat/alladdin-street_rat-no-art.png",
-      "large": "https://lorcana-api.com/images/alladdin/street_rat/alladdin-street_rat-large.png",
-      "art-crop": "https://lorcana-api.com/images/alladdin/street_rat/alladdin-street_rat-art-crop.png",
-      "medium": "https://lorcana-api.com/images/alladdin/street_rat/alladdin-street_rat-medium.png"
+      "small": "https://lorcana-api.com/images/aladdin/street_rat/aladdin-street_rat-small.png",
+      "no-art": "https://lorcana-api.com/images/aladdin/street_rat/aladdin-street_rat-no-art.png",
+      "large": "https://lorcana-api.com/images/aladdin/street_rat/aladdin-street_rat-large.png",
+      "art-crop": "https://lorcana-api.com/images/aladdin/street_rat/aladdin-street_rat-art-crop.png",
+      "medium": "https://lorcana-api.com/images/aladdin/street_rat/aladdin-street_rat-medium.png"
     },
-    "name": "Alladdin",
+    "name": "Aladdin",
     "ink-cost": 3,
     "flavor-text": "It can be hard to tell the difference between a diamond in the rough and someone who's just, well, rough.",
     "rarity": "Common"
