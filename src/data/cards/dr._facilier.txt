@@ -75,13 +75,13 @@
       "set-code": "TFC",
       "abilities": {"Dreams Made Real": "Whenever you play a song, you may look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom."},
       "inkable": true,
-      "subtitle": "Remarkable Genteman",
+      "subtitle": "Remarkable Gentleman",
       "image-urls": {
-        "small": "https://lorcana-api.com/images/dr._facilier/remarkable_genteman/dr._facilier-remarkable_genteman-small.png",
-        "no-art": "https://lorcana-api.com/images/dr._facilier/remarkable_genteman/dr._facilier-remarkable_genteman-no-art.png",
-        "large": "https://lorcana-api.com/images/dr._facilier/remarkable_genteman/dr._facilier-remarkable_genteman-large.png",
-        "art-crop": "https://lorcana-api.com/images/dr._facilier/remarkable_genteman/dr._facilier-remarkable_genteman-art-crop.png",
-        "medium": "https://lorcana-api.com/images/dr._facilier/remarkable_genteman/dr._facilier-remarkable_genteman-medium.png"
+        "small": "https://lorcana-api.com/images/dr._facilier/remarkable_gentleman/dr._facilier-remarkable_gentleman-small.png",
+        "no-art": "https://lorcana-api.com/images/dr._facilier/remarkable_gentleman/dr._facilier-remarkable_gentleman-no-art.png",
+        "large": "https://lorcana-api.com/images/dr._facilier/remarkable_gentleman/dr._facilier-remarkable_gentleman-large.png",
+        "art-crop": "https://lorcana-api.com/images/dr._facilier/remarkable_gentleman/dr._facilier-remarkable_gentleman-art-crop.png",
+        "medium": "https://lorcana-api.com/images/dr._facilier/remarkable_gentleman/dr._facilier-remarkable_gentleman-medium.png"
       },
       "name": "Dr. Facilier",
       "ink-cost": 3,

@@ -1,4 +1,4 @@
-{"world-famous_inventor": {
+{
     "traits": null,
     "set": "The First Chapter",
     "lore-value": 0,
@@ -29,4 +29,4 @@
     }],
     "name": "Maurice",
     "ink-cost": 6
-  }}
+  }

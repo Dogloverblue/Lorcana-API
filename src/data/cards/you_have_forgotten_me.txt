@@ -1,0 +1,21 @@
+{
+    "set": "The First Chapter",
+    "color": "Amber",
+    "artist": "Alice Pisoni",
+    "type": "Action",
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "effect": "Each opponent chooses and discards 2 cards.",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/you_have_forgotten_me/you_have_forgotten_me-small.png",
+      "no-art": "https://lorcana-api.com/images/you_have_forgotten_me/you_have_forgotten_me-no-art.png",
+      "art-crop": "https://lorcana-api.com/images/you_have_forgotten_me/you_have_forgotten_me-art-crop.png",
+      "medium": "https://lorcana-api.com/images/you_have_forgotten_me/you_have_forgotten_me-medium.png",
+      "large": "https://lorcana-api.com/images/you_have_forgotten_me/you_have_forgotten_me-large.png"
+    },
+    "name": "You Have Forgotten Me",
+    "ink-cost": 4,
+    "flavor-text": "\"You are more than what you have become.\" -Mufasa",
+    "rarity": "Uncommon"
+  }
