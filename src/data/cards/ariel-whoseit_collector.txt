@@ -4,7 +4,7 @@
     "set": "The First Chapter",
     "color": "Sapphire",
     "strength": 3,
-    "artist": "Hedvig Häggman-Sund",
+    "artist": "Hedvig Haggman-Sund",
     "willpower": 3,
     "type": "Character",
     "subtypes": [

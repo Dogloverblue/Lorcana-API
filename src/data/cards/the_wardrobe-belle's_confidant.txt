@@ -1,0 +1,29 @@
+{
+    "lore-value": 1,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Amethyst",
+    "strength": 3,
+    "artist": "Giulia Riva",
+    "willpower": 4,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Ally"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "subtitle": "Belle's Confidant",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/the_wardrobe/belle's_confidant/the_wardrobe-belle's_confidant-small.png",
+      "no-art": "https://lorcana-api.com/images/the_wardrobe/belle's_confidant/the_wardrobe-belle's_confidant-no-art.png",
+      "art-crop": "https://lorcana-api.com/images/the_wardrobe/belle's_confidant/the_wardrobe-belle's_confidant-art-crop.png",
+      "medium": "https://lorcana-api.com/images/the_wardrobe/belle's_confidant/the_wardrobe-belle's_confidant-medium.png",
+      "large": "https://lorcana-api.com/images/the_wardrobe/belle's_confidant/the_wardrobe-belle's_confidant-large.png"
+    },
+    "name": "The Wardrobe",
+    "ink-cost": 3,
+    "flavor-text": "When you simply must have the hautest couture.",
+    "rarity": "Common"
+  }

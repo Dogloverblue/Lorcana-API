@@ -1,0 +1,30 @@
+{
+    "lore-value": 2,
+    "traits": ["Shift 3"],
+    "set": "The First Chapter",
+    "color": "Sapphire",
+    "strength": 3,
+    "artist": "Nicholas Kole",
+    "willpower": 5,
+    "type": "Character",
+    "subtypes": [
+      "Floodborn",
+      "Hero",
+      "Princess"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Protective Embrace": "Your other character gain Ward. (Opponents can't choose them except to challenge)"},
+    "inkable": true,
+    "subtitle": "Dreaming Gaurdian",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/aurora/dreaming_gaurdian/aurora-dreaming_gaurdian-small.png",
+      "no-art": "https://lorcana-api.com/images/aurora/dreaming_gaurdian/aurora-dreaming_gaurdian-no-art.png",
+      "art-crop": "https://lorcana-api.com/images/aurora/dreaming_gaurdian/aurora-dreaming_gaurdian-art-crop.png",
+      "medium": "https://lorcana-api.com/images/aurora/dreaming_gaurdian/aurora-dreaming_gaurdian-medium.png",
+      "large": "https://lorcana-api.com/images/aurora/dreaming_gaurdian/aurora-dreaming_gaurdian-large.png"
+    },
+    "name": "Aurora",
+    "ink-cost": 5,
+    "flavor-text": "As the princess slumbered, her power awoke.",
+    "rarity": "Super Rare"
+  }

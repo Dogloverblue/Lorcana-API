@@ -59,6 +59,36 @@
       "flavor-text": "\"You dare challenge me? Fool, my magic is more powerful than you could possibly imagine!\"",
       "rarity": "Common"
     },
+    "monstrous_dragon": {
+      "lore-value": 2,
+      "traits": [],
+      "set": "The First Chapter",
+      "color": "Ruby",
+      "strength": 7,
+      "artist": "Luis Huerta",
+      "willpower": 5,
+      "type": "Character",
+      "subtypes": [
+        "Storyborn",
+        "Villain",
+        "Dragon"
+      ],
+      "set-code": "TFC",
+      "abilities": {"Dragon Fire": "When you play this character, you may banish chosen opposing character."},
+      "inkable": true,
+      "subtitle": "Monstrous Dragon",
+      "image-urls": {
+        "small": "https://lorcana-api.com/images/maleficent/monstrous_dragon/maleficent-monstrous_dragon-small.png",
+        "no-art": "https://lorcana-api.com/images/maleficent/monstrous_dragon/maleficent-monstrous_dragon-no-art.png",
+        "art-crop": "https://lorcana-api.com/images/maleficent/monstrous_dragon/maleficent-monstrous_dragon-art-crop.png",
+        "medium": "https://lorcana-api.com/images/maleficent/monstrous_dragon/maleficent-monstrous_dragon-medium.png",
+        "large": "https://lorcana-api.com/images/maleficent/monstrous_dragon/maleficent-monstrous_dragon-large.png"
+      },
+      "name": "Maleficent",
+      "ink-cost": 9,
+      "flavor-text": "The ninth Rule of Villainy: When all else fails, turn into a dragon.",
+      "rarity": "Super Rare"
+    },
     "uninvited": {
       "lore-value": 3,
       "traits": [],

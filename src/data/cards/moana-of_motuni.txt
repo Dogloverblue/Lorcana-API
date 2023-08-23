@@ -1,0 +1,30 @@
+{
+    "lore-value": 3,
+    "traits": [],
+    "set": "The First Chapter",
+    "color": "Amber",
+    "strength": 1,
+    "artist": "Nicholas Kole",
+    "willpower": 6,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "set-code": "TFC",
+    "abilities": {"We Can Fix It": "Whenever this character quests, you may ready your other Princess characters. They can't quest for the rest of this turn."},
+    "inkable": true,
+    "subtitle": "Of Motuni",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/moana/of_motuni/moana-of_motuni-small.png",
+      "no-art": "https://lorcana-api.com/images/moana/of_motuni/moana-of_motuni-no-art.png",
+      "art-crop": "https://lorcana-api.com/images/moana/of_motuni/moana-of_motuni-art-crop.png",
+      "medium": "https://lorcana-api.com/images/moana/of_motuni/moana-of_motuni-medium.png",
+      "large": "https://lorcana-api.com/images/moana/of_motuni/moana-of_motuni-large.png"
+    },
+    "name": "Moana",
+    "ink-cost": 5,
+    "flavor-text": "\"I am Moana of Motunui. You will board my boat, sail across ther sea, and restore the heart of Te Fiti.\"",
+    "rarity": "Rare"
+  }

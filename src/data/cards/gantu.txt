@@ -2,7 +2,7 @@
     "traits": null,
     "set": "The First Chapter",
     "lore-value": 2,
-    "color": "Silver",
+    "color": "Steel",
     "strength": 6,
     "artist": "Luis Huerta",
     "willpower": 6,

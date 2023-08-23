@@ -1,37 +1,37 @@
 {
-    "thinking_a_happy_though": {
-      "lore-value": 1,
-      "traits": [
-        "Shift 3",
-        "Challenger 3"
-      ],
-      "set": "The First Chapter",
-      "color": "Steel",
-      "strength": 2,
-      "artist": "Elliot Bocxtaele",
-      "willpower": 5,
-      "type": "Character",
-      "subtypes": [
-        "Floodborn",
-        "Villain",
-        "Pirate",
-        "Captain"
-      ],
-      "set-code": "TFC",
-      "abilities": {"Stolen Dust": "Characters with cost 3 or less can't challenge this character,"},
-      "inkable": false,
-      "subtitle": "Thinking a Happy Though",
-      "image-urls": {
-        "small": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_though/captain_hook-thinking_a_happy_though-small.png",
-        "no-art": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_though/captain_hook-thinking_a_happy_though-no-art.png",
-        "large": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_though/captain_hook-thinking_a_happy_though-large.png",
-        "art-crop": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_though/captain_hook-thinking_a_happy_though-art-crop.png",
-        "medium": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_though/captain_hook-thinking_a_happy_though-medium.png"
-      },
-      "name": "Captain Hook",
-      "ink-cost": 5,
-      "flavor-text": "",
-      "rarity": "Rare"
+    "thinking_a_happy_thought": {
+       "lore-value": 1,
+    "traits": [
+      "Shift 3",
+      "Challenger 3"
+    ],
+    "set": "The First Chapter",
+    "color": "Steel",
+    "strength": 2,
+    "artist": "Elliot Bocxtaele",
+    "willpower": 5,
+    "type": "Character",
+    "subtypes": [
+      "Floodborn",
+      "Villain",
+      "Pirate",
+      "Captain"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Stolen Dust": "Characters with cost 3 or less can't challenge this character,"},
+    "inkable": false,
+    "subtitle": "Thinking a Happy Thought",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_thought/captain_hook-thinking_a_happy_thought-small.png",
+      "no-art": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_thought/captain_hook-thinking_a_happy_thought-no-art.png",
+      "large": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_thought/captain_hook-thinking_a_happy_thought-large.png",
+      "art-crop": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_thought/captain_hook-thinking_a_happy_thought-art-crop.png",
+      "medium": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_thought/captain_hook-thinking_a_happy_thought-medium.png"
+    },
+    "name": "Captain Hook",
+    "ink-cost": 5,
+    "flavor-text": "",
+    "rarity": "Rare"
     },
     "captain_of_the_jolly_roger": {
       "lore-value": 1,

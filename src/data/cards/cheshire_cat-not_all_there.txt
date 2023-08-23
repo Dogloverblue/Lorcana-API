@@ -1,4 +1,4 @@
-{"not_all_there": {
+{
     "lore-value": 2,
     "traits": [],
     "set": "The First Chapter",
@@ -23,4 +23,4 @@
     "ink-cost": 3,
     "flavor-text": "\"You may have noticed that I'm not all there myself\"",
     "rarity": "Uncommon"
-  }}
+  }

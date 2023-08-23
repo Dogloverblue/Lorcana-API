@@ -63,7 +63,6 @@ public static void doMainSetupStuff() {
 		server.createContext("/fuzzy/", new FuzzyHandler(data));
 		server.createContext("/strict/", new StrictHandler());
 		server.createContext("/search", new SearchHandler(data));
-		server.createContext("/lists/names", new JSONHandler(getAllNames()));
 		 System.out.println(dir.exists());
 		 System.out.println(dir.getPath());
 		File[] directoryListing = dir.listFiles();
@@ -82,6 +81,7 @@ public static void doMainSetupStuff() {
 				    }
 				} 
 			}
+		    server.createContext("/lists/names", new JSONHandler(getAllNames()));
 		    server.createContext("/lists/cards", new JSONHandler(getAllNames()));
 		   
 		    

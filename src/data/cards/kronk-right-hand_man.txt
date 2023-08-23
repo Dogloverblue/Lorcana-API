@@ -1,4 +1,4 @@
-{"right-hand_man": {
+{
     "lore-value": 0,
     "traits": [],
     "set": "The First Chapter",
@@ -26,4 +26,4 @@
     "ink-cost": 6,
     "flavor-text": "\"Oh yeah. It's all coming together!\"",
     "rarity": "Uncommon"
-  }}
+  }
