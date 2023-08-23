@@ -1,6 +1,6 @@
 {
     "beloved_princess": {
-      "traits": null,
+      "traits": [],
       "set": "The First Chapter",
       "lore-value": 1,
       "color": "Amber",
@@ -14,16 +14,16 @@
         "Princess"
       ],
       "set-code": "TFC",
-      "abilities": null,
+      "abilities": {},
       "inkable": true,
       "subtitle": "Beloved Princess",
-      "image-urls": [{
+      "image-urls": {
         "small": "https://lorcana-api.com/images/minnie_mouse/beloved_princess/minnie_mouse-beloved_princess-small.png",
         "no-art": "https://lorcana-api.com/images/minnie_mouse/beloved_princess/minnie_mouse-beloved_princess-no-art.png",
         "large": "https://lorcana-api.com/images/minnie_mouse/beloved_princess/minnie_mouse-beloved_princess-large.png",
         "art-crop": "https://lorcana-api.com/images/minnie_mouse/beloved_princess/minnie_mouse-beloved_princess-art-crop.png",
         "medium": "https://lorcana-api.com/images/minnie_mouse/beloved_princess/minnie_mouse-beloved_princess-medium.png"
-      }],
+      },
       "name": "Minnie Mouse",
       "ink-cost": 2
     },

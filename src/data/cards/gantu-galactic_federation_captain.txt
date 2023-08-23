@@ -1,5 +1,5 @@
 {
-    "traits": null,
+    "traits": [],
     "set": "The First Chapter",
     "lore-value": 2,
     "color": "Silver",
@@ -14,16 +14,16 @@
       "Captain"
     ],
     "set-code": "TFC",
-    "abilities": [{"Under Arrest": "Characters with cost 2 or less can't challenge your characters"}],
+    "abilities": {"Under Arrest": "Characters with cost 2 or less can't challenge your characters"},
     "inkable": true,
     "subtitle": "Galactic Federation Captain",
-    "image-urls": [{
+    "image-urls": {
       "small": "https://lorcana-api.com/images/gantu/galactic_federation_captain/gantu-galactic_federation_captain-small.png",
       "no-art": "https://lorcana-api.com/images/gantu/galactic_federation_captain/gantu-galactic_federation_captain-no-art.png",
       "large": "https://lorcana-api.com/images/gantu/galactic_federation_captain/gantu-galactic_federation_captain-large.png",
       "art-crop": "https://lorcana-api.com/images/gantu/galactic_federation_captain/gantu-galactic_federation_captain-art-crop.png",
       "medium": "https://lorcana-api.com/images/gantu/galactic_federation_captain/gantu-galactic_federation_captain-medium.png"
-    }],
+    },
     "name": "Gantu",
     "ink-cost": 8
   }

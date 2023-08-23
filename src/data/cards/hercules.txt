@@ -14,16 +14,16 @@
       "Prince"
     ],
     "set-code": "TFC",
-    "abilities": null,
+    "abilities": {},
     "inkable": true,
     "subtitle": "True Hero",
-    "image-urls": [{
+    "image-urls": {
       "small": "https://lorcana-api.com/images/hercules/true_hero/hercules-true_hero-small.png",
       "no-art": "https://lorcana-api.com/images/hercules/true_hero/hercules-true_hero-no-art.png",
       "large": "https://lorcana-api.com/images/hercules/true_hero/hercules-true_hero-large.png",
       "art-crop": "https://lorcana-api.com/images/hercules/true_hero/hercules-true_hero-art-crop.png",
       "medium": "https://lorcana-api.com/images/hercules/true_hero/hercules-true_hero-medium.png"
-    }],
+    },
     "name": "Hercules",
     "ink-cost": 3
   }}

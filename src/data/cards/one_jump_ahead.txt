@@ -4,13 +4,13 @@
     "inkable": false,
     "artist": "Bill Robinson",
     "effect": "Put the top card of your deck into your inkwell facedown and exerted",
-    "image-urls": [{
+    "image-urls": {
       "small": "https://lorcana-api.com/images/one_jump_ahead/one_jump_ahead-small.png",
       "no-art": "https://lorcana-api.com/images/one_jump_ahead/one_jump_ahead-no-art.png",
       "large": "https://lorcana-api.com/images/one_jump_ahead/one_jump_ahead-large.png",
       "art-crop": "https://lorcana-api.com/images/one_jump_ahead/one_jump_ahead-art-crop.png",
       "medium": "https://lorcana-api.com/images/one_jump_ahead/one_jump_ahead-medium.png"
-    }],
+    },
     "name": "One Jump Ahead",
     "ink-cost": 2,
     "type": "Action-Song",

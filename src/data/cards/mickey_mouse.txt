@@ -132,16 +132,16 @@
         "Hero"
       ],
       "set-code": "TFC",
-      "abilities": null,
+      "abilities": {},
       "inkable": true,
       "subtitle": "Brave Little Tailor",
-      "image-urls": [{
+      "image-urls": {
         "small": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/mickey_mouse-brave_little_tailor-small.png",
         "no-art": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/mickey_mouse-brave_little_tailor-no-art.png",
         "large": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/mickey_mouse-brave_little_tailor-large.png",
         "art-crop": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/mickey_mouse-brave_little_tailor-art-crop.png",
         "medium": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/mickey_mouse-brave_little_tailor-medium.png"
-      }],
+      },
       "name": "Mickey Mouse",
       "ink-cost": 8
     },

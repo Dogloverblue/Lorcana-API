@@ -1,6 +1,6 @@
 {
     "daredevil": {
-      "traits": null,
+      "traits": [],
       "set": "The First Chapter",
       "lore-value": 0,
       "color": "Ruby",
@@ -14,16 +14,16 @@
         "Hero"
       ],
       "set-code": "TFC",
-      "abilities": null,
+      "abilities": {},
       "inkable": true,
       "subtitle": "Daredevil",
-      "image-urls": [{
+      "image-urls": {
         "small": "https://lorcana-api.com/images/goofy/daredevil/goofy-daredevil-small.png",
         "no-art": "https://lorcana-api.com/images/goofy/daredevil/goofy-daredevil-no-art.png",
         "large": "https://lorcana-api.com/images/goofy/daredevil/goofy-daredevil-large.png",
         "art-crop": "https://lorcana-api.com/images/goofy/daredevil/goofy-daredevil-art-crop.png",
         "medium": "https://lorcana-api.com/images/goofy/daredevil/goofy-daredevil-medium.png"
-      }],
+      },
       "name": "Goofy",
       "ink-cost": 5
     },

@@ -13,16 +13,16 @@
       "Ally"
     ],
     "set-code": "TFC",
-    "abilities": null,
+    "abilities": {},
     "inkable": true,
     "subtitle": "Boat Snack",
-    "image-urls": [{
+    "image-urls": {
       "small": "https://lorcana-api.com/images/heihei/boat_snack/heihei-boat_snack-small.png",
       "no-art": "https://lorcana-api.com/images/heihei/boat_snack/heihei-boat_snack-no-art.png",
       "large": "https://lorcana-api.com/images/heihei/boat_snack/heihei-boat_snack-large.png",
       "art-crop": "https://lorcana-api.com/images/heihei/boat_snack/heihei-boat_snack-art-crop.png",
       "medium": "https://lorcana-api.com/images/heihei/boat_snack/heihei-boat_snack-medium.png"
-    }],
+    },
     "name": "Heihei",
     "ink-cost": 1
   }}

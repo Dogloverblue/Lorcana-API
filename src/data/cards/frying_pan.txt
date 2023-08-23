@@ -1,17 +1,17 @@
 {
-    "abilities": [{"CLANG!": "Banish this item - Chosen character can't challenge during thier next turn"}],
+    "abilities": {"CLANG!": "Banish this item - Chosen character can't challenge during thier next turn"},
     "set": "The First Chapter",
     "color": "Steel",
     "inkable": true,
     "artist": "Kamil Murzyn",
     "effect": null,
-    "image-urls": [{
+    "image-urls": {
       "small": "https://lorcana-api.com/images/frying_pan/frying_pan-small.png",
       "no-art": "https://lorcana-api.com/images/frying_pan/frying_pan-no-art.png",
       "large": "https://lorcana-api.com/images/frying_pan/frying_pan-large.png",
       "art-crop": "https://lorcana-api.com/images/frying_pan/frying_pan-art-crop.png",
       "medium": "https://lorcana-api.com/images/frying_pan/frying_pan-medium.png"
-    }],
+    },
     "name": "Frying Pan",
     "ink-cost": 2,
     "type": "Item",

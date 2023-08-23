@@ -1,10 +1,10 @@
 {"belle's_confident": {
-    "traits": null,
+    "traits": [],
     "set": "The First Chapter",
     "lore-value": 1,
     "color": "Amethyst",
     "strength": 3,
-    "artist": "unknown",
+    "artist": "Giulia Riva",
     "willpower": 4,
     "type": "Character",
     "flavor_text": "When you simply must have the hautest counture",
@@ -13,16 +13,16 @@
       "Ally"
     ],
     "set-code": "TFC",
-    "abilities": null,
+    "abilities": {},
     "inkable": true,
     "subtitle": "Belle's Confident",
-    "image-urls": [{
+    "image-urls": {
       "small": "https://lorcana-api.com/images/the_wardrobe/belle's_confident/the_wardrobe-belle's_confident-small.png",
       "no-art": "https://lorcana-api.com/images/the_wardrobe/belle's_confident/the_wardrobe-belle's_confident-no-art.png",
       "large": "https://lorcana-api.com/images/the_wardrobe/belle's_confident/the_wardrobe-belle's_confident-large.png",
       "art-crop": "https://lorcana-api.com/images/the_wardrobe/belle's_confident/the_wardrobe-belle's_confident-art-crop.png",
       "medium": "https://lorcana-api.com/images/the_wardrobe/belle's_confident/the_wardrobe-belle's_confident-medium.png"
-    }],
+    },
     "name": "The Wardrobe",
     "ink-cost": 3
   }}

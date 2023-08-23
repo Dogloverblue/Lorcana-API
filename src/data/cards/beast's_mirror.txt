@@ -1,17 +1,17 @@
 {
-    "abilities": [{"Show Me": "{t}, 3? - If you have no cards in your hand, draw a card."}],
+    "abilities": {"Show Me": "{t}, 3? - If you have no cards in your hand, draw a card."},
     "set": "The First Chapter",
     "color": "Steel",
     "inkable": true,
     "artist": "Samanta Erdini",
     "effect": null,
-    "image-urls": [{
+    "image-urls": {
       "small": "https://lorcana-api.com/images/beast's_mirror/beast's_mirror-small.png",
       "no-art": "https://lorcana-api.com/images/beast's_mirror/beast's_mirror-no-art.png",
       "large": "https://lorcana-api.com/images/beast's_mirror/beast's_mirror-large.png",
       "art-crop": "https://lorcana-api.com/images/beast's_mirror/beast's_mirror-art-crop.png",
       "medium": "https://lorcana-api.com/images/beast's_mirror/beast's_mirror-medium.png"
-    }],
+    },
     "name": "Beast's Mirror",
     "ink-cost": 2,
     "type": "Item",

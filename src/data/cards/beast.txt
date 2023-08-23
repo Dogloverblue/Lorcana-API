@@ -1,6 +1,6 @@
 {
     "hardheaded": {
-      "traits": null,
+      "traits": [],
       "set": "The First Chapter",
       "lore-value": 2,
       "color": "Steel",
@@ -15,16 +15,16 @@
         "Prince"
       ],
       "set-code": "TFC",
-      "abilities": [{"Break": "When you play this character, you may banish chosen item"}],
+      "abilities": {"Break": "When you play this character, you may banish chosen item"},
       "inkable": true,
       "subtitle": "Hardheaded",
-      "image-urls": [{
+      "image-urls": {
         "small": "https://lorcana-api.com/images/beast/hardheaded/beast-hardheaded-small.png",
         "no-art": "https://lorcana-api.com/images/beast/hardheaded/beast-hardheaded-no-art.png",
         "large": "https://lorcana-api.com/images/beast/hardheaded/beast-hardheaded-large.png",
         "art-crop": "https://lorcana-api.com/images/beast/hardheaded/beast-hardheaded-art-crop.png",
         "medium": "https://lorcana-api.com/images/beast/hardheaded/beast-hardheaded-medium.png"
-      }],
+      },
       "name": "Beast",
       "ink-cost": 5
     },
