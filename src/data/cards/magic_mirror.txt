@@ -2,15 +2,15 @@
     "set": "The First Chapter",
     "color": "Amethyst",
     "inkable": false,
-    "artist": "unknown",
+    "artist": "Andrew Trabbold",
     "effect": "{T}, 4?",
-    "image-urls": [{
+    "image-urls": {
       "small": "https://lorcana-api.com/images/magic_mirror/magic_mirror-small.png",
       "no-art": "https://lorcana-api.com/images/magic_mirror/magic_mirror-no-art.png",
       "large": "https://lorcana-api.com/images/magic_mirror/magic_mirror-large.png",
       "art-crop": "https://lorcana-api.com/images/magic_mirror/magic_mirror-art-crop.png",
       "medium": "https://lorcana-api.com/images/magic_mirror/magic_mirror-medium.png"
-    }],
+    },
     "name": "Magic Mirror",
     "ink-cost": 2,
     "type": "Item",

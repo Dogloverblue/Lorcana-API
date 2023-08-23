@@ -14,16 +14,16 @@
       "Prince"
     ],
     "set-code": "TFC",
-    "abilities": null,
+    "abilities": {},
     "inkable": true,
     "subtitle": "Dashing and Brave",
-    "image-urls": [{
+    "image-urls": {
       "small": "https://lorcana-api.com/images/prince_eric/dashing_and_brave/prince_eric-dashing_and_brave-small.png",
       "no-art": "https://lorcana-api.com/images/prince_eric/dashing_and_brave/prince_eric-dashing_and_brave-no-art.png",
       "large": "https://lorcana-api.com/images/prince_eric/dashing_and_brave/prince_eric-dashing_and_brave-large.png",
       "art-crop": "https://lorcana-api.com/images/prince_eric/dashing_and_brave/prince_eric-dashing_and_brave-art-crop.png",
       "medium": "https://lorcana-api.com/images/prince_eric/dashing_and_brave/prince_eric-dashing_and_brave-medium.png"
-    }],
+    },
     "name": "Prince Eric",
     "ink-cost": 2
   }}

@@ -8,7 +8,7 @@
       "lore-value": 1,
       "color": "Amber",
       "strength": 6,
-      "artist": "unknown",
+      "artist": "Alex Accorsi",
       "willpower": 7,
       "type": "Character",
       "flavor_text": null,
@@ -19,16 +19,16 @@
         "Deity"
       ],
       "set-code": "TFC",
-      "abilities": null,
+      "abilities": {},
       "inkable": false,
       "subtitle": "King of Olympus",
-      "image-urls": [{
+      "image-urls": {
         "small": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-small.png",
         "no-art": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-no-art.png",
         "large": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-large.png",
         "art-crop": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-art-crop.png",
         "medium": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-medium.png"
-      }],
+      },
       "name": "Hades",
       "ink-cost": 8
     },

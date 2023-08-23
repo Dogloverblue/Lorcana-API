@@ -1,10 +1,10 @@
 {
-    "traits": null,
+    "traits": [],
     "set": "The First Chapter",
     "lore-value": 0,
     "color": "Amethyst",
     "strength": 1,
-    "artist": "unknown",
+    "artist": "Giulia Riva",
     "willpower": 3,
     "type": "Character",
     "flavor_text": "\"I'm Olaf and I like warm hugs!\"",
@@ -13,16 +13,16 @@
       "Ally"
     ],
     "set-code": "TFC",
-    "abilities": null,
+    "abilities": {},
     "inkable": true,
     "subtitle": "Friendly Snowman",
-    "image-urls": [{
+    "image-urls": {
       "small": "https://lorcana-api.com/images/olaf/friendly_snowman/olaf-friendly_snowman-small.png",
       "no-art": "https://lorcana-api.com/images/olaf/friendly_snowman/olaf-friendly_snowman-no-art.png",
       "large": "https://lorcana-api.com/images/olaf/friendly_snowman/olaf-friendly_snowman-large.png",
       "art-crop": "https://lorcana-api.com/images/olaf/friendly_snowman/olaf-friendly_snowman-art-crop.png",
       "medium": "https://lorcana-api.com/images/olaf/friendly_snowman/olaf-friendly_snowman-medium.png"
-    }],
+    },
     "name": "Olaf",
     "ink-cost": 1
   }

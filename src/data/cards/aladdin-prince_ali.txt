@@ -4,7 +4,7 @@
     "set": "The First Chapter",
     "color": "Emerald",
     "strength": 2,
-    "artist": "unknown",
+    "artist": "Lauren Walsh",
     "willpower": 2,
     "type": "Character",
     "subtypes": [

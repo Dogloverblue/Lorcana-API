@@ -1,6 +1,6 @@
 {
     "boisterous_fowl": {
-      "traits": null,
+      "traits": [],
       "set": "The First Chapter",
       "lore-value": 1,
       "color": "Ruby",
@@ -11,16 +11,16 @@
       "flavor_text": "\\\"Who you callin' boisterous, buster?\\\"",
       "subtypes": ["Storyborn"],
       "set-code": "TFC",
-      "abilities": null,
+      "abilities": {},
       "inkable": true,
       "subtitle": "Boisterous Fowl",
-      "image-urls": [{
+      "image-urls": {
         "small": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/donald_duck-boisterous_fowl-small.png",
         "no-art": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/donald_duck-boisterous_fowl-no-art.png",
         "large": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/donald_duck-boisterous_fowl-large.png",
         "art-crop": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/donald_duck-boisterous_fowl-art-crop.png",
         "medium": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/donald_duck-boisterous_fowl-medium.png"
-      }],
+      },
       "name": "Donald Duck",
       "ink-cost": 2
     },

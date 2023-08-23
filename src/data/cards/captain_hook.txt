@@ -65,7 +65,7 @@
       "rarity": "Rare"
     },
     "forceful_duelist": {
-      "traits": "Challenger +2 \\(When challenging, this character gets +2*.\\)",
+      "traits": ["Challenger +2 \\(When challenging, this character gets +2*.\\)"],
       "set": "The First Chapter",
       "lore-value": 1,
       "color": "Steel",
@@ -81,16 +81,16 @@
         "Captain"
       ],
       "set-code": "TFC",
-      "abilities": null,
+      "abilities": {},
       "inkable": true,
       "subtitle": "Forceful Duelist",
-      "image-urls": [{
+      "image-urls": {
         "small": "https://lorcana-api.com/images/captain_hook/forceful_duelist/captain_hook-forceful_duelist-small.png",
         "no-art": "https://lorcana-api.com/images/captain_hook/forceful_duelist/captain_hook-forceful_duelist-no-art.png",
         "large": "https://lorcana-api.com/images/captain_hook/forceful_duelist/captain_hook-forceful_duelist-large.png",
         "art-crop": "https://lorcana-api.com/images/captain_hook/forceful_duelist/captain_hook-forceful_duelist-art-crop.png",
         "medium": "https://lorcana-api.com/images/captain_hook/forceful_duelist/captain_hook-forceful_duelist-medium.png"
-      }],
+      },
       "name": "Captain Hook",
       "ink-cost": 1
     },

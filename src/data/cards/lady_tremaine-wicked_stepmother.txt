@@ -4,7 +4,7 @@
     "set": "The First Chapter",
     "color": "Emerald",
     "strength": 1,
-    "artist": "unknown",
+    "artist": "Leonardo Giammichele",
     "willpower": 5,
     "type": "Character",
     "subtypes": [

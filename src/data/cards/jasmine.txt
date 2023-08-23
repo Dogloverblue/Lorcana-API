@@ -1,6 +1,6 @@
 {
     "disguised": {
-      "traits": null,
+      "traits": [],
       "set": "The First Chapter",
       "lore-value": 2,
       "color": "Sapphire",
@@ -14,16 +14,16 @@
         "Princess"
       ],
       "set-code": "TFC",
-      "abilities": null,
+      "abilities": {},
       "inkable": true,
       "subtitle": "Disguised",
-      "image-urls": [{
+      "image-urls": {
         "small": "https://lorcana-api.com/images/jasmine/disguised/jasmine-disguised-small.png",
         "no-art": "https://lorcana-api.com/images/jasmine/disguised/jasmine-disguised-no-art.png",
         "large": "https://lorcana-api.com/images/jasmine/disguised/jasmine-disguised-large.png",
         "art-crop": "https://lorcana-api.com/images/jasmine/disguised/jasmine-disguised-art-crop.png",
         "medium": "https://lorcana-api.com/images/jasmine/disguised/jasmine-disguised-medium.png"
-      }],
+      },
       "name": "Jasmine",
       "ink-cost": 3
     },

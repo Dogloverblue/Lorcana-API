@@ -1,10 +1,10 @@
 {"world-famous_inventor": {
-    "traits": null,
+    "traits": [],
     "set": "The First Chapter",
     "lore-value": 0,
     "color": "Sapphire",
     "strength": 2,
-    "artist": "unknown",
+    "artist": "Alex Accorsi",
     "willpower": 7,
     "type": "Character",
     "flavor_text": null,
@@ -14,19 +14,19 @@
       "Inventor"
     ],
     "set-code": "TFC",
-    "abilities": [
-      {"Give It A Try": "Whenever this character quests, you pay 2? less for the next item you play this turn."},
-      {"It Works!": "Whenever you play an item, you may draw a card."}
-    ],
+    "abilities": {
+      "Give It A Try": "Whenever this character quests, you pay 2? less for the next item you play this turn.",
+      "It Works!": "Whenever you play an item, you may draw a card."
+    },
     "inkable": true,
     "subtitle": "World-Famous Inventor",
-    "image-urls": [{
+    "image-urls": {
       "small": "https://lorcana-api.com/images/maurice/world-famous_inventor/maurice-world-famous_inventor-small.png",
       "no-art": "https://lorcana-api.com/images/maurice/world-famous_inventor/maurice-world-famous_inventor-no-art.png",
       "large": "https://lorcana-api.com/images/maurice/world-famous_inventor/maurice-world-famous_inventor-large.png",
       "art-crop": "https://lorcana-api.com/images/maurice/world-famous_inventor/maurice-world-famous_inventor-art-crop.png",
       "medium": "https://lorcana-api.com/images/maurice/world-famous_inventor/maurice-world-famous_inventor-medium.png"
-    }],
+    },
     "name": "Maurice",
     "ink-cost": 6
   }}

@@ -4,7 +4,7 @@
     "lore-value": 0,
     "color": "Ruby",
     "strength": 4,
-    "artist": "unknown",
+    "artist": "Kenneth Anderson",
     "willpower": 4,
     "type": "Character",
     "flavor_text": "\\\"I'm the bounciest bouncer that ever bounced!\\\"",
@@ -13,16 +13,16 @@
       "Tigger"
     ],
     "set-code": "TFC",
-    "abilities": null,
+    "abilities": {},
     "inkable": true,
     "subtitle": "Wonderful Thing",
-    "image-urls": [{
+    "image-urls": {
       "small": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-small.png",
       "no-art": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-no-art.png",
       "large": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-large.png",
       "art-crop": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-art-crop.png",
       "medium": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-medium.png"
-    }],
+    },
     "name": "Tigger",
     "ink-cost": 6
   }}

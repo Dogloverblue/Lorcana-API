@@ -33,7 +33,7 @@
       "rarity": "Legendary"
     },
     "inventive_engineer": {
-      "traits": null,
+      "traits": [],
       "set": "The First Chapter",
       "lore-value": 2,
       "color": "Sapphire",
@@ -49,16 +49,16 @@
         "Inventor"
       ],
       "set-code": "TFC",
-      "abilities": [{"Tinker": "Whenever this character quests, you pay 1? less for the next item you play this turn."}],
+      "abilities": {"Tinker": "Whenever this character quests, you pay 1? less for the next item you play this turn."},
       "inkable": true,
       "subtitle": "Inventive Engineer",
-      "image-urls": [{
+      "image-urls": {
         "small": "https://lorcana-api.com/images/belle/inventive_engineer/belle-inventive_engineer-small.png",
         "no-art": "https://lorcana-api.com/images/belle/inventive_engineer/belle-inventive_engineer-no-art.png",
         "large": "https://lorcana-api.com/images/belle/inventive_engineer/belle-inventive_engineer-large.png",
         "art-crop": "https://lorcana-api.com/images/belle/inventive_engineer/belle-inventive_engineer-art-crop.png",
         "medium": "https://lorcana-api.com/images/belle/inventive_engineer/belle-inventive_engineer-medium.png"
-      }],
+      },
       "name": "Belle",
       "ink-cost": 3
     }

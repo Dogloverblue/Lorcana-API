@@ -1,17 +1,17 @@
 {
-    "abilities": null,
+    "abilities": {},
     "set": "The First Chapter",
     "inkable": true,
     "color": "Emerald",
-    "artist": "unknown",
+    "artist": "Matthew Robert Davies",
     "effect": "Chosen character gains Reckless during their next turn. (They can't quest and must challenge if able.)",
-    "image-urls": [{
+    "image-urls": {
       "small": "https://lorcana-api.com/images/the_beast_is_mine!/the_beast_is_mine!-small.png",
       "no-art": "https://lorcana-api.com/images/the_beast_is_mine!/the_beast_is_mine!-no-art.png",
       "large": "https://lorcana-api.com/images/the_beast_is_mine!/the_beast_is_mine!-large.png",
       "art-crop": "https://lorcana-api.com/images/the_beast_is_mine!/the_beast_is_mine!-art-crop.png",
       "medium": "https://lorcana-api.com/images/the_beast_is_mine!/the_beast_is_mine!-medium.png"
-    }],
+    },
     "name": "The Beast Is Mine!",
     "ink-cost": 3,
     "type": "Action",

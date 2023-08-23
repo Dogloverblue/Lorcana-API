@@ -30,12 +30,12 @@
       "rarity": "Rare"
     },
     "mastermind": {
-      "traits": null,
+      "traits": [],
       "set": "The First Chapter",
       "lore-value": 0,
       "color": "Sapphire",
       "strength": 5,
-      "artist": "unknown",
+      "artist": "Bill Robinson",
       "willpower": 4,
       "type": "Character",
       "flavor_text": "\\\"The best plans involve a little danger. Just not for me.\\\"",
@@ -44,16 +44,16 @@
         "Villain"
       ],
       "set-code": "TFC",
-      "abilities": [{"Insidious Plot": "When you play this character, chosen opposing character gets -5? this turn."}],
+      "abilities": {"Insidious Plot": "When you play this character, chosen opposing character gets -5? this turn."},
       "inkable": true,
       "subtitle": "Mastermind",
-      "image-urls": [{
+      "image-urls": {
         "small": "https://lorcana-api.com/images/scar/mastermind/scar-mastermind-small.png",
         "no-art": "https://lorcana-api.com/images/scar/mastermind/scar-mastermind-no-art.png",
         "large": "https://lorcana-api.com/images/scar/mastermind/scar-mastermind-large.png",
         "art-crop": "https://lorcana-api.com/images/scar/mastermind/scar-mastermind-art-crop.png",
         "medium": "https://lorcana-api.com/images/scar/mastermind/scar-mastermind-medium.png"
-      }],
+      },
       "name": "Scar",
       "ink-cost": 6
     },
