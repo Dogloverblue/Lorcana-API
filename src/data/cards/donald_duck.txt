@@ -11,7 +11,7 @@
       "flavor-text": "\\\"Who you callin' boisterous, buster?\\\"",
       "subtypes": ["Storyborn"],
       "set-code": "TFC",
-      "abilities": null,
+      "abilities": {},
       "inkable": true,
       "subtitle": "Boisterous Fowl",
       "image-urls": [{

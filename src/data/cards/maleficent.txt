@@ -135,7 +135,7 @@
         "Sorcerer"
       ],
       "set-code": "TFC",
-      "abilities": null,
+      "abilities": {},
       "inkable": true,
       "subtitle": "Sinister Visitor",
       "name": "Maleficent",

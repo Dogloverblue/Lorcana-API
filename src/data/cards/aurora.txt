@@ -45,7 +45,7 @@
         "Princess"
       ],
       "set-code": "TFC",
-      "abilities": null,
+      "abilities": {},
       "inkable": true,
       "subtitle": "Regal Princess",
       "image-urls": [{

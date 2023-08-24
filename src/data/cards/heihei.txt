@@ -13,7 +13,7 @@
       "Ally"
     ],
     "set-code": "TFC",
-    "abilities": null,
+    "abilities": {},
     "inkable": true,
     "subtitle": "Boat Snack",
     "image-urls": [{

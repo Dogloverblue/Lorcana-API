@@ -14,7 +14,7 @@
       "Sorcerer"
     ],
     "set-code": "TFC",
-    "abilities": null,
+    "abilities": {},
     "inkable": true,
     "subtitle": "Wicked Sorcerer",
     "image-urls": [{

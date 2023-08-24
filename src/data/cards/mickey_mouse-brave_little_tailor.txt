@@ -13,7 +13,7 @@
       "Hero"
     ],
     "set-code": "TFC",
-    "abilities": null,
+    "abilities": {},
     "inkable": true,
     "subtitle": "Brave Little Tailor",
     "image-urls": [{

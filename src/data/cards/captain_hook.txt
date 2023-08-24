@@ -81,7 +81,7 @@
         "Captain"
       ],
       "set-code": "TFC",
-      "abilities": null,
+      "abilities": {},
       "inkable": true,
       "subtitle": "Forceful Duelist",
       "image-urls": [{

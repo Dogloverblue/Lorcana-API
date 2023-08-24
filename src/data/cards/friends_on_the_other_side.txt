@@ -1,5 +1,5 @@
 {
-    "abilities": null,
+    "abilities": {},
     "set": "The First Chapter",
     "inkable": true,
     "color": "Amethyst",

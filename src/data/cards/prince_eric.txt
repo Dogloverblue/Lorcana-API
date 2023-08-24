@@ -14,7 +14,7 @@
       "Prince"
     ],
     "set-code": "TFC",
-    "abilities": null,
+    "abilities": {},
     "inkable": true,
     "subtitle": "Dashing and Brave",
     "image-urls": [{
