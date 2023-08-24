@@ -8,7 +8,7 @@
       "artist": "Kenneth Anderson",
       "willpower": 4,
       "type": "Character",
-      "flavor_text": "Sometimes you gotta give it the ol' jump and hyuck.",
+      "flavor-text": "Sometimes you gotta give it the ol' jump and hyuck.",
       "subtypes": [
         "Dreamborn",
         "Hero"

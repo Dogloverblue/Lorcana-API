@@ -7,7 +7,7 @@
     "artist": "Nicholas Kole",
     "willpower": 3,
     "type": "character",
-    "flavor_text": "When she stops by, misery is company.",
+    "flavor-text": "When she stops by, misery is company.",
     "subtypes": [
       "Storyborn",
       "Villain"

@@ -38,7 +38,7 @@
       "artist": "unknown",
       "willpower": 4,
       "type": "Character",
-      "flavor_text": "\\\"The best plans involve a little danger. Just not for me.\\\"",
+      "flavor-text": "\\\"The best plans involve a little danger. Just not for me.\\\"",
       "subtypes": [
         "Storyborn",
         "Villain"

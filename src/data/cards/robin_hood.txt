@@ -7,7 +7,7 @@
     "artist": "John Loren",
     "willpower": 4,
     "type": "character",
-    "flavor_text": "\"We never rob. We just sort of borrow a bit from those who can afford it.\"",
+    "flavor-text": "\"We never rob. We just sort of borrow a bit from those who can afford it.\"",
     "subtypes": [
       "Storyborn",
       "Hero"

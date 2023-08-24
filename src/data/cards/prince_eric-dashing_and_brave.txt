@@ -7,7 +7,7 @@
     "artist": "Cristian Romero",
     "willpower": 3,
     "type": "Character",
-    "flavor_text": "\\\"I lost her once! I'm not gonna lose her again!\\\"",
+    "flavor-text": "\\\"I lost her once! I'm not gonna lose her again!\\\"",
     "subtypes": [
       "Storyborn",
       "Hero",

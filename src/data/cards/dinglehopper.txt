@@ -15,6 +15,6 @@
     "name": "Dinglehopper",
     "ink-cost": 1,
     "type": "Item",
-    "flavor_text": "Enjoy the finest of human hairstyles!",
+    "flavor-text": "Enjoy the finest of human hairstyles!",
     "set-code": "TFC"
   }

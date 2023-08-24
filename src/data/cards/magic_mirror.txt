@@ -14,6 +14,6 @@
     "name": "Magic Mirror",
     "ink-cost": 2,
     "type": "Item",
-    "flavor_text": "\\\"What wouldst thou know, my Queen?\\\"",
+    "flavor-text": "\\\"What wouldst thou know, my Queen?\\\"",
     "set-code": "TFC"
   }

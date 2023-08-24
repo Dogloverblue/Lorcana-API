@@ -7,7 +7,7 @@
     "artist": "Brian Weiyz",
     "willpower": 2,
     "type": "Character",
-    "flavor_text": "\"Excitment... adventure... danger lurking around ever cor- AAAAAGGH!\"",
+    "flavor-text": "\"Excitment... adventure... danger lurking around ever cor- AAAAAGGH!\"",
     "subtypes": [
       "Storyborn",
       "Ally"

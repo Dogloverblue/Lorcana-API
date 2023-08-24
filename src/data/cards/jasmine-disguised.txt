@@ -7,7 +7,7 @@
     "artist": "R. La Barbera/L. Giammichele",
     "willpower": 3,
     "type": "Character",
-    "flavor_text": "\\\"Try to understand. I've never done a thing on my own. I've never had any real friends.... I've never even been outside the palace walls.\\\"",
+    "flavor-text": "\\\"Try to understand. I've never done a thing on my own. I've never had any real friends.... I've never even been outside the palace walls.\\\"",
     "subtypes": [
       "Storyborn",
       "Princess"

@@ -14,6 +14,6 @@
     "name": "Develop Your Brain",
     "ink-cost": 1,
     "type": "Action",
-    "flavor_text": "\"Knowledge, wisdom-there's the real power!\" -Merlin",
+    "flavor-text": "\"Knowledge, wisdom-there's the real power!\" -Merlin",
     "set-code": "TFC"
   }

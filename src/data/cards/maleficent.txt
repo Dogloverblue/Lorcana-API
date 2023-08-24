@@ -128,7 +128,7 @@
       "artist": "Nicholas Kole",
       "willpower": 4,
       "type": "Character",
-      "flavor_text": "\"The princess shall indeed grow in grace and beauty, beloved by all who know her. But before the sun sets on her sixteenth birthday, she shall prick her finger on the spindle of a spinning wheel...\"",
+      "flavor-text": "\"The princess shall indeed grow in grace and beauty, beloved by all who know her. But before the sun sets on her sixteenth birthday, she shall prick her finger on the spindle of a spinning wheel...\"",
       "subtypes": [
         "Storyborn",
         "Villain",

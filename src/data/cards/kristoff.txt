@@ -7,7 +7,7 @@
     "artist": "Ron Baird",
     "willpower": 3,
     "type": "Character",
-    "flavor_text": "Kristoff: \"You want to talk about a supply and demand problem? I sell ice for a living\" Anna: \"Ooh, that's a rough buisness to be in right now. I mean, that is really-ah, mm. That's unfortunate.\"",
+    "flavor-text": "Kristoff: \"You want to talk about a supply and demand problem? I sell ice for a living\" Anna: \"Ooh, that's a rough buisness to be in right now. I mean, that is really-ah, mm. That's unfortunate.\"",
     "subtypes": [
       "Storyborn",
       "Ally"

@@ -7,7 +7,7 @@
     "artist": "Marcell Berg",
     "willpower": 2,
     "type": "character",
-    "flavor_text": "He loves to make light of a foe's predicament",
+    "flavor-text": "He loves to make light of a foe's predicament",
     "subtypes": [
       "Dreamborn",
       "Villain",

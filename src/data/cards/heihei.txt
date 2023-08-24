@@ -7,7 +7,7 @@
     "artist": "Jenna Gray",
     "willpower": 2,
     "type": "Character",
-    "flavor_text": "\\\"Sometimes, our strengths lie beneath the surface. Far beneath, in some cases...\\\" -Moana",
+    "flavor-text": "\\\"Sometimes, our strengths lie beneath the surface. Far beneath, in some cases...\\\" -Moana",
     "subtypes": [
       "Storyborn",
       "Ally"

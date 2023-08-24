@@ -8,7 +8,7 @@
       "artist": "Grace Tran",
       "willpower": 4,
       "type": "Character",
-      "flavor_text": "\\\"Enchantee. A tip of the hat from Dr. Facilier..\\\"",
+      "flavor-text": "\\\"Enchantee. A tip of the hat from Dr. Facilier..\\\"",
       "subtypes": [
         "Storyborn",
         "Villian",

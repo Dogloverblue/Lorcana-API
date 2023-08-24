@@ -38,7 +38,7 @@
       "artist": "Jake Parker",
       "willpower": 5,
       "type": "Character",
-      "flavor_text": "\\\"Enough skulking about. It's time to show that sniveling sultan what a sorcerer can do.\\\"",
+      "flavor-text": "\\\"Enough skulking about. It's time to show that sniveling sultan what a sorcerer can do.\\\"",
       "subtypes": [
         "Dreamborn",
         "Villain",

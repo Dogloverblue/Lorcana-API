@@ -38,7 +38,7 @@
       "artist": null,
       "willpower": 4,
       "type": "Character",
-      "flavor_text": "\\\"...\\\"",
+      "flavor-text": "\\\"...\\\"",
       "subtypes": [
         "Storyborn",
         "Hero",

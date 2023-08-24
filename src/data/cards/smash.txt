@@ -15,6 +15,6 @@
     "name": "Smash",
     "ink-cost": 3,
     "type": "Action",
-    "flavor_text": "\\\"Go away!\\\"",
+    "flavor-text": "\\\"Go away!\\\"",
     "set-code": "TFC"
   }

@@ -7,7 +7,7 @@
     "artist": "Hadjie Joos",
     "willpower": 2,
     "type": "Character",
-    "flavor_text": "\\\"When I want your opinion, I will give it to you\\\"",
+    "flavor-text": "\\\"When I want your opinion, I will give it to you\\\"",
     "subtypes": [
       "Dreamborn",
       "Villain",

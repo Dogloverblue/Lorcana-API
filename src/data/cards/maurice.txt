@@ -7,7 +7,7 @@
     "artist": "unknown",
     "willpower": 7,
     "type": "Character",
-    "flavor_text": null,
+    "flavor-text": null,
     "subtypes": [
       "Dreamborn",
       "Mentor",

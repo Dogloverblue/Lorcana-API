@@ -8,7 +8,7 @@
       "artist": "Kenneth Anderson",
       "willpower": 3,
       "type": "Character",
-      "flavor_text": "\\\"Who you callin' boisterous, buster?\\\"",
+      "flavor-text": "\\\"Who you callin' boisterous, buster?\\\"",
       "subtypes": ["Storyborn"],
       "set-code": "TFC",
       "abilities": null,

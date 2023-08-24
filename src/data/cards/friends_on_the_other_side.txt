@@ -15,6 +15,6 @@
     "name": "Friends On The Other Side",
     "ink-cost": 3,
     "type": "Action - Song",
-    "flavor_text": "The cards, the cards\\nthecards will tell...",
+    "flavor-text": "The cards, the cards\\nthecards will tell...",
     "set-code": "TFC"
   }

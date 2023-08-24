@@ -15,6 +15,6 @@
     "name": "The Beast Is Mine!",
     "ink-cost": 3,
     "type": "Action",
-    "flavor_text": "\\\"It's only fitting that the finest hunter get the foulest beast!\\\" -Gatson",
+    "flavor-text": "\\\"It's only fitting that the finest hunter get the foulest beast!\\\" -Gatson",
     "set-code": "TFC"
   }

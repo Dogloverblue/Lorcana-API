@@ -15,6 +15,6 @@
     "name": "Frying Pan",
     "ink-cost": 2,
     "type": "Item",
-    "flavor_text": "It's a fine piece of cookware, but as a weapon it's truly stunning.",
+    "flavor-text": "It's a fine piece of cookware, but as a weapon it's truly stunning.",
     "set-code": "TFC"
   }

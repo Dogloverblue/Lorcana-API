@@ -7,7 +7,7 @@
     "artist": "unknown",
     "willpower": 3,
     "type": "Character",
-    "flavor_text": "\"I'm Olaf and I like warm hugs!\"",
+    "flavor-text": "\"I'm Olaf and I like warm hugs!\"",
     "subtypes": [
       "Storyborn",
       "Ally"

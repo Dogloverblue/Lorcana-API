@@ -7,7 +7,7 @@
     "artist": "Marcel Berg",
     "willpower": 3,
     "type": "Character",
-    "flavor_text": "\\\"You gotta admit, that was pretty heroic.\\\"",
+    "flavor-text": "\\\"You gotta admit, that was pretty heroic.\\\"",
     "subtypes": [
       "Dreamborn",
       "Hero",

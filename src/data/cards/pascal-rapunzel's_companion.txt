@@ -7,7 +7,7 @@
     "artist": "Brian Weidz",
     "willpower": 1,
     "type": "Character",
-    "flavor_text": "A true friend is always there for you, whether you can see them or not.",
+    "flavor-text": "A true friend is always there for you, whether you can see them or not.",
     "subtypes": [
       "Storyborn",
       "Ally"

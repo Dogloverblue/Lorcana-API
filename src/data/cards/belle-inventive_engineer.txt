@@ -7,7 +7,7 @@
     "artist": "Gabriel Romero / Pia Smith",
     "willpower": 3,
     "type": "Character",
-    "flavor_text": "A little ingenuity and a lot of heart will take you far in this world.",
+    "flavor-text": "A little ingenuity and a lot of heart will take you far in this world.",
     "subtypes": [
       "Dreamborn",
       "Hero",

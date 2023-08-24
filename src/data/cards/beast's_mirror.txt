@@ -15,6 +15,6 @@
     "name": "Beast's Mirror",
     "ink-cost": 2,
     "type": "Item",
-    "flavor_text": "Ashamed of his monstrous form, the Beast concealed himself inside his castle, with a magic mirror as his only window to the outside world.",
+    "flavor-text": "Ashamed of his monstrous form, the Beast concealed himself inside his castle, with a magic mirror as his only window to the outside world.",
     "set-code": "TFC"
   }

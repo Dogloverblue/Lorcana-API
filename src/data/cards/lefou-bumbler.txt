@@ -7,7 +7,7 @@
     "artist": "Andrey Chomak",
     "willpower": 2,
     "type": "Character",
-    "flavor_text": "You need a good today to be a proper bad guy",
+    "flavor-text": "You need a good today to be a proper bad guy",
     "subtypes": [
       "Storyborn",
       "Ally"

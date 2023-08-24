@@ -7,7 +7,7 @@
     "artist": "Luis Huerta",
     "willpower": 6,
     "type": "Character",
-    "flavor_text": "Relax, enjoy the trip... and don't get any ideas!",
+    "flavor-text": "Relax, enjoy the trip... and don't get any ideas!",
     "subtypes": [
       "Storyborn",
       "Alien",

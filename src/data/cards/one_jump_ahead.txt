@@ -14,6 +14,6 @@
     "name": "One Jump Ahead",
     "ink-cost": 2,
     "type": "Action-Song",
-    "flavor_text": "Gotta eat to live, gotta steal to eat- Tell you all about it when I got the time",
+    "flavor-text": "Gotta eat to live, gotta steal to eat- Tell you all about it when I got the time",
     "set-code": "TFC"
   }

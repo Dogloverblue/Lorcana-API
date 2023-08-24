@@ -7,7 +7,7 @@
     "artist": "Nicolas Kole",
     "willpower": 5,
     "type": "character",
-    "flavor_text": "When defeat looms and victory hangs by a thread, a hero bolts to the rescue, patching things up through shear determination.",
+    "flavor-text": "When defeat looms and victory hangs by a thread, a hero bolts to the rescue, patching things up through shear determination.",
     "subtypes": [
       "Dreamborn",
       "Hero"

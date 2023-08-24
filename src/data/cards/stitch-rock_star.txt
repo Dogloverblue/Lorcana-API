@@ -7,7 +7,7 @@
     "artist": "Simangaliso Sibaya",
     "willpower": 5,
     "type": "character",
-    "flavor_text": "The best part about a beachside concert is that there's always room for one more.",
+    "flavor-text": "The best part about a beachside concert is that there's always room for one more.",
     "subtypes": [
       "Floodborn",
       "Hero",

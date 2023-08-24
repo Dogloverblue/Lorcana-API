@@ -7,7 +7,7 @@
     "artist": "unknown",
     "willpower": 4,
     "type": "Character",
-    "flavor_text": "\\\"I'm the bounciest bouncer that ever bounced!\\\"",
+    "flavor-text": "\\\"I'm the bounciest bouncer that ever bounced!\\\"",
     "subtypes": [
       "Storyborn",
       "Tigger"

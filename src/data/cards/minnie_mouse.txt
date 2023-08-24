@@ -8,7 +8,7 @@
       "artist": "Kendall Hale",
       "willpower": 3,
       "type": "Character",
-      "flavor_text": "Wherever the princess goes, her musketeers are... well, they're around somewhere, probably.",
+      "flavor-text": "Wherever the princess goes, her musketeers are... well, they're around somewhere, probably.",
       "subtypes": [
         "Dreamborn",
         "Princess"

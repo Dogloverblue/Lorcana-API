@@ -15,6 +15,6 @@
     "name": "Lantern",
     "ink-cost": 2,
     "type": "Item",
-    "flavor_text": "Lanterns fill the sky on one special night, beacons of hope and love",
+    "flavor-text": "Lanterns fill the sky on one special night, beacons of hope and love",
     "set-code": "TFC"
   }

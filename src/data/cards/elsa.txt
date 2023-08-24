@@ -8,7 +8,7 @@
       "artist": "Nicholas Kole",
       "willpower": 3,
       "type": "character",
-      "flavor_text": "Recreated by magical ink, Elsa found herself in an unfamiliar new world. Fortunately, ice works the same way everywhere.",
+      "flavor-text": "Recreated by magical ink, Elsa found herself in an unfamiliar new world. Fortunately, ice works the same way everywhere.",
       "subtypes": [
         "Dreamborn",
         "Hero",

@@ -7,7 +7,7 @@
     "artist": "Nicholas Kole",
     "willpower": 5,
     "type": "Character",
-    "flavor_text": null,
+    "flavor-text": null,
     "subtypes": [
       "Floodborn",
       "Hero"

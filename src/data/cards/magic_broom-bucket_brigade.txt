@@ -7,7 +7,7 @@
     "artist": "Dav Augereau / Guykua Ruwa",
     "willpower": 2,
     "type": "Character",
-    "flavor_text": "In the immense story-forge known as the Great Illuminary, there is always work to be done.",
+    "flavor-text": "In the immense story-forge known as the Great Illuminary, there is always work to be done.",
     "subtypes": [
       "Dreamborn",
       "Broom"

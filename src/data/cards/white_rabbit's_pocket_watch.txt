@@ -15,6 +15,6 @@
     "name": "White Rabbit's Pocket Watch",
     "ink-cost": 3,
     "type": "Item",
-    "flavor_text": "\\\"No wonder you're late. Why, this watch is exactly two days slow\\\"",
+    "flavor-text": "\\\"No wonder you're late. Why, this watch is exactly two days slow\\\"",
     "set-code": "TFC"
   }

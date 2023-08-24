@@ -7,7 +7,7 @@
     "artist": "Cam Kendall",
     "willpower": 2,
     "type": "Character",
-    "flavor_text": "They may seem useless, but they came with the castle.",
+    "flavor-text": "They may seem useless, but they came with the castle.",
     "subtypes": [
       "Storyborn",
       "Ally"

@@ -7,7 +7,7 @@
     "artist": "unknown",
     "willpower": 5,
     "type": "Character",
-    "flavor_text": "\"Created something? Ha! But that would be irresponsible and unethical. I would never, ever make more than one.\"",
+    "flavor-text": "\"Created something? Ha! But that would be irresponsible and unethical. I would never, ever make more than one.\"",
     "subtypes": [
       "Dreambron",
       "Alien",

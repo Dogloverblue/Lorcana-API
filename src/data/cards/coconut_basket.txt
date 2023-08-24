@@ -15,6 +15,6 @@
     "name": "Coconut Basket",
     "ink-cost": 2,
     "type": "Item",
-    "flavor_text": "The coconut is a versatile gift from the gods, used to make nearly everything - including gift baskets to carry more coconuts.",
+    "flavor-text": "The coconut is a versatile gift from the gods, used to make nearly everything - including gift baskets to carry more coconuts.",
     "set-code": "TFC"
   }
