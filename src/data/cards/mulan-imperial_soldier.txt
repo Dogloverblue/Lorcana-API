@@ -7,7 +7,7 @@
     "artist": "unknown",
     "willpower": 5,
     "type": "Character",
-    "flavor-text": null,
+    "flavor-text": "",
     "subtypes": [
       "Storyborn",
       "Hero",

@@ -7,7 +7,7 @@
     "artist": "Cookie",
     "willpower": 4,
     "type": "Character",
-    "flavor-text": null,
+    "flavor-text": "",
     "subtypes": [
       "Storyborn",
       "Hero",

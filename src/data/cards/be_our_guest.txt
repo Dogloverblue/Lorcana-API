@@ -15,6 +15,6 @@
     "name": "Be Our Guest",
     "ink-cost": 2,
     "type": "Action - Song",
-    "flavor-text": null,
+    "flavor-text": "",
     "set-code": "TFC"
   }
