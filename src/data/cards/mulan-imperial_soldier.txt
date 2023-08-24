@@ -1,4 +1,4 @@
-{"imperial_soldier": {
+{
     "traits": null,
     "set": "The First Chapter",
     "lore-value": 1,
@@ -26,4 +26,4 @@
     }],
     "name": "Mulan",
     "ink-cost": 5
-  }}
+  }

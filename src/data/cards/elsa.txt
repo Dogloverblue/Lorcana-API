@@ -61,35 +61,35 @@
       "rarity": "Common"
     },
     "spirit_oof_winter": {
-      "lore-value": 3,
-      "traits": ["Shift 6"],
-      "set": "The First Chapter",
-      "color": "Amethyst",
-      "strength": 4,
-      "artist": "Matthew Robert Davies",
-      "willpower": 6,
-      "type": "Character",
-      "subtypes": [
-        "Floodborn",
-        "Hero",
-        "Queen",
-        "Sorcerer"
-      ],
-      "set-code": "TFC",
-      "abilities": {"Deep Freeze": "When you play this character, excert up to 2 chosen characters. They can't ready at the start of their next turn."},
-      "inkable": false,
-      "subtitle": "Spirit Oof Winter",
-      "image-urls": {
-        "small": "https://lorcana-api.com/images/elsa/spirit_oof_winter/elsa-spirit_oof_winter-small.png",
-        "no-art": "https://lorcana-api.com/images/elsa/spirit_oof_winter/elsa-spirit_oof_winter-no-art.png",
-        "large": "https://lorcana-api.com/images/elsa/spirit_oof_winter/elsa-spirit_oof_winter-large.png",
-        "art-crop": "https://lorcana-api.com/images/elsa/spirit_oof_winter/elsa-spirit_oof_winter-art-crop.png",
-        "medium": "https://lorcana-api.com/images/elsa/spirit_oof_winter/elsa-spirit_oof_winter-medium.png"
-      },
-      "name": "Elsa",
-      "ink-cost": 8,
-      "flavor-text": "Ice is stronger than you think",
-      "rarity": "Legendary"
+     "lore-value": 3,
+    "traits": ["Shift 6"],
+    "set": "The First Chapter",
+    "color": "Amethyst",
+    "strength": 4,
+    "artist": "Matthew Robert Davies",
+    "willpower": 6,
+    "type": "Character",
+    "subtypes": [
+      "Floodborn",
+      "Hero",
+      "Queen",
+      "Sorcerer"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Deep Freeze": "When you play this character, excert up to 2 chosen characters. They can't ready at the start of their next turn."},
+    "inkable": false,
+    "subtitle": "Spirit of Winter",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/elsa/spirit_of_winter/elsa-spirit_of_winter-small.png",
+      "no-art": "https://lorcana-api.com/images/elsa/spirit_of_winter/elsa-spirit_of_winter-no-art.png",
+      "large": "https://lorcana-api.com/images/elsa/spirit_of_winter/elsa-spirit_of_winter-large.png",
+      "art-crop": "https://lorcana-api.com/images/elsa/spirit_of_winter/elsa-spirit_of_winter-art-crop.png",
+      "medium": "https://lorcana-api.com/images/elsa/spirit_of_winter/elsa-spirit_of_winter-medium.png"
+    },
+    "name": "Elsa",
+    "ink-cost": 8,
+    "flavor-text": "Ice is stronger than you think",
+    "rarity": "Legendary"
     },
     "queen_regent": {
       "lore-value": 1,

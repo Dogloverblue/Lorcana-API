@@ -53,7 +53,7 @@
         "art-crop": "https://lorcana-api.com/images/stich/abomination/stich-abomination-art-crop.png",
         "medium": "https://lorcana-api.com/images/stich/abomination/stich-abomination-medium.png"
       },
-      "name": "Stich",
+      "name": "Stitch",
       "ink-cost": 6,
       "flavor-text": "\"His destructive programming is taking effect. He will be irresisibly drawn to large cities, where he will back up sewers, reverse street signs, and steal everyone's left shoe.\" -Jumba Jookiba",
       "rarity": "Rare"

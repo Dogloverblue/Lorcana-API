@@ -1,0 +1,21 @@
+{
+    "set": "The First Chapter",
+    "color": "Amethyst",
+    "artist": "Cristian Romero",
+    "type": "Action",
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": false,
+    "effect": "Excert chosen opposing character",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/freeze/freeze-small.png",
+      "no-art": "https://lorcana-api.com/images/freeze/freeze-no-art.png",
+      "art-crop": "https://lorcana-api.com/images/freeze/freeze-art-crop.png",
+      "medium": "https://lorcana-api.com/images/freeze/freeze-medium.png",
+      "large": "https://lorcana-api.com/images/freeze/freeze-large.png"
+    },
+    "name": "Freeze",
+    "ink-cost": 2,
+    "flavor-text": "It's time for you to chill",
+    "rarity": "Common"
+  }

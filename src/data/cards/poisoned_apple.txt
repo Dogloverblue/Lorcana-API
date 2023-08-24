@@ -1,6 +1,6 @@
 {
     "set": "The First Chapter",
-    "color": "Amethyst",
+    "color": "Ruby",
     "artist": "Andrew Trabbold",
     "type": "Item",
     "set-code": "TFC",
