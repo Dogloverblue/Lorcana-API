@@ -30,7 +30,7 @@
       "rarity": "Rare"
     },
     "on_human_legs": {
-      "traits": null,
+      "traits": [],
       "set": "The First Chapter",
       "lore-value": 2,
       "color": "Amber",

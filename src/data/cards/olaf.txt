@@ -1,5 +1,5 @@
 {"friendly_snowman": {
-    "traits": null,
+    "traits": [],
     "set": "The First Chapter",
     "lore-value": 0,
     "color": "Amethyst",

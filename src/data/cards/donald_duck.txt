@@ -1,6 +1,6 @@
 {
     "boisterous_fowl": {
-      "traits": null,
+      "traits": [],
       "set": "The First Chapter",
       "lore-value": 1,
       "color": "Ruby",

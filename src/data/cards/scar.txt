@@ -30,7 +30,7 @@
       "rarity": "Rare"
     },
     "mastermind": {
-      "traits": null,
+      "traits": [],
       "set": "The First Chapter",
       "lore-value": 0,
       "color": "Sapphire",

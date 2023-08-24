@@ -1,5 +1,5 @@
 {"offical_ice_master": {
-    "traits": null,
+    "traits": [],
     "set": "The First Chapter",
     "lore-value": 0,
     "color": "Steel",

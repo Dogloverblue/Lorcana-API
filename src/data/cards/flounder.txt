@@ -1,5 +1,5 @@
 {"voice_of_reason": {
-    "traits": null,
+    "traits": [],
     "set": "The First Chapter",
     "lore-value": 1,
     "color": "Sapphire",

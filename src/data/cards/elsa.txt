@@ -1,6 +1,6 @@
 {
     "snow_queen": {
-      "traits": null,
+      "traits": [],
       "set": "The First Chapter",
       "lore-value": 1,
       "color": "Amethyst",

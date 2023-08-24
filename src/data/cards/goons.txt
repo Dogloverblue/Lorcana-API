@@ -1,5 +1,5 @@
 {"maleficent's_underlings": {
-    "traits": null,
+    "traits": [],
     "set": "The First Chapter",
     "lore-value": 1,
     "color": "Steel",

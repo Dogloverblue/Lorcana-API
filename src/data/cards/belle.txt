@@ -33,7 +33,7 @@
       "rarity": "Legendary"
     },
     "inventive_engineer": {
-      "traits": null,
+      "traits": [],
       "set": "The First Chapter",
       "lore-value": 2,
       "color": "Sapphire",

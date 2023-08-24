@@ -1,5 +1,5 @@
 {"miserable_as_usual": {
-    "traits": null,
+    "traits": [],
     "set": "The First Chapter",
     "lore-value": 1,
     "color": "Emerald",

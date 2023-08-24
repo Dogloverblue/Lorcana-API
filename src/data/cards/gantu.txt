@@ -1,5 +1,5 @@
 {"galactic_federation_captain": {
-    "traits": null,
+    "traits": [],
     "set": "The First Chapter",
     "lore-value": 2,
     "color": "Steel",
