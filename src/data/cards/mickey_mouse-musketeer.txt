@@ -1,6 +1,6 @@
 {
     "lore-value": 2,
-    "traits": [""],
+    "traits": ["Bodyguard"],
     "set": "The First Chapter",
     "color": "Steel",
     "strength": 2,

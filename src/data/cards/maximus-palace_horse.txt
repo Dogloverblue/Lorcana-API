@@ -1,7 +1,7 @@
 {
     "lore-value": 0,
     "traits": [
-      "Bodygyard",
+      "Bodyguard",
       "Support"
     ],
     "set": "The First Chapter",
