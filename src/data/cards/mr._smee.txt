@@ -9,7 +9,7 @@
     "type": "Character",
     "subtypes": [
       "Dreamborn",
-      "Ally ",
+      "Ally",
       "Pirate"
     ],
     "set-code": "TFC",

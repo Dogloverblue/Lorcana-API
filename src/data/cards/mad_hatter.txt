@@ -7,7 +7,7 @@
     "artist": "Rosa la Barvera",
     "willpower": 4,
     "type": "Character",
-    "subtypes": ["Storynborn"],
+    "subtypes": ["Storyborn"],
     "set-code": "TFC",
     "abilities": {"Tea Party": "Whenever this character is challenged, you may draw a card."},
     "inkable": true,

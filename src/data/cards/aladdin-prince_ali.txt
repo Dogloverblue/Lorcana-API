@@ -10,7 +10,7 @@
     "subtypes": [
       "Storyborn",
       "Hero",
-      "Princce"
+      "Prince"
     ],
     "set-code": "TFC",
     "abilities": {},

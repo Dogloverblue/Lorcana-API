@@ -9,7 +9,7 @@
     "type": "Character",
     "subtypes": [
       "Storyborn",
-      "Mentory"
+      "Mentor"
     ],
     "set-code": "TFC",
     "abilities": {"I Will Be With You": "When this character is banished, you may put this card into your inkwell facedown and excerted."},

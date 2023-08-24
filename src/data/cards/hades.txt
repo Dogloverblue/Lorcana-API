@@ -1,36 +1,34 @@
 {
     "king_of_olympus": {
-      "traits": [
-        "Shift 6 (You many pay 6? to play this on top of one of your characters named Hades.)",
-        "Sinister Plot This character get +1? for every other villain you have in play."
-      ],
-      "set": "The First Chapter",
       "lore-value": 1,
+      "traits": ["Shift 6"],
+      "set": "The First Chapter",
       "color": "Amber",
       "strength": 6,
-      "artist": "unknown",
+      "artist": "Alex Accorsi",
       "willpower": 7,
       "type": "Character",
-      "flavor-text": null,
       "subtypes": [
         "Floodborn",
-        "Villian",
+        "Villain",
         "King",
         "Deity"
       ],
       "set-code": "TFC",
-      "abilities": null,
+      "abilities": {"Sinister Plot": "This character gets +1{lore} for each other villain character you have in play."},
       "inkable": false,
       "subtitle": "King of Olympus",
-      "image-urls": [{
+      "image-urls": {
         "small": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-small.png",
         "no-art": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-no-art.png",
-        "large": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-large.png",
         "art-crop": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-art-crop.png",
-        "medium": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-medium.png"
-      }],
+        "medium": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-medium.png",
+        "large": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-large.png"
+      },
       "name": "Hades",
-      "ink-cost": 8
+      "ink-cost": 8,
+      "flavor-text": "\"Oh hey, I'm gonna need new buisness cards.\"",
+      "rarity": "Rare"
     },
     "infernal_schemer": {
       "lore-value": 2,

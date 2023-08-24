@@ -11,7 +11,7 @@
       "flavor-text": "\\\"Enchantee. A tip of the hat from Dr. Facilier..\\\"",
       "subtypes": [
         "Storyborn",
-        "Villian",
+        "Villain",
         "Sorcerer"
       ],
       "set-code": "TFC",

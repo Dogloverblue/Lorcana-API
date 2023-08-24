@@ -1,5 +1,5 @@
 {
-    "traits": "Challenger +2 \\(When challenging, this character gets +2*.\\)",
+    "traits": ["Challenger 2"],
     "set": "The First Chapter",
     "lore-value": 1,
     "color": "Steel",
@@ -15,7 +15,7 @@
       "Captain"
     ],
     "set-code": "TFC",
-    "abilities": null,
+    "abilities": {},
     "inkable": true,
     "subtitle": "Forceful Duelist",
     "image-urls": [{
