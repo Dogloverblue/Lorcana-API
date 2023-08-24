@@ -13,16 +13,16 @@
       "Ally"
     ],
     "set-code": "TFC",
-    "abilities": [{"Camouflage": "While you have another character in play, this character gains Evasive. (Only characters with Evasice chan challenge them.)"}],
+    "abilities": {"Camouflage": "While you have another character in play, this character gains Evasive. (Only characters with Evasice chan challenge them.)"},
     "inkable": true,
     "subtitle": "Rapunzel's Companion",
-    "image-urls": [{
+    "image-urls": {
       "small": "https://lorcana-api.com/images/pascal/rapunzel's_companion/pascal-rapunzel's_companion-small.png",
       "no-art": "https://lorcana-api.com/images/pascal/rapunzel's_companion/pascal-rapunzel's_companion-no-art.png",
       "large": "https://lorcana-api.com/images/pascal/rapunzel's_companion/pascal-rapunzel's_companion-large.png",
       "art-crop": "https://lorcana-api.com/images/pascal/rapunzel's_companion/pascal-rapunzel's_companion-art-crop.png",
       "medium": "https://lorcana-api.com/images/pascal/rapunzel's_companion/pascal-rapunzel's_companion-medium.png"
-    }],
+    },
     "name": "Pascal",
     "ink-cost": 1
   }}

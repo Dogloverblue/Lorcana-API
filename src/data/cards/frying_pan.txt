@@ -1,5 +1,5 @@
 {
-    "abilities": [{"CLANG!": "Banish this item - Chosen character can't challenge during their next turn."}],
+    "abilities": {"CLANG!": "Banish this item - Chosen character can't challenge during their next turn."},
     "set": "The First Chapter",
     "color": "Steel",
     "inkable": true,

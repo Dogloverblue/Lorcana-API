@@ -1,17 +1,17 @@
 {
-    "abilities": [{"Consider The Coconut": "Whenever you play a character, you may remove up to 2 damage from chosen character."}],
+    "abilities": {"Consider The Coconut": "Whenever you play a character, you may remove up to 2 damage from chosen character."},
     "set": "The First Chapter",
     "color": "Sapphire",
     "inkable": true,
     "artist": "Milica Celikovic",
     "effect": null,
-    "image-urls": [{
+    "image-urls": {
       "small": "https://lorcana-api.com/images/coconut_basket/coconut_basket-small.png",
       "no-art": "https://lorcana-api.com/images/coconut_basket/coconut_basket-no-art.png",
       "large": "https://lorcana-api.com/images/coconut_basket/coconut_basket-large.png",
       "art-crop": "https://lorcana-api.com/images/coconut_basket/coconut_basket-art-crop.png",
       "medium": "https://lorcana-api.com/images/coconut_basket/coconut_basket-medium.png"
-    }],
+    },
     "name": "Coconut Basket",
     "ink-cost": 2,
     "type": "Item",

@@ -45,16 +45,16 @@
         "Princess"
       ],
       "set-code": "TFC",
-      "abilities": [{"Voiceless": "This character can't {t} to sing songs."}],
+      "abilities": {"Voiceless": "This character can't {t} to sing songs."},
       "inkable": true,
       "subtitle": "On Human Legs",
-      "image-urls": [{
+      "image-urls": {
         "small": "https://lorcana-api.com/images/ariel/on_human_legs/ariel-on_human_legs-small.png",
         "no-art": "https://lorcana-api.com/images/ariel/on_human_legs/ariel-on_human_legs-no-art.png",
         "large": "https://lorcana-api.com/images/ariel/on_human_legs/ariel-on_human_legs-large.png",
         "art-crop": "https://lorcana-api.com/images/ariel/on_human_legs/ariel-on_human_legs-art-crop.png",
         "medium": "https://lorcana-api.com/images/ariel/on_human_legs/ariel-on_human_legs-medium.png"
-      }],
+      },
       "name": "Ariel",
       "ink-cost": 4
     },

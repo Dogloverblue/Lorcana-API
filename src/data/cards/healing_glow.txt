@@ -2,15 +2,15 @@
     "set": "The First Chapter",
     "color": "Amber",
     "inkable": true,
-    "artist": "unknown",
+    "artist": "Philipp Kruse",
     "effect": "Remove up to 2 damage from chosen character",
-    "image-urls": [{
+    "image-urls": {
       "small": "https://lorcana-api.com/images/healing_glow/healing_glow-small.png",
       "no-art": "https://lorcana-api.com/images/healing_glow/healing_glow-no-art.png",
       "large": "https://lorcana-api.com/images/healing_glow/healing_glow-large.png",
       "art-crop": "https://lorcana-api.com/images/healing_glow/healing_glow-art-crop.png",
       "medium": "https://lorcana-api.com/images/healing_glow/healing_glow-medium.png"
-    }],
+    },
     "name": "Healing Glow",
     "ink-cost": 1,
     "type": "Action",

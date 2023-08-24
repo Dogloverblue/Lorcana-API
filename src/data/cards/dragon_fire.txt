@@ -2,15 +2,15 @@
     "set": "The First Chapter",
     "color": "Ruby",
     "inkable": true,
-    "artist": "unknown",
+    "artist": "Luis Huerta",
     "effect": "Banish chosen character",
-    "image-urls": [{
+    "image-urls": {
       "small": "https://lorcana-api.com/images/dragon_fire/dragon_fire-small.png",
       "no-art": "https://lorcana-api.com/images/dragon_fire/dragon_fire-no-art.png",
       "large": "https://lorcana-api.com/images/dragon_fire/dragon_fire-large.png",
       "art-crop": "https://lorcana-api.com/images/dragon_fire/dragon_fire-art-crop.png",
       "medium": "https://lorcana-api.com/images/dragon_fire/dragon_fire-medium.png"
-    }],
+    },
     "name": "Dragon Fire",
     "ink-cost": 5,
     "type": "Action",

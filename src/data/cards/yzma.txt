@@ -14,16 +14,16 @@
       "Sorcerer"
     ],
     "set-code": "TFC",
-    "abilities": [{"You're Excused": "Whenever this character quests, look at the top card of your deck. Put it on either the top or the bottom of your deck"}],
+    "abilities": {"You're Excused": "Whenever this character quests, look at the top card of your deck. Put it on either the top or the bottom of your deck"},
     "inkable": true,
     "subtitle": "Alchemist",
-    "image-urls": [{
+    "image-urls": {
       "small": "https://lorcana-api.com/images/yzma/alchemist/yzma-alchemist-small.png",
       "no-art": "https://lorcana-api.com/images/yzma/alchemist/yzma-alchemist-no-art.png",
       "large": "https://lorcana-api.com/images/yzma/alchemist/yzma-alchemist-large.png",
       "art-crop": "https://lorcana-api.com/images/yzma/alchemist/yzma-alchemist-art-crop.png",
       "medium": "https://lorcana-api.com/images/yzma/alchemist/yzma-alchemist-medium.png"
-    }],
+    },
     "name": "Yzma",
     "ink-cost": 2
   }}

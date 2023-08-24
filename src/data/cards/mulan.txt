@@ -4,7 +4,7 @@
     "lore-value": 1,
     "color": "Ruby",
     "strength": 4,
-    "artist": "unknown",
+    "artist": "Mel Milton",
     "willpower": 5,
     "type": "Character",
     "flavor-text": "",
@@ -14,16 +14,16 @@
       "Princess"
     ],
     "set-code": "TFC",
-    "abilities": [{"Lead By Example": "During your turn, whenever this character banishes another character in a challenge, your other characters get +1? this turn."}],
+    "abilities": {"Lead By Example": "During your turn, whenever this character banishes another character in a challenge, your other characters get +1? this turn."},
     "inkable": true,
     "subtitle": "Imperial Soldier",
-    "image-urls": [{
+    "image-urls": {
       "small": "https://lorcana-api.com/images/mulan/imperial_soldier/mulan-imperial_soldier-small.png",
       "no-art": "https://lorcana-api.com/images/mulan/imperial_soldier/mulan-imperial_soldier-no-art.png",
       "large": "https://lorcana-api.com/images/mulan/imperial_soldier/mulan-imperial_soldier-large.png",
       "art-crop": "https://lorcana-api.com/images/mulan/imperial_soldier/mulan-imperial_soldier-art-crop.png",
       "medium": "https://lorcana-api.com/images/mulan/imperial_soldier/mulan-imperial_soldier-medium.png"
-    }],
+    },
     "name": "Mulan",
     "ink-cost": 5
   }}

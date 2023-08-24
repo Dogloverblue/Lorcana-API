@@ -15,16 +15,16 @@
         "Alien"
       ],
       "set-code": "TFC",
-      "abilities": [{"Adoring Fans": "Whenever you play a character with ink cost 2 or less, you may exert it to draw a card."}],
+      "abilities": {"Adoring Fans": "Whenever you play a character with ink cost 2 or less, you may exert it to draw a card."},
       "inkable": true,
       "subtitle": "Rock Star",
-      "image-urls": [{
+      "image-urls": {
         "small": "https://lorcana-api.com/images/stitch/rock_star/stitch-rock_star-small.png",
         "no-art": "https://lorcana-api.com/images/stitch/rock_star/stitch-rock_star-no-art.png",
         "large": "https://lorcana-api.com/images/stitch/rock_star/stitch-rock_star-large.png",
         "art-crop": "https://lorcana-api.com/images/stitch/rock_star/stitch-rock_star-art-crop.png",
         "medium": "https://lorcana-api.com/images/stitch/rock_star/stitch-rock_star-medium.png"
-      }],
+      },
       "name": "Stitch",
       "ink-cost": 6
     },

@@ -13,16 +13,16 @@
       "Ally"
     ],
     "set-code": "TFC",
-    "abilities": [{"Loyal": "If you have a character named Gaston in play, you pay 1? less to play this character."}],
+    "abilities": {"Loyal": "If you have a character named Gaston in play, you pay 1? less to play this character."},
     "inkable": true,
     "subtitle": "Bumbler",
-    "image-urls": [{
+    "image-urls": {
       "small": "https://lorcana-api.com/images/lefou/bumbler/lefou-bumbler-small.png",
       "no-art": "https://lorcana-api.com/images/lefou/bumbler/lefou-bumbler-no-art.png",
       "large": "https://lorcana-api.com/images/lefou/bumbler/lefou-bumbler-large.png",
       "art-crop": "https://lorcana-api.com/images/lefou/bumbler/lefou-bumbler-art-crop.png",
       "medium": "https://lorcana-api.com/images/lefou/bumbler/lefou-bumbler-medium.png"
-    }],
+    },
     "name": "Lefou",
     "ink-cost": 2
   }

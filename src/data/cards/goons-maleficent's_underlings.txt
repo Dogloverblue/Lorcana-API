@@ -16,13 +16,13 @@
     "abilities": {},
     "inkable": true,
     "subtitle": "Maleficent's Underlings",
-    "image-urls": [{
+    "image-urls": {
       "small": "https://lorcana-api.com/images/goons/maleficent's_underlings/goons-maleficent's_underlings-small.png",
       "no-art": "https://lorcana-api.com/images/goons/maleficent's_underlings/goons-maleficent's_underlings-no-art.png",
       "large": "https://lorcana-api.com/images/goons/maleficent's_underlings/goons-maleficent's_underlings-large.png",
       "art-crop": "https://lorcana-api.com/images/goons/maleficent's_underlings/goons-maleficent's_underlings-art-crop.png",
       "medium": "https://lorcana-api.com/images/goons/maleficent's_underlings/goons-maleficent's_underlings-medium.png"
-    }],
+    },
     "name": "Goons",
     "ink-cost": 1
   }

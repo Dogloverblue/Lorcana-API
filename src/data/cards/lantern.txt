@@ -1,17 +1,17 @@
 {
-    "abilities": [{"Birthday Lights": "{t}- You play 1? less for the next character you play this turn"}],
+    "abilities": {"Birthday Lights": "{t}- You play 1? less for the next character you play this turn"},
     "set": "The First Chapter",
     "color": "Amber",
     "inkable": false,
     "artist": "Eri Welli",
     "effect": null,
-    "image-urls": [{
+    "image-urls": {
       "small": "https://lorcana-api.com/images/lantern/lantern-small.png",
       "no-art": "https://lorcana-api.com/images/lantern/lantern-no-art.png",
       "large": "https://lorcana-api.com/images/lantern/lantern-large.png",
       "art-crop": "https://lorcana-api.com/images/lantern/lantern-art-crop.png",
       "medium": "https://lorcana-api.com/images/lantern/lantern-medium.png"
-    }],
+    },
     "name": "Lantern",
     "ink-cost": 2,
     "type": "Item",

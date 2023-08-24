@@ -4,7 +4,7 @@
     "lore-value": 2,
     "color": "Emerald",
     "strength": 4,
-    "artist": "unknown",
+    "artist": "Milica Celikovic",
     "willpower": 5,
     "type": "Character",
     "flavor-text": "\"Created something? Ha! But that would be irresponsible and unethical. I would never, ever make more than one.\"",
