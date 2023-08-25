@@ -6,7 +6,7 @@
     "strength": 4,
     "artist": "John Loren",
     "willpower": 4,
-    "type": "character",
+    "type": "Character",
     "subtypes": [
       "Storyborn",
       "Hero"

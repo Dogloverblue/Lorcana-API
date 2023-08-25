@@ -12,9 +12,9 @@
       "Ally"
     ],
     "set-code": "TFC",
-    "abilities": {"Tastes Like Chicken": "When you play this character, you may remove up to 1 damage from chosen character"},
+    "abilities": {"Tastes Like Chicken": "When you play this character, you may remove up to 1 damage from chosen character."},
     "inkable": true,
-    "body-text": "TASTES LIKE CHICKEN: When you play this character, you may remove up to 1 damage from chosen character",
+    "body-text": "TASTES LIKE CHICKEN: When you play this character, you may remove up to 1 damage from chosen character.",
     "subtitle": "Grub Rustler",
     "image-urls": {
       "small": "https://lorcana-api.com/images/timon/grub_rustler/timon-grub_rustler-small.png",
@@ -25,6 +25,6 @@
     },
     "name": "Timon",
     "ink-cost": 1,
-    "flavor-text": "\"There's all manner of tasty treats",
+    "flavor-text": "\"There's all manner of tasty treats in the world-ya just gotta know where to look.",
     "rarity": "Common"
   }

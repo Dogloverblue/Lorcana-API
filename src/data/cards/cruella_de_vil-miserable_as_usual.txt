@@ -6,7 +6,7 @@
     "strength": 1,
     "artist": "Nicholas Kole",
     "willpower": 3,
-    "type": "character",
+    "type": "Character",
     "subtypes": [
       "Storyborn",
       "Villain"

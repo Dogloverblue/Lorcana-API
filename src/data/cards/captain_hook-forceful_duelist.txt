@@ -6,7 +6,7 @@
     "strength": 1,
     "artist": "Marcell Berg",
     "willpower": 2,
-    "type": "character",
+    "type": "Character",
     "subtypes": [
       "Dreamborn",
       "Villain",

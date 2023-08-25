@@ -26,6 +26,6 @@
     },
     "name": "Stitch",
     "ink-cost": 1,
-    "flavor-text": "Lili: \"David! I got a new dog!\" David: \"Auwe!.... You sure it's a dog?\" Lilo: \"Uh-huh. He used to be a collie before he got ran over.\"",
+    "flavor-text": "Lilo: \"David! I got a new dog!\" David: \"Auwe!... You sure it's a dog?\" Lilo: \"Uh-huh. He used to be a collie before he got ran over.\"",
     "rarity": "Common"
   }

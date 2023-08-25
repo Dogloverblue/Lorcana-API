@@ -6,7 +6,7 @@
     "strength": 5,
     "artist": "Nicolas Kole",
     "willpower": 5,
-    "type": "character",
+    "type": "Character",
     "subtypes": [
       "Dreamborn",
       "Hero"
