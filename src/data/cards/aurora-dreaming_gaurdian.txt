@@ -15,13 +15,14 @@
     "set-code": "TFC",
     "abilities": {"Protective Embrace": "Your other character gain Ward. (Opponents can't choose them except to challenge)"},
     "inkable": true,
+    "body-text": "Shift 3 (You may pay 3{ink} to play this on top of one of your characters named Aurora.) \nPROTECTIVE EMBRACE: Your other character gain Ward. (Opponents can't choose them except to challenge)",
     "subtitle": "Dreaming Gaurdian",
     "image-urls": {
       "small": "https://lorcana-api.com/images/aurora/dreaming_gaurdian/aurora-dreaming_gaurdian-small.png",
       "no-art": "https://lorcana-api.com/images/aurora/dreaming_gaurdian/aurora-dreaming_gaurdian-no-art.png",
+      "large": "https://lorcana-api.com/images/aurora/dreaming_gaurdian/aurora-dreaming_gaurdian-large.png",
       "art-crop": "https://lorcana-api.com/images/aurora/dreaming_gaurdian/aurora-dreaming_gaurdian-art-crop.png",
-      "medium": "https://lorcana-api.com/images/aurora/dreaming_gaurdian/aurora-dreaming_gaurdian-medium.png",
-      "large": "https://lorcana-api.com/images/aurora/dreaming_gaurdian/aurora-dreaming_gaurdian-large.png"
+      "medium": "https://lorcana-api.com/images/aurora/dreaming_gaurdian/aurora-dreaming_gaurdian-medium.png"
     },
     "name": "Aurora",
     "ink-cost": 5,

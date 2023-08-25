@@ -6,6 +6,7 @@
     "set-code": "TFC",
     "abilities": {"Now, Sing!": "Whenever you play a song, you may pay 1 {ink} to draw a card."},
     "inkable": false,
+    "body-text": "NOW, SING!: Whenever you play a song, you may pay 1 {ink} to draw a card.",
     "effect": "",
     "image-urls": {
       "small": "https://lorcana-api.com/images/ursula's_shell_necklace/ursula's_shell_necklace-small.png",

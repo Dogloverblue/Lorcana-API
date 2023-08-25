@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {"Cast My Spell!": "When you play this character, you may draw a card."},
     "inkable": true,
+    "body-text": "CAST MY SPELL!: When you play this character, you may draw a card.",
     "subtitle": "Sorceress",
     "image-urls": {
       "small": "https://lorcana-api.com/images/maleficent/sorceress/maleficent-sorceress-small.png",

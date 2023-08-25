@@ -3,6 +3,7 @@
     "color": "Sapphire",
     "inkable": true,
     "artist": "Milica Celikovic",
+    "body-text": "Put chosen character into thier player's inkwell facedown and excerted",
     "effect": "Put chosen character into thier player's inkwell facedown and excerted",
     "image-urls": {
       "small": "https://lorcana-api.com/images/let_it_go/let_it_go-small.png",

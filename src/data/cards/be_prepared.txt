@@ -6,6 +6,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": false,
+    "body-text": "Banish all Characters.",
     "effect": "Banish all Characters.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/be_prepared/be_prepared-small.png",

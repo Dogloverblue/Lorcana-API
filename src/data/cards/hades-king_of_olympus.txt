@@ -16,13 +16,14 @@
     "set-code": "TFC",
     "abilities": {"Sinister Plot": "This character gets +1{lore} for each other villain character you have in play."},
     "inkable": false,
+    "body-text": "Shift 6 (You may pay 6{ink} to play this on top of one of your characters named Hades.) \nSINISTER PLOT: This character gets +1{lore} for each other villain character you have in play.",
     "subtitle": "King of Olympus",
     "image-urls": {
       "small": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-small.png",
       "no-art": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-no-art.png",
+      "large": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-large.png",
       "art-crop": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-art-crop.png",
-      "medium": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-medium.png",
-      "large": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-large.png"
+      "medium": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-medium.png"
     },
     "name": "Hades",
     "ink-cost": 8,

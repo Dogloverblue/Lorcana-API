@@ -14,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "",
     "subtitle": "Official Ice Deliverer",
     "image-urls": {
       "small": "https://lorcana-api.com/images/sven/official_ice_deliverer/sven-official_ice_deliverer-small.png",

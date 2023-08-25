@@ -7,7 +7,6 @@
     "artist": "Nicholas Kole",
     "willpower": 3,
     "type": "character",
-    "flavor-text": "When she stops by, misery is company.",
     "subtypes": [
       "Storyborn",
       "Villain"
@@ -15,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {"You'll Be Sorry!": "When this character is challenged and banished, you may return chosen character to their player's hand."},
     "inkable": true,
+    "body-text": "YOU'LL BE SORRY!: When this character is challenged and banished, you may return chosen character to their player's hand.",
     "subtitle": "Miserable as Usual",
     "image-urls": {
       "small": "https://lorcana-api.com/images/cruella_de_vil/miserable_as_usual/cruella_de_vil-miserable_as_usual-small.png",
@@ -24,5 +24,6 @@
       "medium": "https://lorcana-api.com/images/cruella_de_vil/miserable_as_usual/cruella_de_vil-miserable_as_usual-medium.png"
     },
     "name": "Cruella De Vil",
+    "flavor-text": "When she stops by, misery is company.",
     "ink-cost": 2
   }

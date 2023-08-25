@@ -7,17 +7,18 @@
     "artist": "Alex Accorsi",
     "willpower": 7,
     "type": "Character",
-    "flavor-text": "",
     "subtypes": [
       "Dreamborn",
       "Mentor",
       "Inventor"
     ],
     "set-code": "TFC",
-    "abilities": 
-      {"Give It A Try": "Whenever this character quests, you pay 2? less for the next item you play this turn.",
-      "It Works!": "Whenever you play an item, you may draw a card."},
+    "abilities": {
+      "Give It A Try": "Whenever this character quests, you pay 2? less for the next item you play this turn.",
+      "It Works!": "Whenever you play an item, you may draw a card."
+    },
     "inkable": true,
+    "body-text": "GIVE IT A TRY: Whenever this character quests, you pay 2? less for the next item you play this turn.\nIT WORKS!: Whenever you play an item, you may draw a card.",
     "subtitle": "World-Famous Inventor",
     "image-urls": {
       "small": "https://lorcana-api.com/images/maurice/world-famous_inventor/maurice-world-famous_inventor-small.png",
@@ -27,5 +28,6 @@
       "medium": "https://lorcana-api.com/images/maurice/world-famous_inventor/maurice-world-famous_inventor-medium.png"
     },
     "name": "Maurice",
+    "flavor-text": "",
     "ink-cost": 6
   }

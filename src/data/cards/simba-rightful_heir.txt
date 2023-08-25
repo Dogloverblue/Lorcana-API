@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {"I Know What I Have To Do": "During your turn, whenever this character banishes another character in a challenge, you gain 1 lore."},
     "inkable": false,
+    "body-text": "I KNOW WHAT I HAVE TO DO: During your turn, whenever this character banishes another character in a challenge, you gain 1 lore.",
     "subtitle": "Rightful Heir",
     "image-urls": {
       "small": "https://lorcana-api.com/images/simba/rightful_heir/simba-rightful_heir-small.png",

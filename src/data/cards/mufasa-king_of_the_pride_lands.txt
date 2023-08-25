@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "",
     "subtitle": "King of the Pride Lands",
     "image-urls": {
       "small": "https://lorcana-api.com/images/mufasa/king_of_the_pride_lands/mufasa-king_of_the_pride_lands-small.png",

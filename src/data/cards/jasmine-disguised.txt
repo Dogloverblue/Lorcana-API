@@ -7,7 +7,6 @@
     "artist": "R. La Barbera/L. Giammichele",
     "willpower": 3,
     "type": "Character",
-    "flavor-text": "\\\"Try to understand. I've never done a thing on my own. I've never had any real friends.... I've never even been outside the palace walls.\\\"",
     "subtypes": [
       "Storyborn",
       "Princess"
@@ -15,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "",
     "subtitle": "Disguised",
     "image-urls": {
       "small": "https://lorcana-api.com/images/jasmine/disguised/jasmine-disguised-small.png",
@@ -24,5 +24,6 @@
       "medium": "https://lorcana-api.com/images/jasmine/disguised/jasmine-disguised-medium.png"
     },
     "name": "Jasmine",
+    "flavor-text": "\\\"Try to understand. I've never done a thing on my own. I've never had any real friends.... I've never even been outside the palace walls.\\\"",
     "ink-cost": 3
   }

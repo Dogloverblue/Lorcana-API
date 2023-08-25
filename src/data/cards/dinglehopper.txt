@@ -1,9 +1,12 @@
 {
-    "abilities": {"Straighten Hair": "{t}- Remove up to 1 damage from chosen character"},
     "set": "The First Chapter",
     "color": "Amber",
-    "inkable": true,
     "artist": "Eri Welli",
+    "type": "Item",
+    "set-code": "TFC",
+    "abilities": {"Straighten Hair": "{t}- Remove up to 1 damage from chosen character"},
+    "inkable": true,
+    "body-text": "STRAIGHTEN HAIR: {t}- Remove up to 1 damage from chosen character",
     "effect": null,
     "image-urls": {
       "small": "https://lorcana-api.com/images/dinglehopper/dinglehopper-small.png",
@@ -14,7 +17,5 @@
     },
     "name": "Dinglehopper",
     "ink-cost": 1,
-    "type": "Item",
-    "flavor-text": "Enjoy the finest of human hairstyles!",
-    "set-code": "TFC"
+    "flavor-text": "Enjoy the finest of human hairstyles!"
   }

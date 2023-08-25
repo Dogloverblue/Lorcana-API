@@ -16,6 +16,7 @@
     "set-code": "TFC",
     "abilities": {"Double The Powder!": "When you play this character, you may return an action card named Fire the Cannons! from your discard to your hand."},
     "inkable": false,
+    "body-text": "DOUBLE THE POWDER!: When you play this character, you may return an action card named Fire the Cannons! from your discard to your hand.",
     "subtitle": "Captain of the Jolly Roger",
     "image-urls": {
       "small": "https://lorcana-api.com/images/captain_hook/captain_of_the_jolly_roger/captain_hook-captain_of_the_jolly_roger-small.png",

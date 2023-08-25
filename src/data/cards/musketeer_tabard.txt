@@ -6,6 +6,7 @@
     "set-code": "TFC",
     "abilities": {"All For One And One For All": "Whenever one of your characters with Bodyguard is banished, you may draw a card"},
     "inkable": false,
+    "body-text": "ALL FOR ONE AND ONE FOR ALL: Whenever one of your characters with Bodyguard is banished, you may draw a card",
     "effect": "",
     "image-urls": {
       "small": "https://lorcana-api.com/images/musketeer_tabard/musketeer_tabard-small.png",

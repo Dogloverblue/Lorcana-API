@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {"It's Too Easy!": "When you play this character, each opponent loses 1 lore. You may draw a card for each 1 lore lost this way."},
     "inkable": false,
+    "body-text": "IT'S TOO EASY!: When you play this character, each opponent loses 1 lore. You may draw a card for each 1 lore lost this way.",
     "subtitle": "Power Hungry",
     "image-urls": {
       "small": "https://lorcana-api.com/images/ursula/power_hungry/ursula-power_hungry-small.png",

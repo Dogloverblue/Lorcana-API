@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {"Ohana": "When you play this character, you have 2 or more other characters in play, you may draw 2 cards."},
     "inkable": true,
+    "body-text": "OHANA: When you play this character, you have 2 or more other characters in play, you may draw 2 cards.",
     "subtitle": "Carefree Surfer",
     "image-urls": {
       "small": "https://lorcana-api.com/images/stitch/carefree_surfer/stitch-carefree_surfer-small.png",

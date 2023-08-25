@@ -6,6 +6,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": false,
+    "body-text": "Return chosen character to their player's hand.",
     "effect": "Return chosen character to their player's hand.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/mother_knows_best/mother_knows_best-small.png",

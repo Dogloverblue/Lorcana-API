@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "Reckless (This character can't quest and must challenge each turn if able.) ",
     "subtitle": "The Burning One",
     "image-urls": {
       "small": "https://lorcana-api.com/images/te_ka/the_burning_one/te_ka-the_burning_one-small.png",

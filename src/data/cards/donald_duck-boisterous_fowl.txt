@@ -7,11 +7,11 @@
     "artist": "Kenneth Anderson",
     "willpower": 3,
     "type": "Character",
-    "flavor-text": "\\\"Who you callin' boisterous, buster?\\\"",
     "subtypes": ["Storyborn"],
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "",
     "subtitle": "Boisterous Fowl",
     "image-urls": {
       "small": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/donald_duck-boisterous_fowl-small.png",
@@ -21,5 +21,6 @@
       "medium": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/donald_duck-boisterous_fowl-medium.png"
     },
     "name": "Donald Duck",
+    "flavor-text": "\\\"Who you callin' boisterous, buster?\\\"",
     "ink-cost": 2
   }

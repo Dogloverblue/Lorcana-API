@@ -6,6 +6,7 @@
     "set-code": "TFC",
     "abilities": {"Command": "{tap} - Chosen character gains Support this turn. (Whenever they quest, you may add their {strength} to another chosen character's {strength} this turn.)"},
     "inkable": true,
+    "body-text": "COMMAND: {tap} - Chosen character gains Support this turn. (Whenever they quest, you may add their {strength} to another chosen character's {strength} this turn.)",
     "effect": "",
     "image-urls": {
       "small": "https://lorcana-api.com/images/scepter_of_arendelle/scepter_of_arendelle-small.png",

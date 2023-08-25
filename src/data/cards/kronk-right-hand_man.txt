@@ -14,13 +14,14 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "",
     "subtitle": "Right-Hand Man",
     "image-urls": {
       "small": "https://lorcana-api.com/images/kronk/right-hand_man/kronk-right-hand_man-small.png",
       "no-art": "https://lorcana-api.com/images/kronk/right-hand_man/kronk-right-hand_man-no-art.png",
+      "large": "https://lorcana-api.com/images/kronk/right-hand_man/kronk-right-hand_man-large.png",
       "art-crop": "https://lorcana-api.com/images/kronk/right-hand_man/kronk-right-hand_man-art-crop.png",
-      "medium": "https://lorcana-api.com/images/kronk/right-hand_man/kronk-right-hand_man-medium.png",
-      "large": "https://lorcana-api.com/images/kronk/right-hand_man/kronk-right-hand_man-large.png"
+      "medium": "https://lorcana-api.com/images/kronk/right-hand_man/kronk-right-hand_man-medium.png"
     },
     "name": "Kronk",
     "ink-cost": 6,

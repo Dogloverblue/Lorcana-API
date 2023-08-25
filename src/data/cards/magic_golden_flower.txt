@@ -6,6 +6,7 @@
     "set-code": "TFC",
     "abilities": {"Healing Pollen": "Banish this item - Remove up to 3 damage from chosen character."},
     "inkable": true,
+    "body-text": "HEALING POLLEN: Banish this item - Remove up to 3 damage from chosen character.",
     "effect": "",
     "image-urls": {
       "small": "https://lorcana-api.com/images/magic_golden_flower/magic_golden_flower-small.png",

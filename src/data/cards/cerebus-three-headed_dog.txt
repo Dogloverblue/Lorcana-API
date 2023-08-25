@@ -11,6 +11,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "",
     "subtitle": "Three-Headed Dog",
     "image-urls": {
       "small": "https://lorcana-api.com/images/cerebus/three-headed_dog/cerebus-three-headed_dog-small.png",

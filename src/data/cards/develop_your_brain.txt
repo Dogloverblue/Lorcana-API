@@ -3,6 +3,7 @@
     "color": "Sapphire",
     "inkable": true,
     "artist": "Pao Yong",
+    "body-text": "Look at the top 2 cards of your deck. Put one into your hand and the other on the bottom of the deck.",
     "effect": "Look at the top 2 cards of your deck. Put one into your hand and the other on the bottom of the deck.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/develop_your_brain/develop_your_brain-small.png",

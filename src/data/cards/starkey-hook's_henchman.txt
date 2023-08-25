@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {"Aye Aye Captain": "While you have a Captain character gets +1 {lore}."},
     "inkable": true,
+    "body-text": "AYE AYE CAPTAIN: While you have a Captain character gets +1 {lore}.",
     "subtitle": "Hook's Henchman",
     "image-urls": {
       "small": "https://lorcana-api.com/images/starkey/hook's_henchman/starkey-hook's_henchman-small.png",

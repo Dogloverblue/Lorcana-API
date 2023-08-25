@@ -17,6 +17,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": " null \n null ",
     "subtitle": "Fiery Usurper",
     "image-urls": {
       "small": "https://lorcana-api.com/images/scar/fiery_usurper/scar-fiery_usurper-small.png",

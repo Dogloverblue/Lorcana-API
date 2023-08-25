@@ -15,13 +15,14 @@
     "set-code": "TFC",
     "abilities": {"We Can Fix It": "Whenever this character quests, you may ready your other Princess characters. They can't quest for the rest of this turn."},
     "inkable": true,
+    "body-text": "WE CAN FIX IT: Whenever this character quests, you may ready your other Princess characters. They can't quest for the rest of this turn.",
     "subtitle": "Of Motunui",
     "image-urls": {
       "small": "https://lorcana-api.com/images/moana/of_motunui/moana-of_motunui-small.png",
       "no-art": "https://lorcana-api.com/images/moana/of_motunui/moana-of_motunui-no-art.png",
+      "large": "https://lorcana-api.com/images/moana/of_motunui/moana-of_motunui-large.png",
       "art-crop": "https://lorcana-api.com/images/moana/of_motunui/moana-of_motunui-art-crop.png",
-      "medium": "https://lorcana-api.com/images/moana/of_motunui/moana-of_motunui-medium.png",
-      "large": "https://lorcana-api.com/images/moana/of_motunui/moana-of_motunui-large.png"
+      "medium": "https://lorcana-api.com/images/moana/of_motunui/moana-of_motunui-medium.png"
     },
     "name": "Moana",
     "ink-cost": 5,

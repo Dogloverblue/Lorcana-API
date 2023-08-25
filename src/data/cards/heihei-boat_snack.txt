@@ -7,7 +7,6 @@
     "artist": "Jenna Gray",
     "willpower": 2,
     "type": "Character",
-    "flavor-text": "\\\"Sometimes, our strengths lie beneath the surface. Far beneath, in some cases...\\\" -Moana",
     "subtypes": [
       "Storyborn",
       "Ally"
@@ -15,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "Support (When this character quests, you may add thier * to another chosen character's * this turn) (Whenever this character quests, you\u0003 may add their \u203b to another chosen character\u2018s \u203b this turn.) ",
     "subtitle": "Boat Snack",
     "image-urls": {
       "small": "https://lorcana-api.com/images/heihei/boat_snack/heihei-boat_snack-small.png",
@@ -24,5 +24,6 @@
       "medium": "https://lorcana-api.com/images/heihei/boat_snack/heihei-boat_snack-medium.png"
     },
     "name": "Heihei",
+    "flavor-text": "\\\"Sometimes, our strengths lie beneath the surface. Far beneath, in some cases...\\\" -Moana",
     "ink-cost": 1
   }

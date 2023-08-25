@@ -3,6 +3,7 @@
     "color": "Ruby",
     "inkable": true,
     "artist": "Luis Huerta",
+    "body-text": "Banish chosen character",
     "effect": "Banish chosen character",
     "image-urls": {
       "small": "https://lorcana-api.com/images/dragon_fire/dragon_fire-small.png",

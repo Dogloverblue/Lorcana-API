@@ -7,7 +7,6 @@
     "artist": "Gabriel Romero / Pia Smith",
     "willpower": 3,
     "type": "Character",
-    "flavor-text": "A little ingenuity and a lot of heart will take you far in this world.",
     "subtypes": [
       "Dreamborn",
       "Hero",
@@ -17,6 +16,7 @@
     "set-code": "TFC",
     "abilities": {"Tinker": "Whenever this character quests, you pay 1? less for the next item you play this turn."},
     "inkable": true,
+    "body-text": "TINKER: Whenever this character quests, you pay 1? less for the next item you play this turn.",
     "subtitle": "Inventive Engineer",
     "image-urls": {
       "small": "https://lorcana-api.com/images/belle/inventive_engineer/belle-inventive_engineer-small.png",
@@ -26,5 +26,6 @@
       "medium": "https://lorcana-api.com/images/belle/inventive_engineer/belle-inventive_engineer-medium.png"
     },
     "name": "Belle",
+    "flavor-text": "A little ingenuity and a lot of heart will take you far in this world.",
     "ink-cost": 3
   }

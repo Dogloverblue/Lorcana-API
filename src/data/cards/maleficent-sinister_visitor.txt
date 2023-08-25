@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "",
     "subtitle": "Sinister Visitor",
     "image-urls": {
       "small": "https://lorcana-api.com/images/maleficent/sinister_visitor/maleficent-sinister_visitor-small.png",

@@ -6,6 +6,7 @@
     "set-code": "TFC",
     "abilities": {"Take A Bite...": "1{ink}, Banish this item - Excert chosen character. If a princess character is chosen, banish her instead."},
     "inkable": false,
+    "body-text": "TAKE A BITE...: 1{ink}, Banish this item - Excert chosen character. If a princess character is chosen, banish her instead.",
     "effect": "",
     "image-urls": {
       "small": "https://lorcana-api.com/images/poisoned_apple/poisoned_apple-small.png",

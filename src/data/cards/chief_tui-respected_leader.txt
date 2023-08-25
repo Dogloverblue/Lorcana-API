@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "Support (Whenever this character quests, you\u0003 may add their \u203b to another chosen character\u2018s \u203b this turn.) ",
     "subtitle": "Respected Leader",
     "image-urls": {
       "small": "https://lorcana-api.com/images/chief_tui/respected_leader/chief_tui-respected_leader-small.png",

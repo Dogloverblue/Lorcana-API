@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": false,
+    "body-text": "",
     "subtitle": "Biding Her Time",
     "image-urls": {
       "small": "https://lorcana-api.com/images/maleficent/biding_her_time/maleficent-biding_her_time-small.png",

@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {"Guess What?": "When you play this character, you may draw a card, then choose and discard a card."},
     "inkable": true,
+    "body-text": "GUESS WHAT?: When you play this character, you may draw a card, then choose and discard a card.",
     "subtitle": "Future King",
     "image-urls": {
       "small": "https://lorcana-api.com/images/simba/future_king/simba-future_king-small.png",

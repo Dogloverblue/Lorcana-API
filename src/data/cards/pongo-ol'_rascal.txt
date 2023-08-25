@@ -14,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "Evasive (Only characters with Evasive can challenge this character.) ",
     "subtitle": "Ol' Rascal",
     "image-urls": {
       "small": "https://lorcana-api.com/images/pongo/ol'_rascal/pongo-ol'_rascal-small.png",

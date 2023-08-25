@@ -6,6 +6,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": false,
+    "body-text": "Return an action card from your discard to your hand.",
     "effect": "Return an action card from your discard to your hand.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/do_it_again!/do_it_again!-small.png",

@@ -14,13 +14,14 @@
     "set-code": "TFC",
     "abilities": {"Horse Kick": "When you play this character, chosen character get -2{strength} this turn."},
     "inkable": true,
+    "body-text": "HORSE KICK: When you play this character, chosen character get -2{strength} this turn.",
     "subtitle": "Relentless Pursuer",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/maximus/small.png",
-      "no-art": "https://lorcana-api.com/images/maximus/no-art.png",
-      "large": "https://lorcana-api.com/images/maximus/large.png",
-      "art-crop": "https://lorcana-api.com/images/maximus/art-crop.png",
-      "medium": "https://lorcana-api.com/images/maximus/medium.png"
+      "small": "https://lorcana-api.com/images/maximus/relentless_pursuer/maximus-relentless_pursuer-small.png",
+      "no-art": "https://lorcana-api.com/images/maximus/relentless_pursuer/maximus-relentless_pursuer-no-art.png",
+      "large": "https://lorcana-api.com/images/maximus/relentless_pursuer/maximus-relentless_pursuer-large.png",
+      "art-crop": "https://lorcana-api.com/images/maximus/relentless_pursuer/maximus-relentless_pursuer-art-crop.png",
+      "medium": "https://lorcana-api.com/images/maximus/relentless_pursuer/maximus-relentless_pursuer-medium.png"
     },
     "name": "Maximus",
     "ink-cost": 3,

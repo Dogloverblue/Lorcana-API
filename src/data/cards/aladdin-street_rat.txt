@@ -14,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {"Improvise": "When you play this character, each opponent loses 1 lore."},
     "inkable": true,
+    "body-text": "IMPROVISE: When you play this character, each opponent loses 1 lore.",
     "subtitle": "Street Rat",
     "image-urls": {
       "small": "https://lorcana-api.com/images/aladdin/street_rat/aladdin-street_rat-small.png",

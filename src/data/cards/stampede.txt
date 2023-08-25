@@ -6,6 +6,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": false,
+    "body-text": "Deal 2 damage to chosen damaged character.",
     "effect": "Deal 2 damage to chosen damaged character.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/stampede/stampede-small.png",

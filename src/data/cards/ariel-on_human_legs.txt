@@ -7,7 +7,6 @@
     "artist": null,
     "willpower": 4,
     "type": "Character",
-    "flavor-text": "\\\"...\\\"",
     "subtypes": [
       "Storyborn",
       "Hero",
@@ -16,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {"Voiceless": "This character can't {t} to sing songs."},
     "inkable": true,
+    "body-text": "VOICELESS: This character can't {t} to sing songs.",
     "subtitle": "On Human Legs",
     "image-urls": {
       "small": "https://lorcana-api.com/images/ariel/on_human_legs/ariel-on_human_legs-small.png",
@@ -25,5 +25,6 @@
       "medium": "https://lorcana-api.com/images/ariel/on_human_legs/ariel-on_human_legs-medium.png"
     },
     "name": "Ariel",
+    "flavor-text": "\\\"...\\\"",
     "ink-cost": 4
   }

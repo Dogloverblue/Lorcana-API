@@ -6,6 +6,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "Each opponent chooses and discards a card.",
     "effect": "Each opponent chooses and discards a card.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/sudden_chill/sudden_chill-small.png",

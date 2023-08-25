@@ -14,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "Reckless (This character can't quest and must challenge each turn if able.) ",
     "subtitle": "Arrogant Hunter",
     "image-urls": {
       "small": "https://lorcana-api.com/images/gaston/arrogant_hunter/gaston-arrogant_hunter-small.png",

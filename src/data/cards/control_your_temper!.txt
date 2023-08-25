@@ -3,6 +3,7 @@
     "color": "Amber",
     "inkable": true,
     "artist": "Amber Kommovonga",
+    "body-text": "Chosen character gets -2? this turn.",
     "effect": "Chosen character gets -2? this turn.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/control_your_temper!/control_your_temper!-small.png",

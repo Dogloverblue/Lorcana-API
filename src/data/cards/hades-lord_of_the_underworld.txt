@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {"Well of Souls": "When you play this character, return a character card from your discard to your hand."},
     "inkable": false,
+    "body-text": "WELL OF SOULS: When you play this character, return a character card from your discard to your hand.",
     "subtitle": "Lord of the Underworld",
     "image-urls": {
       "small": "https://lorcana-api.com/images/hades/lord_of_the_underworld/hades-lord_of_the_underworld-small.png",

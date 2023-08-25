@@ -1,9 +1,12 @@
 {
-    "abilities": {},
     "set": "The First Chapter",
-    "inkable": true,
     "color": "Steel",
     "artist": "Simangaliso Sibaya",
+    "type": "Action",
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "body-text": "Deal 3 damage to the chosen character",
     "effect": "Deal 3 damage to the chosen character",
     "image-urls": {
       "small": "https://lorcana-api.com/images/smash/smash-small.png",
@@ -14,7 +17,5 @@
     },
     "name": "Smash",
     "ink-cost": 3,
-    "type": "Action",
-    "flavor-text": "\\\"Go away!\\\"",
-    "set-code": "TFC"
+    "flavor-text": "\\\"Go away!\\\""
   }

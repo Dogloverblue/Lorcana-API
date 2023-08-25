@@ -7,7 +7,6 @@
     "artist": "Simangaliso Sibaya",
     "willpower": 5,
     "type": "character",
-    "flavor-text": "The best part about a beachside concert is that there's always room for one more.",
     "subtypes": [
       "Floodborn",
       "Hero",
@@ -16,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {"Adoring Fans": "Whenever you play a character with ink cost 2 or less, you may exert it to draw a card."},
     "inkable": true,
+    "body-text": "Shift 4 (You many pay 4 * to play this card on top of one of your stich characters.) (You may pay 4{ink} to play this on top of one of your characters named Stitch.) \nADORING FANS: Whenever you play a character with ink cost 2 or less, you may exert it to draw a card.",
     "subtitle": "Rock Star",
     "image-urls": {
       "small": "https://lorcana-api.com/images/stitch/rock_star/stitch-rock_star-small.png",
@@ -25,5 +25,6 @@
       "medium": "https://lorcana-api.com/images/stitch/rock_star/stitch-rock_star-medium.png"
     },
     "name": "Stitch",
+    "flavor-text": "The best part about a beachside concert is that there's always room for one more.",
     "ink-cost": 6
   }

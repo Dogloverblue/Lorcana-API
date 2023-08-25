@@ -12,15 +12,16 @@
       "Villain"
     ],
     "set-code": "TFC",
-    "abilities": {"Do It Again!": "When you play this chaacter, you may return an action card from your discard to your hand."},
+    "abilities": {"Do It Again!": "When you play this character, you may return an action card from your discard to your hand."},
     "inkable": false,
+    "body-text": "DO IT AGAIN!: When you play this character, you may return an action card from your discard to your hand.",
     "subtitle": "Wicked Stepmother",
     "image-urls": {
-      "small": "https://lorcana-api.com/images/lady_tremaine/small.png",
-      "no-art": "https://lorcana-api.com/images/lady_tremaine/no-art.png",
-      "large": "https://lorcana-api.com/images/lady_tremaine/large.png",
-      "art-crop": "https://lorcana-api.com/images/lady_tremaine/art-crop.png",
-      "medium": "https://lorcana-api.com/images/lady_tremaine/medium.png"
+      "small": "https://lorcana-api.com/images/lady_tremaine/wicked_stepmother/lady_tremaine-wicked_stepmother-small.png",
+      "no-art": "https://lorcana-api.com/images/lady_tremaine/wicked_stepmother/lady_tremaine-wicked_stepmother-no-art.png",
+      "large": "https://lorcana-api.com/images/lady_tremaine/wicked_stepmother/lady_tremaine-wicked_stepmother-large.png",
+      "art-crop": "https://lorcana-api.com/images/lady_tremaine/wicked_stepmother/lady_tremaine-wicked_stepmother-art-crop.png",
+      "medium": "https://lorcana-api.com/images/lady_tremaine/wicked_stepmother/lady_tremaine-wicked_stepmother-medium.png"
     },
     "name": "Lady Tremaine",
     "ink-cost": 6,

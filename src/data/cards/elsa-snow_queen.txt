@@ -7,7 +7,6 @@
     "artist": "Nicholas Kole",
     "willpower": 3,
     "type": "character",
-    "flavor-text": "Recreated by magical ink, Elsa found herself in an unfamiliar new world. Fortunately, ice works the same way everywhere.",
     "subtypes": [
       "Dreamborn",
       "Hero",
@@ -17,6 +16,7 @@
     "set-code": "TFC",
     "abilities": {"FREEZE": "Excert chosen opposing character."},
     "inkable": true,
+    "body-text": "FREEZE: Excert chosen opposing character.",
     "subtitle": "Snow Queen",
     "image-urls": {
       "small": "https://lorcana-api.com/images/elsa/snow_queen/elsa-snow_queen-small.png",
@@ -26,5 +26,6 @@
       "medium": "https://lorcana-api.com/images/elsa/snow_queen/elsa-snow_queen-medium.png"
     },
     "name": "Elsa",
+    "flavor-text": "Recreated by magical ink, Elsa found herself in an unfamiliar new world. Fortunately, ice works the same way everywhere.",
     "ink-cost": 3
   }

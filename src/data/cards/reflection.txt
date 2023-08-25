@@ -6,6 +6,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "Look at the top 3 cards of your deck. Put them back on the top of your deck in any order.",
     "effect": "Look at the top 3 cards of your deck. Put them back on the top of your deck in any order.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/reflection/reflection-small.png",

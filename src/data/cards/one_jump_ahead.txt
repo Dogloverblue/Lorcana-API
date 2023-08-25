@@ -3,6 +3,7 @@
     "color": "Sapphire",
     "inkable": false,
     "artist": "Bill Robinson",
+    "body-text": "Put the top card of your deck into your inkwell facedown and exerted",
     "effect": "Put the top card of your deck into your inkwell facedown and exerted",
     "image-urls": {
       "small": "https://lorcana-api.com/images/one_jump_ahead/one_jump_ahead-small.png",

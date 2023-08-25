@@ -14,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "",
     "subtitle": "The Sea King",
     "image-urls": {
       "small": "https://lorcana-api.com/images/triton/the_sea_king/triton-the_sea_king-small.png",

@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {"A Wonderful Dream": "{t}- Remove up to 3 damage from chosen Princess character."},
     "inkable": true,
+    "body-text": "Singer 5 (This character counts as cost 5 to sing songs.) \nA WONDERFUL DREAM: {t}- Remove up to 3 damage from chosen Princess character.",
     "subtitle": "Gentle and Kind",
     "image-urls": {
       "small": "https://lorcana-api.com/images/cinderella/gentle_and_kind/cinderella-gentle_and_kind-small.png",

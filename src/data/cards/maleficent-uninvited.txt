@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "",
     "subtitle": "Uninvited",
     "image-urls": {
       "small": "https://lorcana-api.com/images/maleficent/uninvited/maleficent-uninvited-small.png",

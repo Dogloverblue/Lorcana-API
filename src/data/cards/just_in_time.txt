@@ -3,6 +3,7 @@
     "color": "Amber",
     "inkable": true,
     "artist": "Leonardo Giammichele",
+    "body-text": "You may play a character with cost 5 or less for free.",
     "effect": "You may play a character with cost 5 or less for free.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/just_in_time/just_in_time-small.png",

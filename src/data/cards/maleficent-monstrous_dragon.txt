@@ -15,13 +15,14 @@
     "set-code": "TFC",
     "abilities": {"Dragon Fire": "When you play this character, you may banish chosen opposing character."},
     "inkable": true,
+    "body-text": "DRAGON FIRE: When you play this character, you may banish chosen opposing character.",
     "subtitle": "Monstrous Dragon",
     "image-urls": {
       "small": "https://lorcana-api.com/images/maleficent/monstrous_dragon/maleficent-monstrous_dragon-small.png",
       "no-art": "https://lorcana-api.com/images/maleficent/monstrous_dragon/maleficent-monstrous_dragon-no-art.png",
+      "large": "https://lorcana-api.com/images/maleficent/monstrous_dragon/maleficent-monstrous_dragon-large.png",
       "art-crop": "https://lorcana-api.com/images/maleficent/monstrous_dragon/maleficent-monstrous_dragon-art-crop.png",
-      "medium": "https://lorcana-api.com/images/maleficent/monstrous_dragon/maleficent-monstrous_dragon-medium.png",
-      "large": "https://lorcana-api.com/images/maleficent/monstrous_dragon/maleficent-monstrous_dragon-large.png"
+      "medium": "https://lorcana-api.com/images/maleficent/monstrous_dragon/maleficent-monstrous_dragon-medium.png"
     },
     "name": "Maleficent",
     "ink-cost": 9,

@@ -3,6 +3,7 @@
     "color": "Steel",
     "inkable": false,
     "artist": "Matt Chapman",
+    "body-text": "Deal 2 damage to chosen character",
     "effect": "Deal 2 damage to chosen character",
     "image-urls": {
       "small": "https://lorcana-api.com/images/fire_the_cannons!/fire_the_cannons!-small.png",

@@ -1,9 +1,12 @@
 {
-    "abilities": {"Consider The Coconut": "Whenever you play a character, you may remove up to 2 damage from chosen character."},
     "set": "The First Chapter",
     "color": "Sapphire",
-    "inkable": true,
     "artist": "Milica Celikovic",
+    "type": "Item",
+    "set-code": "TFC",
+    "abilities": {"Consider The Coconut": "Whenever you play a character, you may remove up to 2 damage from chosen character."},
+    "inkable": true,
+    "body-text": "CONSIDER THE COCONUT: Whenever you play a character, you may remove up to 2 damage from chosen character.",
     "effect": null,
     "image-urls": {
       "small": "https://lorcana-api.com/images/coconut_basket/coconut_basket-small.png",
@@ -14,7 +17,5 @@
     },
     "name": "Coconut Basket",
     "ink-cost": 2,
-    "type": "Item",
-    "flavor-text": "The coconut is a versatile gift from the gods, used to make nearly everything - including gift baskets to carry more coconuts.",
-    "set-code": "TFC"
+    "flavor-text": "The coconut is a versatile gift from the gods, used to make nearly everything - including gift baskets to carry more coconuts."
   }

@@ -7,7 +7,6 @@
     "artist": "Kenneth Anderson",
     "willpower": 4,
     "type": "Character",
-    "flavor-text": "\\\"I'm the bounciest bouncer that ever bounced!\\\"",
     "subtypes": [
       "Storyborn",
       "Tigger"
@@ -15,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "Evasive (Only characters with Evasive can challenge this character.) (Only characters with Evasive can challenge this character.) ",
     "subtitle": "Wonderful Thing",
     "image-urls": {
       "small": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-small.png",
@@ -24,5 +24,6 @@
       "medium": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-medium.png"
     },
     "name": "Tigger",
+    "flavor-text": "\\\"I'm the bounciest bouncer that ever bounced!\\\"",
     "ink-cost": 6
   }

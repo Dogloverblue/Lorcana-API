@@ -7,7 +7,6 @@
     "artist": "Grace Tran",
     "willpower": 4,
     "type": "Character",
-    "flavor-text": "\\\"Enchantee. A tip of the hat from Dr. Facilier..\\\"",
     "subtypes": [
       "Storyborn",
       "Villain",
@@ -16,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "Challenger 2 When challenging, this character get +2{strength}.) ",
     "subtitle": "Charlatan",
     "image-urls": {
       "small": "https://lorcana-api.com/images/dr._facilier/charlatan/dr._facilier-charlatan-small.png",
@@ -25,5 +25,6 @@
       "medium": "https://lorcana-api.com/images/dr._facilier/charlatan/dr._facilier-charlatan-medium.png"
     },
     "name": "Dr. Facilier",
+    "flavor-text": "\\\"Enchantee. A tip of the hat from Dr. Facilier..\\\"",
     "ink-cost": 2
   }

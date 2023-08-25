@@ -14,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "Rush (This character can challenge the turn they're played.) ",
     "subtitle": "Fearless Fighter",
     "image-urls": {
       "small": "https://lorcana-api.com/images/peter_pan/fearless_fighter/peter_pan-fearless_fighter-small.png",

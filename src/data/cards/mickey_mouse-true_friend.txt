@@ -14,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "",
     "subtitle": "True Friend",
     "image-urls": {
       "small": "https://lorcana-api.com/images/mickey_mouse/true_friend/mickey_mouse-true_friend-small.png",

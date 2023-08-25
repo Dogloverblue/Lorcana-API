@@ -16,6 +16,7 @@
     "set-code": "TFC",
     "abilities": {"That's No Blizzard": "Whenever you play a character named Anna, ready this character. This character can't quest for the rest of this turn."},
     "inkable": true,
+    "body-text": "THAT'S NO BLIZZARD: Whenever you play a character named Anna, ready this character. This character can't quest for the rest of this turn.",
     "subtitle": "Ice Surfer",
     "image-urls": {
       "small": "https://lorcana-api.com/images/elsa/ice_surfer/elsa-ice_surfer-small.png",

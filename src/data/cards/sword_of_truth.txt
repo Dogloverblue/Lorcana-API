@@ -6,6 +6,7 @@
     "set-code": "TFC",
     "abilities": {"Final Enchantment": "Banish this item - Banish chosen villain character."},
     "inkable": false,
+    "body-text": "FINAL ENCHANTMENT: Banish this item - Banish chosen villain character.",
     "effect": "",
     "image-urls": {
       "small": "https://lorcana-api.com/images/sword_of_truth/sword_of_truth-small.png",

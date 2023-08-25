@@ -3,6 +3,7 @@
     "color": "Amber",
     "inkable": true,
     "artist": "Philipp Kruse",
+    "body-text": "Remove up to 2 damage from chosen character",
     "effect": "Remove up to 2 damage from chosen character",
     "image-urls": {
       "small": "https://lorcana-api.com/images/healing_glow/healing_glow-small.png",

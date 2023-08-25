@@ -7,7 +7,6 @@
     "artist": "Kendall Hale",
     "willpower": 3,
     "type": "Character",
-    "flavor-text": "Wherever the princess goes, her musketeers are... well, they're around somewhere, probably.",
     "subtypes": [
       "Dreamborn",
       "Princess"
@@ -15,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "",
     "subtitle": "Beloved Princess",
     "image-urls": {
       "small": "https://lorcana-api.com/images/minnie_mouse/beloved_princess/minnie_mouse-beloved_princess-small.png",
@@ -24,5 +24,6 @@
       "medium": "https://lorcana-api.com/images/minnie_mouse/beloved_princess/minnie_mouse-beloved_princess-medium.png"
     },
     "name": "Minnie Mouse",
+    "flavor-text": "Wherever the princess goes, her musketeers are... well, they're around somewhere, probably.",
     "ink-cost": 2
   }

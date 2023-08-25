@@ -14,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "Singer 4 (This character counts as cost 4 to sing songs.) ",
     "subtitle": "Court Composer",
     "image-urls": {
       "small": "https://lorcana-api.com/images/sebastion/court_composer/sebastion-court_composer-small.png",

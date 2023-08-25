@@ -7,7 +7,6 @@
     "artist": "Samanta Erdini",
     "willpower": 2,
     "type": "Character",
-    "flavor-text": "\\\"They say if you dream a thing more than once, it's sure to come true\\\"",
     "subtypes": [
       "Storyborn",
       "Hero",
@@ -16,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "",
     "subtitle": "Regal Princess",
     "image-urls": {
       "small": "https://lorcana-api.com/images/aurora/regal_princess/aurora-regal_princess-small.png",
@@ -25,5 +25,6 @@
       "medium": "https://lorcana-api.com/images/aurora/regal_princess/aurora-regal_princess-medium.png"
     },
     "name": "Aurora",
+    "flavor-text": "\\\"They say if you dream a thing more than once, it's sure to come true\\\"",
     "ink-cost": 2
   }

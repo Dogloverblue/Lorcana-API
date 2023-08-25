@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {"Tangle": "When you play this character, each opponent loses 1 lore."},
     "inkable": false,
+    "body-text": "TANGLE: When you play this character, each opponent loses 1 lore.",
     "subtitle": "Letting Down Her Hair",
     "image-urls": {
       "small": "https://lorcana-api.com/images/rapunzel/letting_down_her_hair/rapunzel-letting_down_her_hair-small.png",

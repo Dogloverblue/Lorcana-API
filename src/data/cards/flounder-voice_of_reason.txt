@@ -7,7 +7,6 @@
     "artist": "Brian Weiyz",
     "willpower": 2,
     "type": "Character",
-    "flavor-text": "\"Excitment... adventure... danger lurking around ever cor- AAAAAGGH!\"",
     "subtypes": [
       "Storyborn",
       "Ally"
@@ -15,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "",
     "subtitle": "Voice Of Reason",
     "image-urls": {
       "small": "https://lorcana-api.com/images/flounder/voice_of_reason/flounder-voice_of_reason-small.png",
@@ -24,5 +24,6 @@
       "medium": "https://lorcana-api.com/images/flounder/voice_of_reason/flounder-voice_of_reason-medium.png"
     },
     "name": "Flounder",
+    "flavor-text": "\"Excitment... adventure... danger lurking around ever cor- AAAAAGGH!\"",
     "ink-cost": 1
   }

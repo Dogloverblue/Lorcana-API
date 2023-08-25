@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "Ward (Opponents can't choose this character except to challenge.) ",
     "subtitle": "Prince Ali",
     "image-urls": {
       "small": "https://lorcana-api.com/images/aladdin/prince_ali/aladdin-prince_ali-small.png",

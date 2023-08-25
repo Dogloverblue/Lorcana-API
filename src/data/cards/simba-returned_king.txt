@@ -18,6 +18,7 @@
     "set-code": "TFC",
     "abilities": {"Pounce": "During your turn, this character gains Evasive."},
     "inkable": true,
+    "body-text": "Challenger When challenging, this character get +%v%{strength}.) \nEvasive (Only characters with Evasive can challenge this character.) \nPOUNCE: During your turn, this character gains Evasive.",
     "subtitle": "Returned King",
     "image-urls": {
       "small": "https://lorcana-api.com/images/simba/returned_king/simba-returned_king-small.png",

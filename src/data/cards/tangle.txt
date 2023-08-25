@@ -6,6 +6,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "Each opponent loses 1 lore.",
     "effect": "Each opponent loses 1 lore.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/tangle/tangle-small.png",

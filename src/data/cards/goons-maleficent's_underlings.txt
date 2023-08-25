@@ -7,7 +7,6 @@
     "artist": "Cam Kendall",
     "willpower": 2,
     "type": "Character",
-    "flavor-text": "They may seem useless, but they came with the castle.",
     "subtypes": [
       "Storyborn",
       "Ally"
@@ -15,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "",
     "subtitle": "Maleficent's Underlings",
     "image-urls": {
       "small": "https://lorcana-api.com/images/goons/maleficent's_underlings/goons-maleficent's_underlings-small.png",
@@ -24,5 +24,6 @@
       "medium": "https://lorcana-api.com/images/goons/maleficent's_underlings/goons-maleficent's_underlings-medium.png"
     },
     "name": "Goons",
+    "flavor-text": "They may seem useless, but they came with the castle.",
     "ink-cost": 1
   }

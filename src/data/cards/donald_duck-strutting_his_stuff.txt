@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "Ward (Opponents can't choose this character except to challenge.) ",
     "subtitle": "Strutting His Stuff",
     "image-urls": {
       "small": "https://lorcana-api.com/images/donald_duck/strutting_his_stuff/donald_duck-strutting_his_stuff-small.png",

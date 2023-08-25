@@ -14,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {"You Got a Problem": "{t}-Chosen character gains Reckless during thier next turn. (They can't quest and must challenge if able.)"},
     "inkable": true,
+    "body-text": "YOU GOT A PROBLEM: {t}-Chosen character gains Reckless during thier next turn. (They can't quest and must challenge if able.)",
     "subtitle": "Loud-Mouthed Parrot",
     "image-urls": {
       "small": "https://lorcana-api.com/images/iago/loud-mouthed_parrot/iago-loud-mouthed_parrot-small.png",

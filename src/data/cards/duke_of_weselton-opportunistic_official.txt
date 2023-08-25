@@ -14,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "",
     "subtitle": "Opportunistic Official",
     "image-urls": {
       "small": "https://lorcana-api.com/images/duke_of_weselton/opportunistic_official/duke_of_weselton-opportunistic_official-small.png",

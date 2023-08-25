@@ -7,7 +7,6 @@
     "artist": "Giulia Riva",
     "willpower": 3,
     "type": "Character",
-    "flavor-text": "\"I'm Olaf and I like warm hugs!\"",
     "subtypes": [
       "Storyborn",
       "Ally"
@@ -15,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "",
     "subtitle": "Friendly Snowman",
     "image-urls": {
       "small": "https://lorcana-api.com/images/olaf/friendly_snowman/olaf-friendly_snowman-small.png",
@@ -24,5 +24,6 @@
       "medium": "https://lorcana-api.com/images/olaf/friendly_snowman/olaf-friendly_snowman-medium.png"
     },
     "name": "Olaf",
+    "flavor-text": "\"I'm Olaf and I like warm hugs!\"",
     "ink-cost": 1
   }

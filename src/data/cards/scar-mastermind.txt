@@ -7,7 +7,6 @@
     "artist": "Bill Robinson",
     "willpower": 4,
     "type": "Character",
-    "flavor-text": "\\\"The best plans involve a little danger. Just not for me.\\\"",
     "subtypes": [
       "Storyborn",
       "Villain"
@@ -15,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {"Insidious Plot": "When you play this character, chosen opposing character gets -5? this turn."},
     "inkable": true,
+    "body-text": "INSIDIOUS PLOT: When you play this character, chosen opposing character gets -5? this turn.",
     "subtitle": "Mastermind",
     "image-urls": {
       "small": "https://lorcana-api.com/images/scar/mastermind/scar-mastermind-small.png",
@@ -24,5 +24,6 @@
       "medium": "https://lorcana-api.com/images/scar/mastermind/scar-mastermind-medium.png"
     },
     "name": "Scar",
+    "flavor-text": "\\\"The best plans involve a little danger. Just not for me.\\\"",
     "ink-cost": 6
   }

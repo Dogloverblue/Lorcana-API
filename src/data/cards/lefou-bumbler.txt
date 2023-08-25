@@ -7,7 +7,6 @@
     "artist": "Andrey Chomak",
     "willpower": 2,
     "type": "Character",
-    "flavor-text": "You need a good today to be a proper bad guy",
     "subtypes": [
       "Storyborn",
       "Ally"
@@ -15,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {"Loyal": "If you have a character named Gaston in play, you pay 1? less to play this character."},
     "inkable": true,
+    "body-text": "LOYAL: If you have a character named Gaston in play, you pay 1? less to play this character.",
     "subtitle": "Bumbler",
     "image-urls": {
       "small": "https://lorcana-api.com/images/lefou/bumbler/lefou-bumbler-small.png",
@@ -24,5 +24,6 @@
       "medium": "https://lorcana-api.com/images/lefou/bumbler/lefou-bumbler-medium.png"
     },
     "name": "Lefou",
+    "flavor-text": "You need a good today to be a proper bad guy",
     "ink-cost": 2
   }

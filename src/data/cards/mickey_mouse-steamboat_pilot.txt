@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "",
     "subtitle": "Steamboat Pilot",
     "image-urls": {
       "small": "https://lorcana-api.com/images/mickey_mouse/steamboat_pilot/mickey_mouse-steamboat_pilot-small.png",

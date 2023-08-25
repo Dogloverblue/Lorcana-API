@@ -7,7 +7,6 @@
     "artist": "Ron Baird",
     "willpower": 3,
     "type": "Character",
-    "flavor-text": "Kristoff: \"You want to talk about a supply and demand problem? I sell ice for a living\" Anna: \"Ooh, that's a rough buisness to be in right now. I mean, that is really-ah, mm. That's unfortunate.\"",
     "subtypes": [
       "Storyborn",
       "Ally"
@@ -15,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "",
     "subtitle": "Offical Ice Master",
     "image-urls": {
       "small": "https://lorcana-api.com/images/kristoff/offical_ice_master/kristoff-offical_ice_master-small.png",
@@ -24,5 +24,6 @@
       "medium": "https://lorcana-api.com/images/kristoff/offical_ice_master/kristoff-offical_ice_master-medium.png"
     },
     "name": "Kristoff",
+    "flavor-text": "Kristoff: \"You want to talk about a supply and demand problem? I sell ice for a living\" Anna: \"Ooh, that's a rough buisness to be in right now. I mean, that is really-ah, mm. That's unfortunate.\"",
     "ink-cost": 3
   }

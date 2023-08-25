@@ -14,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {"Durable": "When this character is banished in a challenge, you may return this card to your hand."},
     "inkable": false,
+    "body-text": "DURABLE: When this character is banished in a challenge, you may return this card to your hand.",
     "subtitle": "Persistent Guardian",
     "image-urls": {
       "small": "https://lorcana-api.com/images/marshmallow/persistent_guardian/marshmallow-persistent_guardian-small.png",

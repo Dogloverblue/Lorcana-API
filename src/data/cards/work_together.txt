@@ -6,6 +6,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "Chosen Character gains Support this turn. (Whenever they quest, you may add thier {strength} to another chosen character's {strength} this turn.)",
     "effect": "Chosen Character gains Support this turn. (Whenever they quest, you may add thier {strength} to another chosen character's {strength} this turn.)",
     "image-urls": {
       "small": "https://lorcana-api.com/images/work_together/work_together-small.png",

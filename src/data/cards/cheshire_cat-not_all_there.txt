@@ -11,13 +11,14 @@
     "set-code": "TFC",
     "abilities": {"Lose Something?": "When this character is challenged and banished, banish the challenging character."},
     "inkable": true,
+    "body-text": "LOSE SOMETHING?: When this character is challenged and banished, banish the challenging character.",
     "subtitle": "Not All There",
     "image-urls": {
       "small": "https://lorcana-api.com/images/cheshire_cat/not_all_there/cheshire_cat-not_all_there-small.png",
       "no-art": "https://lorcana-api.com/images/cheshire_cat/not_all_there/cheshire_cat-not_all_there-no-art.png",
+      "large": "https://lorcana-api.com/images/cheshire_cat/not_all_there/cheshire_cat-not_all_there-large.png",
       "art-crop": "https://lorcana-api.com/images/cheshire_cat/not_all_there/cheshire_cat-not_all_there-art-crop.png",
-      "medium": "https://lorcana-api.com/images/cheshire_cat/not_all_there/cheshire_cat-not_all_there-medium.png",
-      "large": "https://lorcana-api.com/images/cheshire_cat/not_all_there/cheshire_cat-not_all_there-large.png"
+      "medium": "https://lorcana-api.com/images/cheshire_cat/not_all_there/cheshire_cat-not_all_there-medium.png"
     },
     "name": "Cheshire Cat",
     "ink-cost": 3,

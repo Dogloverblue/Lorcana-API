@@ -6,6 +6,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "Ready chosen character. They can't quest for the rest of this turn.",
     "effect": "Ready chosen character. They can't quest for the rest of this turn.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/fan_the_flames/fan_the_flames-small.png",

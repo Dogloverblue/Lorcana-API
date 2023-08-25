@@ -15,13 +15,14 @@
     "set-code": "TFC",
     "abilities": {"Look At This Stuff": "Whenever you play an item, you may ready this character."},
     "inkable": false,
+    "body-text": "LOOK AT THIS STUFF: Whenever you play an item, you may ready this character.",
     "subtitle": "Whoseit Collector",
     "image-urls": {
       "small": "https://lorcana-api.com/images/ariel/whoseit_collector/ariel-whoseit_collector-small.png",
       "no-art": "https://lorcana-api.com/images/ariel/whoseit_collector/ariel-whoseit_collector-no-art.png",
+      "large": "https://lorcana-api.com/images/ariel/whoseit_collector/ariel-whoseit_collector-large.png",
       "art-crop": "https://lorcana-api.com/images/ariel/whoseit_collector/ariel-whoseit_collector-art-crop.png",
-      "medium": "https://lorcana-api.com/images/ariel/whoseit_collector/ariel-whoseit_collector-medium.png",
-      "large": "https://lorcana-api.com/images/ariel/whoseit_collector/ariel-whoseit_collector-large.png"
+      "medium": "https://lorcana-api.com/images/ariel/whoseit_collector/ariel-whoseit_collector-medium.png"
     },
     "name": "Ariel",
     "ink-cost": 4,

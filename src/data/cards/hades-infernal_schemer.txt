@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {"Is There A Downside To This?": "When you play this character, you may put chosen opposing character into their player's inkwell facedown."},
     "inkable": false,
+    "body-text": "IS THERE A DOWNSIDE TO THIS?: When you play this character, you may put chosen opposing character into their player's inkwell facedown.",
     "subtitle": "Infernal Schemer",
     "image-urls": {
       "small": "https://lorcana-api.com/images/hades/infernal_schemer/hades-infernal_schemer-small.png",

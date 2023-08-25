@@ -11,6 +11,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "",
     "subtitle": "Drab Little Crab",
     "image-urls": {
       "small": "https://lorcana-api.com/images/tamatoa/drab_little_crab/tamatoa-drab_little_crab-small.png",

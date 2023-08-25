@@ -6,6 +6,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "Chosen character gains Rush this turn. (They can challenge the turn they're played.)",
     "effect": "Chosen character gains Rush this turn. (They can challenge the turn they're played.)",
     "image-urls": {
       "small": "https://lorcana-api.com/images/cut_to_the_chase/cut_to_the_chase-small.png",

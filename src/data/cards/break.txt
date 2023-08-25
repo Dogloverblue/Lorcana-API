@@ -6,6 +6,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "Banish chosen item.",
     "effect": "Banish chosen item.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/break/break-small.png",

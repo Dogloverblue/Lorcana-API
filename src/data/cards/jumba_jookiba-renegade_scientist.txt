@@ -7,7 +7,6 @@
     "artist": "Milica Celikovic",
     "willpower": 5,
     "type": "Character",
-    "flavor-text": "\"Created something? Ha! But that would be irresponsible and unethical. I would never, ever make more than one.\"",
     "subtypes": [
       "Dreamborn",
       "Alien",
@@ -16,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "",
     "subtitle": "Renegade Scientist",
     "image-urls": {
       "small": "https://lorcana-api.com/images/jumba_jookiba/renegade_scientist/jumba_jookiba-renegade_scientist-small.png",
@@ -25,5 +25,6 @@
       "medium": "https://lorcana-api.com/images/jumba_jookiba/renegade_scientist/jumba_jookiba-renegade_scientist-medium.png"
     },
     "name": "Jumba Jookiba",
+    "flavor-text": "\"Created something? Ha! But that would be irresponsible and unethical. I would never, ever make more than one.\"",
     "ink-cost": 5
   }

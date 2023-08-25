@@ -7,7 +7,6 @@
     "artist": "Cristian Romero",
     "willpower": 3,
     "type": "Character",
-    "flavor-text": "\\\"I lost her once! I'm not gonna lose her again!\\\"",
     "subtypes": [
       "Storyborn",
       "Hero",
@@ -16,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "Challenger 2 When challenging, this character get +2{strength}.) ",
     "subtitle": "Dashing and Brave",
     "image-urls": {
       "small": "https://lorcana-api.com/images/prince_eric/dashing_and_brave/prince_eric-dashing_and_brave-small.png",
@@ -25,5 +25,6 @@
       "medium": "https://lorcana-api.com/images/prince_eric/dashing_and_brave/prince_eric-dashing_and_brave-medium.png"
     },
     "name": "Prince Eric",
+    "flavor-text": "\\\"I lost her once! I'm not gonna lose her again!\\\"",
     "ink-cost": 2
   }

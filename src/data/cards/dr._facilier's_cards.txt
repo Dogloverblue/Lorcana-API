@@ -6,6 +6,7 @@
     "set-code": "TFC",
     "abilities": {"The Cards Will Tell": "{t} - You pay 1{ink} less for the next action you play this turn."},
     "inkable": false,
+    "body-text": "THE CARDS WILL TELL: {t} - You pay 1{ink} less for the next action you play this turn.",
     "effect": "",
     "image-urls": {
       "small": "https://lorcana-api.com/images/dr._facilier's_cards/dr._facilier's_cards-small.png",

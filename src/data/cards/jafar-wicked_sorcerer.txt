@@ -7,7 +7,6 @@
     "artist": "Jake Parker",
     "willpower": 5,
     "type": "Character",
-    "flavor-text": "\\\"Enough skulking about. It's time to show that sniveling sultan what a sorcerer can do.\\\"",
     "subtypes": [
       "Dreamborn",
       "Villain",
@@ -16,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "Challenger 3 When challenging, this character get +3{strength}.) ",
     "subtitle": "Wicked Sorcerer",
     "image-urls": {
       "small": "https://lorcana-api.com/images/jafar/wicked_sorcerer/jafar-wicked_sorcerer-small.png",
@@ -25,5 +25,6 @@
       "medium": "https://lorcana-api.com/images/jafar/wicked_sorcerer/jafar-wicked_sorcerer-medium.png"
     },
     "name": "Jafar",
+    "flavor-text": "\\\"Enough skulking about. It's time to show that sniveling sultan what a sorcerer can do.\\\"",
     "ink-cost": 4
   }

@@ -6,6 +6,7 @@
     "set-code": "TFC",
     "abilities": {"Quick Shot": "{t}, 2{ink} - Deal 1 damage to chosen character"},
     "inkable": false,
+    "body-text": "QUICK SHOT: {t}, 2{ink} - Deal 1 damage to chosen character",
     "effect": "",
     "image-urls": {
       "small": "https://lorcana-api.com/images/plasma_blaster/plasma_blaster-small.png",

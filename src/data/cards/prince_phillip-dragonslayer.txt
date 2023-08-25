@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {"Heroism": "When this character challenges and is banished, you may banish the challenged character."},
     "inkable": false,
+    "body-text": "HEROISM: When this character challenges and is banished, you may banish the challenged character.",
     "subtitle": "Dragonslayer",
     "image-urls": {
       "small": "https://lorcana-api.com/images/prince_phillip/dragonslayer/prince_phillip-dragonslayer-small.png",

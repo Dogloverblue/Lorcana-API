@@ -14,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {"Sinister Slither": "Your characters named Flotsam gain Evasive."},
     "inkable": true,
+    "body-text": "Evasive (Only characters with Evasive can challenge this character.) \nSINISTER SLITHER: Your characters named Flotsam gain Evasive.",
     "subtitle": "Ursula's Spy",
     "image-urls": {
       "small": "https://lorcana-api.com/images/jetsam/ursula's_spy/jetsam-ursula's_spy-small.png",

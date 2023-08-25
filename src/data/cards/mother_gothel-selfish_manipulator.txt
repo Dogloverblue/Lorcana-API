@@ -14,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {"Skip The Drama, Stay With Mama": "While this character is exerted, opposing chracters can't quest."},
     "inkable": true,
+    "body-text": "SKIP THE DRAMA, STAY WITH MAMA: While this character is exerted, opposing chracters can't quest.",
     "subtitle": "Selfish Manipulator",
     "image-urls": {
       "small": "https://lorcana-api.com/images/mother_gothel/selfish_manipulator/mother_gothel-selfish_manipulator-small.png",

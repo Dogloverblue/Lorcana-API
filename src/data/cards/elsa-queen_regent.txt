@@ -16,6 +16,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "",
     "subtitle": "Queen Regent",
     "image-urls": {
       "small": "https://lorcana-api.com/images/elsa/queen_regent/elsa-queen_regent-small.png",

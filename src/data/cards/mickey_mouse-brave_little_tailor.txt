@@ -7,7 +7,6 @@
     "artist": "Nicolas Kole",
     "willpower": 5,
     "type": "character",
-    "flavor-text": "When defeat looms and victory hangs by a thread, a hero bolts to the rescue, patching things up through shear determination.",
     "subtypes": [
       "Dreamborn",
       "Hero"
@@ -15,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "Evasive (Only characters with Evasive can challenge this characer.) (Only characters with Evasive can challenge this character.) ",
     "subtitle": "Brave Little Tailor",
     "image-urls": {
       "small": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/mickey_mouse-brave_little_tailor-small.png",
@@ -24,5 +24,6 @@
       "medium": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/mickey_mouse-brave_little_tailor-medium.png"
     },
     "name": "Mickey Mouse",
+    "flavor-text": "When defeat looms and victory hangs by a thread, a hero bolts to the rescue, patching things up through shear determination.",
     "ink-cost": 8
   }

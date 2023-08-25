@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {"Stage A Little Accident": "Whenever this character quests, you may deal 1 damage to chosen character."},
     "inkable": true,
+    "body-text": "STAGE A LITTLE ACCIDENT: Whenever this character quests, you may deal 1 damage to chosen character.",
     "subtitle": "Thirteenth in Line",
     "image-urls": {
       "small": "https://lorcana-api.com/images/hans/thirteenth_in_line/hans-thirteenth_in_line-small.png",

@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {"Dreams Made Real": "Whenever you play a song, you may look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom."},
     "inkable": true,
+    "body-text": "DREAMS MADE REAL: Whenever you play a song, you may look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom.",
     "subtitle": "Remarkable Gentleman",
     "image-urls": {
       "small": "https://lorcana-api.com/images/dr._facilier/remarkable_gentleman/dr._facilier-remarkable_gentleman-small.png",

@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) ",
     "subtitle": "Protective Cub",
     "image-urls": {
       "small": "https://lorcana-api.com/images/simba/protective_cub/simba-protective_cub-small.png",

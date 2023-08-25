@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {"Seek The Heart": "During your turn, whenever this character banishes another character in a challenge, you gain 2 lore"},
     "inkable": true,
+    "body-text": "SEEK THE HEART: During your turn, whenever this character banishes another character in a challenge, you gain 2 lore",
     "subtitle": "Heartless",
     "image-urls": {
       "small": "https://lorcana-api.com/images/te_ka/heartless/te_ka-heartless-small.png",

@@ -14,13 +14,14 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "",
     "subtitle": "Belle's Confidant",
     "image-urls": {
       "small": "https://lorcana-api.com/images/the_wardrobe/belle's_confidant/the_wardrobe-belle's_confidant-small.png",
       "no-art": "https://lorcana-api.com/images/the_wardrobe/belle's_confidant/the_wardrobe-belle's_confidant-no-art.png",
+      "large": "https://lorcana-api.com/images/the_wardrobe/belle's_confidant/the_wardrobe-belle's_confidant-large.png",
       "art-crop": "https://lorcana-api.com/images/the_wardrobe/belle's_confidant/the_wardrobe-belle's_confidant-art-crop.png",
-      "medium": "https://lorcana-api.com/images/the_wardrobe/belle's_confidant/the_wardrobe-belle's_confidant-medium.png",
-      "large": "https://lorcana-api.com/images/the_wardrobe/belle's_confidant/the_wardrobe-belle's_confidant-large.png"
+      "medium": "https://lorcana-api.com/images/the_wardrobe/belle's_confidant/the_wardrobe-belle's_confidant-medium.png"
     },
     "name": "The Wardrobe",
     "ink-cost": 3,

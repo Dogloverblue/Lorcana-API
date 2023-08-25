@@ -15,6 +15,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "",
     "subtitle": "Colonel's Lieutenant",
     "image-urls": {
       "small": "https://lorcana-api.com/images/captain/colonel's_lieutenant/captain-colonel's_lieutenant-small.png",

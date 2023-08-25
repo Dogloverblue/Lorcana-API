@@ -1,9 +1,12 @@
 {
-    "abilities": {},
     "set": "The First Chapter",
-    "inkable": true,
     "color": "Emerald",
     "artist": "unknown",
+    "type": "Action",
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "body-text": "Chosen character gains Reckless during their next turn. (They can't quest and must challenge if able.)",
     "effect": "Chosen character gains Reckless during their next turn. (They can't quest and must challenge if able.)",
     "image-urls": {
       "small": "https://lorcana-api.com/images/the_beast_is_mine!/the_beast_is_mine!-small.png",
@@ -14,7 +17,5 @@
     },
     "name": "The Beast Is Mine!",
     "ink-cost": 3,
-    "type": "Action",
-    "flavor-text": "\\\"It's only fitting that the finest hunter get the foulest beast!\\\" -Gatson",
-    "set-code": "TFC"
+    "flavor-text": "\\\"It's only fitting that the finest hunter get the foulest beast!\\\" -Gatson"
   }

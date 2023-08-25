@@ -7,7 +7,6 @@
     "artist": "Kenneth Anderson",
     "willpower": 4,
     "type": "Character",
-    "flavor-text": "Sometimes you gotta give it the ol' jump and hyuck.",
     "subtypes": [
       "Dreamborn",
       "Hero"
@@ -15,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
+    "body-text": "",
     "subtitle": "Daredevil",
     "image-urls": {
       "small": "https://lorcana-api.com/images/goofy/daredevil/goofy-daredevil-small.png",
@@ -24,5 +24,6 @@
       "medium": "https://lorcana-api.com/images/goofy/daredevil/goofy-daredevil-medium.png"
     },
     "name": "Goofy",
+    "flavor-text": "Sometimes you gotta give it the ol' jump and hyuck.",
     "ink-cost": 5
   }

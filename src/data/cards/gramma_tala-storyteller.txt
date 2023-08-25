@@ -14,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {"I Will Be With You": "When this character is banished, you may put this card into your inkwell facedown and excerted."},
     "inkable": true,
+    "body-text": "I WILL BE WITH YOU: When this character is banished, you may put this card into your inkwell facedown and excerted.",
     "subtitle": "Storyteller",
     "image-urls": {
       "small": "https://lorcana-api.com/images/gramma_tala/storyteller/gramma_tala-storyteller-small.png",

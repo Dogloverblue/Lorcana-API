@@ -14,6 +14,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": false,
+    "body-text": "",
     "subtitle": "Making a Wish",
     "image-urls": {
       "small": "https://lorcana-api.com/images/lilo/making_a_wish/lilo-making_a_wish-small.png",
