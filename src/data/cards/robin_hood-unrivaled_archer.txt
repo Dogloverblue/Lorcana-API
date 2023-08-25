@@ -13,10 +13,11 @@
       "Hero"
     ],
     "set-code": "TFC",
-    "abilities": [
-      {"Feed The Poor": "When you play this character, if an opponent has more cards in their hand than you, draw a card."},
-      {"Good Shot": "During your turn, this character has Evasive. (They can challenge characters with Evasive.)"}
-    ],
+    "abilities": 
+      {
+      "Feed The Poor": "When you play this character, if an opponent has more cards in their hand than you, draw a card.",
+      "Good Shot": "During your turn, this character has Evasive. (They can challenge characters with Evasive.)"
+      },
     "inkable": true,
     "subtitle": "Unrivaled Archer",
     "image-urls": {
