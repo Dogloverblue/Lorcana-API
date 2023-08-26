@@ -9,6 +9,7 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 
 import org.json.JSONArray;
+import org.json.JSONException;
 import org.json.JSONObject;
 
 import com.lorcanaapi.ErrorJSONObject;
@@ -38,6 +39,10 @@ public class StrictHandler implements HttpHandler {
 	for (String card: cardName.split(";")) {
 		if (!card.contains("-")) {
 			JSONObject jo = new JSONObject();
+			if (new File(cardDirectory + "//" + card + ".txt").exists()) {
+				jsonToReturn.put(new JSONObject(Files.readString(Paths.get(cardDirectory + "//" + card + ".txt")).toString()));
+				continue;
+			}
 			for (String name: names) {
 				if (name.startsWith(card)) {
 					try {
@@ -55,12 +60,14 @@ public class StrictHandler implements HttpHandler {
 			jsonToReturn.put(new JSONObject(new String(Files.readAllBytes(Paths.get(cardFile.getAbsolutePath())))));
 		}
 	}
+	System.out.println("grr hehehaw");
 	if (jsonToReturn.length() < 2) {
 		response = jsonToReturn.getJSONObject(0).toString();
 	} else {
 		response = jsonToReturn.toString();
 	}
 	}
+	 System.out.println(response);
     t.getResponseHeaders().set("Content-Type", String.format("application/json; charset=%s", StandardCharsets.UTF_8));
         t.sendResponseHeaders(200, response.length());
   
