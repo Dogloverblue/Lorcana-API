@@ -4,7 +4,7 @@
     "lore-value": 1,
     "color": "Amethyst",
     "strength": 2,
-    "artist": "Dav Augereau / Guykua Ruwa",
+    "artist": "Dav Augereau / Giulia Riva",
     "willpower": 2,
     "type": "Character",
     "subtypes": [
@@ -25,5 +25,6 @@
     },
     "name": "Magic Broom",
     "flavor-text": "In the immense story-forge known as the Great Illuminary, there is always work to be done.",
-    "ink-cost": 2
+    "ink-cost": 2,
+    "rarity": "Common"
   }

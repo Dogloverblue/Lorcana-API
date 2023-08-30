@@ -28,6 +28,6 @@
     },
     "name": "Zeus",
     "ink-cost": 4,
-    "flavor-text": "A little lightning solves a whole lot of problems",
+    "flavor-text": "A little lightning solves a whole lot of problems.",
     "rarity": "Rare"
   }

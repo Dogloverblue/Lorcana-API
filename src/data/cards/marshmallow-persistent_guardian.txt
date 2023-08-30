@@ -23,8 +23,8 @@
       "art-crop": "https://lorcana-api.com/images/marshmallow/persistent_guardian/marshmallow-persistent_guardian-art-crop.png",
       "medium": "https://lorcana-api.com/images/marshmallow/persistent_guardian/marshmallow-persistent_guardian-medium.png"
     },
-    "name": "MarshMallow",
+    "name": "Marshmallow",
     "ink-cost": 6,
-    "flavor-text": "\"Hey! We were just talking about you! All good things, all good things.\"\\n - Olaf",
+    "flavor-text": "\"Hey! We were just talking about you! All good things, all good things.\" - Olaf",
     "rarity": "Super Rare"
   }

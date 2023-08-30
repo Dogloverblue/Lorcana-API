@@ -1,7 +1,7 @@
 {
     "traits": [],
     "set": "The First Chapter",
-    "lore-value": 0,
+    "lore-value": 1,
     "color": "Amethyst",
     "strength": 1,
     "artist": "Giulia Riva",
@@ -25,5 +25,6 @@
     },
     "name": "Olaf",
     "flavor-text": "\"I'm Olaf and I like warm hugs!\"",
-    "ink-cost": 1
+    "ink-cost": 1,
+    "rarity": "Uncommon"
   }

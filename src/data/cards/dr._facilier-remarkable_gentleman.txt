@@ -4,7 +4,7 @@
     "set": "The First Chapter",
     "color": "Amethyst",
     "strength": 2,
-    "artist": "Cam Kendall",
+    "artist": "Cam Kendell",
     "willpower": 4,
     "type": "Character",
     "subtypes": [

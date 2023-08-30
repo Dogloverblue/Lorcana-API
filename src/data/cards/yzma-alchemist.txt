@@ -25,6 +25,7 @@
       "medium": "https://lorcana-api.com/images/yzma/alchemist/yzma-alchemist-medium.png"
     },
     "name": "Yzma",
-    "flavor-text": "\\\"When I want your opinion, I will give it to you\\\"",
-    "ink-cost": 2
+    "flavor-text": "\"When I want your opinion, I will give it to you!\"",
+    "ink-cost": 2,
+    "rarity": "Common"
   }

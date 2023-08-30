@@ -6,8 +6,8 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": false,
-    "body-text": "Excert chosen opposing character",
-    "effect": "Excert chosen opposing character",
+    "body-text": "Exert chosen opposing character",
+    "effect": "Exert chosen opposing character",
     "image-urls": {
       "small": "https://lorcana-api.com/images/freeze/freeze-small.png",
       "no-art": "https://lorcana-api.com/images/freeze/freeze-no-art.png",

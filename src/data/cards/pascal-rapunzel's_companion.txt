@@ -4,7 +4,7 @@
     "lore-value": 1,
     "color": "Amethyst",
     "strength": 1,
-    "artist": "Brian Weidz",
+    "artist": "Brian Weisz",
     "willpower": 1,
     "type": "Character",
     "subtypes": [
@@ -12,9 +12,9 @@
       "Ally"
     ],
     "set-code": "TFC",
-    "abilities": {"Camouflage": "While you have another character in play, this character gains Evasive. (Only characters with Evasice chan challenge them.)"},
+    "abilities": {"Camouflage": "While you have another character in play, this character gains Evasive. (Only characters with Evasive can challenge them.)"},
     "inkable": true,
-    "body-text": "CAMOUFLAGE: While you have another character in play, this character gains Evasive. (Only characters with Evasice chan challenge them.)",
+    "body-text": "CAMOUFLAGE: While you have another character in play, this character gains Evasive. (Only characters with Evasive can challenge them.)",
     "subtitle": "Rapunzel's Companion",
     "image-urls": {
       "small": "https://lorcana-api.com/images/pascal/rapunzel's_companion/pascal-rapunzel's_companion-small.png",
@@ -25,5 +25,6 @@
     },
     "name": "Pascal",
     "flavor-text": "A true friend is always there for you, whether you can see them or not.",
-    "ink-cost": 1
+    "ink-cost": 1,
+    "rarity": "Uncommon"
   }

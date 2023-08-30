@@ -60,14 +60,12 @@ public class StrictHandler implements HttpHandler {
 			jsonToReturn.put(new JSONObject(new String(Files.readAllBytes(Paths.get(cardFile.getAbsolutePath())))));
 		}
 	}
-	System.out.println("grr hehehaw");
 	if (jsonToReturn.length() < 2) {
 		response = jsonToReturn.getJSONObject(0).toString();
 	} else {
 		response = jsonToReturn.toString();
 	}
 	}
-	 System.out.println(response);
     t.getResponseHeaders().set("Content-Type", String.format("application/json; charset=%s", StandardCharsets.UTF_8));
         t.sendResponseHeaders(200, response.length());
   

@@ -13,7 +13,7 @@
     ],
     "set-code": "TFC",
     "abilities": {
-      "Animate Broom": "You pay 1 {i} less to play Broom characters",
+      "Animate Broom": "You pay 1{ink} less to play Broom characters.",
       "Ceaseless Worker": "Whenever one of your Broom characters is banished in a challenge, you may return that card to your hand."
     },
     "inkable": true,

@@ -3,7 +3,7 @@
     "color": "Amethyst",
     "inkable": false,
     "artist": "Andrew Trabbold",
-    "effect": "{T}, 4?",
+    "effect": "{t}, 4{ink} - Draw a card",
     "image-urls": {
       "small": "https://lorcana-api.com/images/magic_mirror/magic_mirror-small.png",
       "no-art": "https://lorcana-api.com/images/magic_mirror/magic_mirror-no-art.png",
@@ -15,5 +15,6 @@
     "ink-cost": 2,
     "type": "Item",
     "flavor-text": "\\\"What wouldst thou know, my Queen?\\\"",
-    "set-code": "TFC"
+    "set-code": "TFC",
+    "rarity": "Rare"
   }

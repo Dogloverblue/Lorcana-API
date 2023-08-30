@@ -14,7 +14,7 @@
       "Sorcerer"
     ],
     "set-code": "TFC",
-    "abilities": {"Deep Freeze": "When you play this character, excert up to 2 chosen characters. They can't ready at the start of their next turn."},
+    "abilities": {"Deep Freeze": "When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn."},
     "inkable": false,
     "body-text": "Shift 6 (You may pay 6{ink} to play this on top of one of your characters named Elsa.) \nDEEP FREEZE: When you play this character, excert up to 2 chosen characters. They can't ready at the start of their next turn.",
     "subtitle": "Spirit of Winter",
@@ -27,6 +27,6 @@
     },
     "name": "Elsa",
     "ink-cost": 8,
-    "flavor-text": "Ice is stronger than you think",
+    "flavor-text": "Ice is stronger than you may think.",
     "rarity": "Legendary"
   }

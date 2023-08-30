@@ -17,6 +17,6 @@
     },
     "name": "Ursula's Cauldron",
     "ink-cost": 2,
-    "flavor-text": "Oleg Yurkov",
-    "rarity": "Common"
+    "flavor-text": "\"Perfect for mixing potions and stealing voices.\"",
+    "rarity": "Uncommon"
   }

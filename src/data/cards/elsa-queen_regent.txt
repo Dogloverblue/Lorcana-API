@@ -27,6 +27,6 @@
     },
     "name": "Elsa",
     "ink-cost": 4,
-    "flavor-text": "\"I never know what I was capable of.\"",
+    "flavor-text": "\"I never knew what I was capable of.\"",
     "rarity": "Common"
   }

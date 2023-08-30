@@ -4,10 +4,10 @@
     "artist": "Kamil Murzyn",
     "type": "Item",
     "set-code": "TFC",
-    "abilities": {"I'm late!": "{t}, 1?Chosen character gains Rush this turn. (They can challenge the turn they're played)"},
+    "abilities": {"I'm late!": "{t}, 1{ink}Chosen character gains Rush this turn. (They can challenge the turn they're played)"},
     "inkable": true,
-    "body-text": "I'M LATE!: {t}, 1?Chosen character gains Rush this turn. (They can challenge the turn they're played)",
-    "effect": null,
+    "body-text": "I'M LATE!: {t}, 1{ink}Chosen character gains Rush this turn. (They can challenge the turn they're played)",
+    "effect": "",
     "image-urls": {
       "small": "https://lorcana-api.com/images/white_rabbit's_pocket_watch/white_rabbit's_pocket_watch-small.png",
       "no-art": "https://lorcana-api.com/images/white_rabbit's_pocket_watch/white_rabbit's_pocket_watch-no-art.png",
@@ -17,5 +17,6 @@
     },
     "name": "White Rabbit's Pocket Watch",
     "ink-cost": 3,
-    "flavor-text": "\\\"No wonder you're late. Why, this watch is exactly two days slow\\\""
+    "flavor-text": "\\\"No wonder you're late. Why, this watch is exactly two days slow\\\"",
+    "rarity": "Rare"
   }
