@@ -1,5 +1,5 @@
 {
-    "traits": ["Support (When this character quests, you may add thier * to another chosen character's * this turn)"],
+    "traits": ["Support (When this character quests, you may add their * to another chosen character's * this turn)"],
     "set": "The First Chapter",
     "lore-value": 1,
     "color": "Amber",
@@ -14,7 +14,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
-    "body-text": "Support (When this character quests, you may add thier * to another chosen character's * this turn) (Whenever this character quests, you\u0003 may add their \u203b to another chosen character\u2018s \u203b this turn.) ",
+    "body-text": "Support (When this character quests, you may add their * to another chosen character's * this turn) (Whenever this character quests, you\u0003 may add their \u203b to another chosen character\u2018s \u203b this turn.) ",
     "subtitle": "Boat Snack",
     "image-urls": {
       "small": "https://lorcana-api.com/images/heihei/boat_snack/heihei-boat_snack-small.png",

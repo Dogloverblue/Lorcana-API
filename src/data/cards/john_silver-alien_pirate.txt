@@ -15,9 +15,9 @@
       "Captain"
     ],
     "set-code": "TFC",
-    "abilities": {"Pick Your Fights": "When you play this character and whenever he quests, chosen opposing character gains Reckless during thier next turn."},
+    "abilities": {"Pick Your Fights": "When you play this character and whenever he quests, chosen opposing character gains Reckless during their next turn."},
     "inkable": true,
-    "body-text": "PICK YOUR FIGHTS: When you play this character and whenever he quests, chosen opposing character gains Reckless during thier next turn.",
+    "body-text": "PICK YOUR FIGHTS: When you play this character and whenever he quests, chosen opposing character gains Reckless during their next turn.",
     "subtitle": "Alien Pirate",
     "image-urls": {
       "small": "https://lorcana-api.com/images/john_silver/alien_pirate/john_silver-alien_pirate-small.png",
