@@ -13,9 +13,9 @@
       "Detective"
     ],
     "set-code": "TFC",
-    "abilities": {"Get A Clue": "When you play this character, you may put the top card of your deck into your inkwell facedown and excerted."},
+    "abilities": {"Get A Clue": "When you play this character, you may put the top card of your deck into your inkwell facedown and exerted."},
     "inkable": false,
-    "body-text": "GET A CLUE: When you play this character, you may put the top card of your deck into your inkwell facedown and excerted.",
+    "body-text": "GET A CLUE: When you play this character, you may put the top card of your deck into your inkwell facedown and exerted.",
     "subtitle": "Detective",
     "image-urls": {
       "small": "https://lorcana-api.com/images/mickey_mouse/detective/mickey_mouse-detective-small.png",
