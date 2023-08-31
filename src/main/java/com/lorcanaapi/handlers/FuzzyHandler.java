@@ -33,6 +33,7 @@ public class FuzzyHandler implements HttpHandler {
       public FuzzyHandler(HashMap<String, String> cardData) {
     	  for (String key: cardData.keySet()) {
     		 String value = cardData.get(key);
+    		 try {
     		 JSONObject jo = new JSONObject(value);
     		 try {
     			 jo.getString("name");
@@ -40,6 +41,10 @@ public class FuzzyHandler implements HttpHandler {
     		 } catch (JSONException e) {
 				System.out.println("Not adding " + key + " to /fuzzy/ because it's a non exact response");
 			}
+    		 } catch (JSONException e) {
+    			 System.out.println("Problem with " + key);
+    		 }
+    		
     	  }
       }
      

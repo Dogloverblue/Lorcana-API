@@ -4,7 +4,7 @@
     "lore-value": 2,
     "color": "Amber",
     "strength": 3,
-    "artist": ,
+    "artist": "Matthew Robert Davies",
     "willpower": 4,
     "type": "Character",
     "subtypes": [
