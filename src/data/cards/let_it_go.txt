@@ -3,7 +3,7 @@
     "card-number": 163,
     "color": "Sapphire",
     "artist": "Milica Celikovic",
-    "type": "Action-Song",
+    "type": "Action - Song",
     "set-code": "TFC",
     "inkable": true,
     "body-text": "Put chosen character into their player's inkwell facedown and exerted",

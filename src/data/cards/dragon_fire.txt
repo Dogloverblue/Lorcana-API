@@ -5,7 +5,7 @@
     "artist": "Luis Huerta",
     "type": "Action",
     "set-code": "TFC",
-    "inkable": true,
+    "inkable": false,
     "body-text": "Banish chosen character",
     "effect": "Banish chosen character",
     "image-urls": {

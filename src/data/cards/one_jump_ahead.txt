@@ -3,7 +3,7 @@
     "card-number": 164,
     "color": "Sapphire",
     "artist": "Bill Robinson",
-    "type": "Action-Song",
+    "type": "Action - Song",
     "set-code": "TFC",
     "inkable": false,
     "body-text": "Put the top card of your deck into your inkwell facedown and exerted",

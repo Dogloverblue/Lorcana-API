@@ -18,7 +18,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": false,
-    "body-text": "Rush (This character can challenge the turn they're played.) \nChallenger 4 When challenging, this character get +4{strength}.) ",
+    "body-text": "Rush (This character can challenge the turn they're played.) \nChallenger 4 (While challenging, this character get +4{strength}.) ",
     "subtitle": "God of Lightning",
     "image-urls": {
       "small": "https://lorcana-api.com/images/zeus/god_of_lightning/zeus-god_of_lightning-small.png",

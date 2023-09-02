@@ -25,7 +25,7 @@
       "medium": "https://lorcana-api.com/images/duke_of_weselton/opportunistic_official/duke_of_weselton-opportunistic_official-medium.png"
     },
     "name": "Duke Of Weselton",
-    "ink-cost": 4,
+    "ink-cost": 1,
     "flavor-text": "Sorcery! I knew there was something dubious going on here.",
     "rarity": "Common"
   }
