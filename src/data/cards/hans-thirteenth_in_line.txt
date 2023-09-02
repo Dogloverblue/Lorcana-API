@@ -2,6 +2,7 @@
     "lore-value": 2,
     "traits": [],
     "set": "The First Chapter",
+    "card-number": 180,
     "color": "Steel",
     "strength": 3,
     "artist": "Kendall Hale",

@@ -2,6 +2,7 @@
     "lore-value": 1,
     "traits": ["Singer 4"],
     "set": "The First Chapter",
+    "card-number": 19,
     "color": "Amber",
     "strength": 2,
     "artist": "Isaiah Mesq",

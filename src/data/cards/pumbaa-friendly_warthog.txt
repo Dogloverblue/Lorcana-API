@@ -2,6 +2,7 @@
     "lore-value": 0,
     "traits": [],
     "set": "The First Chapter",
+    "card-number": 17,
     "color": "Amber",
     "strength": 3,
     "artist": "Jenna Gray",

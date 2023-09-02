@@ -2,6 +2,7 @@
     "lore-value": 3,
     "traits": ["Shift 5"],
     "set": "The First Chapter",
+    "card-number": 37,
     "color": "Amethyst",
     "strength": 4,
     "artist": "Isaiah Mesq",

@@ -2,6 +2,7 @@
     "traits": ["Challenger 3"],
     "set": "The First Chapter",
     "lore-value": 1,
+    "card-number": 45,
     "color": "Amethyst",
     "strength": 2,
     "artist": "Jake Parker",

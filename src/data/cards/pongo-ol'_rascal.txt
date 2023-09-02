@@ -2,6 +2,7 @@
     "lore-value": 2,
     "traits": ["Evasive"],
     "set": "The First Chapter",
+    "card-number": 120,
     "color": "Ruby",
     "strength": 2,
     "artist": "Brian Weisz",

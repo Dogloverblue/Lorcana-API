@@ -2,6 +2,7 @@
     "lore-value": 0,
     "traits": [],
     "set": "The First Chapter",
+    "card-number": 85,
     "color": "Emerald",
     "strength": 1,
     "artist": "Leonardo Giammichele",

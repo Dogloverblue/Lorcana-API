@@ -2,6 +2,7 @@
     "lore-value": 1,
     "traits": ["Rush"],
     "set": "The First Chapter",
+    "card-number": 54,
     "color": "Amethyst",
     "strength": 3,
     "artist": "Giulia Riva",

@@ -2,6 +2,7 @@
     "traits": [],
     "set": "The First Chapter",
     "lore-value": 0,
+    "card-number": 182,
     "color": "Steel",
     "strength": 3,
     "artist": "Ron Baird",

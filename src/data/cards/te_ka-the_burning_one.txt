@@ -2,6 +2,7 @@
     "lore-value": 0,
     "traits": ["Reckless"],
     "set": "The First Chapter",
+    "card-number": 126,
     "color": "Ruby",
     "strength": 8,
     "artist": "Kamil Murzyn",

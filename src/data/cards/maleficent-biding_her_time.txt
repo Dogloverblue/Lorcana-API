@@ -2,6 +2,7 @@
     "lore-value": 2,
     "traits": [],
     "set": "The First Chapter",
+    "card-number": 48,
     "color": "Amethyst",
     "strength": 1,
     "artist": "Grace Tran",

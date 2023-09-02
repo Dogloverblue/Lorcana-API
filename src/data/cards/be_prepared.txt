@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 128,
     "color": "Ruby",
     "artist": "Jared Nickerl",
     "type": "Action - Song",

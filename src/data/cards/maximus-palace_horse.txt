@@ -5,6 +5,7 @@
       "Support"
     ],
     "set": "The First Chapter",
+    "card-number": 10,
     "color": "Amber",
     "strength": 4,
     "artist": "Brian Weisz",

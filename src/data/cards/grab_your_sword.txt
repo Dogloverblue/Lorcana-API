@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 198,
     "color": "Steel",
     "artist": "Peter Brockhammer",
     "type": "Action - Song",

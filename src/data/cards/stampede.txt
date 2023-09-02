@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 96,
     "color": "Emerald",
     "artist": "Matt Chapman",
     "type": "Action",

@@ -2,6 +2,7 @@
     "lore-value": 2,
     "traits": ["Bodyguard"],
     "set": "The First Chapter",
+    "card-number": 186,
     "color": "Steel",
     "strength": 2,
     "artist": "Jochem Van Gool",

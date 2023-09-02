@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 98,
     "color": "Emerald",
     "artist": "Giulia Riva",
     "type": "Action - Song",

@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 34,
     "color": "Amber",
     "artist": "Jenna Gray",
     "type": "Item",

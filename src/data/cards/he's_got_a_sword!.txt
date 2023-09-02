@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 132,
     "color": "Ruby",
     "artist": "Koni",
     "type": "Action",

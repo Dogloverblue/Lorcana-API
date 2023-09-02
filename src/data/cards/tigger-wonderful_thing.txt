@@ -2,6 +2,7 @@
     "traits": ["Evasive (Only characters with Evasive can challenge this character.)"],
     "set": "The First Chapter",
     "lore-value": 0,
+    "card-number": 127,
     "color": "Ruby",
     "strength": 4,
     "artist": "Kenneth Anderson",

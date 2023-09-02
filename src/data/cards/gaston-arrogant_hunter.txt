@@ -2,6 +2,7 @@
     "lore-value": 0,
     "traits": ["Reckless"],
     "set": "The First Chapter",
+    "card-number": 110,
     "color": "Ruby",
     "strength": 4,
     "artist": "Matthew Robert Davies",

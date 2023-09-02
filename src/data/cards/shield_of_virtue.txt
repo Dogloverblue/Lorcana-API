@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 135,
     "color": "Ruby",
     "artist": "Eri Welli",
     "type": "Item",

@@ -2,6 +2,7 @@
     "traits": [],
     "set": "The First Chapter",
     "lore-value": 2,
+    "card-number": 83,
     "color": "Emerald",
     "strength": 4,
     "artist": "Milica Celikovic",

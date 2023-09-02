@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 94,
     "color": "Emerald",
     "artist": "Ellie Horie",
     "type": "Action",

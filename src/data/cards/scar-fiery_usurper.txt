@@ -5,6 +5,7 @@
       ""
     ],
     "set": "The First Chapter",
+    "card-number": 122,
     "color": "Ruby",
     "strength": 5,
     "artist": "Amber Kommavongsa",

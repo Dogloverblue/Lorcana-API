@@ -2,6 +2,7 @@
     "lore-value": 1,
     "traits": ["Rush"],
     "set": "The First Chapter",
+    "card-number": 119,
     "color": "Ruby",
     "strength": 3,
     "artist": "Anh Dang",

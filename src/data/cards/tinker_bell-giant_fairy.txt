@@ -2,6 +2,7 @@
     "lore-value": 2,
     "traits": ["Shift 4"],
     "set": "The First Chapter",
+    "card-number": 193,
     "color": "Steel",
     "strength": 4,
     "artist": "Cookie",

@@ -2,6 +2,7 @@
     "traits": ["Shift 4"],
     "set": "The First Chapter",
     "lore-value": 3,
+    "card-number": 23,
     "color": "Amber",
     "strength": 3,
     "artist": "Simangaliso Sibaya",

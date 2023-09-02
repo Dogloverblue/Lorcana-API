@@ -2,6 +2,7 @@
     "lore-value": 1,
     "traits": [],
     "set": "The First Chapter",
+    "card-number": 146,
     "color": "Sapphire",
     "strength": 1,
     "artist": "Fliipe Laurentino",

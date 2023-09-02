@@ -2,6 +2,7 @@
     "traits": [],
     "set": "The First Chapter",
     "lore-value": 2,
+    "card-number": 1,
     "color": "Amber",
     "strength": 3,
     "artist": "Matthew Robert Davies",

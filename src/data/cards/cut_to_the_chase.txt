@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 129,
     "color": "Ruby",
     "artist": "Ellie Horie",
     "type": "Action",

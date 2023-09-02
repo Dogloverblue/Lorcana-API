@@ -1,8 +1,11 @@
 {
     "set": "The First Chapter",
+    "card-number": 30,
     "color": "Amber",
-    "inkable": false,
     "artist": "Samanta Erdini",
+    "type": "Action-Song",
+    "set-code": "TFC",
+    "inkable": false,
     "body-text": "Return a character card from your discard to your hand",
     "effect": "Return a character card from your discard to your hand",
     "image-urls": {
@@ -14,7 +17,5 @@
     },
     "name": "Part Of Your World",
     "ink-cost": 3,
-    "type": "Action-Song",
-    "flavor-text": "What would I give if I could live out of these waters?",
-    "set-code": "TFC"
+    "flavor-text": "What would I give if I could live out of these waters?"
   }

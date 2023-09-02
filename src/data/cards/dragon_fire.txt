@@ -1,8 +1,11 @@
 {
     "set": "The First Chapter",
+    "card-number": 130,
     "color": "Ruby",
-    "inkable": true,
     "artist": "Luis Huerta",
+    "type": "Action",
+    "set-code": "TFC",
+    "inkable": true,
     "body-text": "Banish chosen character",
     "effect": "Banish chosen character",
     "image-urls": {
@@ -14,7 +17,5 @@
     },
     "name": "Dragon Fire",
     "ink-cost": 5,
-    "type": "Action",
-    "flavor-text": "",
-    "set-code": "TFC"
+    "flavor-text": ""
   }

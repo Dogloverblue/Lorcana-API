@@ -2,6 +2,7 @@
     "lore-value": 1,
     "traits": [],
     "set": "The First Chapter",
+    "card-number": 106,
     "color": "Ruby",
     "strength": 6,
     "artist": "Brian Weisz",

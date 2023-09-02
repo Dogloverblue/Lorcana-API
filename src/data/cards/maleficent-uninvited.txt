@@ -2,6 +2,7 @@
     "lore-value": 3,
     "traits": [],
     "set": "The First Chapter",
+    "card-number": 151,
     "color": "Sapphire",
     "strength": 3,
     "artist": "Gaku Kumatori",

@@ -2,6 +2,7 @@
     "traits": [],
     "set": "The First Chapter",
     "lore-value": 1,
+    "card-number": 52,
     "color": "Amethyst",
     "strength": 1,
     "artist": "Giulia Riva",

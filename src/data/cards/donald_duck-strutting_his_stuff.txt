@@ -2,6 +2,7 @@
     "lore-value": 2,
     "traits": ["Ward"],
     "set": "The First Chapter",
+    "card-number": 144,
     "color": "Sapphire",
     "strength": 4,
     "artist": "Cam Kendell",

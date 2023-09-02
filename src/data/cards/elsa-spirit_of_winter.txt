@@ -2,6 +2,7 @@
     "lore-value": 3,
     "traits": ["Shift 6"],
     "set": "The First Chapter",
+    "card-number": 42,
     "color": "Amethyst",
     "strength": 4,
     "artist": "Matthew Robert Davies",

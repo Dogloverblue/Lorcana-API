@@ -1,8 +1,11 @@
 {
     "set": "The First Chapter",
+    "card-number": 28,
     "color": "Amber",
-    "inkable": true,
     "artist": "Philipp Kruse",
+    "type": "Action",
+    "set-code": "TFC",
+    "inkable": true,
     "body-text": "Remove up to 2 damage from chosen character",
     "effect": "Remove up to 2 damage from chosen character",
     "image-urls": {
@@ -14,7 +17,5 @@
     },
     "name": "Healing Glow",
     "ink-cost": 1,
-    "type": "Action",
-    "flavor-text": "\\\"Don't freak out!\\\" - Rapunzel",
-    "set-code": "TFC"
+    "flavor-text": "\\\"Don't freak out!\\\" - Rapunzel"
   }

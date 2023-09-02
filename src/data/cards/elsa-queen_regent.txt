@@ -2,6 +2,7 @@
     "lore-value": 1,
     "traits": [],
     "set": "The First Chapter",
+    "card-number": 40,
     "color": "Amethyst",
     "strength": 4,
     "artist": "Duyen Nguyen / Aubrey Archer",

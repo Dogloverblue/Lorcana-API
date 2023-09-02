@@ -2,6 +2,7 @@
     "lore-value": 2,
     "traits": ["Shift 3"],
     "set": "The First Chapter",
+    "card-number": 149,
     "color": "Sapphire",
     "strength": 2,
     "artist": "Filipe Laurentino",

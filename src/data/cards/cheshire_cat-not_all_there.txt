@@ -2,6 +2,7 @@
     "lore-value": 2,
     "traits": [],
     "set": "The First Chapter",
+    "card-number": 71,
     "color": "Emerald",
     "strength": 0,
     "artist": "Caner Soylu",

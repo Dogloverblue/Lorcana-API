@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 99,
     "color": "Emerald",
     "artist": "unknown",
     "type": "Action",

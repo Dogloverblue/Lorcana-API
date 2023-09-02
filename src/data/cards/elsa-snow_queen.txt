@@ -2,6 +2,7 @@
     "traits": [],
     "set": "The First Chapter",
     "lore-value": 1,
+    "card-number": 41,
     "color": "Amethyst",
     "strength": 2,
     "artist": "Nicholas Kole",

@@ -2,6 +2,7 @@
     "lore-value": 3,
     "traits": ["Ward"],
     "set": "The First Chapter",
+    "card-number": 84,
     "color": "Emerald",
     "strength": 2,
     "artist": "Grace Tran",

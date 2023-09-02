@@ -2,6 +2,7 @@
     "lore-value": 3,
     "traits": ["Support"],
     "set": "The First Chapter",
+    "card-number": 143,
     "color": "Sapphire",
     "strength": 3,
     "artist": "Pirel",

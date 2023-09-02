@@ -2,6 +2,7 @@
     "lore-value": 1,
     "traits": ["Evasive"],
     "set": "The First Chapter",
+    "card-number": 93,
     "color": "Emerald",
     "strength": 2,
     "artist": "Caner Soylu",

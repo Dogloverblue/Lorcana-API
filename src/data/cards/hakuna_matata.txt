@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 27,
     "color": "Amber",
     "artist": "Juan Diego Leon",
     "type": "Action - Song",

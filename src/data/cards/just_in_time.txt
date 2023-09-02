@@ -1,8 +1,11 @@
 {
     "set": "The First Chapter",
+    "card-number": 29,
     "color": "Amber",
-    "inkable": true,
     "artist": "Leonardo Giammichele",
+    "type": "Action",
+    "set-code": "TFC",
+    "inkable": true,
     "body-text": "You may play a character with cost 5 or less for free.",
     "effect": "You may play a character with cost 5 or less for free.",
     "image-urls": {
@@ -14,7 +17,5 @@
     },
     "name": "Just In Time",
     "ink-cost": 3,
-    "type": "Action",
-    "flavor-text": "The best heroes always arrive at the perfect moment-whether they know it or not.",
-    "set-code": "TFC"
+    "flavor-text": "The best heroes always arrive at the perfect moment-whether they know it or not."
   }

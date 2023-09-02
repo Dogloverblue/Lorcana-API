@@ -2,6 +2,7 @@
     "traits": [],
     "set": "The First Chapter",
     "lore-value": 1,
+    "card-number": 13,
     "color": "Amber",
     "strength": 2,
     "artist": "Kendall Hale",

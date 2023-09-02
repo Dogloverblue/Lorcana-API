@@ -2,6 +2,7 @@
     "lore-value": 0,
     "traits": [],
     "set": "The First Chapter",
+    "card-number": 183,
     "color": "Steel",
     "strength": 6,
     "artist": "Jake Parker",

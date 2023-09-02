@@ -1,8 +1,11 @@
 {
     "set": "The First Chapter",
+    "card-number": 163,
     "color": "Sapphire",
-    "inkable": true,
     "artist": "Milica Celikovic",
+    "type": "Action-Song",
+    "set-code": "TFC",
+    "inkable": true,
     "body-text": "Put chosen character into their player's inkwell facedown and exerted",
     "effect": "Put chosen character into their player's inkwell facedown and exerted",
     "image-urls": {
@@ -14,7 +17,5 @@
     },
     "name": "Let It Go",
     "ink-cost": 5,
-    "type": "Action-Song",
-    "flavor-text": "It's time to see what I can do \nTo test the limits and break through",
-    "set-code": "TFC"
+    "flavor-text": "It's time to see what I can do \nTo test the limits and break through"
   }

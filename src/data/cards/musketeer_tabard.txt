@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 203,
     "color": "Steel",
     "artist": "Dav Augereau",
     "type": "Item",

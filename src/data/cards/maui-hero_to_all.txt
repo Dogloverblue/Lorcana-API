@@ -5,6 +5,7 @@
       "Reckless"
     ],
     "set": "The First Chapter",
+    "card-number": 114,
     "color": "Ruby",
     "strength": 6,
     "artist": "Pixel / Marco Giogianni",

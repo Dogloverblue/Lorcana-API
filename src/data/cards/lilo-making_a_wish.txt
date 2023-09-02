@@ -2,6 +2,7 @@
     "lore-value": 2,
     "traits": [],
     "set": "The First Chapter",
+    "card-number": 9,
     "color": "Amber",
     "strength": 1,
     "artist": "Dave Beauchene",

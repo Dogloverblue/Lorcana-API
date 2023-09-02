@@ -2,6 +2,7 @@
     "lore-value": 2,
     "traits": ["Shift 5"],
     "set": "The First Chapter",
+    "card-number": 88,
     "color": "Emerald",
     "strength": 6,
     "artist": "Alex Accorsi / Kendall Hale",

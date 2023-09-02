@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 201,
     "color": "Steel",
     "artist": "Samanta Erdini",
     "type": "Item",

@@ -2,6 +2,7 @@
     "lore-value": 1,
     "traits": ["Support"],
     "set": "The First Chapter",
+    "card-number": 156,
     "color": "Sapphire",
     "strength": 3,
     "artist": "Leonardo Giammichele",

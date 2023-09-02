@@ -5,6 +5,7 @@
       "Evasive"
     ],
     "set": "The First Chapter",
+    "card-number": 76,
     "color": "Emerald",
     "strength": 3,
     "artist": "Javier Salas",

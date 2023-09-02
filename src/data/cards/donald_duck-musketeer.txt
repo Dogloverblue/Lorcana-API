@@ -2,6 +2,7 @@
     "lore-value": 1,
     "traits": ["Bodyguard"],
     "set": "The First Chapter",
+    "card-number": 177,
     "color": "Steel",
     "strength": 2,
     "artist": "Dav Augereau",

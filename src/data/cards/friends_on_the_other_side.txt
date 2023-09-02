@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 64,
     "color": "Amethyst",
     "artist": "Amber Kommavongsa",
     "type": "Action - Song",

@@ -2,6 +2,7 @@
     "traits": [],
     "set": "The First Chapter",
     "lore-value": 2,
+    "card-number": 172,
     "color": "Steel",
     "strength": 4,
     "artist": "Cookie",

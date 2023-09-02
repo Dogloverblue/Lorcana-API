@@ -2,6 +2,7 @@
     "traits": [],
     "set": "The First Chapter",
     "lore-value": 2,
+    "card-number": 140,
     "color": "Sapphire",
     "strength": 2,
     "artist": "Samanta Erdini",

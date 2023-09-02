@@ -2,6 +2,7 @@
     "traits": ["Support (When this character quests, you may add their * to another chosen character's * this turn)"],
     "set": "The First Chapter",
     "lore-value": 1,
+    "card-number": 7,
     "color": "Amber",
     "strength": 1,
     "artist": "Jenna Gray",

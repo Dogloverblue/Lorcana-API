@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 169,
     "color": "Sapphire",
     "artist": "Cory Godbey",
     "type": "Item",

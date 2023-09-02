@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 95,
     "color": "Emerald",
     "artist": "R. La Barbera / L. Giammichele",
     "type": "Action - Song",

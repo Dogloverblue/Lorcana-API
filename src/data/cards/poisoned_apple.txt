@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 134,
     "color": "Ruby",
     "artist": "Andrew Trabbold",
     "type": "Item",

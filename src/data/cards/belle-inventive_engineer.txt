@@ -2,6 +2,7 @@
     "traits": [],
     "set": "The First Chapter",
     "lore-value": 2,
+    "card-number": 141,
     "color": "Sapphire",
     "strength": 2,
     "artist": "Gabriel Romero / Pia Smith",

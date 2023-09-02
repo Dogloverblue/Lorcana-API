@@ -2,6 +2,7 @@
     "lore-value": 1,
     "traits": [],
     "set": "The First Chapter",
+    "card-number": 50,
     "color": "Amethyst",
     "strength": 5,
     "artist": "Kendall Hale / Anh Dang",

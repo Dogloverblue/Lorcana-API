@@ -2,6 +2,7 @@
     "lore-value": 2,
     "traits": ["Rush"],
     "set": "The First Chapter",
+    "card-number": 43,
     "color": "Amethyst",
     "strength": 3,
     "artist": "Luis Huerta",

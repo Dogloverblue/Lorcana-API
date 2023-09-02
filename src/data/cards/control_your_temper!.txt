@@ -1,8 +1,11 @@
 {
     "set": "The First Chapter",
+    "card-number": 26,
     "color": "Amber",
-    "inkable": true,
     "artist": "Amber Kommovonga",
+    "type": "Action",
+    "set-code": "TFC",
+    "inkable": true,
     "body-text": "Chosen character gets -2? this turn.",
     "effect": "Chosen character gets -2? this turn.",
     "image-urls": {
@@ -14,7 +17,5 @@
     },
     "name": "Control Your Temper!",
     "ink-cost": 1,
-    "type": "Action",
-    "flavor-text": "",
-    "set-code": "TFC"
+    "flavor-text": ""
   }

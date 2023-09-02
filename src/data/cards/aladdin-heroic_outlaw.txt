@@ -2,6 +2,7 @@
     "traits": ["Shift 5"],
     "set": "The First Chapter",
     "lore-value": 2,
+    "card-number": 104,
     "color": "Ruby",
     "strength": 5,
     "artist": "Nicholas Kole",

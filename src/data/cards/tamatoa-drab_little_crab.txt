@@ -2,6 +2,7 @@
     "lore-value": 1,
     "traits": [],
     "set": "The First Chapter",
+    "card-number": 92,
     "color": "Emerald",
     "strength": 1,
     "artist": "Jeff Murchie",

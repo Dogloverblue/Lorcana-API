@@ -5,6 +5,7 @@
       "Evasive"
     ],
     "set": "The First Chapter",
+    "card-number": 189,
     "color": "Steel",
     "strength": 4,
     "artist": "Nicholas Kole",

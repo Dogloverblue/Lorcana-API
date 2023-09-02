@@ -2,6 +2,7 @@
     "lore-value": 0,
     "traits": ["Rush"],
     "set": "The First Chapter",
+    "card-number": 70,
     "color": "Emerald",
     "strength": 4,
     "artist": "Jeff Murchie",

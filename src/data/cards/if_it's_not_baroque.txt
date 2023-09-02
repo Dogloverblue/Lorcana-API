@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 162,
     "color": "Sapphire",
     "artist": "Kenneth Anderson",
     "type": "Action",

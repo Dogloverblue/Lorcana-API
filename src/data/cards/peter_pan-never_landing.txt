@@ -2,6 +2,7 @@
     "lore-value": 1,
     "traits": ["Evasive"],
     "set": "The First Chapter",
+    "card-number": 91,
     "color": "Emerald",
     "strength": 3,
     "artist": "Koni",

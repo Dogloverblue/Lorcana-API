@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 200,
     "color": "Steel",
     "artist": "Simangaliso Sibaya",
     "type": "Action",

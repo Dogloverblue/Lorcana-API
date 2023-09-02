@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 68,
     "color": "Amethyst",
     "artist": "Kamil Murzyn",
     "type": "Item",

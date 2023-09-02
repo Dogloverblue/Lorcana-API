@@ -2,6 +2,7 @@
     "lore-value": 3,
     "traits": [],
     "set": "The First Chapter",
+    "card-number": 185,
     "color": "Steel",
     "strength": 8,
     "artist": "Isaiah Mesq",

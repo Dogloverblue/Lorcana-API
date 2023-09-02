@@ -2,6 +2,7 @@
     "lore-value": 2,
     "traits": [],
     "set": "The First Chapter",
+    "card-number": 160,
     "color": "Sapphire",
     "strength": 5,
     "artist": "Cristian Romero",

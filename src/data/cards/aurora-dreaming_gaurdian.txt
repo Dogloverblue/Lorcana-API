@@ -2,6 +2,7 @@
     "lore-value": 2,
     "traits": ["Shift 3"],
     "set": "The First Chapter",
+    "card-number": 139,
     "color": "Sapphire",
     "strength": 3,
     "artist": "Nicholas Kole",

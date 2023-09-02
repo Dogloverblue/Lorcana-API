@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 167,
     "color": "Sapphire",
     "artist": "Ron Baird",
     "type": "Item",

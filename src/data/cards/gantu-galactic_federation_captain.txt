@@ -2,6 +2,7 @@
     "traits": [],
     "set": "The First Chapter",
     "lore-value": 2,
+    "card-number": 178,
     "color": "Steel",
     "strength": 6,
     "artist": "Luis Huerta",

@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 101,
     "color": "Emerald",
     "artist": "Koni",
     "type": "Item",

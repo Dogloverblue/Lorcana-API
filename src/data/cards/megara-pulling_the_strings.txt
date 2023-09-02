@@ -2,6 +2,7 @@
     "lore-value": 1,
     "traits": [],
     "set": "The First Chapter",
+    "card-number": 87,
     "color": "Emerald",
     "strength": 2,
     "artist": "Aubrey Archer",

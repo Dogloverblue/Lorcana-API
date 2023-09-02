@@ -5,6 +5,7 @@
       "Challenger 4"
     ],
     "set": "The First Chapter",
+    "card-number": 61,
     "color": "Amethyst",
     "strength": 0,
     "artist": "Koni",

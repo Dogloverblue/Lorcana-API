@@ -2,6 +2,7 @@
     "traits": ["Challenger 2"],
     "set": "The First Chapter",
     "lore-value": 1,
+    "card-number": 38,
     "color": "Amethyst",
     "strength": 0,
     "artist": "Grace Tran",

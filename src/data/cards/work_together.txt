@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 165,
     "color": "Sapphire",
     "artist": "Bill Robinson",
     "type": "Action",

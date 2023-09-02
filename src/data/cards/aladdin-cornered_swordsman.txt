@@ -2,6 +2,7 @@
     "lore-value": 2,
     "traits": [],
     "set": "The First Chapter",
+    "card-number": 171,
     "color": "Steel",
     "strength": 2,
     "artist": "Randy Bishop",

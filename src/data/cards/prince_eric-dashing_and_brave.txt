@@ -2,6 +2,7 @@
     "traits": ["Challenger 2"],
     "set": "The First Chapter",
     "lore-value": 1,
+    "card-number": 187,
     "color": "Steel",
     "strength": 1,
     "artist": "Cristian Romero",

@@ -1,8 +1,11 @@
 {
     "set": "The First Chapter",
+    "card-number": 164,
     "color": "Sapphire",
-    "inkable": false,
     "artist": "Bill Robinson",
+    "type": "Action-Song",
+    "set-code": "TFC",
+    "inkable": false,
     "body-text": "Put the top card of your deck into your inkwell facedown and exerted",
     "effect": "Put the top card of your deck into your inkwell facedown and exerted",
     "image-urls": {
@@ -14,7 +17,5 @@
     },
     "name": "One Jump Ahead",
     "ink-cost": 2,
-    "type": "Action-Song",
-    "flavor-text": "Gotta eat to live, gotta steal to eat- Tell you all about it when I got the time",
-    "set-code": "TFC"
+    "flavor-text": "Gotta eat to live, gotta steal to eat- Tell you all about it when I got the time"
   }

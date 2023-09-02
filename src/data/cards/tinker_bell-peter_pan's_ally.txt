@@ -2,6 +2,7 @@
     "lore-value": 2,
     "traits": ["Evasive"],
     "set": "The First Chapter",
+    "card-number": 58,
     "color": "Amethyst",
     "strength": 3,
     "artist": "Adrianne Gumaya",

@@ -1,8 +1,11 @@
 {
     "set": "The First Chapter",
+    "card-number": 197,
     "color": "Steel",
-    "inkable": false,
     "artist": "Matt Chapman",
+    "type": "Action",
+    "set-code": "TFC",
+    "inkable": false,
     "body-text": "Deal 2 damage to chosen character",
     "effect": "Deal 2 damage to chosen character",
     "image-urls": {
@@ -14,7 +17,5 @@
     },
     "name": "Fire The Cannons!",
     "ink-cost": 1,
-    "type": "Action",
-    "flavor-text": "Captain Hook: \"Double the powder and shorten the fuse!\" Mr. Smee: \"Shorten the powder and double the fuse!\"",
-    "set-code": "TFC"
+    "flavor-text": "Captain Hook: \"Double the powder and shorten the fuse!\" Mr. Smee: \"Shorten the powder and double the fuse!\""
   }

@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 166,
     "color": "Sapphire",
     "artist": "Milica Celikovic",
     "type": "Item",

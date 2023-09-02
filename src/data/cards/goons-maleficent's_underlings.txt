@@ -2,6 +2,7 @@
     "traits": [],
     "set": "The First Chapter",
     "lore-value": 1,
+    "card-number": 179,
     "color": "Steel",
     "strength": 2,
     "artist": "Cam Kendall",

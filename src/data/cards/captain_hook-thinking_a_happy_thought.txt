@@ -5,6 +5,7 @@
       "Challenger 3"
     ],
     "set": "The First Chapter",
+    "card-number": 175,
     "color": "Steel",
     "strength": 2,
     "artist": "Elliot Bocxtaele",

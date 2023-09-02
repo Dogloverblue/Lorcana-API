@@ -2,6 +2,7 @@
     "traits": ["Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)"],
     "set": "The First Chapter",
     "lore-value": 1,
+    "card-number": 181,
     "color": "Steel",
     "strength": 3,
     "artist": "Marcel Berg",

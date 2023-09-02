@@ -2,6 +2,7 @@
     "lore-value": 0,
     "traits": ["Ward"],
     "set": "The First Chapter",
+    "card-number": 69,
     "color": "Emerald",
     "strength": 2,
     "artist": "Lauren Walsh",

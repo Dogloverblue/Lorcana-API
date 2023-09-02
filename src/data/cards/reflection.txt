@@ -1,5 +1,6 @@
 {
     "set": "The First Chapter",
+    "card-number": 65,
     "color": "Amethyst",
     "artist": "Kevin Hong",
     "type": "Action - Song",

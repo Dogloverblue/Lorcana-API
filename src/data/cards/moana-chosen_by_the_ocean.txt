@@ -2,6 +2,7 @@
     "lore-value": 2,
     "traits": [],
     "set": "The First Chapter",
+    "card-number": 117,
     "color": "Ruby",
     "strength": 2,
     "artist": "Tanisha Cherislin",

@@ -2,6 +2,7 @@
     "lore-value": 3,
     "traits": [],
     "set": "The First Chapter",
+    "card-number": 125,
     "color": "Ruby",
     "strength": 4,
     "artist": "Bill Robinson",

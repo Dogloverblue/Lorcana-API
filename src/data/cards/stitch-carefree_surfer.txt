@@ -2,6 +2,7 @@
     "lore-value": 2,
     "traits": [],
     "set": "The First Chapter",
+    "card-number": 21,
     "color": "Amber",
     "strength": 4,
     "artist": "Marcel Berg",

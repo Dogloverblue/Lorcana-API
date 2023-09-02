@@ -2,6 +2,7 @@
     "traits": [],
     "set": "The First Chapter",
     "lore-value": 0,
+    "card-number": 152,
     "color": "Sapphire",
     "strength": 2,
     "artist": "Alex Accorsi",
