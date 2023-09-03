@@ -1,6 +1,6 @@
 {
     "set": "The First Chapter",
-    "card-number": -1,
+    "card-number": 67,
     "color": "Amethyst",
     "artist": "Oleg Yurkov",
     "type": "Item",
