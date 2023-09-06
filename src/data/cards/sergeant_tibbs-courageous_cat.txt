@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/sergeant_tibbs/courageous_cat/sergeant_tibbs-courageous_cat-no-art.png",
       "large": "https://lorcana-api.com/images/sergeant_tibbs/courageous_cat/sergeant_tibbs-courageous_cat-large.png",
       "art-crop": "https://lorcana-api.com/images/sergeant_tibbs/courageous_cat/sergeant_tibbs-courageous_cat-art-crop.png",
-      "medium": "https://lorcana-api.com/images/sergeant_tibbs/courageous_cat/sergeant_tibbs-courageous_cat-medium.png"
+      "medium": "https://lorcana-api.com/images/sergeant_tibbs/courageous_cat/sergeant_tibbs-courageous_cat-medium.png",
+      "foil": "https://lorcana-api.com/images/sergeant_tibbs/courageous_cat/sergeant_tibbs-courageous_cat-foil.png"
     },
     "name": "Sergeant Tibbs",
     "ink-cost": 1,

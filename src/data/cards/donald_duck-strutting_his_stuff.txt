@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/donald_duck/strutting_his_stuff/donald_duck-strutting_his_stuff-no-art.png",
       "large": "https://lorcana-api.com/images/donald_duck/strutting_his_stuff/donald_duck-strutting_his_stuff-large.png",
       "art-crop": "https://lorcana-api.com/images/donald_duck/strutting_his_stuff/donald_duck-strutting_his_stuff-art-crop.png",
-      "medium": "https://lorcana-api.com/images/donald_duck/strutting_his_stuff/donald_duck-strutting_his_stuff-medium.png"
+      "medium": "https://lorcana-api.com/images/donald_duck/strutting_his_stuff/donald_duck-strutting_his_stuff-medium.png",
+      "foil": "https://lorcana-api.com/images/donald_duck/strutting_his_stuff/donald_duck-strutting_his_stuff-foil.png"
     },
     "name": "Donald Duck",
     "ink-cost": 5,

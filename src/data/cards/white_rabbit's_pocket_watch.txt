@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/white_rabbit's_pocket_watch/white_rabbit's_pocket_watch-no-art.png",
       "large": "https://lorcana-api.com/images/white_rabbit's_pocket_watch/white_rabbit's_pocket_watch-large.png",
       "art-crop": "https://lorcana-api.com/images/white_rabbit's_pocket_watch/white_rabbit's_pocket_watch-art-crop.png",
-      "medium": "https://lorcana-api.com/images/white_rabbit's_pocket_watch/white_rabbit's_pocket_watch-medium.png"
+      "medium": "https://lorcana-api.com/images/white_rabbit's_pocket_watch/white_rabbit's_pocket_watch-medium.png",
+      "foil": "https://lorcana-api.com/images/white_rabbit's_pocket_watch/white_rabbit's_pocket_watch-foil.png"
     },
     "name": "White Rabbit's Pocket Watch",
     "ink-cost": 3,

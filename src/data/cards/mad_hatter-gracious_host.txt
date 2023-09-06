@@ -19,7 +19,8 @@
       "no-art": "https://lorcana-api.com/images/mad_hatter/gracious_host/mad_hatter-gracious_host-no-art.png",
       "large": "https://lorcana-api.com/images/mad_hatter/gracious_host/mad_hatter-gracious_host-large.png",
       "art-crop": "https://lorcana-api.com/images/mad_hatter/gracious_host/mad_hatter-gracious_host-art-crop.png",
-      "medium": "https://lorcana-api.com/images/mad_hatter/gracious_host/mad_hatter-gracious_host-medium.png"
+      "medium": "https://lorcana-api.com/images/mad_hatter/gracious_host/mad_hatter-gracious_host-medium.png",
+      "foil": "https://lorcana-api.com/images/mad_hatter/gracious_host/mad_hatter-gracious_host-foil.png"
     },
     "name": "Mad Hatter",
     "ink-cost": 5,

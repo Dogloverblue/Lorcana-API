@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-no-art.png",
       "large": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-large.png",
       "art-crop": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-art-crop.png",
-      "medium": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-medium.png"
+      "medium": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-medium.png",
+      "foil": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-foil.png"
     },
     "name": "Tigger",
     "flavor-text": "\\\"I'm the bounciest bouncer that ever bounced!\\\"",

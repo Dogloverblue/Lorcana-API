@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/prince_eric/dashing_and_brave/prince_eric-dashing_and_brave-no-art.png",
       "large": "https://lorcana-api.com/images/prince_eric/dashing_and_brave/prince_eric-dashing_and_brave-large.png",
       "art-crop": "https://lorcana-api.com/images/prince_eric/dashing_and_brave/prince_eric-dashing_and_brave-art-crop.png",
-      "medium": "https://lorcana-api.com/images/prince_eric/dashing_and_brave/prince_eric-dashing_and_brave-medium.png"
+      "medium": "https://lorcana-api.com/images/prince_eric/dashing_and_brave/prince_eric-dashing_and_brave-medium.png",
+      "foil": "https://lorcana-api.com/images/prince_eric/dashing_and_brave/prince_eric-dashing_and_brave-foil.png"
     },
     "name": "Prince Eric",
     "flavor-text": "\\\"I lost her once! I'm not gonna lose her again!\\\"",

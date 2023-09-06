@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/philoctetes/trainer_of_heroes/philoctetes-trainer_of_heroes-no-art.png",
       "large": "https://lorcana-api.com/images/philoctetes/trainer_of_heroes/philoctetes-trainer_of_heroes-large.png",
       "art-crop": "https://lorcana-api.com/images/philoctetes/trainer_of_heroes/philoctetes-trainer_of_heroes-art-crop.png",
-      "medium": "https://lorcana-api.com/images/philoctetes/trainer_of_heroes/philoctetes-trainer_of_heroes-medium.png"
+      "medium": "https://lorcana-api.com/images/philoctetes/trainer_of_heroes/philoctetes-trainer_of_heroes-medium.png",
+      "foil": "https://lorcana-api.com/images/philoctetes/trainer_of_heroes/philoctetes-trainer_of_heroes-foil.png"
     },
     "name": "Philoctetes",
     "ink-cost": 2,

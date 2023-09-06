@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/dr._facilier/charlatan/dr._facilier-charlatan-no-art.png",
       "large": "https://lorcana-api.com/images/dr._facilier/charlatan/dr._facilier-charlatan-large.png",
       "art-crop": "https://lorcana-api.com/images/dr._facilier/charlatan/dr._facilier-charlatan-art-crop.png",
-      "medium": "https://lorcana-api.com/images/dr._facilier/charlatan/dr._facilier-charlatan-medium.png"
+      "medium": "https://lorcana-api.com/images/dr._facilier/charlatan/dr._facilier-charlatan-medium.png",
+      "foil": "https://lorcana-api.com/images/dr._facilier/charlatan/dr._facilier-charlatan-foil.png"
     },
     "name": "Dr. Facilier",
     "flavor-text": "\\\"Enchantee. A tip of the hat from Dr. Facilier.\\\"",

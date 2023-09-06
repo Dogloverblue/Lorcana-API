@@ -24,7 +24,8 @@
       "no-art": "https://lorcana-api.com/images/captain_hook/ruthless_pirate/captain_hook-ruthless_pirate-no-art.png",
       "large": "https://lorcana-api.com/images/captain_hook/ruthless_pirate/captain_hook-ruthless_pirate-large.png",
       "art-crop": "https://lorcana-api.com/images/captain_hook/ruthless_pirate/captain_hook-ruthless_pirate-art-crop.png",
-      "medium": "https://lorcana-api.com/images/captain_hook/ruthless_pirate/captain_hook-ruthless_pirate-medium.png"
+      "medium": "https://lorcana-api.com/images/captain_hook/ruthless_pirate/captain_hook-ruthless_pirate-medium.png",
+      "foil": "https://lorcana-api.com/images/captain_hook/ruthless_pirate/captain_hook-ruthless_pirate-foil.png"
     },
     "name": "Captain Hook",
     "ink-cost": 7,

@@ -26,7 +26,8 @@
       "no-art": "https://lorcana-api.com/images/belle/strange_but_special/belle-strange_but_special-no-art.png",
       "large": "https://lorcana-api.com/images/belle/strange_but_special/belle-strange_but_special-large.png",
       "art-crop": "https://lorcana-api.com/images/belle/strange_but_special/belle-strange_but_special-art-crop.png",
-      "medium": "https://lorcana-api.com/images/belle/strange_but_special/belle-strange_but_special-medium.png"
+      "medium": "https://lorcana-api.com/images/belle/strange_but_special/belle-strange_but_special-medium.png",
+      "foil": "https://lorcana-api.com/images/belle/strange_but_special/belle-strange_but_special-foil.png"
     },
     "name": "Belle",
     "ink-cost": 4,

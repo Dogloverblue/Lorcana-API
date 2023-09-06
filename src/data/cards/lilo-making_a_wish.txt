@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/lilo/making_a_wish/lilo-making_a_wish-no-art.png",
       "large": "https://lorcana-api.com/images/lilo/making_a_wish/lilo-making_a_wish-large.png",
       "art-crop": "https://lorcana-api.com/images/lilo/making_a_wish/lilo-making_a_wish-art-crop.png",
-      "medium": "https://lorcana-api.com/images/lilo/making_a_wish/lilo-making_a_wish-medium.png"
+      "medium": "https://lorcana-api.com/images/lilo/making_a_wish/lilo-making_a_wish-medium.png",
+      "foil": "https://lorcana-api.com/images/lilo/making_a_wish/lilo-making_a_wish-foil.png"
     },
     "name": "Lilo",
     "ink-cost": 1,

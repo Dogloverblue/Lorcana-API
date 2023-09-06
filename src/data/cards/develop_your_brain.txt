@@ -13,7 +13,8 @@
       "no-art": "https://lorcana-api.com/images/develop_your_brain/develop_your_brain-no-art.png",
       "large": "https://lorcana-api.com/images/develop_your_brain/develop_your_brain-large.png",
       "art-crop": "https://lorcana-api.com/images/develop_your_brain/develop_your_brain-art-crop.png",
-      "medium": "https://lorcana-api.com/images/develop_your_brain/develop_your_brain-medium.png"
+      "medium": "https://lorcana-api.com/images/develop_your_brain/develop_your_brain-medium.png",
+      "foil": "https://lorcana-api.com/images/develop_your_brain/develop_your_brain-foil.png"
     },
     "name": "Develop Your Brain",
     "ink-cost": 1,

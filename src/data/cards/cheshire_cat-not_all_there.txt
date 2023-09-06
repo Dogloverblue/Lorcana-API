@@ -19,7 +19,8 @@
       "no-art": "https://lorcana-api.com/images/cheshire_cat/not_all_there/cheshire_cat-not_all_there-no-art.png",
       "large": "https://lorcana-api.com/images/cheshire_cat/not_all_there/cheshire_cat-not_all_there-large.png",
       "art-crop": "https://lorcana-api.com/images/cheshire_cat/not_all_there/cheshire_cat-not_all_there-art-crop.png",
-      "medium": "https://lorcana-api.com/images/cheshire_cat/not_all_there/cheshire_cat-not_all_there-medium.png"
+      "medium": "https://lorcana-api.com/images/cheshire_cat/not_all_there/cheshire_cat-not_all_there-medium.png",
+      "foil": "https://lorcana-api.com/images/cheshire_cat/not_all_there/cheshire_cat-not_all_there-foil.png"
     },
     "name": "Cheshire Cat",
     "ink-cost": 3,

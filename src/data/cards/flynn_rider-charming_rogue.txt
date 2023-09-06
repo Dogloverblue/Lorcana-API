@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/flynn_rider/charming_rogue/flynn_rider-charming_rogue-no-art.png",
       "large": "https://lorcana-api.com/images/flynn_rider/charming_rogue/flynn_rider-charming_rogue-large.png",
       "art-crop": "https://lorcana-api.com/images/flynn_rider/charming_rogue/flynn_rider-charming_rogue-art-crop.png",
-      "medium": "https://lorcana-api.com/images/flynn_rider/charming_rogue/flynn_rider-charming_rogue-medium.png"
+      "medium": "https://lorcana-api.com/images/flynn_rider/charming_rogue/flynn_rider-charming_rogue-medium.png",
+      "foil": "https://lorcana-api.com/images/flynn_rider/charming_rogue/flynn_rider-charming_rogue-foil.png"
     },
     "name": "Flynn Rider",
     "ink-cost": 2,

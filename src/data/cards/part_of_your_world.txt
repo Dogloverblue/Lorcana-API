@@ -13,7 +13,8 @@
       "no-art": "https://lorcana-api.com/images/part_of_your_world/part_of_your_world-no-art.png",
       "large": "https://lorcana-api.com/images/part_of_your_world/part_of_your_world-large.png",
       "art-crop": "https://lorcana-api.com/images/part_of_your_world/part_of_your_world-art-crop.png",
-      "medium": "https://lorcana-api.com/images/part_of_your_world/part_of_your_world-medium.png"
+      "medium": "https://lorcana-api.com/images/part_of_your_world/part_of_your_world-medium.png",
+      "foil": "https://lorcana-api.com/images/part_of_your_world/part_of_your_world-foil.png"
     },
     "name": "Part Of Your World",
     "ink-cost": 3,

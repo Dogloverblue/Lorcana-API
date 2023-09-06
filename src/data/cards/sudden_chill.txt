@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/sudden_chill/sudden_chill-no-art.png",
       "large": "https://lorcana-api.com/images/sudden_chill/sudden_chill-large.png",
       "art-crop": "https://lorcana-api.com/images/sudden_chill/sudden_chill-art-crop.png",
-      "medium": "https://lorcana-api.com/images/sudden_chill/sudden_chill-medium.png"
+      "medium": "https://lorcana-api.com/images/sudden_chill/sudden_chill-medium.png",
+      "foil": "https://lorcana-api.com/images/sudden_chill/sudden_chill-foil.png"
     },
     "name": "Sudden Chill",
     "ink-cost": 2,

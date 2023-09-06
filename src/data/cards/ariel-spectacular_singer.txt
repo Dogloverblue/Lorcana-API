@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/ariel/spectacular_singer/ariel-spectacular_singer-no-art.png",
       "large": "https://lorcana-api.com/images/ariel/spectacular_singer/ariel-spectacular_singer-large.png",
       "art-crop": "https://lorcana-api.com/images/ariel/spectacular_singer/ariel-spectacular_singer-art-crop.png",
-      "medium": "https://lorcana-api.com/images/ariel/spectacular_singer/ariel-spectacular_singer-medium.png"
+      "medium": "https://lorcana-api.com/images/ariel/spectacular_singer/ariel-spectacular_singer-medium.png",
+      "foil": "https://lorcana-api.com/images/ariel/spectacular_singer/ariel-spectacular_singer-foil.png"
     },
     "name": "Ariel",
     "ink-cost": 3,

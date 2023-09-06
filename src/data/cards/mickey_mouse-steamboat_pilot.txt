@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/mickey_mouse/steamboat_pilot/mickey_mouse-steamboat_pilot-no-art.png",
       "large": "https://lorcana-api.com/images/mickey_mouse/steamboat_pilot/mickey_mouse-steamboat_pilot-large.png",
       "art-crop": "https://lorcana-api.com/images/mickey_mouse/steamboat_pilot/mickey_mouse-steamboat_pilot-art-crop.png",
-      "medium": "https://lorcana-api.com/images/mickey_mouse/steamboat_pilot/mickey_mouse-steamboat_pilot-medium.png"
+      "medium": "https://lorcana-api.com/images/mickey_mouse/steamboat_pilot/mickey_mouse-steamboat_pilot-medium.png",
+      "foil": "https://lorcana-api.com/images/mickey_mouse/steamboat_pilot/mickey_mouse-steamboat_pilot-foil.png"
     },
     "name": "Mickey Mouse",
     "ink-cost": 3,

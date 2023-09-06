@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/jafar/wicked_sorcerer/jafar-wicked_sorcerer-no-art.png",
       "large": "https://lorcana-api.com/images/jafar/wicked_sorcerer/jafar-wicked_sorcerer-large.png",
       "art-crop": "https://lorcana-api.com/images/jafar/wicked_sorcerer/jafar-wicked_sorcerer-art-crop.png",
-      "medium": "https://lorcana-api.com/images/jafar/wicked_sorcerer/jafar-wicked_sorcerer-medium.png"
+      "medium": "https://lorcana-api.com/images/jafar/wicked_sorcerer/jafar-wicked_sorcerer-medium.png",
+      "foil": "https://lorcana-api.com/images/jafar/wicked_sorcerer/jafar-wicked_sorcerer-foil.png"
     },
     "name": "Jafar",
     "flavor-text": "\\\"Enough skulking about. It's time to show that sniveling sultan what a sorcerer can do.\\\"",

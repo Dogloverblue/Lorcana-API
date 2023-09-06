@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/hans/thirteenth_in_line/hans-thirteenth_in_line-no-art.png",
       "large": "https://lorcana-api.com/images/hans/thirteenth_in_line/hans-thirteenth_in_line-large.png",
       "art-crop": "https://lorcana-api.com/images/hans/thirteenth_in_line/hans-thirteenth_in_line-art-crop.png",
-      "medium": "https://lorcana-api.com/images/hans/thirteenth_in_line/hans-thirteenth_in_line-medium.png"
+      "medium": "https://lorcana-api.com/images/hans/thirteenth_in_line/hans-thirteenth_in_line-medium.png",
+      "foil": "https://lorcana-api.com/images/hans/thirteenth_in_line/hans-thirteenth_in_line-foil.png"
     },
     "name": "Hans",
     "ink-cost": 4,

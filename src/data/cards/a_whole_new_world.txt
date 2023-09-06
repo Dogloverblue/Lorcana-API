@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/a_whole_new_world/a_whole_new_world-no-art.png",
       "large": "https://lorcana-api.com/images/a_whole_new_world/a_whole_new_world-large.png",
       "art-crop": "https://lorcana-api.com/images/a_whole_new_world/a_whole_new_world-art-crop.png",
-      "medium": "https://lorcana-api.com/images/a_whole_new_world/a_whole_new_world-medium.png"
+      "medium": "https://lorcana-api.com/images/a_whole_new_world/a_whole_new_world-medium.png",
+      "foil": "https://lorcana-api.com/images/a_whole_new_world/a_whole_new_world-foil.png"
     },
     "name": "A Whole New World",
     "ink-cost": 5,

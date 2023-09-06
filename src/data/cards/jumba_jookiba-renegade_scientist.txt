@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/jumba_jookiba/renegade_scientist/jumba_jookiba-renegade_scientist-no-art.png",
       "large": "https://lorcana-api.com/images/jumba_jookiba/renegade_scientist/jumba_jookiba-renegade_scientist-large.png",
       "art-crop": "https://lorcana-api.com/images/jumba_jookiba/renegade_scientist/jumba_jookiba-renegade_scientist-art-crop.png",
-      "medium": "https://lorcana-api.com/images/jumba_jookiba/renegade_scientist/jumba_jookiba-renegade_scientist-medium.png"
+      "medium": "https://lorcana-api.com/images/jumba_jookiba/renegade_scientist/jumba_jookiba-renegade_scientist-medium.png",
+      "foil": "https://lorcana-api.com/images/jumba_jookiba/renegade_scientist/jumba_jookiba-renegade_scientist-foil.png"
     },
     "name": "Jumba Jookiba",
     "flavor-text": "\"Created something? Ha! But that would be irresponsible and unethical. I would never, ever make more than one.\"",

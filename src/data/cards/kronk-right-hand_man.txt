@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/kronk/right-hand_man/kronk-right-hand_man-no-art.png",
       "large": "https://lorcana-api.com/images/kronk/right-hand_man/kronk-right-hand_man-large.png",
       "art-crop": "https://lorcana-api.com/images/kronk/right-hand_man/kronk-right-hand_man-art-crop.png",
-      "medium": "https://lorcana-api.com/images/kronk/right-hand_man/kronk-right-hand_man-medium.png"
+      "medium": "https://lorcana-api.com/images/kronk/right-hand_man/kronk-right-hand_man-medium.png",
+      "foil": "https://lorcana-api.com/images/kronk/right-hand_man/kronk-right-hand_man-foil.png"
     },
     "name": "Kronk",
     "ink-cost": 6,

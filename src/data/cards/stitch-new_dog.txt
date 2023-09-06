@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/stitch/new_dog/stitch-new_dog-no-art.png",
       "large": "https://lorcana-api.com/images/stitch/new_dog/stitch-new_dog-large.png",
       "art-crop": "https://lorcana-api.com/images/stitch/new_dog/stitch-new_dog-art-crop.png",
-      "medium": "https://lorcana-api.com/images/stitch/new_dog/stitch-new_dog-medium.png"
+      "medium": "https://lorcana-api.com/images/stitch/new_dog/stitch-new_dog-medium.png",
+      "foil": "https://lorcana-api.com/images/stitch/new_dog/stitch-new_dog-foil.png"
     },
     "name": "Stitch",
     "ink-cost": 1,

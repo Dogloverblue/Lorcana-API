@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/sword_of_truth/sword_of_truth-no-art.png",
       "large": "https://lorcana-api.com/images/sword_of_truth/sword_of_truth-large.png",
       "art-crop": "https://lorcana-api.com/images/sword_of_truth/sword_of_truth-art-crop.png",
-      "medium": "https://lorcana-api.com/images/sword_of_truth/sword_of_truth-medium.png"
+      "medium": "https://lorcana-api.com/images/sword_of_truth/sword_of_truth-medium.png",
+      "foil": "https://lorcana-api.com/images/sword_of_truth/sword_of_truth-foil.png"
     },
     "name": "Sword Of Truth",
     "ink-cost": 4,

@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/marshmallow/persistent_guardian/marshmallow-persistent_guardian-no-art.png",
       "large": "https://lorcana-api.com/images/marshmallow/persistent_guardian/marshmallow-persistent_guardian-large.png",
       "art-crop": "https://lorcana-api.com/images/marshmallow/persistent_guardian/marshmallow-persistent_guardian-art-crop.png",
-      "medium": "https://lorcana-api.com/images/marshmallow/persistent_guardian/marshmallow-persistent_guardian-medium.png"
+      "medium": "https://lorcana-api.com/images/marshmallow/persistent_guardian/marshmallow-persistent_guardian-medium.png",
+      "foil": "https://lorcana-api.com/images/marshmallow/persistent_guardian/marshmallow-persistent_guardian-foil.png"
     },
     "name": "Marshmallow",
     "ink-cost": 6,

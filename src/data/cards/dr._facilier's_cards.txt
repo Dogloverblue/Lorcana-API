@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/dr._facilier's_cards/dr._facilier's_cards-no-art.png",
       "large": "https://lorcana-api.com/images/dr._facilier's_cards/dr._facilier's_cards-large.png",
       "art-crop": "https://lorcana-api.com/images/dr._facilier's_cards/dr._facilier's_cards-art-crop.png",
-      "medium": "https://lorcana-api.com/images/dr._facilier's_cards/dr._facilier's_cards-medium.png"
+      "medium": "https://lorcana-api.com/images/dr._facilier's_cards/dr._facilier's_cards-medium.png",
+      "foil": "https://lorcana-api.com/images/dr._facilier's_cards/dr._facilier's_cards-foil.png"
     },
     "name": "Dr. Facilier's Cards",
     "ink-cost": 2,

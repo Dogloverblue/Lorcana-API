@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/starkey/hook's_henchman/starkey-hook's_henchman-no-art.png",
       "large": "https://lorcana-api.com/images/starkey/hook's_henchman/starkey-hook's_henchman-large.png",
       "art-crop": "https://lorcana-api.com/images/starkey/hook's_henchman/starkey-hook's_henchman-art-crop.png",
-      "medium": "https://lorcana-api.com/images/starkey/hook's_henchman/starkey-hook's_henchman-medium.png"
+      "medium": "https://lorcana-api.com/images/starkey/hook's_henchman/starkey-hook's_henchman-medium.png",
+      "foil": "https://lorcana-api.com/images/starkey/hook's_henchman/starkey-hook's_henchman-foil.png"
     },
     "name": "Starkey",
     "ink-cost": 5,

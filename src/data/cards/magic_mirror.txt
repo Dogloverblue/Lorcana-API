@@ -12,7 +12,8 @@
       "no-art": "https://lorcana-api.com/images/magic_mirror/magic_mirror-no-art.png",
       "large": "https://lorcana-api.com/images/magic_mirror/magic_mirror-large.png",
       "art-crop": "https://lorcana-api.com/images/magic_mirror/magic_mirror-art-crop.png",
-      "medium": "https://lorcana-api.com/images/magic_mirror/magic_mirror-medium.png"
+      "medium": "https://lorcana-api.com/images/magic_mirror/magic_mirror-medium.png",
+      "foil": "https://lorcana-api.com/images/magic_mirror/magic_mirror-foil.png"
     },
     "name": "Magic Mirror",
     "ink-cost": 2,

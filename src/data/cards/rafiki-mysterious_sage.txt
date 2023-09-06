@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/rafiki/mysterious_sage/rafiki-mysterious_sage-no-art.png",
       "large": "https://lorcana-api.com/images/rafiki/mysterious_sage/rafiki-mysterious_sage-large.png",
       "art-crop": "https://lorcana-api.com/images/rafiki/mysterious_sage/rafiki-mysterious_sage-art-crop.png",
-      "medium": "https://lorcana-api.com/images/rafiki/mysterious_sage/rafiki-mysterious_sage-medium.png"
+      "medium": "https://lorcana-api.com/images/rafiki/mysterious_sage/rafiki-mysterious_sage-medium.png",
+      "foil": "https://lorcana-api.com/images/rafiki/mysterious_sage/rafiki-mysterious_sage-foil.png"
     },
     "name": "Rafiki",
     "ink-cost": 3,

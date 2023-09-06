@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/lefou/bumbler/lefou-bumbler-no-art.png",
       "large": "https://lorcana-api.com/images/lefou/bumbler/lefou-bumbler-large.png",
       "art-crop": "https://lorcana-api.com/images/lefou/bumbler/lefou-bumbler-art-crop.png",
-      "medium": "https://lorcana-api.com/images/lefou/bumbler/lefou-bumbler-medium.png"
+      "medium": "https://lorcana-api.com/images/lefou/bumbler/lefou-bumbler-medium.png",
+      "foil": "https://lorcana-api.com/images/lefou/bumbler/lefou-bumbler-foil.png"
     },
     "name": "Lefou",
     "flavor-text": "You need a good today to be a proper bad guy",

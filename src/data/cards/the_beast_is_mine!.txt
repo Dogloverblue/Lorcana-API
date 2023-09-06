@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/the_beast_is_mine!/the_beast_is_mine!-no-art.png",
       "large": "https://lorcana-api.com/images/the_beast_is_mine!/the_beast_is_mine!-large.png",
       "art-crop": "https://lorcana-api.com/images/the_beast_is_mine!/the_beast_is_mine!-art-crop.png",
-      "medium": "https://lorcana-api.com/images/the_beast_is_mine!/the_beast_is_mine!-medium.png"
+      "medium": "https://lorcana-api.com/images/the_beast_is_mine!/the_beast_is_mine!-medium.png",
+      "foil": "https://lorcana-api.com/images/the_beast_is_mine!/the_beast_is_mine!-foil.png"
     },
     "name": "The Beast Is Mine!",
     "ink-cost": 3,

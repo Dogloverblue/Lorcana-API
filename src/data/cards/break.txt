@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/break/break-no-art.png",
       "large": "https://lorcana-api.com/images/break/break-large.png",
       "art-crop": "https://lorcana-api.com/images/break/break-art-crop.png",
-      "medium": "https://lorcana-api.com/images/break/break-medium.png"
+      "medium": "https://lorcana-api.com/images/break/break-medium.png",
+      "foil": "https://lorcana-api.com/images/break/break-foil.png"
     },
     "name": "Break",
     "ink-cost": 2,

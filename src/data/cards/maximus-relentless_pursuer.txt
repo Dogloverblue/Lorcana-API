@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/maximus/relentless_pursuer/maximus-relentless_pursuer-no-art.png",
       "large": "https://lorcana-api.com/images/maximus/relentless_pursuer/maximus-relentless_pursuer-large.png",
       "art-crop": "https://lorcana-api.com/images/maximus/relentless_pursuer/maximus-relentless_pursuer-art-crop.png",
-      "medium": "https://lorcana-api.com/images/maximus/relentless_pursuer/maximus-relentless_pursuer-medium.png"
+      "medium": "https://lorcana-api.com/images/maximus/relentless_pursuer/maximus-relentless_pursuer-medium.png",
+      "foil": "https://lorcana-api.com/images/maximus/relentless_pursuer/maximus-relentless_pursuer-foil.png"
     },
     "name": "Maximus",
     "ink-cost": 3,

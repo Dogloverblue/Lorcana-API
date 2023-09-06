@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/kristoff/offical_ice_master/kristoff-offical_ice_master-no-art.png",
       "large": "https://lorcana-api.com/images/kristoff/offical_ice_master/kristoff-offical_ice_master-large.png",
       "art-crop": "https://lorcana-api.com/images/kristoff/offical_ice_master/kristoff-offical_ice_master-art-crop.png",
-      "medium": "https://lorcana-api.com/images/kristoff/offical_ice_master/kristoff-offical_ice_master-medium.png"
+      "medium": "https://lorcana-api.com/images/kristoff/offical_ice_master/kristoff-offical_ice_master-medium.png",
+      "foil": "https://lorcana-api.com/images/kristoff/offical_ice_master/kristoff-offical_ice_master-foil.png"
     },
     "name": "Kristoff",
     "flavor-text": "Kristoff: \"You want to talk about a supply and demand problem? I sell ice for a living\" Anna: \"Ooh, that's a rough buisness to be in right now. I mean, that is really-ah, mm. That's unfortunate.\"",

@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/mr._smee/loyal_first_mate/mr._smee-loyal_first_mate-no-art.png",
       "large": "https://lorcana-api.com/images/mr._smee/loyal_first_mate/mr._smee-loyal_first_mate-large.png",
       "art-crop": "https://lorcana-api.com/images/mr._smee/loyal_first_mate/mr._smee-loyal_first_mate-art-crop.png",
-      "medium": "https://lorcana-api.com/images/mr._smee/loyal_first_mate/mr._smee-loyal_first_mate-medium.png"
+      "medium": "https://lorcana-api.com/images/mr._smee/loyal_first_mate/mr._smee-loyal_first_mate-medium.png",
+      "foil": "https://lorcana-api.com/images/mr._smee/loyal_first_mate/mr._smee-loyal_first_mate-foil.png"
     },
     "name": "Mr. Smee",
     "ink-cost": 3,

@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/aurora/briar_rose/aurora-briar_rose-no-art.png",
       "large": "https://lorcana-api.com/images/aurora/briar_rose/aurora-briar_rose-large.png",
       "art-crop": "https://lorcana-api.com/images/aurora/briar_rose/aurora-briar_rose-art-crop.png",
-      "medium": "https://lorcana-api.com/images/aurora/briar_rose/aurora-briar_rose-medium.png"
+      "medium": "https://lorcana-api.com/images/aurora/briar_rose/aurora-briar_rose-medium.png",
+      "foil": "https://lorcana-api.com/images/aurora/briar_rose/aurora-briar_rose-foil.png"
     },
     "name": "Aurora",
     "ink-cost": 4,

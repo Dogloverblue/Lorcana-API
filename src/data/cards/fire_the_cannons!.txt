@@ -13,7 +13,8 @@
       "no-art": "https://lorcana-api.com/images/fire_the_cannons!/fire_the_cannons!-no-art.png",
       "large": "https://lorcana-api.com/images/fire_the_cannons!/fire_the_cannons!-large.png",
       "art-crop": "https://lorcana-api.com/images/fire_the_cannons!/fire_the_cannons!-art-crop.png",
-      "medium": "https://lorcana-api.com/images/fire_the_cannons!/fire_the_cannons!-medium.png"
+      "medium": "https://lorcana-api.com/images/fire_the_cannons!/fire_the_cannons!-medium.png",
+      "foil": "https://lorcana-api.com/images/fire_the_cannons!/fire_the_cannons!-foil.png"
     },
     "name": "Fire The Cannons!",
     "ink-cost": 1,

@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/cruella_de_vil/miserable_as_usual/cruella_de_vil-miserable_as_usual-no-art.png",
       "large": "https://lorcana-api.com/images/cruella_de_vil/miserable_as_usual/cruella_de_vil-miserable_as_usual-large.png",
       "art-crop": "https://lorcana-api.com/images/cruella_de_vil/miserable_as_usual/cruella_de_vil-miserable_as_usual-art-crop.png",
-      "medium": "https://lorcana-api.com/images/cruella_de_vil/miserable_as_usual/cruella_de_vil-miserable_as_usual-medium.png"
+      "medium": "https://lorcana-api.com/images/cruella_de_vil/miserable_as_usual/cruella_de_vil-miserable_as_usual-medium.png",
+      "foil": "https://lorcana-api.com/images/cruella_de_vil/miserable_as_usual/cruella_de_vil-miserable_as_usual-foil.png"
     },
     "name": "Cruella De Vil",
     "flavor-text": "When she stops by, misery is company.",

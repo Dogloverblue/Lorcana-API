@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/simba/future_king/simba-future_king-no-art.png",
       "large": "https://lorcana-api.com/images/simba/future_king/simba-future_king-large.png",
       "art-crop": "https://lorcana-api.com/images/simba/future_king/simba-future_king-art-crop.png",
-      "medium": "https://lorcana-api.com/images/simba/future_king/simba-future_king-medium.png"
+      "medium": "https://lorcana-api.com/images/simba/future_king/simba-future_king-medium.png",
+      "foil": "https://lorcana-api.com/images/simba/future_king/simba-future_king-foil.png"
     },
     "name": "Simba",
     "ink-cost": 1,

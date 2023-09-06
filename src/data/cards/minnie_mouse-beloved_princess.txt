@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/minnie_mouse/beloved_princess/minnie_mouse-beloved_princess-no-art.png",
       "large": "https://lorcana-api.com/images/minnie_mouse/beloved_princess/minnie_mouse-beloved_princess-large.png",
       "art-crop": "https://lorcana-api.com/images/minnie_mouse/beloved_princess/minnie_mouse-beloved_princess-art-crop.png",
-      "medium": "https://lorcana-api.com/images/minnie_mouse/beloved_princess/minnie_mouse-beloved_princess-medium.png"
+      "medium": "https://lorcana-api.com/images/minnie_mouse/beloved_princess/minnie_mouse-beloved_princess-medium.png",
+      "foil": "https://lorcana-api.com/images/minnie_mouse/beloved_princess/minnie_mouse-beloved_princess-foil.png"
     },
     "name": "Minnie Mouse",
     "flavor-text": "Wherever the princess goes, her musketeers are... well, they're around somewhere, probably.",

@@ -13,7 +13,8 @@
       "no-art": "https://lorcana-api.com/images/one_jump_ahead/one_jump_ahead-no-art.png",
       "large": "https://lorcana-api.com/images/one_jump_ahead/one_jump_ahead-large.png",
       "art-crop": "https://lorcana-api.com/images/one_jump_ahead/one_jump_ahead-art-crop.png",
-      "medium": "https://lorcana-api.com/images/one_jump_ahead/one_jump_ahead-medium.png"
+      "medium": "https://lorcana-api.com/images/one_jump_ahead/one_jump_ahead-medium.png",
+      "foil": "https://lorcana-api.com/images/one_jump_ahead/one_jump_ahead-foil.png"
     },
     "name": "One Jump Ahead",
     "ink-cost": 2,

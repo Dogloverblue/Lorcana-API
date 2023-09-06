@@ -24,7 +24,8 @@
       "no-art": "https://lorcana-api.com/images/elsa/snow_queen/elsa-snow_queen-no-art.png",
       "large": "https://lorcana-api.com/images/elsa/snow_queen/elsa-snow_queen-large.png",
       "art-crop": "https://lorcana-api.com/images/elsa/snow_queen/elsa-snow_queen-art-crop.png",
-      "medium": "https://lorcana-api.com/images/elsa/snow_queen/elsa-snow_queen-medium.png"
+      "medium": "https://lorcana-api.com/images/elsa/snow_queen/elsa-snow_queen-medium.png",
+      "foil": "https://lorcana-api.com/images/elsa/snow_queen/elsa-snow_queen-foil.png"
     },
     "name": "Elsa",
     "flavor-text": "Recreated by magical ink, Elsa found herself in an entirely new world. Fortunately, ice works the same way everywhere.",

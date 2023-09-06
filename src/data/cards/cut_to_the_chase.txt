@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/cut_to_the_chase/cut_to_the_chase-no-art.png",
       "large": "https://lorcana-api.com/images/cut_to_the_chase/cut_to_the_chase-large.png",
       "art-crop": "https://lorcana-api.com/images/cut_to_the_chase/cut_to_the_chase-art-crop.png",
-      "medium": "https://lorcana-api.com/images/cut_to_the_chase/cut_to_the_chase-medium.png"
+      "medium": "https://lorcana-api.com/images/cut_to_the_chase/cut_to_the_chase-medium.png",
+      "foil": "https://lorcana-api.com/images/cut_to_the_chase/cut_to_the_chase-foil.png"
     },
     "name": "Cut To The Chase",
     "ink-cost": 2,

@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/heihei/boat_snack/heihei-boat_snack-no-art.png",
       "large": "https://lorcana-api.com/images/heihei/boat_snack/heihei-boat_snack-large.png",
       "art-crop": "https://lorcana-api.com/images/heihei/boat_snack/heihei-boat_snack-art-crop.png",
-      "medium": "https://lorcana-api.com/images/heihei/boat_snack/heihei-boat_snack-medium.png"
+      "medium": "https://lorcana-api.com/images/heihei/boat_snack/heihei-boat_snack-medium.png",
+      "foil": "https://lorcana-api.com/images/heihei/boat_snack/heihei-boat_snack-foil.png"
     },
     "name": "Heihei",
     "flavor-text": "\\\"Sometimes, our strengths lie beneath the surface. Far beneath, in some cases...\\\" -Moana",

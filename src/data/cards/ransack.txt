@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/ransack/ransack-no-art.png",
       "large": "https://lorcana-api.com/images/ransack/ransack-large.png",
       "art-crop": "https://lorcana-api.com/images/ransack/ransack-art-crop.png",
-      "medium": "https://lorcana-api.com/images/ransack/ransack-medium.png"
+      "medium": "https://lorcana-api.com/images/ransack/ransack-medium.png",
+      "foil": "https://lorcana-api.com/images/ransack/ransack-foil.png"
     },
     "name": "Ransack",
     "ink-cost": 2,

@@ -25,7 +25,8 @@
       "no-art": "https://lorcana-api.com/images/john_silver/alien_pirate/john_silver-alien_pirate-no-art.png",
       "large": "https://lorcana-api.com/images/john_silver/alien_pirate/john_silver-alien_pirate-large.png",
       "art-crop": "https://lorcana-api.com/images/john_silver/alien_pirate/john_silver-alien_pirate-art-crop.png",
-      "medium": "https://lorcana-api.com/images/john_silver/alien_pirate/john_silver-alien_pirate-medium.png"
+      "medium": "https://lorcana-api.com/images/john_silver/alien_pirate/john_silver-alien_pirate-medium.png",
+      "foil": "https://lorcana-api.com/images/john_silver/alien_pirate/john_silver-alien_pirate-foil.png"
     },
     "name": "John Silver",
     "ink-cost": 6,

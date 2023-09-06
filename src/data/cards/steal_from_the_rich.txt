@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/steal_from_the_rich/steal_from_the_rich-no-art.png",
       "large": "https://lorcana-api.com/images/steal_from_the_rich/steal_from_the_rich-large.png",
       "art-crop": "https://lorcana-api.com/images/steal_from_the_rich/steal_from_the_rich-art-crop.png",
-      "medium": "https://lorcana-api.com/images/steal_from_the_rich/steal_from_the_rich-medium.png"
+      "medium": "https://lorcana-api.com/images/steal_from_the_rich/steal_from_the_rich-medium.png",
+      "foil": "https://lorcana-api.com/images/steal_from_the_rich/steal_from_the_rich-foil.png"
     },
     "name": "Steal From The Rich",
     "ink-cost": 5,

@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/do_it_again!/do_it_again!-no-art.png",
       "large": "https://lorcana-api.com/images/do_it_again!/do_it_again!-large.png",
       "art-crop": "https://lorcana-api.com/images/do_it_again!/do_it_again!-art-crop.png",
-      "medium": "https://lorcana-api.com/images/do_it_again!/do_it_again!-medium.png"
+      "medium": "https://lorcana-api.com/images/do_it_again!/do_it_again!-medium.png",
+      "foil": "https://lorcana-api.com/images/do_it_again!/do_it_again!-foil.png"
     },
     "name": "Do It Again!",
     "ink-cost": 3,

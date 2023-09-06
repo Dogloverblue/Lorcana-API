@@ -19,7 +19,8 @@
       "no-art": "https://lorcana-api.com/images/cerberus/three-headed_dog/cerberus-three-headed_dog-no-art.png",
       "large": "https://lorcana-api.com/images/cerberus/three-headed_dog/cerberus-three-headed_dog-large.png",
       "art-crop": "https://lorcana-api.com/images/cerberus/three-headed_dog/cerberus-three-headed_dog-art-crop.png",
-      "medium": "https://lorcana-api.com/images/cerberus/three-headed_dog/cerberus-three-headed_dog-medium.png"
+      "medium": "https://lorcana-api.com/images/cerberus/three-headed_dog/cerberus-three-headed_dog-medium.png",
+      "foil": "https://lorcana-api.com/images/cerberus/three-headed_dog/cerberus-three-headed_dog-foil.png"
     },
     "name": "Cerberus",
     "ink-cost": 5,

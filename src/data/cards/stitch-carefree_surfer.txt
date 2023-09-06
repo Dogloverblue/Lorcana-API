@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/stitch/carefree_surfer/stitch-carefree_surfer-no-art.png",
       "large": "https://lorcana-api.com/images/stitch/carefree_surfer/stitch-carefree_surfer-large.png",
       "art-crop": "https://lorcana-api.com/images/stitch/carefree_surfer/stitch-carefree_surfer-art-crop.png",
-      "medium": "https://lorcana-api.com/images/stitch/carefree_surfer/stitch-carefree_surfer-medium.png"
+      "medium": "https://lorcana-api.com/images/stitch/carefree_surfer/stitch-carefree_surfer-medium.png",
+      "foil": "https://lorcana-api.com/images/stitch/carefree_surfer/stitch-carefree_surfer-foil.png"
     },
     "name": "Stitch",
     "ink-cost": 7,

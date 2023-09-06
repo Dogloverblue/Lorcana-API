@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/dinglehopper/dinglehopper-no-art.png",
       "large": "https://lorcana-api.com/images/dinglehopper/dinglehopper-large.png",
       "art-crop": "https://lorcana-api.com/images/dinglehopper/dinglehopper-art-crop.png",
-      "medium": "https://lorcana-api.com/images/dinglehopper/dinglehopper-medium.png"
+      "medium": "https://lorcana-api.com/images/dinglehopper/dinglehopper-medium.png",
+      "foil": "https://lorcana-api.com/images/dinglehopper/dinglehopper-foil.png"
     },
     "name": "Dinglehopper",
     "ink-cost": 1,

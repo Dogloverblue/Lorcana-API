@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/kuzco/temperamental_emperor/kuzco-temperamental_emperor-no-art.png",
       "large": "https://lorcana-api.com/images/kuzco/temperamental_emperor/kuzco-temperamental_emperor-large.png",
       "art-crop": "https://lorcana-api.com/images/kuzco/temperamental_emperor/kuzco-temperamental_emperor-art-crop.png",
-      "medium": "https://lorcana-api.com/images/kuzco/temperamental_emperor/kuzco-temperamental_emperor-medium.png"
+      "medium": "https://lorcana-api.com/images/kuzco/temperamental_emperor/kuzco-temperamental_emperor-medium.png",
+      "foil": "https://lorcana-api.com/images/kuzco/temperamental_emperor/kuzco-temperamental_emperor-foil.png"
     },
     "name": "Kuzco",
     "ink-cost": 5,

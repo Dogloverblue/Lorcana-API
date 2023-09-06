@@ -25,7 +25,8 @@
       "no-art": "https://lorcana-api.com/images/tamatoa/so_shiny!/tamatoa-so_shiny!-no-art.png",
       "large": "https://lorcana-api.com/images/tamatoa/so_shiny!/tamatoa-so_shiny!-large.png",
       "art-crop": "https://lorcana-api.com/images/tamatoa/so_shiny!/tamatoa-so_shiny!-art-crop.png",
-      "medium": "https://lorcana-api.com/images/tamatoa/so_shiny!/tamatoa-so_shiny!-medium.png"
+      "medium": "https://lorcana-api.com/images/tamatoa/so_shiny!/tamatoa-so_shiny!-medium.png",
+      "foil": "https://lorcana-api.com/images/tamatoa/so_shiny!/tamatoa-so_shiny!-foil.png"
     },
     "name": "Tamatoa",
     "ink-cost": 8,

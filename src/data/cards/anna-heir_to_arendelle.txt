@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/anna/heir_to_arendelle/anna-heir_to_arendelle-no-art.png",
       "large": "https://lorcana-api.com/images/anna/heir_to_arendelle/anna-heir_to_arendelle-large.png",
       "art-crop": "https://lorcana-api.com/images/anna/heir_to_arendelle/anna-heir_to_arendelle-art-crop.png",
-      "medium": "https://lorcana-api.com/images/anna/heir_to_arendelle/anna-heir_to_arendelle-medium.png"
+      "medium": "https://lorcana-api.com/images/anna/heir_to_arendelle/anna-heir_to_arendelle-medium.png",
+      "foil": "https://lorcana-api.com/images/anna/heir_to_arendelle/anna-heir_to_arendelle-foil.png"
     },
     "name": "Anna",
     "ink-cost": 4,

@@ -24,7 +24,8 @@
       "no-art": "https://lorcana-api.com/images/elsa/queen_regent/elsa-queen_regent-no-art.png",
       "large": "https://lorcana-api.com/images/elsa/queen_regent/elsa-queen_regent-large.png",
       "art-crop": "https://lorcana-api.com/images/elsa/queen_regent/elsa-queen_regent-art-crop.png",
-      "medium": "https://lorcana-api.com/images/elsa/queen_regent/elsa-queen_regent-medium.png"
+      "medium": "https://lorcana-api.com/images/elsa/queen_regent/elsa-queen_regent-medium.png",
+      "foil": "https://lorcana-api.com/images/elsa/queen_regent/elsa-queen_regent-foil.png"
     },
     "name": "Elsa",
     "ink-cost": 4,

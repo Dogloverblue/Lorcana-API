@@ -25,7 +25,8 @@
       "no-art": "https://lorcana-api.com/images/zeus/god_of_lightning/zeus-god_of_lightning-no-art.png",
       "large": "https://lorcana-api.com/images/zeus/god_of_lightning/zeus-god_of_lightning-large.png",
       "art-crop": "https://lorcana-api.com/images/zeus/god_of_lightning/zeus-god_of_lightning-art-crop.png",
-      "medium": "https://lorcana-api.com/images/zeus/god_of_lightning/zeus-god_of_lightning-medium.png"
+      "medium": "https://lorcana-api.com/images/zeus/god_of_lightning/zeus-god_of_lightning-medium.png",
+      "foil": "https://lorcana-api.com/images/zeus/god_of_lightning/zeus-god_of_lightning-foil.png"
     },
     "name": "Zeus",
     "ink-cost": 4,

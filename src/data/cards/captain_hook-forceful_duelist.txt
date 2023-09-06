@@ -24,7 +24,8 @@
       "no-art": "https://lorcana-api.com/images/captain_hook/forceful_duelist/captain_hook-forceful_duelist-no-art.png",
       "large": "https://lorcana-api.com/images/captain_hook/forceful_duelist/captain_hook-forceful_duelist-large.png",
       "art-crop": "https://lorcana-api.com/images/captain_hook/forceful_duelist/captain_hook-forceful_duelist-art-crop.png",
-      "medium": "https://lorcana-api.com/images/captain_hook/forceful_duelist/captain_hook-forceful_duelist-medium.png"
+      "medium": "https://lorcana-api.com/images/captain_hook/forceful_duelist/captain_hook-forceful_duelist-medium.png",
+      "foil": "https://lorcana-api.com/images/captain_hook/forceful_duelist/captain_hook-forceful_duelist-foil.png"
     },
     "name": "Captain Hook",
     "flavor-text": "He loves to make light of a foe's predicament",

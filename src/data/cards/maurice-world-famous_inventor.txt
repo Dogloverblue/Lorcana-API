@@ -26,7 +26,8 @@
       "no-art": "https://lorcana-api.com/images/maurice/world-famous_inventor/maurice-world-famous_inventor-no-art.png",
       "large": "https://lorcana-api.com/images/maurice/world-famous_inventor/maurice-world-famous_inventor-large.png",
       "art-crop": "https://lorcana-api.com/images/maurice/world-famous_inventor/maurice-world-famous_inventor-art-crop.png",
-      "medium": "https://lorcana-api.com/images/maurice/world-famous_inventor/maurice-world-famous_inventor-medium.png"
+      "medium": "https://lorcana-api.com/images/maurice/world-famous_inventor/maurice-world-famous_inventor-medium.png",
+      "foil": "https://lorcana-api.com/images/maurice/world-famous_inventor/maurice-world-famous_inventor-foil.png"
     },
     "name": "Maurice",
     "flavor-text": "",

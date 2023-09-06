@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/olaf/friendly_snowman/olaf-friendly_snowman-no-art.png",
       "large": "https://lorcana-api.com/images/olaf/friendly_snowman/olaf-friendly_snowman-large.png",
       "art-crop": "https://lorcana-api.com/images/olaf/friendly_snowman/olaf-friendly_snowman-art-crop.png",
-      "medium": "https://lorcana-api.com/images/olaf/friendly_snowman/olaf-friendly_snowman-medium.png"
+      "medium": "https://lorcana-api.com/images/olaf/friendly_snowman/olaf-friendly_snowman-medium.png",
+      "foil": "https://lorcana-api.com/images/olaf/friendly_snowman/olaf-friendly_snowman-foil.png"
     },
     "name": "Olaf",
     "flavor-text": "\"I'm Olaf and I like warm hugs!\"",

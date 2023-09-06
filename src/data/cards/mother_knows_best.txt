@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/mother_knows_best/mother_knows_best-no-art.png",
       "large": "https://lorcana-api.com/images/mother_knows_best/mother_knows_best-large.png",
       "art-crop": "https://lorcana-api.com/images/mother_knows_best/mother_knows_best-art-crop.png",
-      "medium": "https://lorcana-api.com/images/mother_knows_best/mother_knows_best-medium.png"
+      "medium": "https://lorcana-api.com/images/mother_knows_best/mother_knows_best-medium.png",
+      "foil": "https://lorcana-api.com/images/mother_knows_best/mother_knows_best-foil.png"
     },
     "name": "Mother Knows Best",
     "ink-cost": 3,

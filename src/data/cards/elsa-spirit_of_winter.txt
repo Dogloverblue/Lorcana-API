@@ -24,7 +24,8 @@
       "no-art": "https://lorcana-api.com/images/elsa/spirit_of_winter/elsa-spirit_of_winter-no-art.png",
       "large": "https://lorcana-api.com/images/elsa/spirit_of_winter/elsa-spirit_of_winter-large.png",
       "art-crop": "https://lorcana-api.com/images/elsa/spirit_of_winter/elsa-spirit_of_winter-art-crop.png",
-      "medium": "https://lorcana-api.com/images/elsa/spirit_of_winter/elsa-spirit_of_winter-medium.png"
+      "medium": "https://lorcana-api.com/images/elsa/spirit_of_winter/elsa-spirit_of_winter-medium.png",
+      "foil": "https://lorcana-api.com/images/elsa/spirit_of_winter/elsa-spirit_of_winter-foil.png"
     },
     "name": "Elsa",
     "ink-cost": 8,

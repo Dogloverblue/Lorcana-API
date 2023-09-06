@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/tangle/tangle-no-art.png",
       "large": "https://lorcana-api.com/images/tangle/tangle-large.png",
       "art-crop": "https://lorcana-api.com/images/tangle/tangle-art-crop.png",
-      "medium": "https://lorcana-api.com/images/tangle/tangle-medium.png"
+      "medium": "https://lorcana-api.com/images/tangle/tangle-medium.png",
+      "foil": "https://lorcana-api.com/images/tangle/tangle-foil.png"
     },
     "name": "Tangle",
     "ink-cost": 2,

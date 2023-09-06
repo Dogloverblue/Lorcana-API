@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/ursula's_cauldron/ursula's_cauldron-no-art.png",
       "large": "https://lorcana-api.com/images/ursula's_cauldron/ursula's_cauldron-large.png",
       "art-crop": "https://lorcana-api.com/images/ursula's_cauldron/ursula's_cauldron-art-crop.png",
-      "medium": "https://lorcana-api.com/images/ursula's_cauldron/ursula's_cauldron-medium.png"
+      "medium": "https://lorcana-api.com/images/ursula's_cauldron/ursula's_cauldron-medium.png",
+      "foil": "https://lorcana-api.com/images/ursula's_cauldron/ursula's_cauldron-foil.png"
     },
     "name": "Ursula's Cauldron",
     "ink-cost": 2,

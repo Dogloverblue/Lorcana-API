@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/iago/loud-mouthed_parrot/iago-loud-mouthed_parrot-no-art.png",
       "large": "https://lorcana-api.com/images/iago/loud-mouthed_parrot/iago-loud-mouthed_parrot-large.png",
       "art-crop": "https://lorcana-api.com/images/iago/loud-mouthed_parrot/iago-loud-mouthed_parrot-art-crop.png",
-      "medium": "https://lorcana-api.com/images/iago/loud-mouthed_parrot/iago-loud-mouthed_parrot-medium.png"
+      "medium": "https://lorcana-api.com/images/iago/loud-mouthed_parrot/iago-loud-mouthed_parrot-medium.png",
+      "foil": "https://lorcana-api.com/images/iago/loud-mouthed_parrot/iago-loud-mouthed_parrot-foil.png"
     },
     "name": "Iago",
     "ink-cost": 3,

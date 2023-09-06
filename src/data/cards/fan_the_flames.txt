@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/fan_the_flames/fan_the_flames-no-art.png",
       "large": "https://lorcana-api.com/images/fan_the_flames/fan_the_flames-large.png",
       "art-crop": "https://lorcana-api.com/images/fan_the_flames/fan_the_flames-art-crop.png",
-      "medium": "https://lorcana-api.com/images/fan_the_flames/fan_the_flames-medium.png"
+      "medium": "https://lorcana-api.com/images/fan_the_flames/fan_the_flames-medium.png",
+      "foil": "https://lorcana-api.com/images/fan_the_flames/fan_the_flames-foil.png"
     },
     "name": "Fan The Flames",
     "ink-cost": 1,

@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/peter_pan/never_landing/peter_pan-never_landing-no-art.png",
       "large": "https://lorcana-api.com/images/peter_pan/never_landing/peter_pan-never_landing-large.png",
       "art-crop": "https://lorcana-api.com/images/peter_pan/never_landing/peter_pan-never_landing-art-crop.png",
-      "medium": "https://lorcana-api.com/images/peter_pan/never_landing/peter_pan-never_landing-medium.png"
+      "medium": "https://lorcana-api.com/images/peter_pan/never_landing/peter_pan-never_landing-medium.png",
+      "foil": "https://lorcana-api.com/images/peter_pan/never_landing/peter_pan-never_landing-foil.png"
     },
     "name": "Peter Pan",
     "ink-cost": 3,

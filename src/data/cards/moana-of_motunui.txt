@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/moana/of_motunui/moana-of_motunui-no-art.png",
       "large": "https://lorcana-api.com/images/moana/of_motunui/moana-of_motunui-large.png",
       "art-crop": "https://lorcana-api.com/images/moana/of_motunui/moana-of_motunui-art-crop.png",
-      "medium": "https://lorcana-api.com/images/moana/of_motunui/moana-of_motunui-medium.png"
+      "medium": "https://lorcana-api.com/images/moana/of_motunui/moana-of_motunui-medium.png",
+      "foil": "https://lorcana-api.com/images/moana/of_motunui/moana-of_motunui-foil.png"
     },
     "name": "Moana",
     "ink-cost": 5,

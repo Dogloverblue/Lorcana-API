@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/aurora/regal_princess/aurora-regal_princess-no-art.png",
       "large": "https://lorcana-api.com/images/aurora/regal_princess/aurora-regal_princess-large.png",
       "art-crop": "https://lorcana-api.com/images/aurora/regal_princess/aurora-regal_princess-art-crop.png",
-      "medium": "https://lorcana-api.com/images/aurora/regal_princess/aurora-regal_princess-medium.png"
+      "medium": "https://lorcana-api.com/images/aurora/regal_princess/aurora-regal_princess-medium.png",
+      "foil": "https://lorcana-api.com/images/aurora/regal_princess/aurora-regal_princess-foil.png"
     },
     "name": "Aurora",
     "flavor-text": "\\\"They say if you dream a thing more than once, it's sure to come true\\\"",

@@ -19,7 +19,8 @@
       "no-art": "https://lorcana-api.com/images/tamatoa/drab_little_crab/tamatoa-drab_little_crab-no-art.png",
       "large": "https://lorcana-api.com/images/tamatoa/drab_little_crab/tamatoa-drab_little_crab-large.png",
       "art-crop": "https://lorcana-api.com/images/tamatoa/drab_little_crab/tamatoa-drab_little_crab-art-crop.png",
-      "medium": "https://lorcana-api.com/images/tamatoa/drab_little_crab/tamatoa-drab_little_crab-medium.png"
+      "medium": "https://lorcana-api.com/images/tamatoa/drab_little_crab/tamatoa-drab_little_crab-medium.png",
+      "foil": "https://lorcana-api.com/images/tamatoa/drab_little_crab/tamatoa-drab_little_crab-foil.png"
     },
     "name": "Tamatoa",
     "ink-cost": 2,

@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/flounder/voice_of_reason/flounder-voice_of_reason-no-art.png",
       "large": "https://lorcana-api.com/images/flounder/voice_of_reason/flounder-voice_of_reason-large.png",
       "art-crop": "https://lorcana-api.com/images/flounder/voice_of_reason/flounder-voice_of_reason-art-crop.png",
-      "medium": "https://lorcana-api.com/images/flounder/voice_of_reason/flounder-voice_of_reason-medium.png"
+      "medium": "https://lorcana-api.com/images/flounder/voice_of_reason/flounder-voice_of_reason-medium.png",
+      "foil": "https://lorcana-api.com/images/flounder/voice_of_reason/flounder-voice_of_reason-foil.png"
     },
     "name": "Flounder",
     "flavor-text": "\"Excitment... adventure... danger lurking around ever cor- AAAAAGGH!\"",

@@ -24,7 +24,8 @@
       "no-art": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-no-art.png",
       "large": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-large.png",
       "art-crop": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-art-crop.png",
-      "medium": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-medium.png"
+      "medium": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-medium.png",
+      "foil": "https://lorcana-api.com/images/hades/king_of_olympus/hades-king_of_olympus-foil.png"
     },
     "name": "Hades",
     "ink-cost": 8,

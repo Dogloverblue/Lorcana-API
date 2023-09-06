@@ -13,7 +13,8 @@
       "no-art": "https://lorcana-api.com/images/control_your_temper!/control_your_temper!-no-art.png",
       "large": "https://lorcana-api.com/images/control_your_temper!/control_your_temper!-large.png",
       "art-crop": "https://lorcana-api.com/images/control_your_temper!/control_your_temper!-art-crop.png",
-      "medium": "https://lorcana-api.com/images/control_your_temper!/control_your_temper!-medium.png"
+      "medium": "https://lorcana-api.com/images/control_your_temper!/control_your_temper!-medium.png",
+      "foil": "https://lorcana-api.com/images/control_your_temper!/control_your_temper!-foil.png"
     },
     "name": "Control Your Temper!",
     "ink-cost": 1,

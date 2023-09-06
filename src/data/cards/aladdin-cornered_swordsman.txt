@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/aladdin/cornered_swordsman/aladdin-cornered_swordsman-no-art.png",
       "large": "https://lorcana-api.com/images/aladdin/cornered_swordsman/aladdin-cornered_swordsman-large.png",
       "art-crop": "https://lorcana-api.com/images/aladdin/cornered_swordsman/aladdin-cornered_swordsman-art-crop.png",
-      "medium": "https://lorcana-api.com/images/aladdin/cornered_swordsman/aladdin-cornered_swordsman-medium.png"
+      "medium": "https://lorcana-api.com/images/aladdin/cornered_swordsman/aladdin-cornered_swordsman-medium.png",
+      "foil": "https://lorcana-api.com/images/aladdin/cornered_swordsman/aladdin-cornered_swordsman-foil.png"
     },
     "name": "Aladdin",
     "ink-cost": 2,

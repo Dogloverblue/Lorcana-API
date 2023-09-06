@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/mulan/imperial_soldier/mulan-imperial_soldier-no-art.png",
       "large": "https://lorcana-api.com/images/mulan/imperial_soldier/mulan-imperial_soldier-large.png",
       "art-crop": "https://lorcana-api.com/images/mulan/imperial_soldier/mulan-imperial_soldier-art-crop.png",
-      "medium": "https://lorcana-api.com/images/mulan/imperial_soldier/mulan-imperial_soldier-medium.png"
+      "medium": "https://lorcana-api.com/images/mulan/imperial_soldier/mulan-imperial_soldier-medium.png",
+      "foil": "https://lorcana-api.com/images/mulan/imperial_soldier/mulan-imperial_soldier-foil.png"
     },
     "name": "Mulan",
     "flavor-text": "",

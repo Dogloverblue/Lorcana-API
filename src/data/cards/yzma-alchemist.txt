@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/yzma/alchemist/yzma-alchemist-no-art.png",
       "large": "https://lorcana-api.com/images/yzma/alchemist/yzma-alchemist-large.png",
       "art-crop": "https://lorcana-api.com/images/yzma/alchemist/yzma-alchemist-art-crop.png",
-      "medium": "https://lorcana-api.com/images/yzma/alchemist/yzma-alchemist-medium.png"
+      "medium": "https://lorcana-api.com/images/yzma/alchemist/yzma-alchemist-medium.png",
+      "foil": "https://lorcana-api.com/images/yzma/alchemist/yzma-alchemist-foil.png"
     },
     "name": "Yzma",
     "flavor-text": "\"When I want your opinion, I will give it to you!\"",

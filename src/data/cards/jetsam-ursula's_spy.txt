@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/jetsam/ursula's_spy/jetsam-ursula's_spy-no-art.png",
       "large": "https://lorcana-api.com/images/jetsam/ursula's_spy/jetsam-ursula's_spy-large.png",
       "art-crop": "https://lorcana-api.com/images/jetsam/ursula's_spy/jetsam-ursula's_spy-art-crop.png",
-      "medium": "https://lorcana-api.com/images/jetsam/ursula's_spy/jetsam-ursula's_spy-medium.png"
+      "medium": "https://lorcana-api.com/images/jetsam/ursula's_spy/jetsam-ursula's_spy-medium.png",
+      "foil": "https://lorcana-api.com/images/jetsam/ursula's_spy/jetsam-ursula's_spy-foil.png"
     },
     "name": "Jetsam",
     "ink-cost": 4,

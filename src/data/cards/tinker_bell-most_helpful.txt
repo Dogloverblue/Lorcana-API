@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/tinker_bell/most_helpful/tinker_bell-most_helpful-no-art.png",
       "large": "https://lorcana-api.com/images/tinker_bell/most_helpful/tinker_bell-most_helpful-large.png",
       "art-crop": "https://lorcana-api.com/images/tinker_bell/most_helpful/tinker_bell-most_helpful-art-crop.png",
-      "medium": "https://lorcana-api.com/images/tinker_bell/most_helpful/tinker_bell-most_helpful-medium.png"
+      "medium": "https://lorcana-api.com/images/tinker_bell/most_helpful/tinker_bell-most_helpful-medium.png",
+      "foil": "https://lorcana-api.com/images/tinker_bell/most_helpful/tinker_bell-most_helpful-foil.png"
     },
     "name": "Tinker Bell",
     "ink-cost": 4,

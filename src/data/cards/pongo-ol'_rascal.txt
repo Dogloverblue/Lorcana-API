@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/pongo/ol'_rascal/pongo-ol'_rascal-no-art.png",
       "large": "https://lorcana-api.com/images/pongo/ol'_rascal/pongo-ol'_rascal-large.png",
       "art-crop": "https://lorcana-api.com/images/pongo/ol'_rascal/pongo-ol'_rascal-art-crop.png",
-      "medium": "https://lorcana-api.com/images/pongo/ol'_rascal/pongo-ol'_rascal-medium.png"
+      "medium": "https://lorcana-api.com/images/pongo/ol'_rascal/pongo-ol'_rascal-medium.png",
+      "foil": "https://lorcana-api.com/images/pongo/ol'_rascal/pongo-ol'_rascal-foil.png"
     },
     "name": "Pongo",
     "ink-cost": 4,

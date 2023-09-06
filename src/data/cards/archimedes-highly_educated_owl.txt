@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/archimedes/highly_educated_owl/archimedes-highly_educated_owl-no-art.png",
       "large": "https://lorcana-api.com/images/archimedes/highly_educated_owl/archimedes-highly_educated_owl-large.png",
       "art-crop": "https://lorcana-api.com/images/archimedes/highly_educated_owl/archimedes-highly_educated_owl-art-crop.png",
-      "medium": "https://lorcana-api.com/images/archimedes/highly_educated_owl/archimedes-highly_educated_owl-medium.png"
+      "medium": "https://lorcana-api.com/images/archimedes/highly_educated_owl/archimedes-highly_educated_owl-medium.png",
+      "foil": "https://lorcana-api.com/images/archimedes/highly_educated_owl/archimedes-highly_educated_owl-foil.png"
     },
     "name": "Archimedes",
     "ink-cost": 1,

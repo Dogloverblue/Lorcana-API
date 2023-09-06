@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/ursula's_shell_necklace/ursula's_shell_necklace-no-art.png",
       "large": "https://lorcana-api.com/images/ursula's_shell_necklace/ursula's_shell_necklace-large.png",
       "art-crop": "https://lorcana-api.com/images/ursula's_shell_necklace/ursula's_shell_necklace-art-crop.png",
-      "medium": "https://lorcana-api.com/images/ursula's_shell_necklace/ursula's_shell_necklace-medium.png"
+      "medium": "https://lorcana-api.com/images/ursula's_shell_necklace/ursula's_shell_necklace-medium.png",
+      "foil": "https://lorcana-api.com/images/ursula's_shell_necklace/ursula's_shell_necklace-foil.png"
     },
     "name": "Ursula's Shell Necklace",
     "ink-cost": 3,

@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/te_ka/heartless/te_ka-heartless-no-art.png",
       "large": "https://lorcana-api.com/images/te_ka/heartless/te_ka-heartless-large.png",
       "art-crop": "https://lorcana-api.com/images/te_ka/heartless/te_ka-heartless-art-crop.png",
-      "medium": "https://lorcana-api.com/images/te_ka/heartless/te_ka-heartless-medium.png"
+      "medium": "https://lorcana-api.com/images/te_ka/heartless/te_ka-heartless-medium.png",
+      "foil": "https://lorcana-api.com/images/te_ka/heartless/te_ka-heartless-foil.png"
     },
     "name": "Te Ka",
     "ink-cost": 6,

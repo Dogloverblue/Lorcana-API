@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/abu/mischievous_monkey/abu-mischievous_monkey-no-art.png",
       "large": "https://lorcana-api.com/images/abu/mischievous_monkey/abu-mischievous_monkey-large.png",
       "art-crop": "https://lorcana-api.com/images/abu/mischievous_monkey/abu-mischievous_monkey-art-crop.png",
-      "medium": "https://lorcana-api.com/images/abu/mischievous_monkey/abu-mischievous_monkey-medium.png"
+      "medium": "https://lorcana-api.com/images/abu/mischievous_monkey/abu-mischievous_monkey-medium.png",
+      "foil": "https://lorcana-api.com/images/abu/mischievous_monkey/abu-mischievous_monkey-foil.png"
     },
     "name": "Abu",
     "ink-cost": 3,

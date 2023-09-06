@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/tinker_bell/tiny_tactician/tinker_bell-tiny_tactician-no-art.png",
       "large": "https://lorcana-api.com/images/tinker_bell/tiny_tactician/tinker_bell-tiny_tactician-large.png",
       "art-crop": "https://lorcana-api.com/images/tinker_bell/tiny_tactician/tinker_bell-tiny_tactician-art-crop.png",
-      "medium": "https://lorcana-api.com/images/tinker_bell/tiny_tactician/tinker_bell-tiny_tactician-medium.png"
+      "medium": "https://lorcana-api.com/images/tinker_bell/tiny_tactician/tinker_bell-tiny_tactician-medium.png",
+      "foil": "https://lorcana-api.com/images/tinker_bell/tiny_tactician/tinker_bell-tiny_tactician-foil.png"
     },
     "name": "Tinker Bell",
     "ink-cost": 3,

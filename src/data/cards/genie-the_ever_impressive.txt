@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/genie/the_ever_impressive/genie-the_ever_impressive-no-art.png",
       "large": "https://lorcana-api.com/images/genie/the_ever_impressive/genie-the_ever_impressive-large.png",
       "art-crop": "https://lorcana-api.com/images/genie/the_ever_impressive/genie-the_ever_impressive-art-crop.png",
-      "medium": "https://lorcana-api.com/images/genie/the_ever_impressive/genie-the_ever_impressive-medium.png"
+      "medium": "https://lorcana-api.com/images/genie/the_ever_impressive/genie-the_ever_impressive-medium.png",
+      "foil": "https://lorcana-api.com/images/genie/the_ever_impressive/genie-the_ever_impressive-foil.png"
     },
     "name": "Genie",
     "ink-cost": 2,

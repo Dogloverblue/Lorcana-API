@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/hades/infernal_schemer/hades-infernal_schemer-no-art.png",
       "large": "https://lorcana-api.com/images/hades/infernal_schemer/hades-infernal_schemer-large.png",
       "art-crop": "https://lorcana-api.com/images/hades/infernal_schemer/hades-infernal_schemer-art-crop.png",
-      "medium": "https://lorcana-api.com/images/hades/infernal_schemer/hades-infernal_schemer-medium.png"
+      "medium": "https://lorcana-api.com/images/hades/infernal_schemer/hades-infernal_schemer-medium.png",
+      "foil": "https://lorcana-api.com/images/hades/infernal_schemer/hades-infernal_schemer-foil.png"
     },
     "name": "Hades",
     "ink-cost": 7,

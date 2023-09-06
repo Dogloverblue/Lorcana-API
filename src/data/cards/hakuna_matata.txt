@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/hakuna_matata/hakuna_matata-no-art.png",
       "large": "https://lorcana-api.com/images/hakuna_matata/hakuna_matata-large.png",
       "art-crop": "https://lorcana-api.com/images/hakuna_matata/hakuna_matata-art-crop.png",
-      "medium": "https://lorcana-api.com/images/hakuna_matata/hakuna_matata-medium.png"
+      "medium": "https://lorcana-api.com/images/hakuna_matata/hakuna_matata-medium.png",
+      "foil": "https://lorcana-api.com/images/hakuna_matata/hakuna_matata-foil.png"
     },
     "name": "Hakuna Matata",
     "ink-cost": 4,

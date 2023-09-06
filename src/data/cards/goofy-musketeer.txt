@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/goofy/musketeer/goofy-musketeer-no-art.png",
       "large": "https://lorcana-api.com/images/goofy/musketeer/goofy-musketeer-large.png",
       "art-crop": "https://lorcana-api.com/images/goofy/musketeer/goofy-musketeer-art-crop.png",
-      "medium": "https://lorcana-api.com/images/goofy/musketeer/goofy-musketeer-medium.png"
+      "medium": "https://lorcana-api.com/images/goofy/musketeer/goofy-musketeer-medium.png",
+      "foil": "https://lorcana-api.com/images/goofy/musketeer/goofy-musketeer-foil.png"
     },
     "name": "Goofy",
     "ink-cost": 5,

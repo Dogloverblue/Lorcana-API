@@ -13,7 +13,8 @@
       "no-art": "https://lorcana-api.com/images/dragon_fire/dragon_fire-no-art.png",
       "large": "https://lorcana-api.com/images/dragon_fire/dragon_fire-large.png",
       "art-crop": "https://lorcana-api.com/images/dragon_fire/dragon_fire-art-crop.png",
-      "medium": "https://lorcana-api.com/images/dragon_fire/dragon_fire-medium.png"
+      "medium": "https://lorcana-api.com/images/dragon_fire/dragon_fire-medium.png",
+      "foil": "https://lorcana-api.com/images/dragon_fire/dragon_fire-foil.png"
     },
     "name": "Dragon Fire",
     "ink-cost": 5,

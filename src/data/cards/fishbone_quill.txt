@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/fishbone_quill/fishbone_quill-no-art.png",
       "large": "https://lorcana-api.com/images/fishbone_quill/fishbone_quill-large.png",
       "art-crop": "https://lorcana-api.com/images/fishbone_quill/fishbone_quill-art-crop.png",
-      "medium": "https://lorcana-api.com/images/fishbone_quill/fishbone_quill-medium.png"
+      "medium": "https://lorcana-api.com/images/fishbone_quill/fishbone_quill-medium.png",
+      "foil": "https://lorcana-api.com/images/fishbone_quill/fishbone_quill-foil.png"
     },
     "name": "Fishbone Quill",
     "ink-cost": 3,

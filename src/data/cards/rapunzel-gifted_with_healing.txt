@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/rapunzel/gifted_with_healing/rapunzel-gifted_with_healing-no-art.png",
       "large": "https://lorcana-api.com/images/rapunzel/gifted_with_healing/rapunzel-gifted_with_healing-large.png",
       "art-crop": "https://lorcana-api.com/images/rapunzel/gifted_with_healing/rapunzel-gifted_with_healing-art-crop.png",
-      "medium": "https://lorcana-api.com/images/rapunzel/gifted_with_healing/rapunzel-gifted_with_healing-medium.png"
+      "medium": "https://lorcana-api.com/images/rapunzel/gifted_with_healing/rapunzel-gifted_with_healing-medium.png",
+      "foil": "https://lorcana-api.com/images/rapunzel/gifted_with_healing/rapunzel-gifted_with_healing-foil.png"
     },
     "name": "Rapunzel",
     "ink-cost": 4,

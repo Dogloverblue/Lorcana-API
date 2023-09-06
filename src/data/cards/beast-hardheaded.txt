@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/beast/hardheaded/beast-hardheaded-no-art.png",
       "large": "https://lorcana-api.com/images/beast/hardheaded/beast-hardheaded-large.png",
       "art-crop": "https://lorcana-api.com/images/beast/hardheaded/beast-hardheaded-art-crop.png",
-      "medium": "https://lorcana-api.com/images/beast/hardheaded/beast-hardheaded-medium.png"
+      "medium": "https://lorcana-api.com/images/beast/hardheaded/beast-hardheaded-medium.png",
+      "foil": "https://lorcana-api.com/images/beast/hardheaded/beast-hardheaded-foil.png"
     },
     "name": "Beast",
     "flavor-text": "",

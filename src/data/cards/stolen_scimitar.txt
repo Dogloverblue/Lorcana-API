@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/stolen_scimitar/stolen_scimitar-no-art.png",
       "large": "https://lorcana-api.com/images/stolen_scimitar/stolen_scimitar-large.png",
       "art-crop": "https://lorcana-api.com/images/stolen_scimitar/stolen_scimitar-art-crop.png",
-      "medium": "https://lorcana-api.com/images/stolen_scimitar/stolen_scimitar-medium.png"
+      "medium": "https://lorcana-api.com/images/stolen_scimitar/stolen_scimitar-medium.png",
+      "foil": "https://lorcana-api.com/images/stolen_scimitar/stolen_scimitar-foil.png"
     },
     "name": "Stolen Scimitar",
     "ink-cost": 2,

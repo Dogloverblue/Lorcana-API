@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/prince_phillip/dragonslayer/prince_phillip-dragonslayer-no-art.png",
       "large": "https://lorcana-api.com/images/prince_phillip/dragonslayer/prince_phillip-dragonslayer-large.png",
       "art-crop": "https://lorcana-api.com/images/prince_phillip/dragonslayer/prince_phillip-dragonslayer-art-crop.png",
-      "medium": "https://lorcana-api.com/images/prince_phillip/dragonslayer/prince_phillip-dragonslayer-medium.png"
+      "medium": "https://lorcana-api.com/images/prince_phillip/dragonslayer/prince_phillip-dragonslayer-medium.png",
+      "foil": "https://lorcana-api.com/images/prince_phillip/dragonslayer/prince_phillip-dragonslayer-foil.png"
     },
     "name": "Prince Phillip",
     "ink-cost": 4,

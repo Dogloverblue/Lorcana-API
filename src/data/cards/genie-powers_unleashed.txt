@@ -25,7 +25,8 @@
       "no-art": "https://lorcana-api.com/images/genie/powers_unleashed/genie-powers_unleashed-no-art.png",
       "large": "https://lorcana-api.com/images/genie/powers_unleashed/genie-powers_unleashed-large.png",
       "art-crop": "https://lorcana-api.com/images/genie/powers_unleashed/genie-powers_unleashed-art-crop.png",
-      "medium": "https://lorcana-api.com/images/genie/powers_unleashed/genie-powers_unleashed-medium.png"
+      "medium": "https://lorcana-api.com/images/genie/powers_unleashed/genie-powers_unleashed-medium.png",
+      "foil": "https://lorcana-api.com/images/genie/powers_unleashed/genie-powers_unleashed-foil.png"
     },
     "name": "Genie",
     "ink-cost": 8,

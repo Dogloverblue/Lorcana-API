@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/sven/official_ice_deliverer/sven-official_ice_deliverer-no-art.png",
       "large": "https://lorcana-api.com/images/sven/official_ice_deliverer/sven-official_ice_deliverer-large.png",
       "art-crop": "https://lorcana-api.com/images/sven/official_ice_deliverer/sven-official_ice_deliverer-art-crop.png",
-      "medium": "https://lorcana-api.com/images/sven/official_ice_deliverer/sven-official_ice_deliverer-medium.png"
+      "medium": "https://lorcana-api.com/images/sven/official_ice_deliverer/sven-official_ice_deliverer-medium.png",
+      "foil": "https://lorcana-api.com/images/sven/official_ice_deliverer/sven-official_ice_deliverer-foil.png"
     },
     "name": "Sven",
     "ink-cost": 6,

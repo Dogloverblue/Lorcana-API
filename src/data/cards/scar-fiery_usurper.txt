@@ -25,7 +25,8 @@
       "no-art": "https://lorcana-api.com/images/scar/fiery_usurper/scar-fiery_usurper-no-art.png",
       "large": "https://lorcana-api.com/images/scar/fiery_usurper/scar-fiery_usurper-large.png",
       "art-crop": "https://lorcana-api.com/images/scar/fiery_usurper/scar-fiery_usurper-art-crop.png",
-      "medium": "https://lorcana-api.com/images/scar/fiery_usurper/scar-fiery_usurper-medium.png"
+      "medium": "https://lorcana-api.com/images/scar/fiery_usurper/scar-fiery_usurper-medium.png",
+      "foil": "https://lorcana-api.com/images/scar/fiery_usurper/scar-fiery_usurper-foil.png"
     },
     "name": "Scar",
     "ink-cost": 4,

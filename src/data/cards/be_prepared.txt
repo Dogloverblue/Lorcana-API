@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/be_prepared/be_prepared-no-art.png",
       "large": "https://lorcana-api.com/images/be_prepared/be_prepared-large.png",
       "art-crop": "https://lorcana-api.com/images/be_prepared/be_prepared-art-crop.png",
-      "medium": "https://lorcana-api.com/images/be_prepared/be_prepared-medium.png"
+      "medium": "https://lorcana-api.com/images/be_prepared/be_prepared-medium.png",
+      "foil": "https://lorcana-api.com/images/be_prepared/be_prepared-foil.png"
     },
     "name": "Be Prepared",
     "ink-cost": 7,

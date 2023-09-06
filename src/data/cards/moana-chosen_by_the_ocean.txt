@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/moana/chosen_by_the_ocean/moana-chosen_by_the_ocean-no-art.png",
       "large": "https://lorcana-api.com/images/moana/chosen_by_the_ocean/moana-chosen_by_the_ocean-large.png",
       "art-crop": "https://lorcana-api.com/images/moana/chosen_by_the_ocean/moana-chosen_by_the_ocean-art-crop.png",
-      "medium": "https://lorcana-api.com/images/moana/chosen_by_the_ocean/moana-chosen_by_the_ocean-medium.png"
+      "medium": "https://lorcana-api.com/images/moana/chosen_by_the_ocean/moana-chosen_by_the_ocean-medium.png",
+      "foil": "https://lorcana-api.com/images/moana/chosen_by_the_ocean/moana-chosen_by_the_ocean-foil.png"
     },
     "name": "Moana",
     "ink-cost": 5,

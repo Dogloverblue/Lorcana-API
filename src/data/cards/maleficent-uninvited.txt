@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/maleficent/uninvited/maleficent-uninvited-no-art.png",
       "large": "https://lorcana-api.com/images/maleficent/uninvited/maleficent-uninvited-large.png",
       "art-crop": "https://lorcana-api.com/images/maleficent/uninvited/maleficent-uninvited-art-crop.png",
-      "medium": "https://lorcana-api.com/images/maleficent/uninvited/maleficent-uninvited-medium.png"
+      "medium": "https://lorcana-api.com/images/maleficent/uninvited/maleficent-uninvited-medium.png",
+      "foil": "https://lorcana-api.com/images/maleficent/uninvited/maleficent-uninvited-foil.png"
     },
     "name": "Maleficent",
     "ink-cost": 5,

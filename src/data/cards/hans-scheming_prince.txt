@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/hans/scheming_prince/hans-scheming_prince-no-art.png",
       "large": "https://lorcana-api.com/images/hans/scheming_prince/hans-scheming_prince-large.png",
       "art-crop": "https://lorcana-api.com/images/hans/scheming_prince/hans-scheming_prince-art-crop.png",
-      "medium": "https://lorcana-api.com/images/hans/scheming_prince/hans-scheming_prince-medium.png"
+      "medium": "https://lorcana-api.com/images/hans/scheming_prince/hans-scheming_prince-medium.png",
+      "foil": "https://lorcana-api.com/images/hans/scheming_prince/hans-scheming_prince-foil.png"
     },
     "name": "Hans",
     "ink-cost": 4,

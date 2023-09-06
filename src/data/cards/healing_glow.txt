@@ -13,7 +13,8 @@
       "no-art": "https://lorcana-api.com/images/healing_glow/healing_glow-no-art.png",
       "large": "https://lorcana-api.com/images/healing_glow/healing_glow-large.png",
       "art-crop": "https://lorcana-api.com/images/healing_glow/healing_glow-art-crop.png",
-      "medium": "https://lorcana-api.com/images/healing_glow/healing_glow-medium.png"
+      "medium": "https://lorcana-api.com/images/healing_glow/healing_glow-medium.png",
+      "foil": "https://lorcana-api.com/images/healing_glow/healing_glow-foil.png"
     },
     "name": "Healing Glow",
     "ink-cost": 1,

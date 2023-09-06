@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/gaston/arrogant_hunter/gaston-arrogant_hunter-no-art.png",
       "large": "https://lorcana-api.com/images/gaston/arrogant_hunter/gaston-arrogant_hunter-large.png",
       "art-crop": "https://lorcana-api.com/images/gaston/arrogant_hunter/gaston-arrogant_hunter-art-crop.png",
-      "medium": "https://lorcana-api.com/images/gaston/arrogant_hunter/gaston-arrogant_hunter-medium.png"
+      "medium": "https://lorcana-api.com/images/gaston/arrogant_hunter/gaston-arrogant_hunter-medium.png",
+      "foil": "https://lorcana-api.com/images/gaston/arrogant_hunter/gaston-arrogant_hunter-foil.png"
     },
     "name": "Gaston",
     "ink-cost": 2,

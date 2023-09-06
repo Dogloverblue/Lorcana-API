@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/gantu/galactic_federation_captain/gantu-galactic_federation_captain-no-art.png",
       "large": "https://lorcana-api.com/images/gantu/galactic_federation_captain/gantu-galactic_federation_captain-large.png",
       "art-crop": "https://lorcana-api.com/images/gantu/galactic_federation_captain/gantu-galactic_federation_captain-art-crop.png",
-      "medium": "https://lorcana-api.com/images/gantu/galactic_federation_captain/gantu-galactic_federation_captain-medium.png"
+      "medium": "https://lorcana-api.com/images/gantu/galactic_federation_captain/gantu-galactic_federation_captain-medium.png",
+      "foil": "https://lorcana-api.com/images/gantu/galactic_federation_captain/gantu-galactic_federation_captain-foil.png"
     },
     "name": "Gantu",
     "flavor-text": "Relax, enjoy the trip... and don't get any ideas!",

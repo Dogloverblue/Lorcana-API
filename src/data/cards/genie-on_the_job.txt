@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/genie/on_the_job/genie-on_the_job-no-art.png",
       "large": "https://lorcana-api.com/images/genie/on_the_job/genie-on_the_job-large.png",
       "art-crop": "https://lorcana-api.com/images/genie/on_the_job/genie-on_the_job-art-crop.png",
-      "medium": "https://lorcana-api.com/images/genie/on_the_job/genie-on_the_job-medium.png"
+      "medium": "https://lorcana-api.com/images/genie/on_the_job/genie-on_the_job-medium.png",
+      "foil": "https://lorcana-api.com/images/genie/on_the_job/genie-on_the_job-foil.png"
     },
     "name": "Genie",
     "ink-cost": 6,

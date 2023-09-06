@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/befuddle/befuddle-no-art.png",
       "large": "https://lorcana-api.com/images/befuddle/befuddle-large.png",
       "art-crop": "https://lorcana-api.com/images/befuddle/befuddle-art-crop.png",
-      "medium": "https://lorcana-api.com/images/befuddle/befuddle-medium.png"
+      "medium": "https://lorcana-api.com/images/befuddle/befuddle-medium.png",
+      "foil": "https://lorcana-api.com/images/befuddle/befuddle-foil.png"
     },
     "name": "Befuddle",
     "ink-cost": 1,

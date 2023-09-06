@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/grab_your_sword/grab_your_sword-no-art.png",
       "large": "https://lorcana-api.com/images/grab_your_sword/grab_your_sword-large.png",
       "art-crop": "https://lorcana-api.com/images/grab_your_sword/grab_your_sword-art-crop.png",
-      "medium": "https://lorcana-api.com/images/grab_your_sword/grab_your_sword-medium.png"
+      "medium": "https://lorcana-api.com/images/grab_your_sword/grab_your_sword-medium.png",
+      "foil": "https://lorcana-api.com/images/grab_your_sword/grab_your_sword-foil.png"
     },
     "name": "Grab Your Sword",
     "ink-cost": 5,

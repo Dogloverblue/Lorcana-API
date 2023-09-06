@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/mickey_mouse/musketeer/mickey_mouse-musketeer-no-art.png",
       "large": "https://lorcana-api.com/images/mickey_mouse/musketeer/mickey_mouse-musketeer-large.png",
       "art-crop": "https://lorcana-api.com/images/mickey_mouse/musketeer/mickey_mouse-musketeer-art-crop.png",
-      "medium": "https://lorcana-api.com/images/mickey_mouse/musketeer/mickey_mouse-musketeer-medium.png"
+      "medium": "https://lorcana-api.com/images/mickey_mouse/musketeer/mickey_mouse-musketeer-medium.png",
+      "foil": "https://lorcana-api.com/images/mickey_mouse/musketeer/mickey_mouse-musketeer-foil.png"
     },
     "name": "Mickey Mouse",
     "ink-cost": 6,

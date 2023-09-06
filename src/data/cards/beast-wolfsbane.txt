@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/beast/wolfsbane/beast-wolfsbane-no-art.png",
       "large": "https://lorcana-api.com/images/beast/wolfsbane/beast-wolfsbane-large.png",
       "art-crop": "https://lorcana-api.com/images/beast/wolfsbane/beast-wolfsbane-art-crop.png",
-      "medium": "https://lorcana-api.com/images/beast/wolfsbane/beast-wolfsbane-medium.png"
+      "medium": "https://lorcana-api.com/images/beast/wolfsbane/beast-wolfsbane-medium.png",
+      "foil": "https://lorcana-api.com/images/beast/wolfsbane/beast-wolfsbane-foil.png"
     },
     "name": "Beast",
     "ink-cost": 5,

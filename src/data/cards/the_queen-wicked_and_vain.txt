@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/the_queen/wicked_and_vain/the_queen-wicked_and_vain-no-art.png",
       "large": "https://lorcana-api.com/images/the_queen/wicked_and_vain/the_queen-wicked_and_vain-large.png",
       "art-crop": "https://lorcana-api.com/images/the_queen/wicked_and_vain/the_queen-wicked_and_vain-art-crop.png",
-      "medium": "https://lorcana-api.com/images/the_queen/wicked_and_vain/the_queen-wicked_and_vain-medium.png"
+      "medium": "https://lorcana-api.com/images/the_queen/wicked_and_vain/the_queen-wicked_and_vain-medium.png",
+      "foil": "https://lorcana-api.com/images/the_queen/wicked_and_vain/the_queen-wicked_and_vain-foil.png"
     },
     "name": "The Queen",
     "ink-cost": 5,

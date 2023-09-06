@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/hercules/true_hero/hercules-true_hero-no-art.png",
       "large": "https://lorcana-api.com/images/hercules/true_hero/hercules-true_hero-large.png",
       "art-crop": "https://lorcana-api.com/images/hercules/true_hero/hercules-true_hero-art-crop.png",
-      "medium": "https://lorcana-api.com/images/hercules/true_hero/hercules-true_hero-medium.png"
+      "medium": "https://lorcana-api.com/images/hercules/true_hero/hercules-true_hero-medium.png",
+      "foil": "https://lorcana-api.com/images/hercules/true_hero/hercules-true_hero-foil.png"
     },
     "name": "Hercules",
     "flavor-text": "\\\"You gotta admit, that was pretty heroic.\\\"",

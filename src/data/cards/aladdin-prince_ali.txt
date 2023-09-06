@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/aladdin/prince_ali/aladdin-prince_ali-no-art.png",
       "large": "https://lorcana-api.com/images/aladdin/prince_ali/aladdin-prince_ali-large.png",
       "art-crop": "https://lorcana-api.com/images/aladdin/prince_ali/aladdin-prince_ali-art-crop.png",
-      "medium": "https://lorcana-api.com/images/aladdin/prince_ali/aladdin-prince_ali-medium.png"
+      "medium": "https://lorcana-api.com/images/aladdin/prince_ali/aladdin-prince_ali-medium.png",
+      "foil": "https://lorcana-api.com/images/aladdin/prince_ali/aladdin-prince_ali-foil.png"
     },
     "name": "Aladdin",
     "ink-cost": 2,

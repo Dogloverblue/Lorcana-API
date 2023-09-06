@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/gramma_tala/storyteller/gramma_tala-storyteller-no-art.png",
       "large": "https://lorcana-api.com/images/gramma_tala/storyteller/gramma_tala-storyteller-large.png",
       "art-crop": "https://lorcana-api.com/images/gramma_tala/storyteller/gramma_tala-storyteller-art-crop.png",
-      "medium": "https://lorcana-api.com/images/gramma_tala/storyteller/gramma_tala-storyteller-medium.png"
+      "medium": "https://lorcana-api.com/images/gramma_tala/storyteller/gramma_tala-storyteller-medium.png",
+      "foil": "https://lorcana-api.com/images/gramma_tala/storyteller/gramma_tala-storyteller-foil.png"
     },
     "name": "Gramma Tala",
     "ink-cost": 2,

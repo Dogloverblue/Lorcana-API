@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/maleficent/biding_her_time/maleficent-biding_her_time-no-art.png",
       "large": "https://lorcana-api.com/images/maleficent/biding_her_time/maleficent-biding_her_time-large.png",
       "art-crop": "https://lorcana-api.com/images/maleficent/biding_her_time/maleficent-biding_her_time-art-crop.png",
-      "medium": "https://lorcana-api.com/images/maleficent/biding_her_time/maleficent-biding_her_time-medium.png"
+      "medium": "https://lorcana-api.com/images/maleficent/biding_her_time/maleficent-biding_her_time-medium.png",
+      "foil": "https://lorcana-api.com/images/maleficent/biding_her_time/maleficent-biding_her_time-foil.png"
     },
     "name": "Maleficent",
     "ink-cost": 1,

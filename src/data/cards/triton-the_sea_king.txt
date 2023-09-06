@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/triton/the_sea_king/triton-the_sea_king-no-art.png",
       "large": "https://lorcana-api.com/images/triton/the_sea_king/triton-the_sea_king-large.png",
       "art-crop": "https://lorcana-api.com/images/triton/the_sea_king/triton-the_sea_king-art-crop.png",
-      "medium": "https://lorcana-api.com/images/triton/the_sea_king/triton-the_sea_king-medium.png"
+      "medium": "https://lorcana-api.com/images/triton/the_sea_king/triton-the_sea_king-medium.png",
+      "foil": "https://lorcana-api.com/images/triton/the_sea_king/triton-the_sea_king-foil.png"
     },
     "name": "Triton",
     "ink-cost": 7,

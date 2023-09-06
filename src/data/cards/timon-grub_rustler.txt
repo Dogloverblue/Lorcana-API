@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/timon/grub_rustler/timon-grub_rustler-no-art.png",
       "large": "https://lorcana-api.com/images/timon/grub_rustler/timon-grub_rustler-large.png",
       "art-crop": "https://lorcana-api.com/images/timon/grub_rustler/timon-grub_rustler-art-crop.png",
-      "medium": "https://lorcana-api.com/images/timon/grub_rustler/timon-grub_rustler-medium.png"
+      "medium": "https://lorcana-api.com/images/timon/grub_rustler/timon-grub_rustler-medium.png",
+      "foil": "https://lorcana-api.com/images/timon/grub_rustler/timon-grub_rustler-foil.png"
     },
     "name": "Timon",
     "ink-cost": 1,

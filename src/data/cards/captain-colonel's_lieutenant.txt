@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/captain/colonel's_lieutenant/captain-colonel's_lieutenant-no-art.png",
       "large": "https://lorcana-api.com/images/captain/colonel's_lieutenant/captain-colonel's_lieutenant-large.png",
       "art-crop": "https://lorcana-api.com/images/captain/colonel's_lieutenant/captain-colonel's_lieutenant-art-crop.png",
-      "medium": "https://lorcana-api.com/images/captain/colonel's_lieutenant/captain-colonel's_lieutenant-medium.png"
+      "medium": "https://lorcana-api.com/images/captain/colonel's_lieutenant/captain-colonel's_lieutenant-medium.png",
+      "foil": "https://lorcana-api.com/images/captain/colonel's_lieutenant/captain-colonel's_lieutenant-foil.png"
     },
     "name": "Captain",
     "ink-cost": 5,

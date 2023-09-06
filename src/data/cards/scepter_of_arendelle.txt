@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/scepter_of_arendelle/scepter_of_arendelle-no-art.png",
       "large": "https://lorcana-api.com/images/scepter_of_arendelle/scepter_of_arendelle-large.png",
       "art-crop": "https://lorcana-api.com/images/scepter_of_arendelle/scepter_of_arendelle-art-crop.png",
-      "medium": "https://lorcana-api.com/images/scepter_of_arendelle/scepter_of_arendelle-medium.png"
+      "medium": "https://lorcana-api.com/images/scepter_of_arendelle/scepter_of_arendelle-medium.png",
+      "foil": "https://lorcana-api.com/images/scepter_of_arendelle/scepter_of_arendelle-foil.png"
     },
     "name": "Scepter Of Arendelle",
     "ink-cost": 1,

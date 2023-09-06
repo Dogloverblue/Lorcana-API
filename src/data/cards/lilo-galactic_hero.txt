@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/lilo/galactic_hero/lilo-galactic_hero-no-art.png",
       "large": "https://lorcana-api.com/images/lilo/galactic_hero/lilo-galactic_hero-large.png",
       "art-crop": "https://lorcana-api.com/images/lilo/galactic_hero/lilo-galactic_hero-art-crop.png",
-      "medium": "https://lorcana-api.com/images/lilo/galactic_hero/lilo-galactic_hero-medium.png"
+      "medium": "https://lorcana-api.com/images/lilo/galactic_hero/lilo-galactic_hero-medium.png",
+      "foil": "https://lorcana-api.com/images/lilo/galactic_hero/lilo-galactic_hero-foil.png"
     },
     "name": "Lilo",
     "ink-cost": 3,

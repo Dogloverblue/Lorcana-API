@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/duke_of_weselton/opportunistic_official/duke_of_weselton-opportunistic_official-no-art.png",
       "large": "https://lorcana-api.com/images/duke_of_weselton/opportunistic_official/duke_of_weselton-opportunistic_official-large.png",
       "art-crop": "https://lorcana-api.com/images/duke_of_weselton/opportunistic_official/duke_of_weselton-opportunistic_official-art-crop.png",
-      "medium": "https://lorcana-api.com/images/duke_of_weselton/opportunistic_official/duke_of_weselton-opportunistic_official-medium.png"
+      "medium": "https://lorcana-api.com/images/duke_of_weselton/opportunistic_official/duke_of_weselton-opportunistic_official-medium.png",
+      "foil": "https://lorcana-api.com/images/duke_of_weselton/opportunistic_official/duke_of_weselton-opportunistic_official-foil.png"
     },
     "name": "Duke Of Weselton",
     "ink-cost": 1,

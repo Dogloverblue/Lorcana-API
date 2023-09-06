@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/jasper/common_crook/jasper-common_crook-no-art.png",
       "large": "https://lorcana-api.com/images/jasper/common_crook/jasper-common_crook-large.png",
       "art-crop": "https://lorcana-api.com/images/jasper/common_crook/jasper-common_crook-art-crop.png",
-      "medium": "https://lorcana-api.com/images/jasper/common_crook/jasper-common_crook-medium.png"
+      "medium": "https://lorcana-api.com/images/jasper/common_crook/jasper-common_crook-medium.png",
+      "foil": "https://lorcana-api.com/images/jasper/common_crook/jasper-common_crook-foil.png"
     },
     "name": "Jasper",
     "ink-cost": 3,

@@ -27,7 +27,8 @@
       "no-art": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_thought/captain_hook-thinking_a_happy_thought-no-art.png",
       "large": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_thought/captain_hook-thinking_a_happy_thought-large.png",
       "art-crop": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_thought/captain_hook-thinking_a_happy_thought-art-crop.png",
-      "medium": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_thought/captain_hook-thinking_a_happy_thought-medium.png"
+      "medium": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_thought/captain_hook-thinking_a_happy_thought-medium.png",
+      "foil": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_thought/captain_hook-thinking_a_happy_thought-foil.png"
     },
     "name": "Captain Hook",
     "ink-cost": 5,

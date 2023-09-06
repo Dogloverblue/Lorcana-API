@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/magic_broom/bucket_brigade/magic_broom-bucket_brigade-no-art.png",
       "large": "https://lorcana-api.com/images/magic_broom/bucket_brigade/magic_broom-bucket_brigade-large.png",
       "art-crop": "https://lorcana-api.com/images/magic_broom/bucket_brigade/magic_broom-bucket_brigade-art-crop.png",
-      "medium": "https://lorcana-api.com/images/magic_broom/bucket_brigade/magic_broom-bucket_brigade-medium.png"
+      "medium": "https://lorcana-api.com/images/magic_broom/bucket_brigade/magic_broom-bucket_brigade-medium.png",
+      "foil": "https://lorcana-api.com/images/magic_broom/bucket_brigade/magic_broom-bucket_brigade-foil.png"
     },
     "name": "Magic Broom",
     "flavor-text": "In the immense story-forge known as the Great Illuminary, there is always work to be done.",

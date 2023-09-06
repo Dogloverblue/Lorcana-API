@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/peter_pan/fearless_fighter/peter_pan-fearless_fighter-no-art.png",
       "large": "https://lorcana-api.com/images/peter_pan/fearless_fighter/peter_pan-fearless_fighter-large.png",
       "art-crop": "https://lorcana-api.com/images/peter_pan/fearless_fighter/peter_pan-fearless_fighter-art-crop.png",
-      "medium": "https://lorcana-api.com/images/peter_pan/fearless_fighter/peter_pan-fearless_fighter-medium.png"
+      "medium": "https://lorcana-api.com/images/peter_pan/fearless_fighter/peter_pan-fearless_fighter-medium.png",
+      "foil": "https://lorcana-api.com/images/peter_pan/fearless_fighter/peter_pan-fearless_fighter-foil.png"
     },
     "name": "Peter Pan",
     "ink-cost": 3,

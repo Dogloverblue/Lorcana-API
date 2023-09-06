@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/lefou/instigator/lefou-instigator-no-art.png",
       "large": "https://lorcana-api.com/images/lefou/instigator/lefou-instigator-large.png",
       "art-crop": "https://lorcana-api.com/images/lefou/instigator/lefou-instigator-art-crop.png",
-      "medium": "https://lorcana-api.com/images/lefou/instigator/lefou-instigator-medium.png"
+      "medium": "https://lorcana-api.com/images/lefou/instigator/lefou-instigator-medium.png",
+      "foil": "https://lorcana-api.com/images/lefou/instigator/lefou-instigator-foil.png"
     },
     "name": "Lefou",
     "ink-cost": 2,

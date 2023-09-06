@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/maleficent/sorceress/maleficent-sorceress-no-art.png",
       "large": "https://lorcana-api.com/images/maleficent/sorceress/maleficent-sorceress-large.png",
       "art-crop": "https://lorcana-api.com/images/maleficent/sorceress/maleficent-sorceress-art-crop.png",
-      "medium": "https://lorcana-api.com/images/maleficent/sorceress/maleficent-sorceress-medium.png"
+      "medium": "https://lorcana-api.com/images/maleficent/sorceress/maleficent-sorceress-medium.png",
+      "foil": "https://lorcana-api.com/images/maleficent/sorceress/maleficent-sorceress-foil.png"
     },
     "name": "Maleficent",
     "ink-cost": 3,

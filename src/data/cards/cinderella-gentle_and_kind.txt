@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/cinderella/gentle_and_kind/cinderella-gentle_and_kind-no-art.png",
       "large": "https://lorcana-api.com/images/cinderella/gentle_and_kind/cinderella-gentle_and_kind-large.png",
       "art-crop": "https://lorcana-api.com/images/cinderella/gentle_and_kind/cinderella-gentle_and_kind-art-crop.png",
-      "medium": "https://lorcana-api.com/images/cinderella/gentle_and_kind/cinderella-gentle_and_kind-medium.png"
+      "medium": "https://lorcana-api.com/images/cinderella/gentle_and_kind/cinderella-gentle_and_kind-medium.png",
+      "foil": "https://lorcana-api.com/images/cinderella/gentle_and_kind/cinderella-gentle_and_kind-foil.png"
     },
     "name": "Cinderella",
     "ink-cost": 4,

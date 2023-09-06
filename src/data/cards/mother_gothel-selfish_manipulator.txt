@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/mother_gothel/selfish_manipulator/mother_gothel-selfish_manipulator-no-art.png",
       "large": "https://lorcana-api.com/images/mother_gothel/selfish_manipulator/mother_gothel-selfish_manipulator-large.png",
       "art-crop": "https://lorcana-api.com/images/mother_gothel/selfish_manipulator/mother_gothel-selfish_manipulator-art-crop.png",
-      "medium": "https://lorcana-api.com/images/mother_gothel/selfish_manipulator/mother_gothel-selfish_manipulator-medium.png"
+      "medium": "https://lorcana-api.com/images/mother_gothel/selfish_manipulator/mother_gothel-selfish_manipulator-medium.png",
+      "foil": "https://lorcana-api.com/images/mother_gothel/selfish_manipulator/mother_gothel-selfish_manipulator-foil.png"
     },
     "name": "Mother Gothel",
     "ink-cost": 6,

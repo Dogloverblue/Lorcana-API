@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/stitch/rock_star/stitch-rock_star-no-art.png",
       "large": "https://lorcana-api.com/images/stitch/rock_star/stitch-rock_star-large.png",
       "art-crop": "https://lorcana-api.com/images/stitch/rock_star/stitch-rock_star-art-crop.png",
-      "medium": "https://lorcana-api.com/images/stitch/rock_star/stitch-rock_star-medium.png"
+      "medium": "https://lorcana-api.com/images/stitch/rock_star/stitch-rock_star-medium.png",
+      "foil": "https://lorcana-api.com/images/stitch/rock_star/stitch-rock_star-foil.png"
     },
     "name": "Stitch",
     "flavor-text": "The best part about a beachside concert is that there's always room for one more.",

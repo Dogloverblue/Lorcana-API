@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/goofy/daredevil/goofy-daredevil-no-art.png",
       "large": "https://lorcana-api.com/images/goofy/daredevil/goofy-daredevil-large.png",
       "art-crop": "https://lorcana-api.com/images/goofy/daredevil/goofy-daredevil-art-crop.png",
-      "medium": "https://lorcana-api.com/images/goofy/daredevil/goofy-daredevil-medium.png"
+      "medium": "https://lorcana-api.com/images/goofy/daredevil/goofy-daredevil-medium.png",
+      "foil": "https://lorcana-api.com/images/goofy/daredevil/goofy-daredevil-foil.png"
     },
     "name": "Goofy",
     "flavor-text": "Sometimes you gotta give it the ol' jump and hyuck.",

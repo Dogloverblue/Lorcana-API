@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/he's_got_a_sword!/he's_got_a_sword!-no-art.png",
       "large": "https://lorcana-api.com/images/he's_got_a_sword!/he's_got_a_sword!-large.png",
       "art-crop": "https://lorcana-api.com/images/he's_got_a_sword!/he's_got_a_sword!-art-crop.png",
-      "medium": "https://lorcana-api.com/images/he's_got_a_sword!/he's_got_a_sword!-medium.png"
+      "medium": "https://lorcana-api.com/images/he's_got_a_sword!/he's_got_a_sword!-medium.png",
+      "foil": "https://lorcana-api.com/images/he's_got_a_sword!/he's_got_a_sword!-foil.png"
     },
     "name": "He's Got A Sword!",
     "ink-cost": 1,

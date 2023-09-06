@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/ursula/power_hungry/ursula-power_hungry-no-art.png",
       "large": "https://lorcana-api.com/images/ursula/power_hungry/ursula-power_hungry-large.png",
       "art-crop": "https://lorcana-api.com/images/ursula/power_hungry/ursula-power_hungry-art-crop.png",
-      "medium": "https://lorcana-api.com/images/ursula/power_hungry/ursula-power_hungry-medium.png"
+      "medium": "https://lorcana-api.com/images/ursula/power_hungry/ursula-power_hungry-medium.png",
+      "foil": "https://lorcana-api.com/images/ursula/power_hungry/ursula-power_hungry-foil.png"
     },
     "name": "Ursula",
     "ink-cost": 7,

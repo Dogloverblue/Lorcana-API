@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/goons/maleficent's_underlings/goons-maleficent's_underlings-no-art.png",
       "large": "https://lorcana-api.com/images/goons/maleficent's_underlings/goons-maleficent's_underlings-large.png",
       "art-crop": "https://lorcana-api.com/images/goons/maleficent's_underlings/goons-maleficent's_underlings-art-crop.png",
-      "medium": "https://lorcana-api.com/images/goons/maleficent's_underlings/goons-maleficent's_underlings-medium.png"
+      "medium": "https://lorcana-api.com/images/goons/maleficent's_underlings/goons-maleficent's_underlings-medium.png",
+      "foil": "https://lorcana-api.com/images/goons/maleficent's_underlings/goons-maleficent's_underlings-foil.png"
     },
     "name": "Goons",
     "flavor-text": "They may seem useless, but they came with the castle.",

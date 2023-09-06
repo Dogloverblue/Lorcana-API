@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/maleficent/sinister_visitor/maleficent-sinister_visitor-no-art.png",
       "large": "https://lorcana-api.com/images/maleficent/sinister_visitor/maleficent-sinister_visitor-large.png",
       "art-crop": "https://lorcana-api.com/images/maleficent/sinister_visitor/maleficent-sinister_visitor-art-crop.png",
-      "medium": "https://lorcana-api.com/images/maleficent/sinister_visitor/maleficent-sinister_visitor-medium.png"
+      "medium": "https://lorcana-api.com/images/maleficent/sinister_visitor/maleficent-sinister_visitor-medium.png",
+      "foil": "https://lorcana-api.com/images/maleficent/sinister_visitor/maleficent-sinister_visitor-foil.png"
     },
     "name": "Maleficent",
     "ink-cost": 4,

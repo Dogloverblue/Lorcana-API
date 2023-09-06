@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/freeze/freeze-no-art.png",
       "large": "https://lorcana-api.com/images/freeze/freeze-large.png",
       "art-crop": "https://lorcana-api.com/images/freeze/freeze-art-crop.png",
-      "medium": "https://lorcana-api.com/images/freeze/freeze-medium.png"
+      "medium": "https://lorcana-api.com/images/freeze/freeze-medium.png",
+      "foil": "https://lorcana-api.com/images/freeze/freeze-foil.png"
     },
     "name": "Freeze",
     "ink-cost": 2,

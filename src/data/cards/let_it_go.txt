@@ -13,7 +13,8 @@
       "no-art": "https://lorcana-api.com/images/let_it_go/let_it_go-no-art.png",
       "large": "https://lorcana-api.com/images/let_it_go/let_it_go-large.png",
       "art-crop": "https://lorcana-api.com/images/let_it_go/let_it_go-art-crop.png",
-      "medium": "https://lorcana-api.com/images/let_it_go/let_it_go-medium.png"
+      "medium": "https://lorcana-api.com/images/let_it_go/let_it_go-medium.png",
+      "foil": "https://lorcana-api.com/images/let_it_go/let_it_go-foil.png"
     },
     "name": "Let It Go",
     "ink-cost": 5,

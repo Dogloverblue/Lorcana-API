@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/aladdin/heroic_outlaw/aladdin-heroic_outlaw-no-art.png",
       "large": "https://lorcana-api.com/images/aladdin/heroic_outlaw/aladdin-heroic_outlaw-large.png",
       "art-crop": "https://lorcana-api.com/images/aladdin/heroic_outlaw/aladdin-heroic_outlaw-art-crop.png",
-      "medium": "https://lorcana-api.com/images/aladdin/heroic_outlaw/aladdin-heroic_outlaw-medium.png"
+      "medium": "https://lorcana-api.com/images/aladdin/heroic_outlaw/aladdin-heroic_outlaw-medium.png",
+      "foil": "https://lorcana-api.com/images/aladdin/heroic_outlaw/aladdin-heroic_outlaw-foil.png"
     },
     "name": "Aladdin",
     "flavor-text": "",

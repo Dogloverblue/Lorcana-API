@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/musketeer_tabard/musketeer_tabard-no-art.png",
       "large": "https://lorcana-api.com/images/musketeer_tabard/musketeer_tabard-large.png",
       "art-crop": "https://lorcana-api.com/images/musketeer_tabard/musketeer_tabard-art-crop.png",
-      "medium": "https://lorcana-api.com/images/musketeer_tabard/musketeer_tabard-medium.png"
+      "medium": "https://lorcana-api.com/images/musketeer_tabard/musketeer_tabard-medium.png",
+      "foil": "https://lorcana-api.com/images/musketeer_tabard/musketeer_tabard-foil.png"
     },
     "name": "Musketeer Tabard",
     "ink-cost": 4,

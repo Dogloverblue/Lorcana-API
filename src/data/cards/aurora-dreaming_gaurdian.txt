@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/aurora/dreaming_gaurdian/aurora-dreaming_gaurdian-no-art.png",
       "large": "https://lorcana-api.com/images/aurora/dreaming_gaurdian/aurora-dreaming_gaurdian-large.png",
       "art-crop": "https://lorcana-api.com/images/aurora/dreaming_gaurdian/aurora-dreaming_gaurdian-art-crop.png",
-      "medium": "https://lorcana-api.com/images/aurora/dreaming_gaurdian/aurora-dreaming_gaurdian-medium.png"
+      "medium": "https://lorcana-api.com/images/aurora/dreaming_gaurdian/aurora-dreaming_gaurdian-medium.png",
+      "foil": "https://lorcana-api.com/images/aurora/dreaming_gaurdian/aurora-dreaming_gaurdian-foil.png"
     },
     "name": "Aurora",
     "ink-cost": 5,

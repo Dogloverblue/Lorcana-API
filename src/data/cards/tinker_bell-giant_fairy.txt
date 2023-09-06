@@ -26,7 +26,8 @@
       "no-art": "https://lorcana-api.com/images/tinker_bell/giant_fairy/tinker_bell-giant_fairy-no-art.png",
       "large": "https://lorcana-api.com/images/tinker_bell/giant_fairy/tinker_bell-giant_fairy-large.png",
       "art-crop": "https://lorcana-api.com/images/tinker_bell/giant_fairy/tinker_bell-giant_fairy-art-crop.png",
-      "medium": "https://lorcana-api.com/images/tinker_bell/giant_fairy/tinker_bell-giant_fairy-medium.png"
+      "medium": "https://lorcana-api.com/images/tinker_bell/giant_fairy/tinker_bell-giant_fairy-medium.png",
+      "foil": "https://lorcana-api.com/images/tinker_bell/giant_fairy/tinker_bell-giant_fairy-foil.png"
     },
     "name": "Tinker Bell",
     "ink-cost": 6,

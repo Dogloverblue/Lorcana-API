@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/aladdin/street_rat/aladdin-street_rat-no-art.png",
       "large": "https://lorcana-api.com/images/aladdin/street_rat/aladdin-street_rat-large.png",
       "art-crop": "https://lorcana-api.com/images/aladdin/street_rat/aladdin-street_rat-art-crop.png",
-      "medium": "https://lorcana-api.com/images/aladdin/street_rat/aladdin-street_rat-medium.png"
+      "medium": "https://lorcana-api.com/images/aladdin/street_rat/aladdin-street_rat-medium.png",
+      "foil": "https://lorcana-api.com/images/aladdin/street_rat/aladdin-street_rat-foil.png"
     },
     "name": "Aladdin",
     "ink-cost": 3,

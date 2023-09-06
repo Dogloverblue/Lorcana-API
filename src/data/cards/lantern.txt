@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/lantern/lantern-no-art.png",
       "large": "https://lorcana-api.com/images/lantern/lantern-large.png",
       "art-crop": "https://lorcana-api.com/images/lantern/lantern-art-crop.png",
-      "medium": "https://lorcana-api.com/images/lantern/lantern-medium.png"
+      "medium": "https://lorcana-api.com/images/lantern/lantern-medium.png",
+      "foil": "https://lorcana-api.com/images/lantern/lantern-foil.png"
     },
     "name": "Lantern",
     "ink-cost": 2,

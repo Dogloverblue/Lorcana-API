@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/maleficent/monstrous_dragon/maleficent-monstrous_dragon-no-art.png",
       "large": "https://lorcana-api.com/images/maleficent/monstrous_dragon/maleficent-monstrous_dragon-large.png",
       "art-crop": "https://lorcana-api.com/images/maleficent/monstrous_dragon/maleficent-monstrous_dragon-art-crop.png",
-      "medium": "https://lorcana-api.com/images/maleficent/monstrous_dragon/maleficent-monstrous_dragon-medium.png"
+      "medium": "https://lorcana-api.com/images/maleficent/monstrous_dragon/maleficent-monstrous_dragon-medium.png",
+      "foil": "https://lorcana-api.com/images/maleficent/monstrous_dragon/maleficent-monstrous_dragon-foil.png"
     },
     "name": "Maleficent",
     "ink-cost": 9,

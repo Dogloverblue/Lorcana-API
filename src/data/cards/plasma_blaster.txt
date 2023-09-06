@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/plasma_blaster/plasma_blaster-no-art.png",
       "large": "https://lorcana-api.com/images/plasma_blaster/plasma_blaster-large.png",
       "art-crop": "https://lorcana-api.com/images/plasma_blaster/plasma_blaster-art-crop.png",
-      "medium": "https://lorcana-api.com/images/plasma_blaster/plasma_blaster-medium.png"
+      "medium": "https://lorcana-api.com/images/plasma_blaster/plasma_blaster-medium.png",
+      "foil": "https://lorcana-api.com/images/plasma_blaster/plasma_blaster-foil.png"
     },
     "name": "Plasma Blaster",
     "ink-cost": 3,

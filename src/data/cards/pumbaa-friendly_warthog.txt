@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/pumbaa/friendly_warthog/pumbaa-friendly_warthog-no-art.png",
       "large": "https://lorcana-api.com/images/pumbaa/friendly_warthog/pumbaa-friendly_warthog-large.png",
       "art-crop": "https://lorcana-api.com/images/pumbaa/friendly_warthog/pumbaa-friendly_warthog-art-crop.png",
-      "medium": "https://lorcana-api.com/images/pumbaa/friendly_warthog/pumbaa-friendly_warthog-medium.png"
+      "medium": "https://lorcana-api.com/images/pumbaa/friendly_warthog/pumbaa-friendly_warthog-medium.png",
+      "foil": "https://lorcana-api.com/images/pumbaa/friendly_warthog/pumbaa-friendly_warthog-foil.png"
     },
     "name": "Pumbaa",
     "ink-cost": 4,

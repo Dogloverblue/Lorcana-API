@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/reflection/reflection-no-art.png",
       "large": "https://lorcana-api.com/images/reflection/reflection-large.png",
       "art-crop": "https://lorcana-api.com/images/reflection/reflection-art-crop.png",
-      "medium": "https://lorcana-api.com/images/reflection/reflection-medium.png"
+      "medium": "https://lorcana-api.com/images/reflection/reflection-medium.png",
+      "foil": "https://lorcana-api.com/images/reflection/reflection-foil.png"
     },
     "name": "Reflection",
     "ink-cost": 1,

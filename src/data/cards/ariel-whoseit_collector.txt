@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/ariel/whoseit_collector/ariel-whoseit_collector-no-art.png",
       "large": "https://lorcana-api.com/images/ariel/whoseit_collector/ariel-whoseit_collector-large.png",
       "art-crop": "https://lorcana-api.com/images/ariel/whoseit_collector/ariel-whoseit_collector-art-crop.png",
-      "medium": "https://lorcana-api.com/images/ariel/whoseit_collector/ariel-whoseit_collector-medium.png"
+      "medium": "https://lorcana-api.com/images/ariel/whoseit_collector/ariel-whoseit_collector-medium.png",
+      "foil": "https://lorcana-api.com/images/ariel/whoseit_collector/ariel-whoseit_collector-foil.png"
     },
     "name": "Ariel",
     "ink-cost": 4,

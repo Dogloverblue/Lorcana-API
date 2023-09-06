@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/megara/pulling_the_strings/megara-pulling_the_strings-no-art.png",
       "large": "https://lorcana-api.com/images/megara/pulling_the_strings/megara-pulling_the_strings-large.png",
       "art-crop": "https://lorcana-api.com/images/megara/pulling_the_strings/megara-pulling_the_strings-art-crop.png",
-      "medium": "https://lorcana-api.com/images/megara/pulling_the_strings/megara-pulling_the_strings-medium.png"
+      "medium": "https://lorcana-api.com/images/megara/pulling_the_strings/megara-pulling_the_strings-medium.png",
+      "foil": "https://lorcana-api.com/images/megara/pulling_the_strings/megara-pulling_the_strings-foil.png"
     },
     "name": "Megara",
     "ink-cost": 2,

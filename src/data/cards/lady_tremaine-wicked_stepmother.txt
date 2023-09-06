@@ -22,7 +22,8 @@
       "no-art": "https://lorcana-api.com/images/lady_tremaine/wicked_stepmother/lady_tremaine-wicked_stepmother-no-art.png",
       "large": "https://lorcana-api.com/images/lady_tremaine/wicked_stepmother/lady_tremaine-wicked_stepmother-large.png",
       "art-crop": "https://lorcana-api.com/images/lady_tremaine/wicked_stepmother/lady_tremaine-wicked_stepmother-art-crop.png",
-      "medium": "https://lorcana-api.com/images/lady_tremaine/wicked_stepmother/lady_tremaine-wicked_stepmother-medium.png"
+      "medium": "https://lorcana-api.com/images/lady_tremaine/wicked_stepmother/lady_tremaine-wicked_stepmother-medium.png",
+      "foil": "https://lorcana-api.com/images/lady_tremaine/wicked_stepmother/lady_tremaine-wicked_stepmother-foil.png"
     },
     "name": "Lady Tremaine",
     "ink-cost": 6,

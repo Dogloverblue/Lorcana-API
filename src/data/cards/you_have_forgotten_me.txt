@@ -14,7 +14,8 @@
       "no-art": "https://lorcana-api.com/images/you_have_forgotten_me/you_have_forgotten_me-no-art.png",
       "large": "https://lorcana-api.com/images/you_have_forgotten_me/you_have_forgotten_me-large.png",
       "art-crop": "https://lorcana-api.com/images/you_have_forgotten_me/you_have_forgotten_me-art-crop.png",
-      "medium": "https://lorcana-api.com/images/you_have_forgotten_me/you_have_forgotten_me-medium.png"
+      "medium": "https://lorcana-api.com/images/you_have_forgotten_me/you_have_forgotten_me-medium.png",
+      "foil": "https://lorcana-api.com/images/you_have_forgotten_me/you_have_forgotten_me-foil.png"
     },
     "name": "You Have Forgotten Me",
     "ink-cost": 4,

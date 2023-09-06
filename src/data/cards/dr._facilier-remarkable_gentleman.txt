@@ -23,7 +23,8 @@
       "no-art": "https://lorcana-api.com/images/dr._facilier/remarkable_gentleman/dr._facilier-remarkable_gentleman-no-art.png",
       "large": "https://lorcana-api.com/images/dr._facilier/remarkable_gentleman/dr._facilier-remarkable_gentleman-large.png",
       "art-crop": "https://lorcana-api.com/images/dr._facilier/remarkable_gentleman/dr._facilier-remarkable_gentleman-art-crop.png",
-      "medium": "https://lorcana-api.com/images/dr._facilier/remarkable_gentleman/dr._facilier-remarkable_gentleman-medium.png"
+      "medium": "https://lorcana-api.com/images/dr._facilier/remarkable_gentleman/dr._facilier-remarkable_gentleman-medium.png",
+      "foil": "https://lorcana-api.com/images/dr._facilier/remarkable_gentleman/dr._facilier-remarkable_gentleman-foil.png"
     },
     "name": "Dr. Facilier",
     "ink-cost": 3,
