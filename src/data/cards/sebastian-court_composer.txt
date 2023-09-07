@@ -25,7 +25,7 @@
       "medium": "https://lorcana-api.com/images/sebastion/court_composer/sebastion-court_composer-medium.png",
       "foil": "https://lorcana-api.com/images/sebastion/court_composer/sebastion-court_composer-foil.png"
     },
-    "name": "Sebastion",
+    "name": "Sebastian",
     "ink-cost": 2,
     "flavor-text": "I should be writing symphonies, not tagging along after some headstrong teenager.",
     "rarity": "Common"
