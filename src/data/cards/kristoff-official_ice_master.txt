@@ -1,0 +1,31 @@
+{
+    "traits": [],
+    "set": "The First Chapter",
+    "lore-value": 0,
+    "card-number": 182,
+    "color": "Steel",
+    "strength": 3,
+    "artist": "Ron Baird",
+    "willpower": 3,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Ally"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "body-text": "",
+    "subtitle": "Official Ice Master",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/kristoff/official_ice_master/kristoff-official_ice_master-small.png",
+      "no-art": "https://lorcana-api.com/images/kristoff/official_ice_master/kristoff-official_ice_master-no-art.png",
+      "large": "https://lorcana-api.com/images/kristoff/official_ice_master/kristoff-official_ice_master-large.png",
+      "art-crop": "https://lorcana-api.com/images/kristoff/official_ice_master/kristoff-official_ice_master-art-crop.png",
+      "medium": "https://lorcana-api.com/images/kristoff/official_ice_master/kristoff-official_ice_master-medium.png",
+      "foil": "https://lorcana-api.com/images/kristoff/official_ice_master/kristoff-official_ice_master-foil.png"
+    },
+    "name": "Kristoff",
+    "flavor-text": "Kristoff: \"You want to talk about a supply and demand problem? I sell ice for a living\" Anna: \"Ooh, that's a rough buisness to be in right now. I mean, that is really-ah, mm. That's unfortunate.\"",
+    "ink-cost": 3
+  }

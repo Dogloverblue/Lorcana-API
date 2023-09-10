@@ -19,5 +19,5 @@
     },
     "name": "The Beast Is Mine!",
     "ink-cost": 3,
-    "flavor-text": "\\\"It's only fitting that the finest hunter get the foulest beast!\\\" -Gatson"
+    "flavor-text": "\\\"It's only fitting that the finest hunter get the foulest beast!\\\" -Gaston"
   }
