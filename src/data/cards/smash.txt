@@ -19,5 +19,6 @@
     },
     "name": "Smash",
     "ink-cost": 3,
-    "flavor-text": "\\\"Go away!\\\""
+    "flavor-text": "\\\"Go away!\\\"",
+    "rarity": "Uncommon"
   }

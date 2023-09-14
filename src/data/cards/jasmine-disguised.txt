@@ -27,5 +27,6 @@
     },
     "name": "Jasmine",
     "flavor-text": "\\\"Try to understand. I've never done a thing on my own. I've never had any real friends.... I've never even been outside the palace walls.\\\"",
-    "ink-cost": 3
+    "ink-cost": 3,
+    "rarity": "Common"
   }

@@ -18,5 +18,6 @@
     },
     "name": "Develop Your Brain",
     "ink-cost": 1,
-    "flavor-text": "\"Knowledge, wisdom-there's the real power!\" -Merlin"
+    "flavor-text": "\"Knowledge, wisdom-there's the real power!\" -Merlin",
+    "rarity": "Common"
   }

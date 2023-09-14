@@ -27,5 +27,6 @@
     },
     "name": "Goons",
     "flavor-text": "They may seem useless, but they came with the castle.",
-    "ink-cost": 1
+    "ink-cost": 1,
+    "rarity": "Common"
   }

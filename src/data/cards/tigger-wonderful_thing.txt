@@ -27,5 +27,6 @@
     },
     "name": "Tigger",
     "flavor-text": "\\\"I'm the bounciest bouncer that ever bounced!\\\"",
-    "ink-cost": 6
+    "ink-cost": 6,
+    "rarity": "Uncommon"
   }

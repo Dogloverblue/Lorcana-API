@@ -31,5 +31,6 @@
     },
     "name": "Maurice",
     "flavor-text": "",
-    "ink-cost": 6
+    "ink-cost": 6,
+    "rarity": "Rare"
   }

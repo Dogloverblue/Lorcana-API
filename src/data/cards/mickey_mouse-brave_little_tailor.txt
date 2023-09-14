@@ -27,5 +27,6 @@
     },
     "name": "Mickey Mouse",
     "flavor-text": "When defeat looms and victory hangs by a thread, a hero bolts to the rescue, patching things up through shear determination.",
-    "ink-cost": 8
+    "ink-cost": 8,
+    "rarity": "Legendary"
   }

@@ -28,5 +28,6 @@
     },
     "name": "Jafar",
     "flavor-text": "\\\"Enough skulking about. It's time to show that sniveling sultan what a sorcerer can do.\\\"",
-    "ink-cost": 4
+    "ink-cost": 4,
+    "rarity": "Common"
   }

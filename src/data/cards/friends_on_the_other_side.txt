@@ -19,5 +19,6 @@
     },
     "name": "Friends On The Other Side",
     "ink-cost": 3,
-    "flavor-text": "The cards, the cards\\nthecards will tell..."
+    "flavor-text": "The cards, the cards\\nthecards will tell...",
+    "rarity": "Common"
   }

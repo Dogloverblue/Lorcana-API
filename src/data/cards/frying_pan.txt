@@ -19,5 +19,6 @@
     },
     "name": "Frying Pan",
     "ink-cost": 2,
-    "flavor-text": "It's a fine piece of cookware, but as a weapon it's truly stunning."
+    "flavor-text": "It's a fine piece of cookware, but as a weapon it's truly stunning.",
+    "rarity": "Uncommon"
   }

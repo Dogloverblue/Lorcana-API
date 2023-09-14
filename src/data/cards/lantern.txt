@@ -19,5 +19,6 @@
     },
     "name": "Lantern",
     "ink-cost": 2,
-    "flavor-text": "Lanterns fill the sky on one special night, beacons of hope and love"
+    "flavor-text": "Lanterns fill the sky on one special night, beacons of hope and love",
+    "rarity": "Rare"
   }

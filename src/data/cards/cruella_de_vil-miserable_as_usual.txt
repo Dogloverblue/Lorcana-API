@@ -27,5 +27,6 @@
     },
     "name": "Cruella De Vil",
     "flavor-text": "When she stops by, misery is company.",
-    "ink-cost": 2
+    "ink-cost": 2,
+    "rarity": "Rare"
   }

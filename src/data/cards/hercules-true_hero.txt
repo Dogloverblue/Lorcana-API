@@ -28,5 +28,6 @@
     },
     "name": "Hercules",
     "flavor-text": "\\\"You gotta admit, that was pretty heroic.\\\"",
-    "ink-cost": 3
+    "ink-cost": 3,
+    "rarity": "Common"
   }

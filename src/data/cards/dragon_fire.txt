@@ -18,5 +18,6 @@
     },
     "name": "Dragon Fire",
     "ink-cost": 5,
-    "flavor-text": ""
+    "flavor-text": "",
+    "rarity": "Uncommon"
   }

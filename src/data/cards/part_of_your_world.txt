@@ -18,5 +18,6 @@
     },
     "name": "Part Of Your World",
     "ink-cost": 3,
-    "flavor-text": "What would I give if I could live out of these waters?"
+    "flavor-text": "What would I give if I could live out of these waters?",
+    "rarity": "Rare"
   }

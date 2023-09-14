@@ -29,5 +29,6 @@
     },
     "name": "Belle",
     "flavor-text": "A little ingenuity and a lot of heart will take you far in this world.",
-    "ink-cost": 3
+    "ink-cost": 3,
+    "rarity": "Uncommon"
   }

@@ -27,5 +27,6 @@
     },
     "name": "Lefou",
     "flavor-text": "You need a good today to be a proper bad guy",
-    "ink-cost": 2
+    "ink-cost": 2,
+    "rarity": "Uncommon"
   }

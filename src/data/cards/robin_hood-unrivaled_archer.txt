@@ -30,5 +30,6 @@
     },
     "name": "Robin Hood",
     "flavor-text": "\"We never rob. We just sort of borrow a bit from those who can afford it.\"",
-    "ink-cost": 6
+    "ink-cost": 6,
+    "rarity": "Super Rare"
   }

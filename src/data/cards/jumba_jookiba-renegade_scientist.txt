@@ -28,5 +28,6 @@
     },
     "name": "Jumba Jookiba",
     "flavor-text": "\"Created something? Ha! But that would be irresponsible and unethical. I would never, ever make more than one.\"",
-    "ink-cost": 5
+    "ink-cost": 5,
+    "rarity": "Uncommon"
   }

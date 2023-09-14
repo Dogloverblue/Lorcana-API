@@ -18,5 +18,6 @@
     },
     "name": "Fire The Cannons!",
     "ink-cost": 1,
-    "flavor-text": "Captain Hook: \"Double the powder and shorten the fuse!\" Mr. Smee: \"Shorten the powder and double the fuse!\""
+    "flavor-text": "Captain Hook: \"Double the powder and shorten the fuse!\" Mr. Smee: \"Shorten the powder and double the fuse!\"",
+    "rarity": "Common"
   }

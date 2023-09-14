@@ -18,5 +18,6 @@
     },
     "name": "Control Your Temper!",
     "ink-cost": 1,
-    "flavor-text": ""
+    "flavor-text": "",
+    "rarity": "Common"
   }

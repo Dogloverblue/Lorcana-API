@@ -18,5 +18,6 @@
     },
     "name": "One Jump Ahead",
     "ink-cost": 2,
-    "flavor-text": "Gotta eat to live, gotta steal to eat- Tell you all about it when I got the time"
+    "flavor-text": "Gotta eat to live, gotta steal to eat- Tell you all about it when I got the time",
+    "rarity": "Uncommon"
   }

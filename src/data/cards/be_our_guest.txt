@@ -19,5 +19,6 @@
     },
     "name": "Be Our Guest",
     "ink-cost": 2,
-    "flavor-text": ""
+    "flavor-text": "",
+    "rarity": "Uncommon"
   }

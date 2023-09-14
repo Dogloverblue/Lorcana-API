@@ -19,5 +19,6 @@
     },
     "name": "Dinglehopper",
     "ink-cost": 1,
-    "flavor-text": "Enjoy the finest of human hairstyles!"
+    "flavor-text": "Enjoy the finest of human hairstyles!",
+    "rarity": "Common"
   }

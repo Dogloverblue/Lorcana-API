@@ -27,5 +27,6 @@
     },
     "name": "Flounder",
     "flavor-text": "\"Excitment... adventure... danger lurking around ever cor- AAAAAGGH!\"",
-    "ink-cost": 1
+    "ink-cost": 1,
+    "rarity": "Common"
   }

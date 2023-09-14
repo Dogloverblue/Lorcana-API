@@ -28,5 +28,6 @@
     },
     "name": "Stitch",
     "flavor-text": "The best part about a beachside concert is that there's always room for one more.",
-    "ink-cost": 6
+    "ink-cost": 6,
+    "rarity": "Super Rare"
   }

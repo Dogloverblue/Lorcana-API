@@ -28,5 +28,6 @@
     },
     "name": "Gantu",
     "flavor-text": "Relax, enjoy the trip... and don't get any ideas!",
-    "ink-cost": 8
+    "ink-cost": 8,
+    "rarity": "Legendary"
   }

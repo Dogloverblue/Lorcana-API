@@ -27,5 +27,6 @@
     },
     "name": "Heihei",
     "flavor-text": "\\\"Sometimes, our strengths lie beneath the surface. Far beneath, in some cases...\\\" -Moana",
-    "ink-cost": 1
+    "ink-cost": 1,
+    "rarity": "Common"
   }

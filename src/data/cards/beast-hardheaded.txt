@@ -28,5 +28,6 @@
     },
     "name": "Beast",
     "flavor-text": "",
-    "ink-cost": 5
+    "ink-cost": 5,
+    "rarity": "Uncommon"
   }

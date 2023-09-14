@@ -27,5 +27,6 @@
     },
     "name": "Aladdin",
     "flavor-text": "",
-    "ink-cost": 7
+    "ink-cost": 7,
+    "rarity": "Super Rare"
   }

@@ -27,5 +27,6 @@
     },
     "name": "Goofy",
     "flavor-text": "Sometimes you gotta give it the ol' jump and hyuck.",
-    "ink-cost": 5
+    "ink-cost": 5,
+    "rarity": "Common"
   }

@@ -14,9 +14,9 @@
       "Princess"
     ],
     "set-code": "TFC",
-    "abilities": {"Lead By Example": "During your turn, whenever this character banishes another character in a challenge, your other characters get +1? this turn."},
+    "abilities": {"Lead By Example": "During your turn, whenever this character banishes another character in a challenge, your other characters get +1{lore} this turn."},
     "inkable": true,
-    "body-text": "LEAD BY EXAMPLE: During your turn, whenever this character banishes another character in a challenge, your other characters get +1? this turn.",
+    "body-text": "LEAD BY EXAMPLE: During your turn, whenever this character banishes another character in a challenge, your other characters get +1{lore} this turn.",
     "subtitle": "Imperial Soldier",
     "image-urls": {
       "small": "https://lorcana-api.com/images/mulan/imperial_soldier/mulan-imperial_soldier-small.png",
@@ -28,5 +28,6 @@
     },
     "name": "Mulan",
     "flavor-text": "",
-    "ink-cost": 5
+    "ink-cost": 5,
+    "rarity": "Super Rare"
   }

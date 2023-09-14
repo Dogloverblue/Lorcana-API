@@ -27,5 +27,6 @@
     },
     "name": "Scar",
     "flavor-text": "\\\"The best plans involve a little danger. Just not for me.\\\"",
-    "ink-cost": 6
+    "ink-cost": 6,
+    "rarity": "Rare"
   }

@@ -27,5 +27,6 @@
     },
     "name": "Minnie Mouse",
     "flavor-text": "Wherever the princess goes, her musketeers are... well, they're around somewhere, probably.",
-    "ink-cost": 2
+    "ink-cost": 2,
+    "rarity": "Common"
   }

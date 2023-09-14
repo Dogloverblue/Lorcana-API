@@ -24,5 +24,6 @@
     },
     "name": "Donald Duck",
     "flavor-text": "\\\"Who you callin' boisterous, buster?\\\"",
-    "ink-cost": 2
+    "ink-cost": 2,
+    "rarity": "Uncommon"
   }

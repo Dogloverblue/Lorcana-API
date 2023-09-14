@@ -28,5 +28,6 @@
     },
     "name": "Aurora",
     "flavor-text": "\\\"They say if you dream a thing more than once, it's sure to come true\\\"",
-    "ink-cost": 2
+    "ink-cost": 2,
+    "rarity": "Uncommon"
   }

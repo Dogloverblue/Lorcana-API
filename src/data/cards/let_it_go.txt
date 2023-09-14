@@ -18,5 +18,6 @@
     },
     "name": "Let It Go",
     "ink-cost": 5,
-    "flavor-text": "It's time to see what I can do \nTo test the limits and break through"
+    "flavor-text": "It's time to see what I can do \nTo test the limits and break through",
+    "rarity": "Rare"
   }

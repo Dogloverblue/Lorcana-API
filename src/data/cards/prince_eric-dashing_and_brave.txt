@@ -28,5 +28,6 @@
     },
     "name": "Prince Eric",
     "flavor-text": "\\\"I lost her once! I'm not gonna lose her again!\\\"",
-    "ink-cost": 2
+    "ink-cost": 2,
+    "rarity": "Common"
   }

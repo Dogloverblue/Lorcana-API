@@ -28,5 +28,6 @@
     },
     "name": "Ariel",
     "flavor-text": "\\\"...\\\"",
-    "ink-cost": 4
+    "ink-cost": 4,
+    "rarity": "Uncommon"
   }

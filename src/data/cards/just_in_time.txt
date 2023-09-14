@@ -18,5 +18,6 @@
     },
     "name": "Just In Time",
     "ink-cost": 3,
-    "flavor-text": "The best heroes always arrive at the perfect moment-whether they know it or not."
+    "flavor-text": "The best heroes always arrive at the perfect moment-whether they know it or not.",
+    "rarity": "Rare"
   }
