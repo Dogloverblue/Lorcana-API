@@ -32,6 +32,7 @@ public class StrictHandler implements HttpHandler {
 	JSONArray jsonToReturn = new JSONArray();
 	String[] args = cardName.split(";");
 	System.out.println("Strict response made of size " + args.length + "; it was Strict request number " + StrictRequestCount );
+	System.err.println("[err]Strict response made of size " + args.length + "; it was Strict request number " + StrictRequestCount );
 	 if (args.length > 1000) {
 		response = new ErrorJSONObject("request_too_large", 413, "That request is too large! You can only request up to 1000 requests per request").toString();
 	}
