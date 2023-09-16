@@ -31,11 +31,11 @@ public class SearchHandler implements HttpHandler {
 
 	@Override
 	public void handle(HttpExchange exchange) throws IOException {
-		System.out.println("Fuzzy response made; it was fuzzy request number " + SearchRequestCount);
+		System.out.println("Search response made; it was search request number " + SearchRequestCount);
 		exchange.getResponseHeaders().set("Content-Type", String.format("application/json; charset=%s", StandardCharsets.UTF_8));
         
 		this.queryToMap(exchange.getRequestURI().toString());
-		ArrayList<String> passedCards = new ArrayList<>();
+		JSONArray passedCards = new JSONArray();
 		
 		for (String key: data.keySet()) {
 			try {
@@ -78,7 +78,13 @@ public class SearchHandler implements HttpHandler {
 				}
 			}
 			if (passed == true) {
-				passedCards.add(key);
+				if (exchange.getRequestURI().toString().toLowerCase().contains("displaydetails=true")) {
+					System.out.println("readlll");
+					passedCards.put(jsonO);
+				} else {
+					System.out.println(exchange.getRequestURI().toString());
+					passedCards.put(key);
+				}
 			}
 			} catch (JSONException e) {
 			}
@@ -86,9 +92,8 @@ public class SearchHandler implements HttpHandler {
 		}
 		
 		 OutputStream os = exchange.getResponseBody();
-		 JSONArray ar = new JSONArray(passedCards);
-		 exchange.sendResponseHeaders(200, ar.toString().length());
-         os.write(ar.toString().getBytes());
+		 exchange.sendResponseHeaders(200, passedCards.toString().length());
+         os.write(passedCards.toString().getBytes());
          os.close();
 		
 	}
@@ -102,7 +107,10 @@ public class SearchHandler implements HttpHandler {
 	    containsParams.clear();
 	    query = query.substring(query.indexOf("?") + 1, query.length());
 	    for (String param : query.split("&")) {
-
+	    	if (param.toLowerCase().contains("displaydetails")) {
+	    		System.out.println(":read");
+	    		continue;
+	    	}
 	    	if(param.contains("~")) {
 	    		String pair[] = param.split("~");
 
