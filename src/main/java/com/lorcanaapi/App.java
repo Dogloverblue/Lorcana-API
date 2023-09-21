@@ -16,6 +16,8 @@ import com.lorcanaapi.handlers.FuzzyHandler;
 import com.lorcanaapi.handlers.JSONHandler;
 import com.lorcanaapi.handlers.SearchHandler;
 import com.lorcanaapi.handlers.StrictHandler;
+import com.lorcanaapi.handlers.TESTFuzzyHander2;
+import com.lorcanaapi.handlers.TESTFuzzyHandler;
 import com.lorcanaapi.handlers.TextHandler;
 import com.sun.net.httpserver.HttpServer;
 
@@ -27,7 +29,7 @@ public class App {
 	static HashMap<String, String> data;
     public static void main(String[] args) throws Exception {
         Integer port = Integer.parseInt(
-          Optional.ofNullable(System.getenv("PORT")).orElse("8080")//d
+          Optional.ofNullable(System.getenv("PORT")).orElse("8080")
         );
         server = HttpServer.create(new InetSocketAddress(port), 0);
         server.createContext("/", new TextHandler("That's not a card! To learn the proper syntax, go to https://lorcana-api.com"));
@@ -61,6 +63,8 @@ public static void doMainSetupStuff() {
 	try {
 
 		server.createContext("/fuzzy/", new FuzzyHandler(data));
+		server.createContext("/fuzzytest1/", new TESTFuzzyHandler(data));
+		server.createContext("/fuzzytest2/", new TESTFuzzyHander2(data));
 		server.createContext("/strict/", new StrictHandler());
 		server.createContext("/search", new SearchHandler(data));
 		 System.out.println(dir.exists());
