@@ -16,8 +16,6 @@ import com.lorcanaapi.handlers.FuzzyHandler;
 import com.lorcanaapi.handlers.JSONHandler;
 import com.lorcanaapi.handlers.SearchHandler;
 import com.lorcanaapi.handlers.StrictHandler;
-import com.lorcanaapi.handlers.TESTFuzzyHander2;
-import com.lorcanaapi.handlers.TESTFuzzyHandler;
 import com.lorcanaapi.handlers.TextHandler;
 import com.sun.net.httpserver.HttpServer;
 
@@ -63,8 +61,6 @@ public static void doMainSetupStuff() {
 	try {
 
 		server.createContext("/fuzzy/", new FuzzyHandler(data));
-		server.createContext("/fuzzytest1/", new TESTFuzzyHandler(data));
-		server.createContext("/fuzzytest2/", new TESTFuzzyHander2(data));
 		server.createContext("/strict/", new StrictHandler());
 		server.createContext("/search", new SearchHandler(data));
 		 System.out.println(dir.exists());
