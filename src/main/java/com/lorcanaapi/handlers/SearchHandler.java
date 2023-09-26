@@ -31,7 +31,8 @@ public class SearchHandler implements HttpHandler {
 
 	@Override
 	public void handle(HttpExchange exchange) throws IOException {
-		System.out.println("Search response made; it was search request number " + SearchRequestCount);
+//		System.out.println("Search response made; it was search request number " + SearchRequestCount);
+		TrackingHandler.SearchRequestCount++;
 		exchange.getResponseHeaders().set("Content-Type", String.format("application/json; charset=%s", StandardCharsets.UTF_8));
         
 		this.queryToMap(exchange.getRequestURI().toString());

@@ -28,6 +28,7 @@ public class StrictHandler implements HttpHandler {
     		setupNames();
     	}
 	StrictRequestCount++;
+    	TrackingHandler.StrictRequestCount++;
 	String cardName = t.getRequestURI().toString().replace("/strict/", "");
 	JSONArray jsonToReturn = new JSONArray();
 	String[] args = cardName.split(";");

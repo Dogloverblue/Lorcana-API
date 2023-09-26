@@ -17,6 +17,7 @@ import com.lorcanaapi.handlers.JSONHandler;
 import com.lorcanaapi.handlers.SearchHandler;
 import com.lorcanaapi.handlers.StrictHandler;
 import com.lorcanaapi.handlers.TextHandler;
+import com.lorcanaapi.handlers.TrackingHandler;
 import com.sun.net.httpserver.HttpServer;
 
 
@@ -31,6 +32,7 @@ public class App {
         );
         server = HttpServer.create(new InetSocketAddress(port), 0);
         server.createContext("/", new TextHandler("That's not a card! To learn the proper syntax, go to https://lorcana-api.com"));
+        server.createContext("/tracking", new TrackingHandler());
         doMainSetupStuff();
 	   
         server.setExecutor(null);

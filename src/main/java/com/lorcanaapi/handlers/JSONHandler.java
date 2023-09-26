@@ -14,6 +14,7 @@ public class JSONHandler implements HttpHandler {
     public void handle(HttpExchange t) throws IOException {
 	System.out.println("Json response made; it was Json request number " + JSONRequestCount );
 	JSONRequestCount++;
+	TrackingHandler.JSONRequestCount++;
     t.getResponseHeaders().set("Content-Type", String.format("application/json; charset=%s", StandardCharsets.UTF_8));
         t.sendResponseHeaders(200, response.length());
   
