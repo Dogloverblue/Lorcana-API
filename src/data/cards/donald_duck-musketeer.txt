@@ -27,7 +27,7 @@
       "foil": "https://lorcana-api.com/images/donald_duck/musketeer/donald_duck-musketeer-foil.png"
     },
     "name": "Donald Duck",
-    "ink-cost": 0,
+    "ink-cost": 4,
     "flavor-text": "",
     "rarity": "Uncommon"
   }
