@@ -5,9 +5,9 @@
     "artist": "Jenna Gray",
     "type": "Item",
     "set-code": "TFC",
-    "abilities": {"Now, Sing!": "Whenever you play a song, you may pay 1 {ink} to draw a card."},
+    "abilities": {"Now, Sing!": "Whenever you play a song, you may pay 1{ink} to draw a card."},
     "inkable": false,
-    "body-text": "NOW, SING!: Whenever you play a song, you may pay 1 {ink} to draw a card.",
+    "body-text": "NOW, SING!: Whenever you play a song, you may pay 1{ink} to draw a card.",
     "effect": "",
     "image-urls": {
       "small": "https://lorcana-api.com/images/ursula's_shell_necklace/ursula's_shell_necklace-small.png",
@@ -19,6 +19,6 @@
     },
     "name": "Ursula's Shell Necklace",
     "ink-cost": 3,
-    "flavor-text": "\"Singing is a lovely pastime... if you've got the voice for it.\" \\n - Ursula",
+    "flavor-text": "\"Singing is a lovely pastime... if you've got the voice for it.\"\\n- Ursula",
     "rarity": "Rare"
   }

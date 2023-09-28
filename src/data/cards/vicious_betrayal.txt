@@ -7,8 +7,8 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
-    "body-text": "Chosen character gets +2 {strength} this turn. If a villain character is chosen, they get +3 {strength} instead.",
-    "effect": "Chosen character gets +2 {strength} this turn. If a villain character is chosen, they get +3 {strength} instead.",
+    "body-text": "Chosen character gets +2{strength} this turn. If a villain character is chosen, they get +3{strength} instead.",
+    "effect": "Chosen character gets +2{strength} this turn. If a villain character is chosen, they get +3{strength} instead.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/vicious_betrayal/vicious_betrayal-small.png",
       "no-art": "https://lorcana-api.com/images/vicious_betrayal/vicious_betrayal-no-art.png",
@@ -19,6 +19,6 @@
     },
     "name": "Vicious Betrayal",
     "ink-cost": 1,
-    "flavor-text": "\"A true king takes matters into his own claws.\"\\n - Scar",
+    "flavor-text": "\"A true king takes matters into his own claws.\"\\n- Scar",
     "rarity": "Common"
   }

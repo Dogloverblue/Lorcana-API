@@ -1,7 +1,9 @@
 {
-    "traits": [],
+    "traits": [
+      "Evasive"
+    ],
     "set": "The First Chapter",
-    "lore-value": 0,
+    "lore-value": 2,
     "card-number": 111,
     "color": "Ruby",
     "strength": 3,
@@ -15,7 +17,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
-    "body-text": "",
+    "body-text": "Evasive (Only characters with Evasive can challenge this character.)",
     "subtitle": "Daredevil",
     "image-urls": {
       "small": "https://lorcana-api.com/images/goofy/daredevil/goofy-daredevil-small.png",

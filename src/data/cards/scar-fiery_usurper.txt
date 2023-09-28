@@ -1,9 +1,6 @@
 {
     "lore-value": 1,
-    "traits": [
-      "",
-      ""
-    ],
+    "traits": [],
     "set": "The First Chapter",
     "card-number": 122,
     "color": "Ruby",
@@ -18,7 +15,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
-    "body-text": " null \n null ",
+    "body-text": "",
     "subtitle": "Fiery Usurper",
     "image-urls": {
       "small": "https://lorcana-api.com/images/scar/fiery_usurper/scar-fiery_usurper-small.png",

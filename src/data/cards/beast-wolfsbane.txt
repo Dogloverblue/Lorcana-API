@@ -16,7 +16,7 @@
     "set-code": "TFC",
     "abilities": {"Roar": "When you play this character, exert all opposing damaged characters."},
     "inkable": false,
-    "body-text": "Rush (This character can challenge the turn they're played.) \nROAR: When you play this character, exert all opposing damaged characters.",
+    "body-text": "Rush (This character can challenge the turn they're played.)\\nROAR: When you play this character, exert all opposing damaged characters.",
     "subtitle": "Wolfsbane",
     "image-urls": {
       "small": "https://lorcana-api.com/images/beast/wolfsbane/beast-wolfsbane-small.png",

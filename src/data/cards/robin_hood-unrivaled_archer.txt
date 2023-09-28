@@ -14,11 +14,11 @@
     ],
     "set-code": "TFC",
     "abilities": {
-      "Good Shot": "During your turn, this character has Evasive. (They can challenge characters with Evasive.)",
       "Feed The Poor": "When you play this character, if an opponent has more cards in their hand than you, draw a card."
+      "Good Shot": "During your turn, this character has Evasive. (They can challenge characters with Evasive.)"
     },
     "inkable": true,
-    "body-text": "GOOD SHOT: During your turn, this character has Evasive. (They can challenge characters with Evasive.)\nFEED THE POOR: When you play this character, if an opponent has more cards in their hand than you, draw a card.",
+    "body-text": "FEED THE POOR: When you play this character, if an opponent has more cards in their hand than you, draw a card.\\nGOOD SHOT: During your turn, this character has Evasive. (They can challenge characters with Evasive.)",
     "subtitle": "Unrivaled Archer",
     "image-urls": {
       "small": "https://lorcana-api.com/images/robin_hood/unrivaled_archer/robin_hood-unrivaled_archer-small.png",

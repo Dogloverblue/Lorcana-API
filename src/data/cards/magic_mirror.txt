@@ -17,6 +17,6 @@
     },
     "name": "Magic Mirror",
     "ink-cost": 2,
-    "flavor-text": "\\\"What wouldst thou know, my Queen?\\\"",
+    "flavor-text": "\"What wouldst thou know, my Queen?\"",
     "rarity": "Rare"
   }

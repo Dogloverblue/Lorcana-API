@@ -1,7 +1,7 @@
 {
     "lore-value": 2,
     "traits": [
-      "Challenger",
+      "Challenger 4",
       "Evasive"
     ],
     "set": "The First Chapter",
@@ -17,9 +17,9 @@
       "King"
     ],
     "set-code": "TFC",
-    "abilities": {"Pounce": "During your turn, this character gains Evasive."},
+    "abilities": {"Pounce": "During your turn, this character gains Evasive. (They can challenge characters with Evasive.)"},
     "inkable": true,
-    "body-text": "Challenger When challenging, this character get +%v%{strength}.) \nEvasive (Only characters with Evasive can challenge this character.) \nPOUNCE: During your turn, this character gains Evasive.",
+    "body-text": "Challenger +4 (While challenging, this character get +4{strength}.)\\nPOUNCE: During your turn, this character gains Evasive. (They can challenge characters with Evasive.)",
     "subtitle": "Returned King",
     "image-urls": {
       "small": "https://lorcana-api.com/images/simba/returned_king/simba-returned_king-small.png",

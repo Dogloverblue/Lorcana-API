@@ -7,8 +7,8 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
-    "body-text": "Draw 2 Cards",
-    "effect": "Draw 2 Cards",
+    "body-text": "(A character with cost 3 or more can {t} to sing this song for free.)\\nDraw 2 cards.",
+    "effect": "Draw 2 cards.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/friends_on_the_other_side/friends_on_the_other_side-small.png",
       "no-art": "https://lorcana-api.com/images/friends_on_the_other_side/friends_on_the_other_side-no-art.png",

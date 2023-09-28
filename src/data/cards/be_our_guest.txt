@@ -7,7 +7,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
-    "body-text": "Look at the top 4 cards of your deck. You may reveal a character card and put it into your hand. Put the rest on the bottom of your deck in any order.",
+    "body-text": "(A character with cost 2 or more can {t} to sing this song for free.)\\nLook at the top 4 cards of your deck. You may reveal a character card and put it into your hand. Put the rest on the bottom of your deck in any order.",
     "effect": "Look at the top 4 cards of your deck. You may reveal a character card and put it into your hand. Put the rest on the bottom of your deck in any order.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/be_our_guest/be_our_guest-small.png",

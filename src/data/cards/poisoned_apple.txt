@@ -5,9 +5,9 @@
     "artist": "Andrew Trabbold",
     "type": "Item",
     "set-code": "TFC",
-    "abilities": {"Take A Bite...": "1{ink}, Banish this item - Excert chosen character. If a princess character is chosen, banish her instead."},
+    "abilities": {"Take A Bite...": "1{ink}, Banish this item - Exert chosen character. If a Princess character is chosen, banish her instead."},
     "inkable": false,
-    "body-text": "TAKE A BITE...: 1{ink}, Banish this item - Excert chosen character. If a princess character is chosen, banish her instead.",
+    "body-text": "TAKE A BITE...: 1{ink}, Banish this item - Exert chosen character. If a Princess character is chosen, banish her instead.",
     "effect": "",
     "image-urls": {
       "small": "https://lorcana-api.com/images/poisoned_apple/poisoned_apple-small.png",
@@ -19,6 +19,6 @@
     },
     "name": "Poisoned Apple",
     "ink-cost": 3,
-    "flavor-text": "\"One taste of the poisoned apple, and the victim's eyes will close forever....\" -The Queen",
+    "flavor-text": "\"One taste of the poisoned apple, and the victim's eyes will close forever....\"\\n- The Queen",
     "rarity": "Rare"
   }

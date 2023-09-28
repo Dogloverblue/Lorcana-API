@@ -15,9 +15,9 @@
       "Inventor"
     ],
     "set-code": "TFC",
-    "abilities": {"Tinker": "Whenever this character quests, you pay 1? less for the next item you play this turn."},
+    "abilities": {"Tinker": "Whenever this character quests, you pay 1{ink} less for the next item you play this turn."},
     "inkable": true,
-    "body-text": "TINKER: Whenever this character quests, you pay 1? less for the next item you play this turn.",
+    "body-text": "TINKER: Whenever this character quests, you pay 1{ink} less for the next item you play this turn.",
     "subtitle": "Inventive Engineer",
     "image-urls": {
       "small": "https://lorcana-api.com/images/belle/inventive_engineer/belle-inventive_engineer-small.png",

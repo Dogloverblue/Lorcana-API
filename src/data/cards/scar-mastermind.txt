@@ -1,7 +1,7 @@
 {
     "traits": [],
     "set": "The First Chapter",
-    "lore-value": 0,
+    "lore-value": 2,
     "card-number": 158,
     "color": "Sapphire",
     "strength": 5,
@@ -13,9 +13,9 @@
       "Villain"
     ],
     "set-code": "TFC",
-    "abilities": {"Insidious Plot": "When you play this character, chosen opposing character gets -5? this turn."},
+    "abilities": {"Insidious Plot": "When you play this character, chosen opposing character gets -5{strength} this turn."},
     "inkable": true,
-    "body-text": "INSIDIOUS PLOT: When you play this character, chosen opposing character gets -5? this turn.",
+    "body-text": "INSIDIOUS PLOT: When you play this character, chosen opposing character gets -5{strength} this turn.",
     "subtitle": "Mastermind",
     "image-urls": {
       "small": "https://lorcana-api.com/images/scar/mastermind/scar-mastermind-small.png",
@@ -26,7 +26,7 @@
       "foil": "https://lorcana-api.com/images/scar/mastermind/scar-mastermind-foil.png"
     },
     "name": "Scar",
-    "flavor-text": "\\\"The best plans involve a little danger. Just not for me.\\\"",
+    "flavor-text": "\"The best plans involve a little danger. Just not for me.\"",
     "ink-cost": 6,
     "rarity": "Rare"
-  }
+  }a

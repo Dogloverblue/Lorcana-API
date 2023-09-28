@@ -17,7 +17,7 @@
     "set-code": "TFC",
     "abilities": {"You Coward!": "While this character is exerted, opposing characters with Evasive gain Reckless"},
     "inkable": false,
-    "body-text": "Rush (This character can challenge the turn they're played.) \nYOU COWARD!: While this character is exerted, opposing characters with Evasive gain Reckless",
+    "body-text": "Rush (This character can challenge the turn they're played.)\\nYOU COWARD!: While this character is exerted, opposing characters with Evasive gain Reckless",
     "subtitle": "Ruthless Pirate",
     "image-urls": {
       "small": "https://lorcana-api.com/images/captain_hook/ruthless_pirate/captain_hook-ruthless_pirate-small.png",

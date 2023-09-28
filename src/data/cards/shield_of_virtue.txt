@@ -5,9 +5,9 @@
     "artist": "Eri Welli",
     "type": "Item",
     "set-code": "TFC",
-    "abilities": {"Fireproof": "{t}, 3{ink} - Read chosen character. They can't quest for the rest of this turn."},
+    "abilities": {"Fireproof": "{t}, 3{ink} - Ready chosen character. They can't quest for the rest of this turn."},
     "inkable": true,
-    "body-text": "FIREPROOF: {t}, 3{ink} - Read chosen character. They can't quest for the rest of this turn.",
+    "body-text": "FIREPROOF: {t}, 3{ink} - Ready chosen character. They can't quest for the rest of this turn.",
     "effect": "",
     "image-urls": {
       "small": "https://lorcana-api.com/images/shield_of_virtue/shield_of_virtue-small.png",
