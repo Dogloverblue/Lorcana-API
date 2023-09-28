@@ -6,8 +6,8 @@
     "type": "Action - Song",
     "set-code": "TFC",
     "inkable": false,
-    "body-text": "Put the top card of your deck into your inkwell facedown and exerted",
-    "effect": "Put the top card of your deck into your inkwell facedown and exerted",
+    "body-text": "(A character with cost 2 or more can {t} to sing this song for free.)\nPut the top card of your deck into your inkwell facedown and exerted.",
+    "effect": "Put the top card of your deck into your inkwell facedown and exerted.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/one_jump_ahead/one_jump_ahead-small.png",
       "no-art": "https://lorcana-api.com/images/one_jump_ahead/one_jump_ahead-no-art.png",
@@ -18,6 +18,6 @@
     },
     "name": "One Jump Ahead",
     "ink-cost": 2,
-    "flavor-text": "Gotta eat to live, gotta steal to eat- Tell you all about it when I got the time",
+    "flavor-text": "Gotta eat to live, gotta steal to eat-\nTell you all about it when I got the time",
     "rarity": "Uncommon"
   }

@@ -7,8 +7,8 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": false,
-    "body-text": "Dead 2 damage to each opposing character.",
-    "effect": "Dead 2 damage to each opposing character.",
+    "body-text": "(A character with cost 5 or more can {t} to sing this song for free.)\nDeal 2 damage to each opposing character.",
+    "effect": "Deal 2 damage to each opposing character.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/grab_your_sword/grab_your_sword-small.png",
       "no-art": "https://lorcana-api.com/images/grab_your_sword/grab_your_sword-no-art.png",
@@ -19,6 +19,6 @@
     },
     "name": "Grab Your Sword",
     "ink-cost": 5,
-    "flavor-text": "We don't like\\nWhat we don't understand\\nIn fact, it scares us",
+    "flavor-text": "We don't like\nWhat we don't understand\nIn fact, it scares us",
     "rarity": "Rare"
   }

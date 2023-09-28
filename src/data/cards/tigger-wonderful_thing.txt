@@ -1,7 +1,7 @@
 {
-    "traits": ["Evasive (Only characters with Evasive can challenge this character.)"],
+    "traits": ["Evasive"],
     "set": "The First Chapter",
-    "lore-value": 0,
+    "lore-value": 2,
     "card-number": 127,
     "color": "Ruby",
     "strength": 4,
@@ -15,7 +15,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
-    "body-text": "Evasive (Only characters with Evasive can challenge this character.) (Only characters with Evasive can challenge this character.) ",
+    "body-text": "Evasive (Only characters with Evasive can challenge this character.)",
     "subtitle": "Wonderful Thing",
     "image-urls": {
       "small": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-small.png",
@@ -26,7 +26,7 @@
       "foil": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-foil.png"
     },
     "name": "Tigger",
-    "flavor-text": "\\\"I'm the bounciest bouncer that ever bounced!\\\"",
+    "flavor-text": "\"I'm the bounciest bouncer that ever bounced!\"",
     "ink-cost": 6,
     "rarity": "Uncommon"
   }

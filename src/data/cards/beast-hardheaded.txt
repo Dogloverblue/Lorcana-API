@@ -14,9 +14,9 @@
       "Prince"
     ],
     "set-code": "TFC",
-    "abilities": {"Break": "When you play this character, you may banish chosen item"},
+    "abilities": {"Break": "When you play this character, you may banish chosen item card."},
     "inkable": true,
-    "body-text": "BREAK: When you play this character, you may banish chosen item",
+    "body-text": "BREAK: When you play this character, you may banish chosen item card.",
     "subtitle": "Hardheaded",
     "image-urls": {
       "small": "https://lorcana-api.com/images/beast/hardheaded/beast-hardheaded-small.png",
@@ -27,7 +27,7 @@
       "foil": "https://lorcana-api.com/images/beast/hardheaded/beast-hardheaded-foil.png"
     },
     "name": "Beast",
-    "flavor-text": "",
+    "flavor-text": "\""She will never se me as anything... but a monster"\"",
     "ink-cost": 5,
     "rarity": "Uncommon"
   }

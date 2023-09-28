@@ -19,6 +19,6 @@
     },
     "name": "Do It Again!",
     "ink-cost": 3,
-    "flavor-text": "\"...Then scrub the terrace, sweep the halls and the stairs, clean the chimneys. And of course there's the mending, and the sewing, and the laundry...\"\\n - Lady Tremaine",
+    "flavor-text": "\"...Then scrub the terrace, sweep the halls and the stairs, clean the chimneys. And of course there's the mending, and the sewing, and the laundry...\"\n- Lady Tremaine",
     "rarity": "Rare"
   }

@@ -23,7 +23,7 @@
       "foil": "https://lorcana-api.com/images/donald_duck/boisterous_fowl/donald_duck-boisterous_fowl-foil.png"
     },
     "name": "Donald Duck",
-    "flavor-text": "\\\"Who you callin' boisterous, buster?\\\"",
+    "flavor-text": "\"Who you callin' boisterous, buster?\"",
     "ink-cost": 2,
     "rarity": "Uncommon"
   }

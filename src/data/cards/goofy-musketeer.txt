@@ -16,7 +16,7 @@
     "set-code": "TFC",
     "abilities": {"And Two For Tea!": "When you play this character, you may remove up to 2 damage from each of your Musketeer characters."},
     "inkable": true,
-    "body-text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) \nAND TWO FOR TEA!: When you play this character, you may remove up to 2 damage from each of your Musketeer characters.",
+    "body-text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\nAND TWO FOR TEA!: When you play this character, you may remove up to 2 damage from each of your Musketeer characters.",
     "subtitle": "Musketeer",
     "image-urls": {
       "small": "https://lorcana-api.com/images/goofy/musketeer/goofy-musketeer-small.png",

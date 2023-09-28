@@ -7,7 +7,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
-    "body-text": "Each opponent chooses and discards a card.",
+    "body-text": "(A character with cost 2 or more can {t} to sing this song for free.)\nEach opponent chooses and discards a card.",
     "effect": "Each opponent chooses and discards a card.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/sudden_chill/sudden_chill-small.png",
@@ -19,6 +19,6 @@
     },
     "name": "Sudden Chill",
     "ink-cost": 2,
-    "flavor-text": "Cruella De Vil, Cruella De Vil, If she doesn't scare you, no evil thing will",
+    "flavor-text": "Cruella De Vil, Cruella De Vil,\nIf she doesn't scare you, no evil thing will",
     "rarity": "Common"
   }

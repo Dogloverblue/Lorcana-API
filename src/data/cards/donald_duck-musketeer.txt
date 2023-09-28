@@ -14,9 +14,9 @@
       "Musketeer"
     ],
     "set-code": "TFC",
-    "abilities": {"Stay Alert!": "During your turn, your Muskteer characters gain Evasive. (They can challenge characters with Evasive.)"},
+    "abilities": {"Stay Alert!": "During your turn, your Musketeer characters gain Evasive. (They can challenge characters with Evasive.)"},
     "inkable": true,
-    "body-text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) \nSTAY ALERT!: During your turn, your Muskteer characters gain Evasive. (They can challenge characters with Evasive.)",
+    "body-text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\nSTAY ALERT!: During your turn, your Musketeer characters gain Evasive. (They can challenge characters with Evasive.)",
     "subtitle": "Musketeer",
     "image-urls": {
       "small": "https://lorcana-api.com/images/donald_duck/musketeer/donald_duck-musketeer-small.png",

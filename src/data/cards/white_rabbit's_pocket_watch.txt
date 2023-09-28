@@ -19,6 +19,6 @@
     },
     "name": "White Rabbit's Pocket Watch",
     "ink-cost": 3,
-    "flavor-text": "\\\"No wonder you're late. Why, this watch is exactly two days slow\\\"",
+    "flavor-text": "\"No wonder you're late. Why, this watch is exactly two days slow\"",
     "rarity": "Rare"
   }

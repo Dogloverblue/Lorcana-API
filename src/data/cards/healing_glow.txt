@@ -18,6 +18,6 @@
     },
     "name": "Healing Glow",
     "ink-cost": 1,
-    "flavor-text": "\\\"Don't freak out!\\\" - Rapunzel",
+    "flavor-text": "\"Don't freak out!\" - Rapunzel",
     "rarity": "Common"
   }

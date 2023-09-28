@@ -16,7 +16,7 @@
     "set-code": "TFC",
     "abilities": {"All For One": "Your other musketeer character get +1{strength}"},
     "inkable": true,
-    "body-text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) \nALL FOR ONE: Your other musketeer character get +1{strength}",
+    "body-text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\nALL FOR ONE: Your other musketeer character get +1{strength}",
     "subtitle": "Musketeer",
     "image-urls": {
       "small": "https://lorcana-api.com/images/mickey_mouse/musketeer/mickey_mouse-musketeer-small.png",
@@ -28,6 +28,6 @@
     },
     "name": "Mickey Mouse",
     "ink-cost": 6,
-    "flavor-text": "Bodyguard",
+    "flavor-text": "",
     "rarity": "Rare"
   }

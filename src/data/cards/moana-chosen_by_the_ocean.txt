@@ -14,9 +14,9 @@
       "Princess"
     ],
     "set-code": "TFC",
-    "abilities": {"This Is Not Who You Are": "When you play this character, you may banish chosen character named Te K?."},
+    "abilities": {"This Is Not Who You Are": "When you play this character, you may banish chosen character named Te Ka."},
     "inkable": true,
-    "body-text": "THIS IS NOT WHO YOU ARE: When you play this character, you may banish chosen character named Te K?.",
+    "body-text": "THIS IS NOT WHO YOU ARE: When you play this character, you may banish chosen character named Te Ka.",
     "subtitle": "Chosen by the Ocean",
     "image-urls": {
       "small": "https://lorcana-api.com/images/moana/chosen_by_the_ocean/moana-chosen_by_the_ocean-small.png",

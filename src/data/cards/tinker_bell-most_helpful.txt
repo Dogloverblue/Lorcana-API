@@ -16,7 +16,7 @@
     "set-code": "TFC",
     "abilities": {"Pixie Dust": "When you play this character, chosen character gains Evasive this turn."},
     "inkable": true,
-    "body-text": "Evasive (Only characters with Evasive can challenge this character.) \nPIXIE DUST: When you play this character, chosen character gains Evasive this turn.",
+    "body-text": "Evasive (Only characters with Evasive can challenge this character.)\nPIXIE DUST: When you play this character, chosen character gains Evasive this turn.",
     "subtitle": "Most Helpful",
     "image-urls": {
       "small": "https://lorcana-api.com/images/tinker_bell/most_helpful/tinker_bell-most_helpful-small.png",

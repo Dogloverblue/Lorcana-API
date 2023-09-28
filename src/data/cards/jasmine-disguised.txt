@@ -26,7 +26,7 @@
       "foil": "https://lorcana-api.com/images/jasmine/disguised/jasmine-disguised-foil.png"
     },
     "name": "Jasmine",
-    "flavor-text": "\\\"Try to understand. I've never done a thing on my own. I've never had any real friends.... I've never even been outside the palace walls.\\\"",
+    "flavor-text": "\"Try to understand. I've never done a thing on my own. I've never had any real friends.... I've never even been outside the palace walls.\"",
     "ink-cost": 3,
     "rarity": "Common"
   }

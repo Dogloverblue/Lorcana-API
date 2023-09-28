@@ -7,8 +7,8 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
-    "body-text": "Draw 2 cards, then choose and discord 2 cards.",
-    "effect": "Draw 2 cards, then choose and discord 2 cards.",
+    "body-text": "Draw 2 cards, then choose and discard 2 cards.",
+    "effect": "Draw 2 cards, then choose and discard 2 cards.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/ransack/ransack-small.png",
       "no-art": "https://lorcana-api.com/images/ransack/ransack-no-art.png",

@@ -28,6 +28,6 @@
     },
     "name": "Stitch",
     "ink-cost": 6,
-    "flavor-text": "\"His destructive programming is taking effect. He will be irresisibly drawn to large cities, where he will back up sewers, reverse street signs, and steal everyone's left shoe.\" -Jumba Jookiba",
+    "flavor-text": "\"His destructive programming is taking effect. He will be irresistibly drawn to large cities, where he will back up sewers, reverse street signs, and steal everyone's left shoe.\" -Jumba Jookiba",
     "rarity": "Rare"
   }

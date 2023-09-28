@@ -7,8 +7,8 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
-    "body-text": "Chosen Character gets +2 {strength} this turn.",
-    "effect": "Chosen Character gets +2 {strength} this turn.",
+    "body-text": "Chosen Character gets +2{strength} this turn.",
+    "effect": "Chosen Character gets +2{strength} this turn.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/he's_got_a_sword!/he's_got_a_sword!-small.png",
       "no-art": "https://lorcana-api.com/images/he's_got_a_sword!/he's_got_a_sword!-no-art.png",

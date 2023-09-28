@@ -14,9 +14,9 @@
       "Captain"
     ],
     "set-code": "TFC",
-    "abilities": {"Under Arrest": "Characters with cost 2 or less can't challenge your characters"},
+    "abilities": {"Under Arrest": "Characters with cost 2 or less can't challenge your characters."},
     "inkable": true,
-    "body-text": "UNDER ARREST: Characters with cost 2 or less can't challenge your characters",
+    "body-text": "UNDER ARREST: Characters with cost 2 or less can't challenge your characters.",
     "subtitle": "Galactic Federation Captain",
     "image-urls": {
       "small": "https://lorcana-api.com/images/gantu/galactic_federation_captain/gantu-galactic_federation_captain-small.png",
@@ -27,7 +27,7 @@
       "foil": "https://lorcana-api.com/images/gantu/galactic_federation_captain/gantu-galactic_federation_captain-foil.png"
     },
     "name": "Gantu",
-    "flavor-text": "Relax, enjoy the trip... and don't get any ideas!",
+    "flavor-text": "\"Relax, enjoy the trip... and don't get any ideas!\"",
     "ink-cost": 8,
     "rarity": "Legendary"
   }
