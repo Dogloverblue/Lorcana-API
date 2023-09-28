@@ -7,7 +7,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": false,
-    "body-text": "(A character with cost 3 or more can {t} to sing this song for free.)\\nReturn chosen character to their player's hand.",
+    "body-text": "(A character with cost 3 or more can {t} to sing this song for free.)\nReturn chosen character to their player's hand.",
     "effect": "Return chosen character to their player's hand.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/mother_knows_best/mother_knows_best-small.png",
@@ -19,6 +19,6 @@
     },
     "name": "Mother Knows Best",
     "ink-cost": 3,
-    "flavor-text": "One way or another\\nSomething will go wrong, I swear",
+    "flavor-text": "One way or another\nSomething will go wrong, I swear",
     "rarity": "Uncommon"
   }

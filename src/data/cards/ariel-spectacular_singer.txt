@@ -16,7 +16,7 @@
     "set-code": "TFC",
     "abilities": {"Musical Debut": "When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest back in any order."},
     "inkable": true,
-    "body-text": "Singer 5 (This character counts as cost 5 to sing songs.)\\nMUSICAL DEBUT: When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest back in any order.",
+    "body-text": "Singer 5 (This character counts as cost 5 to sing songs.)\nMUSICAL DEBUT: When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest back in any order.",
     "subtitle": "Spectacular Singer",
     "image-urls": {
       "small": "https://lorcana-api.com/images/ariel/spectacular_singer/ariel-spectacular_singer-small.png",

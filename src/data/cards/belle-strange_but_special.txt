@@ -19,7 +19,7 @@
       "My Favorite Part!": "While you have 10 or more cards in your inkwell, this character gets +4{lore}."
     },
     "inkable": true,
-    "body-text": "READ A BOOK: During your turn, you may put an additional card from your hand into your inkwell facedown.\\nMY FAVORITE PART!: While you have 10 or more cards in your inkwell, this character gets +4{lore}.",
+    "body-text": "READ A BOOK: During your turn, you may put an additional card from your hand into your inkwell facedown.\nMY FAVORITE PART!: While you have 10 or more cards in your inkwell, this character gets +4{lore}.",
     "subtitle": "Strange but special",
     "image-urls": {
       "small": "https://lorcana-api.com/images/belle/strange_but_special/belle-strange_but_special-small.png",

@@ -20,7 +20,7 @@
     "set-code": "TFC",
     "abilities": {"Stolen Dust": "Characters with cost 3 or less can't challenge this character,"},
     "inkable": false,
-    "body-text": "Shift 3 (You may pay 3{ink} to play this on top of one of your characters named Captain Hook.)\\nChallenger 3 When challenging, this character get +3{strength}.)\\nSTOLEN DUST: Characters with cost 3 or less can't challenge this character,",
+    "body-text": "Shift 3 (You may pay 3{ink} to play this on top of one of your characters named Captain Hook.)\nChallenger 3 When challenging, this character get +3{strength}.)\nSTOLEN DUST: Characters with cost 3 or less can't challenge this character,",
     "subtitle": "Thinking a Happy Thought",
     "image-urls": {
       "small": "https://lorcana-api.com/images/captain_hook/thinking_a_happy_thought/captain_hook-thinking_a_happy_thought-small.png",

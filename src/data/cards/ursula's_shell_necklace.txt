@@ -19,6 +19,6 @@
     },
     "name": "Ursula's Shell Necklace",
     "ink-cost": 3,
-    "flavor-text": "\"Singing is a lovely pastime... if you've got the voice for it.\"\\n- Ursula",
+    "flavor-text": "\"Singing is a lovely pastime... if you've got the voice for it.\"\n- Ursula",
     "rarity": "Rare"
   }

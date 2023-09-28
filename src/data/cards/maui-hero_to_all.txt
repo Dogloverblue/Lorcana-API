@@ -19,7 +19,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
-    "body-text": "Rush (This character can challenge the turn they're played.)\\nReckless (This character can't quest and must challenge each turn if able.) ",
+    "body-text": "Rush (This character can challenge the turn they're played.)\nReckless (This character can't quest and must challenge each turn if able.) ",
     "subtitle": "Hero to All",
     "image-urls": {
       "small": "https://lorcana-api.com/images/maui/hero_to_all/maui-hero_to_all-small.png",

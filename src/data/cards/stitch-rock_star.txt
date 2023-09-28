@@ -16,7 +16,7 @@
     "set-code": "TFC",
     "abilities": {"Adoring Fans": "Whenever you play a character with ink cost 2 or less, you may exert it to draw a card."},
     "inkable": true,
-    "body-text": "Shift 4 (You may pay 4{ink} to play this on top of one of your characters named Stitch.)\\nADORING FANS: Whenever you play a character with ink cost 2 or less, you may exert it to draw a card.",
+    "body-text": "Shift 4 (You may pay 4{ink} to play this on top of one of your characters named Stitch.)\nADORING FANS: Whenever you play a character with ink cost 2 or less, you may exert it to draw a card.",
     "subtitle": "Rock Star",
     "image-urls": {
       "small": "https://lorcana-api.com/images/stitch/rock_star/stitch-rock_star-small.png",

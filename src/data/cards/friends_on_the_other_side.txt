@@ -7,7 +7,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
-    "body-text": "(A character with cost 3 or more can {t} to sing this song for free.)\\nDraw 2 cards.",
+    "body-text": "(A character with cost 3 or more can {t} to sing this song for free.)\nDraw 2 cards.",
     "effect": "Draw 2 cards.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/friends_on_the_other_side/friends_on_the_other_side-small.png",
@@ -19,6 +19,6 @@
     },
     "name": "Friends On The Other Side",
     "ink-cost": 3,
-    "flavor-text": "The cards, the cards\\nthecards will tell...",
+    "flavor-text": "The cards, the cards\nthecards will tell...",
     "rarity": "Common"
   }

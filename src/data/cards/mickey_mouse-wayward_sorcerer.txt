@@ -18,7 +18,7 @@
       "Ceaseless Worker": "Whenever one of your Broom characters is banished in a challenge, you may return that card to your hand."
     },
     "inkable": true,
-    "body-text": "ANIMATE BROOM: You pay 1 {i} less to play Broom characters\\nCEASELESS WORKER: Whenever one of your Broom characters is banished in a challenge, you may return that card to your hand.",
+    "body-text": "ANIMATE BROOM: You pay 1 {i} less to play Broom characters\nCEASELESS WORKER: Whenever one of your Broom characters is banished in a challenge, you may return that card to your hand.",
     "subtitle": "Wayward Sorcerer",
     "image-urls": {
       "small": "https://lorcana-api.com/images/mickey_mouse/wayward_sorcerer/mickey_mouse-wayward_sorcerer-small.png",

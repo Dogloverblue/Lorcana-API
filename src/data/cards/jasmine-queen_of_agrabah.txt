@@ -17,7 +17,7 @@
     "set-code": "TFC",
     "abilities": {"Caretaker": "When you play this character and whenever she quests, you may remove up to 2 damage from each of your characters."},
     "inkable": true,
-    "body-text": "Shift 3 (You may pay 3{ink} to play this on top of one of your characters named Jasmine.)\\nCARETAKER: When you play this character and whenever she quests, you may remove up to 2 damage from each of your characters.",
+    "body-text": "Shift 3 (You may pay 3{ink} to play this on top of one of your characters named Jasmine.)\nCARETAKER: When you play this character and whenever she quests, you may remove up to 2 damage from each of your characters.",
     "subtitle": "Queen Of Agrabah",
     "image-urls": {
       "small": "https://lorcana-api.com/images/jasmine/queen_of_agrabah/jasmine-queen_of_agrabah-small.png",

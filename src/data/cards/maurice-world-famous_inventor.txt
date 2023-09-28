@@ -19,7 +19,7 @@
       "It Works!": "Whenever you play an item, you may draw a card."
     },
     "inkable": true,
-    "body-text": "GIVE IT A TRY: Whenever this character quests, you pay 2? less for the next item you play this turn.\\nIT WORKS!: Whenever you play an item, you may draw a card.",
+    "body-text": "GIVE IT A TRY: Whenever this character quests, you pay 2? less for the next item you play this turn.\nIT WORKS!: Whenever you play an item, you may draw a card.",
     "subtitle": "World-Famous Inventor",
     "image-urls": {
       "small": "https://lorcana-api.com/images/maurice/world-famous_inventor/maurice-world-famous_inventor-small.png",

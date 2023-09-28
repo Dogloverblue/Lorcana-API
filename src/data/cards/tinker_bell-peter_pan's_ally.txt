@@ -16,7 +16,7 @@
     "set-code": "TFC",
     "abilities": {"Loyal And Devoted": "Your characters name Peter Pan gain Challenger 1"},
     "inkable": false,
-    "body-text": "Evasive (Only characters with Evasive can challenge this character.)\\nLOYAL AND DEVOTED: Your characters named Peter Pan gain Challenger 1",
+    "body-text": "Evasive (Only characters with Evasive can challenge this character.)\nLOYAL AND DEVOTED: Your characters named Peter Pan gain Challenger 1",
     "subtitle": "Peter Pan's Ally",
     "image-urls": {
       "small": "https://lorcana-api.com/images/tinker_bell/peter_pan's_ally/tinker_bell-peter_pan's_ally-small.png",

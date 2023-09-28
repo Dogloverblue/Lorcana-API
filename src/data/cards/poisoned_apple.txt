@@ -19,6 +19,6 @@
     },
     "name": "Poisoned Apple",
     "ink-cost": 3,
-    "flavor-text": "\"One taste of the poisoned apple, and the victim's eyes will close forever....\"\\n- The Queen",
+    "flavor-text": "\"One taste of the poisoned apple, and the victim's eyes will close forever....\"\n- The Queen",
     "rarity": "Rare"
   }
