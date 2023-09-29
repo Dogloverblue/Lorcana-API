@@ -6,7 +6,7 @@
     "type": "Item",
     "set-code": "TFC",
     "inkable": false,
-    "effect": "{t}, 4{ink} - Draw a card",
+    "effect": "{tap}, 4{ink} - Draw a card",
     "image-urls": {
       "small": "https://lorcana-api.com/images/magic_mirror/magic_mirror-small.png",
       "no-art": "https://lorcana-api.com/images/magic_mirror/magic_mirror-no-art.png",

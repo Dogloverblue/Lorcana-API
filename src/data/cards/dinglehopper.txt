@@ -5,9 +5,9 @@
     "artist": "Eri Welli",
     "type": "Item",
     "set-code": "TFC",
-    "abilities": {"Straighten Hair": "{t}- Remove up to 1 damage from chosen character"},
+    "abilities": {"Straighten Hair": "{tap}- Remove up to 1 damage from chosen character"},
     "inkable": true,
-    "body-text": "STRAIGHTEN HAIR: {t}- Remove up to 1 damage from chosen character",
+    "body-text": "STRAIGHTEN HAIR: {tap}- Remove up to 1 damage from chosen character",
     "effect": null,
     "image-urls": {
       "small": "https://lorcana-api.com/images/dinglehopper/dinglehopper-small.png",

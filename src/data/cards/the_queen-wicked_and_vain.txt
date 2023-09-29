@@ -14,9 +14,9 @@
       "Queen"
     ],
     "set-code": "TFC",
-    "abilities": {"I Summon Thee": "{t} - Draw a card."},
+    "abilities": {"I Summon Thee": "{tap} - Draw a card."},
     "inkable": true,
-    "body-text": "I SUMMON THEE: {t} - Draw a card.",
+    "body-text": "I SUMMON THEE: {tap} - Draw a card.",
     "subtitle": "Wicked and Vain",
     "image-urls": {
       "small": "https://lorcana-api.com/images/the_queen/wicked_and_vain/the_queen-wicked_and_vain-small.png",

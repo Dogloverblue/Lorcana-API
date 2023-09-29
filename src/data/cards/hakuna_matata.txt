@@ -7,7 +7,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
-    "body-text": "(A character with cost 4 or more can {t} to sing this song for free.)\nRemove up to 3 damage from each of your characters.",
+    "body-text": "(A character with cost 4 or more can {tap} to sing this song for free.)\nRemove up to 3 damage from each of your characters.",
     "effect": "Remove up to 3 damage from each of your characters.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/hakuna_matata/hakuna_matata-small.png",

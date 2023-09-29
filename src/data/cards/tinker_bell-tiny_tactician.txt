@@ -14,9 +14,9 @@
       "Fairy"
     ],
     "set-code": "TFC",
-    "abilities": {"Battle Plans": "{t} - Draw a card, then choose and discard a card."},
+    "abilities": {"Battle Plans": "{tap} - Draw a card, then choose and discard a card."},
     "inkable": true,
-    "body-text": "BATTLE PLANS: {t} - Draw a card, then choose and discard a card.",
+    "body-text": "BATTLE PLANS: {tap} - Draw a card, then choose and discard a card.",
     "subtitle": "Tiny Tactician",
     "image-urls": {
       "small": "https://lorcana-api.com/images/tinker_bell/tiny_tactician/tinker_bell-tiny_tactician-small.png",

@@ -15,9 +15,9 @@
       "Sorcerer"
     ],
     "set-code": "TFC",
-    "abilities": {"Freeze": "{t} - Excert chosen opposing character."},
+    "abilities": {"Freeze": "{tap} - Excert chosen opposing character."},
     "inkable": true,
-    "body-text": "FREEZE: {t} - Excert chosen opposing character.",
+    "body-text": "FREEZE: {tap} - Excert chosen opposing character.",
     "subtitle": "Snow Queen",
     "image-urls": {
       "small": "https://lorcana-api.com/images/elsa/snow_queen/elsa-snow_queen-small.png",

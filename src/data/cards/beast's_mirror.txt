@@ -5,9 +5,9 @@
     "artist": "Samanta Erdini",
     "type": "Item",
     "set-code": "TFC",
-    "abilities": {"Show Me": "{t}, 3{ink} - If you have no cards in your hand, draw a card."},
+    "abilities": {"Show Me": "{tap}, 3{ink} - If you have no cards in your hand, draw a card."},
     "inkable": true,
-    "body-text": "SHOW ME: {t}, 3{ink} - If you have no cards in your hand, draw a card.",
+    "body-text": "SHOW ME: {tap}, 3{ink} - If you have no cards in your hand, draw a card.",
     "effect": null,
     "image-urls": {
       "small": "https://lorcana-api.com/images/beast's_mirror/beast's_mirror-small.png",

@@ -5,9 +5,9 @@
     "artist": "Ron Baird",
     "type": "Item",
     "set-code": "TFC",
-    "abilities": {"See The Future": "{t} - Chosen character gets +1{lore} this turn."},
+    "abilities": {"See The Future": "{tap} - Chosen character gets +1{lore} this turn."},
     "inkable": true,
-    "body-text": "SEE THE FUTURE: {t} - Chosen character gets +1{lore} this turn.",
+    "body-text": "SEE THE FUTURE: {tap} - Chosen character gets +1{lore} this turn.",
     "effect": "",
     "image-urls": {
       "small": "https://lorcana-api.com/images/eye_of_the_fates/eye_of_the_fates-small.png",

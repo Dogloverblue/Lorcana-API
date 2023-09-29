@@ -6,7 +6,7 @@
     "type": "Action - Song",
     "set-code": "TFC",
     "inkable": false,
-    "body-text": "(A character with cost 3 or more can {t} to sing this song for free.)\nReturn a character card from your discard to your hand.",
+    "body-text": "(A character with cost 3 or more can {tap} to sing this song for free.)\nReturn a character card from your discard to your hand.",
     "effect": "Return a character card from your discard to your hand.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/part_of_your_world/part_of_your_world-small.png",

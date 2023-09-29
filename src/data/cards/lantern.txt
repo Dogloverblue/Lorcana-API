@@ -5,9 +5,9 @@
     "artist": "Eri Welli",
     "type": "Item",
     "set-code": "TFC",
-    "abilities": {"Birthday Lights": "{t}- You play 1? less for the next character you play this turn"},
+    "abilities": {"Birthday Lights": "{tap}- You play 1? less for the next character you play this turn"},
     "inkable": false,
-    "body-text": "BIRTHDAY LIGHTS: {t}- You play 1? less for the next character you play this turn",
+    "body-text": "BIRTHDAY LIGHTS: {tap}- You play 1? less for the next character you play this turn",
     "effect": null,
     "image-urls": {
       "small": "https://lorcana-api.com/images/lantern/lantern-small.png",

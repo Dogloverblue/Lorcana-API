@@ -7,7 +7,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": false,
-    "body-text": "(A character with cost 5 or more can {t} to sing this song for free.)\nDeal 2 damage to each opposing character.",
+    "body-text": "(A character with cost 5 or more can {tap} to sing this song for free.)\nDeal 2 damage to each opposing character.",
     "effect": "Deal 2 damage to each opposing character.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/grab_your_sword/grab_your_sword-small.png",
