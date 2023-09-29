@@ -6,7 +6,7 @@
     "type": "Action - Song",
     "set-code": "TFC",
     "inkable": true,
-    "body-text": "(A character with cost 5 or more can {tap} to sing this song for free.)\nPut chosen character into their player's inkwell facedown and exerted.",
+    "body-text": "(A character with cost 5 or more can {exert} to sing this song for free.)\nPut chosen character into their player's inkwell facedown and exerted.",
     "effect": "Put chosen character into their player's inkwell facedown and exerted",
     "image-urls": {
       "small": "https://lorcana-api.com/images/let_it_go/let_it_go-small.png",

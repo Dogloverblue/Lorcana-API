@@ -5,9 +5,9 @@
     "artist": "Kendall Hale",
     "type": "Item",
     "set-code": "TFC",
-    "abilities": {"Slash": "{tap} - Chosen character gets +1{strength} this turn. If a character named Alladdin is chosen, he get +2{strength} instead."},
+    "abilities": {"Slash": "{exert} - Chosen character gets +1{strength} this turn. If a character named Alladdin is chosen, he get +2{strength} instead."},
     "inkable": true,
-    "body-text": "SLASH: {tap} - Chosen character gets +1{strength} this turn. If a character named Alladdin is chosen, he get +2{strength} instead.",
+    "body-text": "SLASH: {exert} - Chosen character gets +1{strength} this turn. If a character named Alladdin is chosen, he get +2{strength} instead.",
     "effect": "",
     "image-urls": {
       "small": "https://lorcana-api.com/images/stolen_scimitar/stolen_scimitar-small.png",

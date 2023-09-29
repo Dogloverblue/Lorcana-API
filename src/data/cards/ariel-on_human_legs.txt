@@ -14,9 +14,9 @@
       "Princess"
     ],
     "set-code": "TFC",
-    "abilities": {"Voiceless": "This character can't {tap} to sing songs."},
+    "abilities": {"Voiceless": "This character can't {exert} to sing songs."},
     "inkable": true,
-    "body-text": "VOICELESS: This character can't {tap} to sing songs.",
+    "body-text": "VOICELESS: This character can't {exert} to sing songs.",
     "subtitle": "On Human Legs",
     "image-urls": {
       "small": "https://lorcana-api.com/images/ariel/on_human_legs/ariel-on_human_legs-small.png",

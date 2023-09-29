@@ -5,9 +5,9 @@
     "artist": "Tanisha Cherislin",
     "type": "Item",
     "set-code": "TFC",
-    "abilities": {"Go Ahead And Sing": "{tap} - Put any card from your hand into your inkwell facedown."},
+    "abilities": {"Go Ahead And Sing": "{exert} - Put any card from your hand into your inkwell facedown."},
     "inkable": true,
-    "body-text": "GO AHEAD AND SING: {tap} - Put any card from your hand into your inkwell facedown.",
+    "body-text": "GO AHEAD AND SING: {exert} - Put any card from your hand into your inkwell facedown.",
     "effect": "",
     "image-urls": {
       "small": "https://lorcana-api.com/images/fishbone_quill/fishbone_quill-small.png",

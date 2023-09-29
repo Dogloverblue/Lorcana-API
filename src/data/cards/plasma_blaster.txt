@@ -5,9 +5,9 @@
     "artist": "Oleg Yurkov",
     "type": "Item",
     "set-code": "TFC",
-    "abilities": {"Quick Shot": "{tap}, 2{ink} - Deal 1 damage to chosen character"},
+    "abilities": {"Quick Shot": "{exert}, 2{ink} - Deal 1 damage to chosen character"},
     "inkable": false,
-    "body-text": "QUICK SHOT: {tap}, 2{ink} - Deal 1 damage to chosen character",
+    "body-text": "QUICK SHOT: {exert}, 2{ink} - Deal 1 damage to chosen character",
     "effect": "",
     "image-urls": {
       "small": "https://lorcana-api.com/images/plasma_blaster/plasma_blaster-small.png",
