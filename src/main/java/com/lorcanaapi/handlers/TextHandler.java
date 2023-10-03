@@ -14,6 +14,7 @@ public class TextHandler implements HttpHandler {
 			System.out.println("Text response made; it was text request number " + TextRequestCount);
 			TextRequestCount++;
 			TrackingHandler.TextRequestCount++;
+				t.getResponseHeaders().set("Access-Control-Allow-Origin", "*");
 	            t.sendResponseHeaders(200, response.length());
 	            OutputStream os = t.getResponseBody();
 	            os.write(response.getBytes());

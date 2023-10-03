@@ -34,6 +34,7 @@ public class SearchHandler implements HttpHandler {
 //		System.out.println("Search response made; it was search request number " + SearchRequestCount);
 		TrackingHandler.SearchRequestCount++;
 		exchange.getResponseHeaders().set("Content-Type", String.format("application/json; charset=%s", StandardCharsets.UTF_8));
+		exchange.getResponseHeaders().set("Access-Control-Allow-Origin", "*");
         
 		this.queryToMap(exchange.getRequestURI().toString());
 		JSONArray passedCards = new JSONArray();

@@ -16,6 +16,7 @@ public class JSONHandler implements HttpHandler {
 	JSONRequestCount++;
 	TrackingHandler.JSONRequestCount++;
     t.getResponseHeaders().set("Content-Type", String.format("application/json; charset=%s", StandardCharsets.UTF_8));
+    t.getResponseHeaders().set("Access-Control-Allow-Origin", "*");
         t.sendResponseHeaders(200, response.length());
   
         OutputStream os = t.getResponseBody();
