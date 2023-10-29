@@ -1,5 +1,5 @@
 {
-    "lore-value": 0,
+    "lore-value": 1,
     "traits": [
       "Bodyguard",
       "Support"

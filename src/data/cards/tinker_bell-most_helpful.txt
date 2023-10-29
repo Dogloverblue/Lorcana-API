@@ -1,5 +1,5 @@
 {
-    "lore-value": 1,
+    "lore-value": 2,
     "traits": ["Evasive"],
     "set": "The First Chapter",
     "card-number": 93,
