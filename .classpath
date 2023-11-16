@@ -23,6 +23,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Jacob/Downloads/mysql-connector-j-8.1.0(2)/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jnlowen_wccnet/Downloads/mysql-connector-j-8.2.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

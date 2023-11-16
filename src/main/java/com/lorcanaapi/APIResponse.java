@@ -10,6 +10,7 @@ public class APIResponse {
 	private ErrorMessageResponse errorMessage = new ErrorMessageResponse("should_never_see_this_error", "If you see this message, you have encountered a bug... Please contact the developer", -1);
 	private SQLQuery sqlQuery = new SQLQuery();
 	private String reference;
+	private boolean useSQL;
 	
 	public String getResponse() {
 		if (isErrored()) {
@@ -76,15 +77,25 @@ public class APIResponse {
 	public void setSqlQuery(SQLQuery sqlQuery) {
 		this.sqlQuery = sqlQuery;
 	}
+
 	@Override
 	public String toString() {
 		return this.getResponse();
 	}
 
 	
+	/**
+	 * Constucts a new APIResponse class, the class used for handling everything about a API response, including
+	 * SQL queries and JSONArrays
+	 * @param tableName The name of the SQL table to make queries on. If set to 'DONOTFETCH', queries will not be executed
+	 */
 
+	public APIResponse(String tableName) {
+		this.getSqlQuery().setFrom("FROM " + tableName);
+	}
+	
 	public APIResponse() {
-
+		
 	}
 
 }

@@ -26,8 +26,14 @@ public class MandatorySQLExecutor extends URLParameter {
 
 	@Override
 	public void modifyReponse(URIBit URIBit, APIResponse response) {
+		
 		System.out.println("MANDATYORY SQL THING TRIGGERD");
+		if (response.getSqlQuery().getFrom().contains("DONOTFETCH")) {
+			System.out.println("NOT fetching SQL data");
+			return;
+		}
 		System.out.println("Querty is " + response.getSqlQuery().getQuery());
+		
 		response.setResponse(getSQLResponseAsJSON(response.getSqlQuery().getQuery()).toString());
 	}
 

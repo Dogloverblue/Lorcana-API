@@ -5,6 +5,7 @@ import java.net.InetSocketAddress;
 import java.util.Optional;
 
 import com.lorcanaapi.handlers.CardsHandler;
+import com.lorcanaapi.handlers.SetsHandler;
 import com.sun.net.httpserver.HttpServer;
 
 public class APIServer {
@@ -18,7 +19,8 @@ public class APIServer {
 			server.setExecutor(null);
 			server.start();
 			
-			server.createContext("/cards", new CardsHandler(null));
+			server.createContext("/cards", new CardsHandler());
+			server.createContext("/sets", new SetsHandler());
 		} catch (IOException e) {
 			e.printStackTrace();
 		}

@@ -4,7 +4,7 @@ public class SQLQuery {
 	
 	String select = "SELECT *";
 //	String from = "FROM cards";
-	String from = "FROM card_info";
+	String from = "";
 	String where = "";
 	String groupBy = "";
 	String having = "";	

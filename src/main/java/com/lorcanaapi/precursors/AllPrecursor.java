@@ -36,5 +36,9 @@ public class AllPrecursor extends URLPrecursor{
 			//		System.out.println("URL pre is:" + URL);
 		return newValue.toString();
 	}
+	private String modiftSetsResponse(String URL) {
+		return URL;
+		
+	}
 
 }

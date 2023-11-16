@@ -25,6 +25,11 @@ public class PrecursorManager {
 	public PrecursorManager() {
 
 	}
+	
+	public Collection<String> getAllPrecursors() {
+		return precursors.keySet();
+		
+	}
 
 	public void registerParameters(Collection<URLPrecursor> params) {
 		for (URLPrecursor precursor : params) {

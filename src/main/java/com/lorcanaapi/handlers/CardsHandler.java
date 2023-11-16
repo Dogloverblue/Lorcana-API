@@ -27,7 +27,6 @@ import com.sun.net.httpserver.HttpHandler;
 
 	public class CardsHandler implements HttpHandler {
 		static int TextRequestCount = 0;
-	    String response;
 	    ParameterManager pm = null;
 	    PrecursorManager pem = null;
         @Override
@@ -39,7 +38,7 @@ import com.sun.net.httpserver.HttpHandler;
 
         	System.out.println("URL is " + t.getRequestURI().toString());
 
-        	APIResponse response = new APIResponse();
+        	APIResponse response = new APIResponse("card_info");
         	HashMap<String, String> paramMap = new HashMap<>();
         	String url =t.getRequestURI().toString();
         	String[] precursors = {"fetch", "all"};
@@ -102,8 +101,7 @@ import com.sun.net.httpserver.HttpHandler;
             os.close();                                                                                                                                                   
                                                                                                                                                                           
         }                                                                                                                                                                 
-	    public CardsHandler(String response) {
-		    this.response = response;
+	    public CardsHandler() {
 	    }
 	    
 	    public ParameterManager defaultParameterValues() {
