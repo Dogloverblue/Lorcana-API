@@ -50,6 +50,9 @@ public class MandatorySQLExecutor extends URLParameter {
 		DB_URL = SQLDBURL;
 		USER = SQLUser;
 		PASS = SQLPass;
+		System.out.println(DB_URL);
+		System.out.println(USER);
+		System.out.println(PASS);
 	}
 	static String DB_URL;
 	   static String USER;
