@@ -1,0 +1,9 @@
+[build]
+builder = "NIXPACKS"
+
+[deploy]
+numReplicas = 1
+startCommand = "java -jar target/lorcanaapi-1.0.jar jdbc:mysql://8.8.246.41:3306/?user=ptcjlukd_firefox ptcjlukd_hexfold Wh3r3$0r@!"
+sleepApplication = false
+restartPolicyType = "ON_FAILURE"
+restartPolicyMaxRetries = 10
