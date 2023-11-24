@@ -31,7 +31,7 @@ public class SetsHandler implements HttpHandler{
     		pm = defaultParameterValues();
     		pem = defaultPrecursorValues();
     	}
-    	APIResponse response = new APIResponse("IDK");
+    	APIResponse response = new APIResponse("set_info");
     	HashMap<String, String> paramMap = new HashMap<>();
     	String url =t.getRequestURI().toString();
     	ArrayList<String> precursors = new ArrayList<>(pem.getAllPrecursors());
@@ -48,10 +48,10 @@ public class SetsHandler implements HttpHandler{
     			foundPrecursor = true;
     			precursor = pre;
     			System.out.println("URL BEFORE:" + url);
-    			url = pem.getPrecursorFromString(pre).getUpdatedURLForHandler("cards", url, response);
+    			url = pem.getPrecursorFromString(pre).getUpdatedURLForHandler("sets", url, response);
     			System.out.println("URL AFTER:" + url);
     			url = url.replace("/sets/" + pre + "?", "");
-    			url = url.replace("/sets/" + pre + "", "");
+    			url = url.replace("/sets/" + pre + "", ""); 
     		}
     	}
     	if (foundPrecursor == false) {

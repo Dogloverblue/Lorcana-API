@@ -16,7 +16,10 @@ public class AllPrecursor extends URLPrecursor{
 			
 		case "cards":
 			return modifyCardsResponse(URL);
+		case "sets":
+			return modiftSetsResponse(URL);
 		default:
+			System.out.println("rawr");
 			response.setErrored(true);
 			response.setErrorMessage("invalid_handler", getPrecursorString() + " is not appliciable for handler '/" + handler + "/'!", 200);
 			return URL;

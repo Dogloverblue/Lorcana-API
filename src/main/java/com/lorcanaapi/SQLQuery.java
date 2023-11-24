@@ -11,9 +11,20 @@ public class SQLQuery {
 	String orderBy = "";
 	boolean overrideClauseBuiltQueries = false;
 	String overriddenQuery;
+	
+	final public static String DEFAULT_SELECT_VALUE = "SELECT *";
+	// No default FROM
+	final public static String DEFAULT_WHERE_VALUE = "";
+	final public static String DEFAULT_GROUPBY_VALUE = "";
+	final public static String DEFAULT_HAVING_VALUE = "";
+	final public static String DEFAULT_ORDERBY_VALUE = "";
 
 	public SQLQuery() {
-
+		setSelect(DEFAULT_SELECT_VALUE);
+		setWhere(DEFAULT_WHERE_VALUE);
+		setGroupBy(DEFAULT_GROUPBY_VALUE);
+		setHaving(DEFAULT_HAVING_VALUE);
+		setOrderBy(DEFAULT_ORDERBY_VALUE);
 	}
 	
 	public void setQueryAndDisableIndividualClauseEditing(String query) {

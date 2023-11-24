@@ -14,6 +14,9 @@ import com.lorcanaapi.ParameterManager;
 import com.lorcanaapi.URIBit;
 import com.lorcanaapi.URLParameter;
 import com.lorcanaapi.parameters.DisplayOnlyParameter;
+import com.lorcanaapi.parameters.FuzzyMinimunParameter;
+import com.lorcanaapi.parameters.FuzzyParameter;
+import com.lorcanaapi.parameters.FuzzyTestParemeter;
 import com.lorcanaapi.parameters.PageParameter;
 import com.lorcanaapi.parameters.PageSizeParameter;
 import com.lorcanaapi.parameters.SearchParameter;
@@ -110,7 +113,10 @@ import com.sun.net.httpserver.HttpHandler;
 	    			new PageSizeParameter("pagesize", -2),
 	    			new PageParameter("page", -1),
 	    			new DisplayOnlyParameter("displayonly", -1),
-	    			new StrictParameter("strict", -1, "fetch")
+	    			new StrictParameter("strict", -1, "fetch"),
+	    			new FuzzyParameter("fuzzy", -1, "fetch"),
+	    			new FuzzyMinimunParameter("fuzzymin", -1, "fetch"),
+	    			new FuzzyTestParemeter("fuzzytest", -1)
 	    			);
 	    	return pm;
 	    }

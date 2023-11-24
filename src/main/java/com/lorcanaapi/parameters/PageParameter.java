@@ -24,7 +24,7 @@ public class PageParameter extends URLParameter {
 			e.printStackTrace();
 			System.out.println("fail");
 			response.setErrored(true);
-			response.setErrorMessage("invalid_datatype", "\"" + bit.getValue() + "\" is not an integer! [Parameter=page]", 200);
+			response.setErrorMessage("invalid_datatype", "'" + bit.getValue() + "' is not an integer! [Parameter=page]", 200);
 		}
 	}
 

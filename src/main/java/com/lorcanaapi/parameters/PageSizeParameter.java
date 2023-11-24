@@ -16,7 +16,7 @@ public class PageSizeParameter extends URLParameter {
 		response.setPageSize(Integer.valueOf(bit.getValue()));
 		} catch (NumberFormatException e) {
 			response.setErrored(true);
-			response.setErrorMessage("invalid_datatype", "\"" + bit.getValue() + "\" is not an integer! [Parameter=pagesize]", 200);
+			response.setErrorMessage("invalid_datatype", "'" + bit.getValue() + "' is not an integer! [Parameter=pagesize]", 200);
 		}
 
 	}

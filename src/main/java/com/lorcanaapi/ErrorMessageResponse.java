@@ -13,7 +13,7 @@ public class ErrorMessageResponse {
 	
 	public String getFullErrorAsJSON() {
 		return "{\"code\":\"" + getCode() + 
-				"\",\"details\":\"" + error + 
+				"\",\"details\":\"" + error.replace("\"", "\\\"") + 
 				"\",\"object\":\"error\"" + 
 				",\"status\":" + status + "}";
 	}

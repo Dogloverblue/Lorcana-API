@@ -92,6 +92,7 @@ public class APIResponse {
 
 	public APIResponse(String tableName) {
 		this.getSqlQuery().setFrom("FROM " + tableName);
+		
 	}
 	
 	public APIResponse() {

@@ -5,6 +5,7 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.ResultSetMetaData;
 import java.sql.SQLException;
+import java.sql.SQLSyntaxErrorException;
 import java.sql.Statement;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -34,15 +35,29 @@ public class MandatorySQLExecutor extends URLParameter {
 		}
 		System.out.println("Querty is " + response.getSqlQuery().getQuery());
 		
+		JSONArray ja = getSQLResponseAsJSON(response.getSqlQuery().getQuery());
+		if (ja == null) {
+			System.out.println("got here:" + errorCause);
+			response.setErrored(true);
+			response.setErrorMessage("invalid_column", errorCause, 400);
+			return;
+		}
+		
 		response.setResponse(getSQLResponseAsJSON(response.getSqlQuery().getQuery()).toString());
 	}
 
-//	static final String DB_URL = "jdbc:mysql://localhost:3306/?user=root";
-//	   static final String USER = "root";
-//	   static final String PASS = "whatisthisthing";
-	static final String DB_URL = "jdbc:mysql://8.8.246.41:3306/?user=ptcjlukd_firefox";
-	   static final String USER = "ptcjlukd_firefox";
-	   static final String PASS = "FoxBot12!";
+	public static void setSQLCreddentials(String SQLDBURL, String SQLUser, String SQLPass) {
+		DB_URL = SQLDBURL;
+		USER = SQLUser;
+		PASS = SQLPass;
+		System.out.println(DB_URL);
+		System.out.println(USER);
+		System.out.println(PASS);
+	}
+	static String DB_URL;
+	   static String USER;
+	   static String PASS;
+	   static String errorCause;
 	public JSONArray getSQLResponseAsJSON(String sqlCommand) {
 		 try(Connection conn = DriverManager.getConnection(DB_URL, USER, PASS);
 		         Statement stmt = conn.createStatement();
@@ -53,7 +68,10 @@ public class MandatorySQLExecutor extends URLParameter {
 		         ResultSet set = stmt.executeQuery(sqlCommand);
 		         return resultSetToJSONArray(set);
 		 } catch(SQLException e) {
+			 System.out.println("ERROR");
+			 errorCause = e.getLocalizedMessage();
 			 e.printStackTrace();
+			 System.out.println("STILL GOOD");
 			 return null;
 		 }
 	}

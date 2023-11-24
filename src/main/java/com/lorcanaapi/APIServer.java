@@ -6,6 +6,7 @@ import java.util.Optional;
 
 import com.lorcanaapi.handlers.CardsHandler;
 import com.lorcanaapi.handlers.SetsHandler;
+import com.lorcanaapi.parameters.MandatorySQLExecutor;
 import com.sun.net.httpserver.HttpServer;
 
 public class APIServer {
@@ -25,7 +26,8 @@ public class APIServer {
 			e.printStackTrace();
 		}
 	}
-	public APIServer() {
+	public APIServer(String SQLDBURL, String SQLUser, String SQLPass) {
+		MandatorySQLExecutor.setSQLCreddentials(SQLDBURL, SQLUser, SQLPass);
 		startServer();
 	}
 	

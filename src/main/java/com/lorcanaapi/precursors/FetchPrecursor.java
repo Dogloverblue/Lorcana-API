@@ -15,6 +15,8 @@ public class FetchPrecursor extends URLPrecursor {
 		
 		case "cards":
 			return modifyCardsResponse(URL);
+		case "sets":
+			return modifySetsResponse(URL);
 		default:
 			response.setErrored(true);
 			response.setErrorMessage("invalid_hander", getPrecursorString() + " is not appliciable for handler '/" + handler + "/'!", 200);
@@ -23,6 +25,10 @@ public class FetchPrecursor extends URLPrecursor {
 	}
 	
 	private String modifyCardsResponse(String URL) {
+		return URL;
+	}
+	
+	private String modifySetsResponse(String URL) {
 		return URL;
 	}
 
