@@ -112,6 +112,8 @@
                   <exclude>junit:junit</exclude>
                 </excludes>
               </artifactSet>
+              <shadedArtifactAttached>true</shadedArtifactAttached>
+              <shadedClassifierName>jackofall</shadedClassifierName>
             </configuration>
           </execution>
         </executions>
