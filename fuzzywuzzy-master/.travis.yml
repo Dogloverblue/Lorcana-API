@@ -1,8 +1,0 @@
-language: java
-sudo: false
-
-jdk:
-  - openjdk7
-
-script:
-  - mvn clean test
