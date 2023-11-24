@@ -99,22 +99,13 @@
               <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-shade-plugin</artifactId>
-        <version>3.5.1</version>
+        <version>3.4.1</version>
         <executions>
           <execution>
             <phase>package</phase>
             <goals>
               <goal>shade</goal>
             </goals>
-            <configuration>
-              <artifactSet>
-                <excludes>
-                  <exclude>junit:junit</exclude>
-                </excludes>
-              </artifactSet>
-              <shadedArtifactAttached>true</shadedArtifactAttached>
-              <shadedClassifierName>jackofall</shadedClassifierName>
-            </configuration>
           </execution>
         </executions>
       </plugin>
