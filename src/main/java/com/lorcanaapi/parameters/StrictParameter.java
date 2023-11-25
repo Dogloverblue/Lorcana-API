@@ -23,9 +23,7 @@ public StrictParameter(String parameterKey, int executionPriority, String... val
 
 		for (String v: bit.getAllValues()) {
 			System.out.println("v si " +v);
-			String[] split = v.split("\\-");
-			where.append("(NAME ='" + split[0] + "'");
-			where.append(" AND subtitle =  '" + v.replaceFirst(split[0] + "-", "") + "')");
+			where.append("(NAME ='" + v.toLowerCase() + "')");
 			where.append(" OR ");
 		}
 		response.getSqlQuery().setWhere(where.toString().substring(0, where.length() - 4));
