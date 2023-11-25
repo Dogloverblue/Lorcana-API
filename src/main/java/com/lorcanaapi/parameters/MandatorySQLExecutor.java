@@ -28,16 +28,16 @@ public class MandatorySQLExecutor extends URLParameter {
 	@Override
 	public void modifyReponse(URIBit URIBit, APIResponse response) {
 		
-		System.out.println("MANDATYORY SQL THING TRIGGERD");
+//		System.out.println("MANDATYORY SQL THING TRIGGERD");
 		if (response.getSqlQuery().getFrom().contains("DONOTFETCH")) {
 			System.out.println("NOT fetching SQL data");
 			return;
 		}
-		System.out.println("Querty is " + response.getSqlQuery().getQuery());
+//		System.out.println("Querty is " + response.getSqlQuery().getQuery());
 		
 		JSONArray ja = getSQLResponseAsJSON(response.getSqlQuery().getQuery());
 		if (ja == null) {
-			System.out.println("got here:" + errorCause);
+//			System.out.println("got here:" + errorCause);
 			response.setErrored(true);
 			response.setErrorMessage("invalid_column", errorCause, 400);
 			return;
@@ -61,14 +61,15 @@ public class MandatorySQLExecutor extends URLParameter {
 		      ) {		      
 //		         String sql = "USE lorcanaapi;";
 			 	String sql = "USE ptcjlukd_lordb;";
-		         System.out.println(stmt.executeUpdate(sql));
+//		         System.out.println(stmt.executeUpdate(sql));
+		         stmt.executeUpdate(sql);
 		         ResultSet set = stmt.executeQuery(sqlCommand);
 		         return resultSetToJSONArray(set);
 		 } catch(SQLException e) {
 			 System.out.println("ERROR");
 			 errorCause = e.getLocalizedMessage();
 			 e.printStackTrace();
-			 System.out.println("STILL GOOD");
+//			 System.out.println("STILL GOOD");
 			 return null;
 		 }
 	}

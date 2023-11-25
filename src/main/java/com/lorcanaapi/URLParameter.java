@@ -35,12 +35,12 @@ abstract public class URLParameter implements Comparable<URLParameter>{
 	}
 	public boolean isPrecursorValid(String precursor) {
 		if (precursors == null) {
-			System.out.println("is null!");
+//			System.out.println("is null!");
 			return true;
 		} else {
-			System.out.println("Not null, ");
+//			System.out.println("Not null, ");
 			for (String pre: precursors) {
-				System.out.println("1: " + pre);
+//				System.out.println("1: " + pre);
 			}
 		}
 		

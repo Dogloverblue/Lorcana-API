@@ -22,7 +22,7 @@ public StrictParameter(String parameterKey, int executionPriority, String... val
 		bit.decodeURL();
 
 		for (String v: bit.getAllValues()) {
-			System.out.println("v si " +v);
+//			System.out.println("v si " +v);
 			where.append("(NAME ='" + v.toLowerCase() + "')");
 			where.append(" OR ");
 		}

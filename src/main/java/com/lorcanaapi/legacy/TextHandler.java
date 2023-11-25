@@ -11,7 +11,7 @@ public class TextHandler implements HttpHandler {
 		    String response;
 	        @Override
 	        public void handle(HttpExchange t) throws IOException {
-			System.out.println("Text response made; it was text request number " + TextRequestCount);
+//			System.out.println("Text response made; it was text request number " + TextRequestCount);
 			TextRequestCount++;
 			TrackingHandler.TextRequestCount++;
 				t.getResponseHeaders().set("Access-Control-Allow-Origin", "*");

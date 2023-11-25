@@ -41,45 +41,45 @@ public class SetsHandler implements HttpHandler{
     	String precursorString = "";
     	String precursor = "";
     	for (String pre: precursors) {
-    		System.out.println("pre:" + pre);
+//    		System.out.println("pre:" + pre);
     		precursorString += "/sets/" + pre + ", ";
     		if (url.contains("/sets/" + pre) ) {
-    			System.out.println("Founbd:" + pre);
+//    			System.out.println("Founbd:" + pre);
     			foundPrecursor = true;
     			precursor = pre;
     			System.out.println("URL BEFORE:" + url);
     			url = pem.getPrecursorFromString(pre).getUpdatedURLForHandler("sets", url, response);
-    			System.out.println("URL AFTER:" + url);
+//    			System.out.println("URL AFTER:" + url);
     			url = url.replace("/sets/" + pre + "?", "");
     			url = url.replace("/sets/" + pre + "", ""); 
     		}
     	}
     	if (foundPrecursor == false) {
-    		System.out.println("Founbdnt");
+//    		System.out.println("Founbdnt");
     		response.setErrored(true);
     		response.setErrorMessage("invalid_url", "Invalid URL! The current URLs avaliable for /sets/ is " + precursorString.substring(0, precursorString.length() - 2), 404);
     	} else {
     		
     	for (String param: url.split("\\&")) {
-    		System.out.println(param);
+//    		System.out.println(param);
     		paramMap.put(param.split("\\=")[0].toLowerCase(), param);
     	}
 	for (URLParameter up: pm.getSortedParameters()) {
 		if (paramMap.containsKey(up.getParameterKey()) || up.getParameterKey().equals("sqlexecutor")) {
-			System.out.println("found " + up.getParameterKey());
+//			System.out.println("found " + up.getParameterKey());
 			if (!up.isPrecursorValid(precursor)) {
-				System.out.println("precursor NOT valid");
+//				System.out.println("precursor NOT valid");
 				response.setErrored(true);
 				response.setErrorMessage("invalid_parameter", "You cant use '" + up.getParameterKey() + "' with endpoint /" + precursor + "!", 404);
 				break;
 			}
-			System.out.println("precursor valid");
+//			System.out.println("precursor valid");
 			URIBit bit = new URIBit(paramMap.get(up.getParameterKey()));
-			System.out.println("here");
+//			System.out.println("here");
 			up.modifyReponse(bit, response);
-			System.out.println("here2");
+//			System.out.println("here2");
 		} else {
-			System.out.println("did not find " + up.getParameterKey());
+//			System.out.println("did not find " + up.getParameterKey());
 		}
 	}
     	t.getResponseHeaders().set("Content-Type", String.format("application/json; charset=%s", StandardCharsets.UTF_8));                                            
