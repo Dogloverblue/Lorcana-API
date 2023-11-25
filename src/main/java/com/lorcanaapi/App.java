@@ -16,6 +16,7 @@ public class App {
 		System.out.println("Server successfully booted!");
 //		System.err.println("Hey You! You need to edit the source code and change the ");
 		APIServer server = new APIServer(args[0], args[1], args[2]);
+		
 	}
 
 }
