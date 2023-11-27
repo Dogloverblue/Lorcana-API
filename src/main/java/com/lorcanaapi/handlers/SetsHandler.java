@@ -83,7 +83,7 @@ public class SetsHandler implements HttpHandler{
 		}
 	}
     	t.getResponseHeaders().set("Content-Type", String.format("application/json; charset=%s", StandardCharsets.UTF_8));                                            
-        
+    	t.getResponseHeaders().set("Access-Control-Allow-Origin", "*");
         t.sendResponseHeaders(200, 0);                                                                                                  
         OutputStream os = t.getResponseBody();                                                                                                                        
         os.write(response.getResponse().getBytes());                                                                                                                  
