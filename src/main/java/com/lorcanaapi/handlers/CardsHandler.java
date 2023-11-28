@@ -97,9 +97,10 @@ public class CardsHandler implements HttpHandler {
 //		System.out.println("Bit is " + bit);                                                                                                                              
 //		System.out.println("REPONSE IS " + response.getResponse());     
 		TextRequestCount++;
+		t.getResponseHeaders().set("Access-Control-Allow-Origin", "*");
 		t.getResponseHeaders().set("Content-Type",
 				String.format("application/json; charset=%s", StandardCharsets.UTF_8));
-		t.getResponseHeaders().set("Access-Control-Allow-Origin", "*");
+		
 		t.sendResponseHeaders(200, 0);
 		OutputStream os = t.getResponseBody();
 		os.write(response.getResponse().getBytes());
