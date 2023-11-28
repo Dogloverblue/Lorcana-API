@@ -47,7 +47,7 @@ public class SetsHandler implements HttpHandler {
 //    			System.out.println("Founbd:" + pre);
 				foundPrecursor = true;
 				precursor = pre;
-				System.out.println("URL BEFORE:" + url);
+//				System.out.println("URL BEFORE:" + url);
 				url = pem.getPrecursorFromString(pre).getUpdatedURLForHandler("sets", url, response);
 //    			System.out.println("URL AFTER:" + url);
 				url = url.replace("/sets/" + pre + "?", "");
