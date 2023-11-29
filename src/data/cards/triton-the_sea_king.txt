@@ -6,7 +6,7 @@
     "color": "Sapphire",
     "strength": 5,
     "artist": "Cristian Romero",
-    "willpower": 9,
+    "willpower": 6,
     "type": "Character",
     "subtypes": [
       "Storyborn",
@@ -27,6 +27,6 @@
     },
     "name": "Triton",
     "ink-cost": 7,
-    "flavor-text": "\"Isn't 'Because I said so' enough of a reason?\"",
+    "flavor-text": "Isn't 'Because I said so' enough of a reason?",
     "rarity": "Uncommon"
   }

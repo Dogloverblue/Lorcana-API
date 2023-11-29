@@ -13,9 +13,9 @@
       "Ally"
     ],
     "set-code": "TFC",
-    "abilities": {"Fan The Flames": "When you play this character, ready chosen character. They can't quest for the rest of this turn."},
+    "abilities": {"Fan The Flames": "When you play this character, ready chosen character, They can't quest for the rest of this turn."},
     "inkable": true,
-    "body-text": "FAN THE FLAMES: When you play this character, ready chosen character. They can't quest for the rest of this turn.",
+    "body-text": "FAN THE FLAMES: When you play this character, ready chosen character, They can't quest for the rest of this turn.",
     "subtitle": "Instigator",
     "image-urls": {
       "small": "https://lorcana-api.com/images/lefou/instigator/lefou-instigator-small.png",

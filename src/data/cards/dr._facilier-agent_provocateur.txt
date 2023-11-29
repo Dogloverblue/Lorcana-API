@@ -16,7 +16,7 @@
     "set-code": "TFC",
     "abilities": {"Into The Shadows": "Whenever one of your other characters is banished in a challenge, you may return that card to your hand."},
     "inkable": false,
-    "body-text": "Shift 5 (You may pay 5{ink} to play this on top of one of your characters named Dr. Facilier.)\nINTO THE SHADOWS: Whenever one of your other characters is banished in a challenge, you may return that card to your hand.",
+    "body-text": "Shift 5 (You may pay 5{ink} to play this on top of one of your characters named Dr. Facilier.) \nINTO THE SHADOWS: Whenever one of your other characters is banished in a challenge, you may return that card to your hand.",
     "subtitle": "Agent Provocateur",
     "image-urls": {
       "small": "https://lorcana-api.com/images/dr._facilier/agent_provocateur/dr._facilier-agent_provocateur-small.png",

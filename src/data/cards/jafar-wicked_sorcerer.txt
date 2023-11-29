@@ -16,7 +16,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
-    "body-text": "Challenger 3 (When challenging, this character get +3{strength}.) ",
+    "body-text": "Challenger 3 When challenging, this character get +3{strength}.) ",
     "subtitle": "Wicked Sorcerer",
     "image-urls": {
       "small": "https://lorcana-api.com/images/jafar/wicked_sorcerer/jafar-wicked_sorcerer-small.png",
@@ -27,7 +27,7 @@
       "foil": "https://lorcana-api.com/images/jafar/wicked_sorcerer/jafar-wicked_sorcerer-foil.png"
     },
     "name": "Jafar",
-    "flavor-text": "\"Enough skulking about. It's time to show that sniveling sultan what a sorcerer can do.\"",
+    "flavor-text": "\\\"Enough skulking about. It's time to show that sniveling sultan what a sorcerer can do.\\\"",
     "ink-cost": 4,
     "rarity": "Common"
   }

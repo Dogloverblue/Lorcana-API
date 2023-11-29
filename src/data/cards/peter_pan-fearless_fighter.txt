@@ -14,8 +14,8 @@
     ],
     "set-code": "TFC",
     "abilities": {},
-    "inkable": false,
-    "body-text": "Rush (This character can challenge the turn they're played.)",
+    "inkable": true,
+    "body-text": "Rush (This character can challenge the turn they're played.) ",
     "subtitle": "Fearless Fighter",
     "image-urls": {
       "small": "https://lorcana-api.com/images/peter_pan/fearless_fighter/peter_pan-fearless_fighter-small.png",
@@ -27,6 +27,6 @@
     },
     "name": "Peter Pan",
     "ink-cost": 3,
-    "flavor-text": "\"Nobody calls Pan a coward and lives! I'll fight you man-to-man, with one hand behind my back.\"",
+    "flavor-text": "\"Nobody calls Pan a coward and lives! I'll fight you man-to-=man, with one hand behind my back",
     "rarity": "Common"
   }

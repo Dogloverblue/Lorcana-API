@@ -28,6 +28,6 @@
     },
     "name": "Mickey Mouse",
     "ink-cost": 3,
-    "flavor-text": "Wherever the seaweed had come from, Mickey was sure of one thing: something fishy was going on.",
+    "flavor-text": "Wherever the seaweed had come from, Mickey was sure of one thing: something fishy was going on",
     "rarity": "Uncommon"
   }

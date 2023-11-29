@@ -5,9 +5,9 @@
     "artist": "Tanisha Cherislin",
     "type": "Item",
     "set-code": "TFC",
-    "abilities": {"Go Ahead And Sing": "{t} - Put any card from your hand into your inkwell facedown."},
+    "abilities": {"Go Ahead And Sing": "{t} - Put any card from your hand into your inkwell facedown"},
     "inkable": true,
-    "body-text": "GO AHEAD AND SING: {t} - Put any card from your hand into your inkwell facedown.",
+    "body-text": "GO AHEAD AND SING: {t} - Put any card from your hand into your inkwell facedown",
     "effect": "",
     "image-urls": {
       "small": "https://lorcana-api.com/images/fishbone_quill/fishbone_quill-small.png",
@@ -19,6 +19,6 @@
     },
     "name": "Fishbone Quill",
     "ink-cost": 3,
-    "flavor-text": "\"If you want to cross the bridge, my sweet, you've got to pay the toll.\" -Ursula",
+    "flavor-text": "\"If you want tot cross the bridge, my sweet, you've got to pay the toll.\" -Ursula",
     "rarity": "Rare"
   }

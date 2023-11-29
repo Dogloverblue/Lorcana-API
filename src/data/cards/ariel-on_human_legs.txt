@@ -27,7 +27,7 @@
       "foil": "https://lorcana-api.com/images/ariel/on_human_legs/ariel-on_human_legs-foil.png"
     },
     "name": "Ariel",
-    "flavor-text": "\"...\"",
+    "flavor-text": "\\\"...\\\"",
     "ink-cost": 4,
     "rarity": "Uncommon"
   }

@@ -17,7 +17,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
-    "body-text": "Challenger 2 (When challenging, this character get +2{strength}.)",
+    "body-text": "Challenger 2 When challenging, this character get +2{strength}.) ",
     "subtitle": "Forceful Duelist",
     "image-urls": {
       "small": "https://lorcana-api.com/images/captain_hook/forceful_duelist/captain_hook-forceful_duelist-small.png",

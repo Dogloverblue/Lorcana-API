@@ -15,7 +15,7 @@
     "set-code": "TFC",
     "abilities": {"Misdirection": "Whenever you play an action, chosen opposing character can't quest during their next turn."},
     "inkable": false,
-    "body-text": "Shift 5 (You may pay 5{ink} to play this on top of one of your characters named Mickey Mouse.)\nMISDIRECTION: Whenever you play an action, chosen opposing character can't quest during their next turn.",
+    "body-text": "Shift 5 (You may pay 5{ink} to play this on top of one of your characters named Mickey Mouse.) \nMISDIRECTION: Whenever you play an action, chosen opposing character can't quest during their next turn.",
     "subtitle": "Artful Rogue",
     "image-urls": {
       "small": "https://lorcana-api.com/images/mickey_mouse/artful_rogue/mickey_mouse-artful_rogue-small.png",

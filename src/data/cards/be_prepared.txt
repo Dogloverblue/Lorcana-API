@@ -7,8 +7,8 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": false,
-    "body-text": "(A character with cost 7 or more can {t} to sing this song for free.)\nBanish all characters.",
-    "effect": "Banish all characters.",
+    "body-text": "Banish all Characters.",
+    "effect": "Banish all Characters.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/be_prepared/be_prepared-small.png",
       "no-art": "https://lorcana-api.com/images/be_prepared/be_prepared-no-art.png",

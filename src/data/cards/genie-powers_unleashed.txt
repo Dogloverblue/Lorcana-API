@@ -18,7 +18,7 @@
     "set-code": "TFC",
     "abilities": {"Phenomenal Cosmic Power!": "Whenever this character quests, you may play an action with cost 5 or less for free."},
     "inkable": false,
-    "body-text": "Shift 6 (You may pay 6{ink} to play this on top of one of your characters named Genie.)\nEvasive (Only characters with Evasive can challenge this character.)\nPHENOMENAL COSMIC POWER!: Whenever this character quests, you may play an action with cost 5 or less for free.",
+    "body-text": "Shift 6 (You may pay 6{ink} to play this on top of one of your characters named Genie.) \nEvasive (Only characters with Evasive can challenge this character.) \nPHENOMENAL COSMIC POWER!: Whenever this character quests, you may play an action with cost 5 or less for free.",
     "subtitle": "Powers Unleashed",
     "image-urls": {
       "small": "https://lorcana-api.com/images/genie/powers_unleashed/genie-powers_unleashed-small.png",

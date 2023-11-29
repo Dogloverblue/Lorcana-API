@@ -1,5 +1,5 @@
 {
-    "lore-value": 1,
+    "lore-value": 0,
     "traits": [],
     "set": "The First Chapter",
     "card-number": 85,
@@ -27,6 +27,6 @@
     },
     "name": "Lady Tremaine",
     "ink-cost": 6,
-    "flavor-text": "\"If your chores are done, then clearly you don't have enough of them.\"",
+    "flavor-text": "\"If your chores are done, then clearly you...\"",
     "rarity": "Common"
   }

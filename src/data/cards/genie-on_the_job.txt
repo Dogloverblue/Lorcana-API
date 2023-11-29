@@ -15,7 +15,7 @@
     "set-code": "TFC",
     "abilities": {"Disappear": "When you play this character, you may return chosen character to their player's hand."},
     "inkable": false,
-    "body-text": "Evasive (Only characters with Evasive can challenge this character.)\nDISAPPEAR: When you play this character, you may return chosen character to their player's hand.",
+    "body-text": "Evasive (Only characters with Evasive can challenge this character.) \nDISAPPEAR: When you play this character, you may return chosen character to their player's hand.",
     "subtitle": "On the Job",
     "image-urls": {
       "small": "https://lorcana-api.com/images/genie/on_the_job/genie-on_the_job-small.png",

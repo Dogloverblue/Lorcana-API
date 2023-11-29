@@ -6,8 +6,8 @@
     "type": "Action - Song",
     "set-code": "TFC",
     "inkable": false,
-    "body-text": "(A character with cost 3 or more can {t} to sing this song for free.)\nReturn a character card from your discard to your hand.",
-    "effect": "Return a character card from your discard to your hand.",
+    "body-text": "Return a character card from your discard to your hand",
+    "effect": "Return a character card from your discard to your hand",
     "image-urls": {
       "small": "https://lorcana-api.com/images/part_of_your_world/part_of_your_world-small.png",
       "no-art": "https://lorcana-api.com/images/part_of_your_world/part_of_your_world-no-art.png",
@@ -18,6 +18,6 @@
     },
     "name": "Part Of Your World",
     "ink-cost": 3,
-    "flavor-text": "What would I give\nif I could live out of these waters?",
+    "flavor-text": "What would I give if I could live out of these waters?",
     "rarity": "Rare"
   }

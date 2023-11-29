@@ -7,8 +7,8 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": false,
-    "body-text": "(A character with cost 5 or more can {t} to sing this song for free.)\nEach player discards their hand and draws 7 cards.",
-    "effect": "Each player discards their hand and draws 7 cards.",
+    "body-text": "Each player discards their hand and draws 7.",
+    "effect": "Each player discards their hand and draws 7.",
     "image-urls": {
       "small": "https://lorcana-api.com/images/a_whole_new_world/a_whole_new_world-small.png",
       "no-art": "https://lorcana-api.com/images/a_whole_new_world/a_whole_new_world-no-art.png",

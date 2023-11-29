@@ -15,7 +15,7 @@
     "set-code": "TFC",
     "abilities": {"No Touchy!": "When this character is challenged and banished, you may banish the challenging character."},
     "inkable": false,
-    "body-text": "Ward (Opponents can't choose this character except to challenge.)\nNO TOUCHY!: When this character is challenged and banished, you may banish the challenging character.",
+    "body-text": "Ward (Opponents can't choose this character except to challenge.) \nNO TOUCHY!: When this character is challenged and banished, you may banish the challenging character.",
     "subtitle": "Temperamental Emperor",
     "image-urls": {
       "small": "https://lorcana-api.com/images/kuzco/temperamental_emperor/kuzco-temperamental_emperor-small.png",

@@ -6,8 +6,8 @@
     "type": "Action",
     "set-code": "TFC",
     "inkable": false,
-    "body-text": "Banish chosen character.",
-    "effect": "Banish chosen character.",
+    "body-text": "Banish chosen character",
+    "effect": "Banish chosen character",
     "image-urls": {
       "small": "https://lorcana-api.com/images/dragon_fire/dragon_fire-small.png",
       "no-art": "https://lorcana-api.com/images/dragon_fire/dragon_fire-no-art.png",
@@ -18,6 +18,6 @@
     },
     "name": "Dragon Fire",
     "ink-cost": 5,
-    "flavor-text": "Rare is the hero who can withstand a dragon's wrath.",
+    "flavor-text": "",
     "rarity": "Uncommon"
   }

@@ -1,5 +1,5 @@
 {
-    "traits": ["Evasive"],
+    "traits": ["Evasive (Only characters with Evasive can challenge this characer.)"],
     "set": "The First Chapter",
     "lore-value": 4,
     "card-number": 115,
@@ -15,7 +15,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
-    "body-text": "Evasive (Only characters with Evasive can challenge this character.)",
+    "body-text": "Evasive (Only characters with Evasive can challenge this characer.) (Only characters with Evasive can challenge this character.) ",
     "subtitle": "Brave Little Tailor",
     "image-urls": {
       "small": "https://lorcana-api.com/images/mickey_mouse/brave_little_tailor/mickey_mouse-brave_little_tailor-small.png",

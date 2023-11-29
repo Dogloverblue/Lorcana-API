@@ -26,7 +26,7 @@
       "foil": "https://lorcana-api.com/images/flounder/voice_of_reason/flounder-voice_of_reason-foil.png"
     },
     "name": "Flounder",
-    "flavor-text": "\"Excitement... adventure... danger lurking around every cor- AAAAAGGH!\"",
+    "flavor-text": "\"Excitment... adventure... danger lurking around ever cor- AAAAAGGH!\"",
     "ink-cost": 1,
     "rarity": "Common"
   }

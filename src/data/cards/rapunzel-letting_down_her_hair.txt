@@ -28,6 +28,6 @@
     },
     "name": "Rapunzel",
     "ink-cost": 6,
-    "flavor-text": "\"Who are you? And how did you find me?\"",
+    "flavor-text": "Who are you? And how did you find me?",
     "rarity": "Uncommon"
   }

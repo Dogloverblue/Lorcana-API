@@ -28,6 +28,6 @@
     },
     "name": "Ariel",
     "ink-cost": 4,
-    "flavor-text": "\"You want thingamabobs? I got twenty.\"",
+    "flavor-text": "You want thingamabobs? I got twenty.",
     "rarity": "Rare"
   }

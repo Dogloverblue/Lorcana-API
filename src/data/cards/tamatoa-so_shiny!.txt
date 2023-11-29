@@ -14,11 +14,11 @@
     ],
     "set-code": "TFC",
     "abilities": {
-      "What Have We Here?": "When you play this character and whenever he quests, you may return an item card from your discard to your hand.",
-      "Glam": "This character gets +1{lore} for each item you have in play."
+      "Glam": "This character gets +1{lore} for each item you have in play.",
+      "What Have We Here?": "When you play this character and whenever he quests, you may return an item card from your discard to your hand."
     },
     "inkable": true,
-    "body-text": "WHAT HAVE WE HERE?: When you play this character and whenever he quests, you may return an item card from your discard to your hand.\nGLAM: This character gets +1{lore} for each item you have in play.",
+    "body-text": "GLAM: This character gets +1{lore} for each item you have in play.\nWHAT HAVE WE HERE?: When you play this character and whenever he quests, you may return an item card from your discard to your hand.",
     "subtitle": "So Shiny!",
     "image-urls": {
       "small": "https://lorcana-api.com/images/tamatoa/so_shiny!/tamatoa-so_shiny!-small.png",

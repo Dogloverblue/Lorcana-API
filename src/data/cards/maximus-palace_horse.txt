@@ -1,5 +1,5 @@
 {
-    "lore-value": 1,
+    "lore-value": 0,
     "traits": [
       "Bodyguard",
       "Support"
@@ -18,7 +18,7 @@
     "set-code": "TFC",
     "abilities": {},
     "inkable": true,
-    "body-text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\nSupport (Whenever this character quests, you may add their {strength} to another chosen character's {strength} this turn.) ",
+    "body-text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) \nSupport (Whenever this character quests, you may add their {strength} to another chosen character's {strength} this turn.) ",
     "subtitle": "Palace Horse",
     "image-urls": {
       "small": "https://lorcana-api.com/images/maximus/palace_horse/maximus-palace_horse-small.png",

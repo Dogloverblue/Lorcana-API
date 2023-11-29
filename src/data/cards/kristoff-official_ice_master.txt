@@ -1,7 +1,7 @@
 {
     "traits": [],
     "set": "The First Chapter",
-    "lore-value": 2,
+    "lore-value": 0,
     "card-number": 182,
     "color": "Steel",
     "strength": 3,
@@ -26,7 +26,7 @@
       "foil": "https://lorcana-api.com/images/kristoff/official_ice_master/kristoff-official_ice_master-foil.png"
     },
     "name": "Kristoff",
-    "flavor-text": "Kristoff: \"You want to talk about a supply and demand problem? I sell ice for a living\" Anna: \"Ooh, that's a rough business to be in right now. I mean, that is really-ah, mm. That's unfortunate.\"",
+    "flavor-text": "Kristoff: \"You want to talk about a supply and demand problem? I sell ice for a living\" Anna: \"Ooh, that's a rough buisness to be in right now. I mean, that is really-ah, mm. That's unfortunate.\"",
     "ink-cost": 3,
     "rarity": "Common"
   }

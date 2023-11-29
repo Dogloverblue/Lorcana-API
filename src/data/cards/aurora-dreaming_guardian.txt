@@ -14,9 +14,9 @@
       "Princess"
     ],
     "set-code": "TFC",
-    "abilities": {"Protective Embrace": "Your other characters gain Ward. (Opponents can't choose them except to challenge.)"},
+    "abilities": {"Protective Embrace": "Your other character gain Ward. (Opponents can't choose them except to challenge)"},
     "inkable": true,
-    "body-text": "Shift 3 (You may pay 3{ink} to play this on top of one of your characters named Aurora.)\nPROTECTIVE EMBRACE: Your other characters gain Ward. (Opponents can't choose them except to challenge.)",
+    "body-text": "Shift 3 (You may pay 3{ink} to play this on top of one of your characters named Aurora.) \nPROTECTIVE EMBRACE: Your other character gain Ward. (Opponents can't choose them except to challenge)",
     "subtitle": "Dreaming Guardian",
     "image-urls": {
       "small": "https://lorcana-api.com/images/aurora/dreaming_guardian/aurora-dreaming_guardian-small.png",

@@ -1,5 +1,5 @@
 {
-    "lore-value": 1,
+    "lore-value": 0,
     "traits": [],
     "set": "The First Chapter",
     "card-number": 77,

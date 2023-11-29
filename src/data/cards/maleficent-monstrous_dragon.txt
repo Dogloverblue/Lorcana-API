@@ -29,5 +29,5 @@
     "name": "Maleficent",
     "ink-cost": 9,
     "flavor-text": "The ninth Rule of Villainy: When all else fails, turn into a dragon.",
-    "rarity": "Legendary"
+    "rarity": "Super Rare"
   }

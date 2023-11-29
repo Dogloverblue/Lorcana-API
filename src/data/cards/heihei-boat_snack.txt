@@ -26,7 +26,7 @@
       "foil": "https://lorcana-api.com/images/heihei/boat_snack/heihei-boat_snack-foil.png"
     },
     "name": "Heihei",
-    "flavor-text": "\"Sometimes, our strengths lie beneath the surface. Far beneath, in some cases...\"\n- Moana",
+    "flavor-text": "\\\"Sometimes, our strengths lie beneath the surface. Far beneath, in some cases...\\\" -Moana",
     "ink-cost": 1,
     "rarity": "Common"
   }

@@ -19,7 +19,7 @@
       "Rock The Boat": "When you play this character, deal 1 damage to each opposing character."
     },
     "inkable": true,
-    "body-text": "Shift 4 (You may pay 4{ink} to play this on top of one of your characters named Tinker Bell.)\nPUNY PIRATE!: During your turn, whenever this character banishes another charactere in a challenge, you may deal 2 damage to chosen opposing character.\nROCK THE BOAT: When you play this character, deal 1 damage to each opposing character.",
+    "body-text": "Shift 4 (You may pay 4{ink} to play this on top of one of your characters named Tinker Bell.) \nPUNY PIRATE!: During your turn, whenever this character banishes another charactere in a challenge, you may deal 2 damage to chosen opposing character.\nROCK THE BOAT: When you play this character, deal 1 damage to each opposing character.",
     "subtitle": "Giant Fairy",
     "image-urls": {
       "small": "https://lorcana-api.com/images/tinker_bell/giant_fairy/tinker_bell-giant_fairy-small.png",

@@ -27,7 +27,7 @@
       "foil": "https://lorcana-api.com/images/dr._facilier/charlatan/dr._facilier-charlatan-foil.png"
     },
     "name": "Dr. Facilier",
-    "flavor-text": "\"Enchantee. A tip of the hat from Dr. Facilier.\"",
+    "flavor-text": "\\\"Enchantee. A tip of the hat from Dr. Facilier.\\\"",
     "ink-cost": 2,
     "rarity": "Common"
   }
