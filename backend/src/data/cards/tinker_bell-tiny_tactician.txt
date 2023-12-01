@@ -1,0 +1,33 @@
+{
+    "lore-value": 1,
+    "traits": [],
+    "set": "The First Chapter",
+    "card-number": 194,
+    "color": "Steel",
+    "strength": 2,
+    "artist": "Grace Tran",
+    "willpower": 4,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Ally",
+      "Fairy"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Battle Plans": "{t} - Draw a card, then choose and discard a card."},
+    "inkable": true,
+    "body-text": "BATTLE PLANS: {t} - Draw a card, then choose and discard a card.",
+    "subtitle": "Tiny Tactician",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/tinker_bell/tiny_tactician/tinker_bell-tiny_tactician-small.png",
+      "no-art": "https://lorcana-api.com/images/tinker_bell/tiny_tactician/tinker_bell-tiny_tactician-no-art.png",
+      "large": "https://lorcana-api.com/images/tinker_bell/tiny_tactician/tinker_bell-tiny_tactician-large.png",
+      "art-crop": "https://lorcana-api.com/images/tinker_bell/tiny_tactician/tinker_bell-tiny_tactician-art-crop.png",
+      "medium": "https://lorcana-api.com/images/tinker_bell/tiny_tactician/tinker_bell-tiny_tactician-medium.png",
+      "foil": "https://lorcana-api.com/images/tinker_bell/tiny_tactician/tinker_bell-tiny_tactician-foil.png"
+    },
+    "name": "Tinker Bell",
+    "ink-cost": 3,
+    "flavor-text": "Sometimes all you need is a little tactical genius.",
+    "rarity": "Common"
+  }

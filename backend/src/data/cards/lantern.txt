@@ -1,0 +1,24 @@
+{
+    "set": "The First Chapter",
+    "card-number": 33,
+    "color": "Amber",
+    "artist": "Eri Welli",
+    "type": "Item",
+    "set-code": "TFC",
+    "abilities": {"Birthday Lights": "{t}- You play 1? less for the next character you play this turn"},
+    "inkable": false,
+    "body-text": "BIRTHDAY LIGHTS: {t}- You play 1? less for the next character you play this turn",
+    "effect": null,
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/lantern/lantern-small.png",
+      "no-art": "https://lorcana-api.com/images/lantern/lantern-no-art.png",
+      "large": "https://lorcana-api.com/images/lantern/lantern-large.png",
+      "art-crop": "https://lorcana-api.com/images/lantern/lantern-art-crop.png",
+      "medium": "https://lorcana-api.com/images/lantern/lantern-medium.png",
+      "foil": "https://lorcana-api.com/images/lantern/lantern-foil.png"
+    },
+    "name": "Lantern",
+    "ink-cost": 2,
+    "flavor-text": "Lanterns fill the sky on one special night, beacons of hope and love",
+    "rarity": "Rare"
+  }

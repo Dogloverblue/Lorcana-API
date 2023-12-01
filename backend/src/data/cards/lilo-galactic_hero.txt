@@ -1,0 +1,32 @@
+{
+    "lore-value": 2,
+    "traits": [],
+    "set": "The First Chapter",
+    "card-number": 184,
+    "color": "Steel",
+    "strength": 4,
+    "artist": "Jared Nickerl",
+    "willpower": 2,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Hero"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "body-text": "",
+    "subtitle": "Galactic Hero",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/lilo/galactic_hero/lilo-galactic_hero-small.png",
+      "no-art": "https://lorcana-api.com/images/lilo/galactic_hero/lilo-galactic_hero-no-art.png",
+      "large": "https://lorcana-api.com/images/lilo/galactic_hero/lilo-galactic_hero-large.png",
+      "art-crop": "https://lorcana-api.com/images/lilo/galactic_hero/lilo-galactic_hero-art-crop.png",
+      "medium": "https://lorcana-api.com/images/lilo/galactic_hero/lilo-galactic_hero-medium.png",
+      "foil": "https://lorcana-api.com/images/lilo/galactic_hero/lilo-galactic_hero-foil.png"
+    },
+    "name": "Lilo",
+    "ink-cost": 3,
+    "flavor-text": "\"Space. That's where the aliens come from. And also tourists!\"",
+    "rarity": "Uncommon"
+  }

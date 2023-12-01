@@ -1,0 +1,34 @@
+{
+    "traits": ["Challenger 2"],
+    "set": "The First Chapter",
+    "lore-value": 1,
+    "card-number": 174,
+    "color": "Steel",
+    "strength": 1,
+    "artist": "Marcell Berg",
+    "willpower": 2,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Villain",
+      "Pirate",
+      "Captain"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "body-text": "Challenger 2 When challenging, this character get +2{strength}.) ",
+    "subtitle": "Forceful Duelist",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/captain_hook/forceful_duelist/captain_hook-forceful_duelist-small.png",
+      "no-art": "https://lorcana-api.com/images/captain_hook/forceful_duelist/captain_hook-forceful_duelist-no-art.png",
+      "large": "https://lorcana-api.com/images/captain_hook/forceful_duelist/captain_hook-forceful_duelist-large.png",
+      "art-crop": "https://lorcana-api.com/images/captain_hook/forceful_duelist/captain_hook-forceful_duelist-art-crop.png",
+      "medium": "https://lorcana-api.com/images/captain_hook/forceful_duelist/captain_hook-forceful_duelist-medium.png",
+      "foil": "https://lorcana-api.com/images/captain_hook/forceful_duelist/captain_hook-forceful_duelist-foil.png"
+    },
+    "name": "Captain Hook",
+    "flavor-text": "He loves to make light of a foe's predicament",
+    "ink-cost": 1,
+    "rarity": "Common"
+  }

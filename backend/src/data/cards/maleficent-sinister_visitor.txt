@@ -1,0 +1,33 @@
+{
+    "lore-value": 2,
+    "traits": [],
+    "set": "The First Chapter",
+    "card-number": 150,
+    "color": "Sapphire",
+    "strength": 3,
+    "artist": "Nicholas Kole",
+    "willpower": 4,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Villain",
+      "Sorcerer"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "body-text": "",
+    "subtitle": "Sinister Visitor",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/maleficent/sinister_visitor/maleficent-sinister_visitor-small.png",
+      "no-art": "https://lorcana-api.com/images/maleficent/sinister_visitor/maleficent-sinister_visitor-no-art.png",
+      "large": "https://lorcana-api.com/images/maleficent/sinister_visitor/maleficent-sinister_visitor-large.png",
+      "art-crop": "https://lorcana-api.com/images/maleficent/sinister_visitor/maleficent-sinister_visitor-art-crop.png",
+      "medium": "https://lorcana-api.com/images/maleficent/sinister_visitor/maleficent-sinister_visitor-medium.png",
+      "foil": "https://lorcana-api.com/images/maleficent/sinister_visitor/maleficent-sinister_visitor-foil.png"
+    },
+    "name": "Maleficent",
+    "ink-cost": 4,
+    "flavor-text": "The princess shall indeed grow in grace and beauty, beloved by all who know her. But before the sun sets on her sixteenth birthday, she shall prick her finger on the spindle of a spinning wheel...",
+    "rarity": "Common"
+  }

@@ -1,0 +1,34 @@
+{
+    "lore-value": 2,
+    "traits": ["Rush"],
+    "set": "The First Chapter",
+    "card-number": 107,
+    "color": "Ruby",
+    "strength": 5,
+    "artist": "Cam Kendall",
+    "willpower": 5,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Villain",
+      "Pirate",
+      "Captain"
+    ],
+    "set-code": "TFC",
+    "abilities": {"You Coward!": "While this character is exerted, opposing characters with Evasive gain Reckless"},
+    "inkable": false,
+    "body-text": "Rush (This character can challenge the turn they're played.) \nYOU COWARD!: While this character is exerted, opposing characters with Evasive gain Reckless",
+    "subtitle": "Ruthless Pirate",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/captain_hook/ruthless_pirate/captain_hook-ruthless_pirate-small.png",
+      "no-art": "https://lorcana-api.com/images/captain_hook/ruthless_pirate/captain_hook-ruthless_pirate-no-art.png",
+      "large": "https://lorcana-api.com/images/captain_hook/ruthless_pirate/captain_hook-ruthless_pirate-large.png",
+      "art-crop": "https://lorcana-api.com/images/captain_hook/ruthless_pirate/captain_hook-ruthless_pirate-art-crop.png",
+      "medium": "https://lorcana-api.com/images/captain_hook/ruthless_pirate/captain_hook-ruthless_pirate-medium.png",
+      "foil": "https://lorcana-api.com/images/captain_hook/ruthless_pirate/captain_hook-ruthless_pirate-foil.png"
+    },
+    "name": "Captain Hook",
+    "ink-cost": 7,
+    "flavor-text": "\"You wouldn't dare fight old hook man-to-man!\"",
+    "rarity": "Rare"
+  }

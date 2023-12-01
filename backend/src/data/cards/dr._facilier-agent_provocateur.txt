@@ -1,0 +1,33 @@
+{
+    "lore-value": 3,
+    "traits": ["Shift 5"],
+    "set": "The First Chapter",
+    "card-number": 37,
+    "color": "Amethyst",
+    "strength": 4,
+    "artist": "Isaiah Mesq",
+    "willpower": 5,
+    "type": "Character",
+    "subtypes": [
+      "Floodborn",
+      "Villain",
+      "Sorcerer"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Into The Shadows": "Whenever one of your other characters is banished in a challenge, you may return that card to your hand."},
+    "inkable": false,
+    "body-text": "Shift 5 (You may pay 5{ink} to play this on top of one of your characters named Dr. Facilier.) \nINTO THE SHADOWS: Whenever one of your other characters is banished in a challenge, you may return that card to your hand.",
+    "subtitle": "Agent Provocateur",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/dr._facilier/agent_provocateur/dr._facilier-agent_provocateur-small.png",
+      "no-art": "https://lorcana-api.com/images/dr._facilier/agent_provocateur/dr._facilier-agent_provocateur-no-art.png",
+      "large": "https://lorcana-api.com/images/dr._facilier/agent_provocateur/dr._facilier-agent_provocateur-large.png",
+      "art-crop": "https://lorcana-api.com/images/dr._facilier/agent_provocateur/dr._facilier-agent_provocateur-art-crop.png",
+      "medium": "https://lorcana-api.com/images/dr._facilier/agent_provocateur/dr._facilier-agent_provocateur-medium.png",
+      "foil": "https://lorcana-api.com/images/dr._facilier/agent_provocateur/dr._facilier-agent_provocateur-foil.png"
+    },
+    "name": "Dr. Facilier",
+    "ink-cost": 7,
+    "flavor-text": "",
+    "rarity": "Rare"
+  }

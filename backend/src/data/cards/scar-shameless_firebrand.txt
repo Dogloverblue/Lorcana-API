@@ -1,0 +1,33 @@
+{
+    "lore-value": 1,
+    "traits": ["Shift 6"],
+    "set": "The First Chapter",
+    "card-number": 123,
+    "color": "Ruby",
+    "strength": 6,
+    "artist": "Jenna Gray",
+    "willpower": 6,
+    "type": "Character",
+    "subtypes": [
+      "Floodborn",
+      "Villain",
+      "King"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Rousing Speech": "When you play this character, ready your characters with cost 3 or less. They can't quest for the rest of this turn."},
+    "inkable": false,
+    "body-text": "Shift 6 (You may pay 6{ink} to play this on top of one of your characters named Scar.) \nROUSING SPEECH: When you play this character, ready your characters with cost 3 or less. They can't quest for the rest of this turn.",
+    "subtitle": "Shameless Firebrand",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/scar/shameless_firebrand/scar-shameless_firebrand-small.png",
+      "no-art": "https://lorcana-api.com/images/scar/shameless_firebrand/scar-shameless_firebrand-no-art.png",
+      "large": "https://lorcana-api.com/images/scar/shameless_firebrand/scar-shameless_firebrand-large.png",
+      "art-crop": "https://lorcana-api.com/images/scar/shameless_firebrand/scar-shameless_firebrand-art-crop.png",
+      "medium": "https://lorcana-api.com/images/scar/shameless_firebrand/scar-shameless_firebrand-medium.png",
+      "foil": "https://lorcana-api.com/images/scar/shameless_firebrand/scar-shameless_firebrand-foil.png"
+    },
+    "name": "Scar",
+    "ink-cost": 8,
+    "flavor-text": "\"The time has come to take what is ours!\"",
+    "rarity": "Rare"
+  }

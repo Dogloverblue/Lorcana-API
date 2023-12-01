@@ -1,2 +1,13 @@
+# Filesystem
+.DS_Store
+
 /bin/
 /target/
+
+# Gradle with IntelliJ / Android Studio
+.idea/
+.gradle/
+.settings/
+gradle/dolbyio
+**/build/
+local.properties

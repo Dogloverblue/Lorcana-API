@@ -1,0 +1,32 @@
+{
+    "lore-value": 1,
+    "traits": ["Support"],
+    "set": "The First Chapter",
+    "card-number": 156,
+    "color": "Sapphire",
+    "strength": 3,
+    "artist": "Leonardo Giammichele",
+    "willpower": 1,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Mentor"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "body-text": "Support (Whenever this character quests, you\u0003 may add their \u203b to another chosen character\u2018s \u203b this turn.) ",
+    "subtitle": "Trainer of Heroes",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/philoctetes/trainer_of_heroes/philoctetes-trainer_of_heroes-small.png",
+      "no-art": "https://lorcana-api.com/images/philoctetes/trainer_of_heroes/philoctetes-trainer_of_heroes-no-art.png",
+      "large": "https://lorcana-api.com/images/philoctetes/trainer_of_heroes/philoctetes-trainer_of_heroes-large.png",
+      "art-crop": "https://lorcana-api.com/images/philoctetes/trainer_of_heroes/philoctetes-trainer_of_heroes-art-crop.png",
+      "medium": "https://lorcana-api.com/images/philoctetes/trainer_of_heroes/philoctetes-trainer_of_heroes-medium.png",
+      "foil": "https://lorcana-api.com/images/philoctetes/trainer_of_heroes/philoctetes-trainer_of_heroes-foil.png"
+    },
+    "name": "Philoctetes",
+    "ink-cost": 2,
+    "flavor-text": "\"Ya gotta be the best to train the best. And I train the best!\"",
+    "rarity": "Common"
+  }

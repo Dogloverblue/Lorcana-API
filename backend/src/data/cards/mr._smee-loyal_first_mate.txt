@@ -1,0 +1,33 @@
+{
+    "lore-value": 1,
+    "traits": [],
+    "set": "The First Chapter",
+    "card-number": 15,
+    "color": "Amber",
+    "strength": 2,
+    "artist": "Kamil Murzyn / Eri Welli",
+    "willpower": 5,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Ally",
+      "Pirate"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "body-text": "",
+    "subtitle": "Loyal First Mate",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/mr._smee/loyal_first_mate/mr._smee-loyal_first_mate-small.png",
+      "no-art": "https://lorcana-api.com/images/mr._smee/loyal_first_mate/mr._smee-loyal_first_mate-no-art.png",
+      "large": "https://lorcana-api.com/images/mr._smee/loyal_first_mate/mr._smee-loyal_first_mate-large.png",
+      "art-crop": "https://lorcana-api.com/images/mr._smee/loyal_first_mate/mr._smee-loyal_first_mate-art-crop.png",
+      "medium": "https://lorcana-api.com/images/mr._smee/loyal_first_mate/mr._smee-loyal_first_mate-medium.png",
+      "foil": "https://lorcana-api.com/images/mr._smee/loyal_first_mate/mr._smee-loyal_first_mate-foil.png"
+    },
+    "name": "Mr. Smee",
+    "ink-cost": 3,
+    "flavor-text": "\"Mr. Smee is a kind, gentle soul who lives to bring comfort and aid to a twisted old villain. Now, what good is kindness like that?\"",
+    "rarity": "Common"
+  }

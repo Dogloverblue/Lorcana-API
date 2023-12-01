@@ -1,0 +1,24 @@
+{
+    "set": "The First Chapter",
+    "card-number": 202,
+    "color": "Steel",
+    "artist": "Kamil Murzyn",
+    "type": "Item",
+    "set-code": "TFC",
+    "abilities": {"CLANG!": "Banish this item - Chosen character can't challenge during their next turn."},
+    "inkable": true,
+    "body-text": "CLANG!: Banish this item - Chosen character can't challenge during their next turn.",
+    "effect": "",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/frying_pan/frying_pan-small.png",
+      "no-art": "https://lorcana-api.com/images/frying_pan/frying_pan-no-art.png",
+      "large": "https://lorcana-api.com/images/frying_pan/frying_pan-large.png",
+      "art-crop": "https://lorcana-api.com/images/frying_pan/frying_pan-art-crop.png",
+      "medium": "https://lorcana-api.com/images/frying_pan/frying_pan-medium.png",
+      "foil": "https://lorcana-api.com/images/frying_pan/frying_pan-foil.png"
+    },
+    "name": "Frying Pan",
+    "ink-cost": 2,
+    "flavor-text": "It's a fine piece of cookware, but as a weapon it's truly stunning.",
+    "rarity": "Uncommon"
+  }

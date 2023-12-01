@@ -1,0 +1,33 @@
+{
+    "lore-value": 1,
+    "traits": [],
+    "set": "The First Chapter",
+    "card-number": 89,
+    "color": "Emerald",
+    "strength": 3,
+    "artist": "Juan Diego Leon",
+    "willpower": 4,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Hero",
+      "Captain"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "body-text": "",
+    "subtitle": "Steamboat Pilot",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/mickey_mouse/steamboat_pilot/mickey_mouse-steamboat_pilot-small.png",
+      "no-art": "https://lorcana-api.com/images/mickey_mouse/steamboat_pilot/mickey_mouse-steamboat_pilot-no-art.png",
+      "large": "https://lorcana-api.com/images/mickey_mouse/steamboat_pilot/mickey_mouse-steamboat_pilot-large.png",
+      "art-crop": "https://lorcana-api.com/images/mickey_mouse/steamboat_pilot/mickey_mouse-steamboat_pilot-art-crop.png",
+      "medium": "https://lorcana-api.com/images/mickey_mouse/steamboat_pilot/mickey_mouse-steamboat_pilot-medium.png",
+      "foil": "https://lorcana-api.com/images/mickey_mouse/steamboat_pilot/mickey_mouse-steamboat_pilot-foil.png"
+    },
+    "name": "Mickey Mouse",
+    "ink-cost": 3,
+    "flavor-text": "On rivers throughout the Inklands, the little steamboat's whistle answers the cheery tunes of its pilot",
+    "rarity": "Common"
+  }

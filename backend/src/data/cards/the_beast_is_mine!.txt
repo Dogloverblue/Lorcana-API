@@ -1,0 +1,24 @@
+{
+    "set": "The First Chapter",
+    "card-number": 99,
+    "color": "Emerald",
+    "artist": "unknown",
+    "type": "Action",
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "body-text": "Chosen character gains Reckless during their next turn. (They can't quest and must challenge if able.)",
+    "effect": "Chosen character gains Reckless during their next turn. (They can't quest and must challenge if able.)",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/the_beast_is_mine!/the_beast_is_mine!-small.png",
+      "no-art": "https://lorcana-api.com/images/the_beast_is_mine!/the_beast_is_mine!-no-art.png",
+      "large": "https://lorcana-api.com/images/the_beast_is_mine!/the_beast_is_mine!-large.png",
+      "art-crop": "https://lorcana-api.com/images/the_beast_is_mine!/the_beast_is_mine!-art-crop.png",
+      "medium": "https://lorcana-api.com/images/the_beast_is_mine!/the_beast_is_mine!-medium.png",
+      "foil": "https://lorcana-api.com/images/the_beast_is_mine!/the_beast_is_mine!-foil.png"
+    },
+    "name": "The Beast Is Mine!",
+    "ink-cost": 3,
+    "flavor-text": "\\\"It's only fitting that the finest hunter get the foulest beast!\\\" -Gaston",
+    "rarity": "Uncommon"
+  }

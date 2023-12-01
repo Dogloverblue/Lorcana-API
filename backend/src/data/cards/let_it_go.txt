@@ -1,0 +1,23 @@
+{
+    "set": "The First Chapter",
+    "card-number": 163,
+    "color": "Sapphire",
+    "artist": "Milica Celikovic",
+    "type": "Action - Song",
+    "set-code": "TFC",
+    "inkable": true,
+    "body-text": "Put chosen character into their player's inkwell facedown and exerted",
+    "effect": "Put chosen character into their player's inkwell facedown and exerted",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/let_it_go/let_it_go-small.png",
+      "no-art": "https://lorcana-api.com/images/let_it_go/let_it_go-no-art.png",
+      "large": "https://lorcana-api.com/images/let_it_go/let_it_go-large.png",
+      "art-crop": "https://lorcana-api.com/images/let_it_go/let_it_go-art-crop.png",
+      "medium": "https://lorcana-api.com/images/let_it_go/let_it_go-medium.png",
+      "foil": "https://lorcana-api.com/images/let_it_go/let_it_go-foil.png"
+    },
+    "name": "Let It Go",
+    "ink-cost": 5,
+    "flavor-text": "It's time to see what I can do \nTo test the limits and break through",
+    "rarity": "Rare"
+  }

@@ -1,0 +1,24 @@
+{
+    "set": "The First Chapter",
+    "card-number": 64,
+    "color": "Amethyst",
+    "artist": "Amber Kommavongsa",
+    "type": "Action - Song",
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "body-text": "Draw 2 Cards",
+    "effect": "Draw 2 Cards",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/friends_on_the_other_side/friends_on_the_other_side-small.png",
+      "no-art": "https://lorcana-api.com/images/friends_on_the_other_side/friends_on_the_other_side-no-art.png",
+      "large": "https://lorcana-api.com/images/friends_on_the_other_side/friends_on_the_other_side-large.png",
+      "art-crop": "https://lorcana-api.com/images/friends_on_the_other_side/friends_on_the_other_side-art-crop.png",
+      "medium": "https://lorcana-api.com/images/friends_on_the_other_side/friends_on_the_other_side-medium.png",
+      "foil": "https://lorcana-api.com/images/friends_on_the_other_side/friends_on_the_other_side-foil.png"
+    },
+    "name": "Friends On The Other Side",
+    "ink-cost": 3,
+    "flavor-text": "The cards, the cards\\nthecards will tell...",
+    "rarity": "Common"
+  }

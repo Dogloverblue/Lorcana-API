@@ -1,0 +1,32 @@
+{
+    "lore-value": 2,
+    "traits": [],
+    "set": "The First Chapter",
+    "card-number": 9,
+    "color": "Amber",
+    "strength": 1,
+    "artist": "Dave Beauchene",
+    "willpower": 1,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Hero"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": false,
+    "body-text": "",
+    "subtitle": "Making a Wish",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/lilo/making_a_wish/lilo-making_a_wish-small.png",
+      "no-art": "https://lorcana-api.com/images/lilo/making_a_wish/lilo-making_a_wish-no-art.png",
+      "large": "https://lorcana-api.com/images/lilo/making_a_wish/lilo-making_a_wish-large.png",
+      "art-crop": "https://lorcana-api.com/images/lilo/making_a_wish/lilo-making_a_wish-art-crop.png",
+      "medium": "https://lorcana-api.com/images/lilo/making_a_wish/lilo-making_a_wish-medium.png",
+      "foil": "https://lorcana-api.com/images/lilo/making_a_wish/lilo-making_a_wish-foil.png"
+    },
+    "name": "Lilo",
+    "ink-cost": 1,
+    "flavor-text": "A falling star... I have to make a wish!",
+    "rarity": "Rare"
+  }

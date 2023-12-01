@@ -1,0 +1,32 @@
+{
+    "lore-value": 1,
+    "traits": ["Singer 4"],
+    "set": "The First Chapter",
+    "card-number": 19,
+    "color": "Amber",
+    "strength": 2,
+    "artist": "Isaiah Mesq",
+    "willpower": 2,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Ally"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "body-text": "Singer 4 (This character counts as cost 4 to sing songs.) ",
+    "subtitle": "Court Composer",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/sebastian/court_composer/sebastian-court_composer-small.png",
+      "no-art": "https://lorcana-api.com/images/sebastian/court_composer/sebastian-court_composer-no-art.png",
+      "large": "https://lorcana-api.com/images/sebastian/court_composer/sebastian-court_composer-large.png",
+      "art-crop": "https://lorcana-api.com/images/sebastian/court_composer/sebastian-court_composer-art-crop.png",
+      "medium": "https://lorcana-api.com/images/sebastian/court_composer/sebastian-court_composer-medium.png",
+      "foil": "https://lorcana-api.com/images/sebastian/court_composer/sebastian-court_composer-foil.png"
+    },
+    "name": "Sebastian",
+    "ink-cost": 2,
+    "flavor-text": "I should be writing symphonies, not tagging along after some headstrong teenager.",
+    "rarity": "Common"
+  }

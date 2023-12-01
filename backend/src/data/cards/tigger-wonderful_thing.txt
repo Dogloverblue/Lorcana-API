@@ -1,0 +1,32 @@
+{
+    "traits": ["Evasive (Only characters with Evasive can challenge this character.)"],
+    "set": "The First Chapter",
+    "lore-value": 0,
+    "card-number": 127,
+    "color": "Ruby",
+    "strength": 4,
+    "artist": "Kenneth Anderson",
+    "willpower": 4,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Tigger"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "body-text": "Evasive (Only characters with Evasive can challenge this character.) (Only characters with Evasive can challenge this character.) ",
+    "subtitle": "Wonderful Thing",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-small.png",
+      "no-art": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-no-art.png",
+      "large": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-large.png",
+      "art-crop": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-art-crop.png",
+      "medium": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-medium.png",
+      "foil": "https://lorcana-api.com/images/tigger/wonderful_thing/tigger-wonderful_thing-foil.png"
+    },
+    "name": "Tigger",
+    "flavor-text": "\\\"I'm the bounciest bouncer that ever bounced!\\\"",
+    "ink-cost": 6,
+    "rarity": "Uncommon"
+  }

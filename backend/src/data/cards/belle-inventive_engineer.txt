@@ -1,0 +1,34 @@
+{
+    "traits": [],
+    "set": "The First Chapter",
+    "lore-value": 2,
+    "card-number": 141,
+    "color": "Sapphire",
+    "strength": 2,
+    "artist": "Gabriel Romero / Pia Smith",
+    "willpower": 3,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Hero",
+      "Princess",
+      "Inventor"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Tinker": "Whenever this character quests, you pay 1? less for the next item you play this turn."},
+    "inkable": true,
+    "body-text": "TINKER: Whenever this character quests, you pay 1? less for the next item you play this turn.",
+    "subtitle": "Inventive Engineer",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/belle/inventive_engineer/belle-inventive_engineer-small.png",
+      "no-art": "https://lorcana-api.com/images/belle/inventive_engineer/belle-inventive_engineer-no-art.png",
+      "large": "https://lorcana-api.com/images/belle/inventive_engineer/belle-inventive_engineer-large.png",
+      "art-crop": "https://lorcana-api.com/images/belle/inventive_engineer/belle-inventive_engineer-art-crop.png",
+      "medium": "https://lorcana-api.com/images/belle/inventive_engineer/belle-inventive_engineer-medium.png",
+      "foil": "https://lorcana-api.com/images/belle/inventive_engineer/belle-inventive_engineer-foil.png"
+    },
+    "name": "Belle",
+    "flavor-text": "A little ingenuity and a lot of heart will take you far in this world.",
+    "ink-cost": 3,
+    "rarity": "Uncommon"
+  }

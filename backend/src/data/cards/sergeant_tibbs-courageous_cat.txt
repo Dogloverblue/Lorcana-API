@@ -1,0 +1,32 @@
+{
+    "lore-value": 1,
+    "traits": [],
+    "set": "The First Chapter",
+    "card-number": 124,
+    "color": "Ruby",
+    "strength": 2,
+    "artist": "Cary Godhey",
+    "willpower": 2,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Ally"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "body-text": "",
+    "subtitle": "Courageous Cat",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/sergeant_tibbs/courageous_cat/sergeant_tibbs-courageous_cat-small.png",
+      "no-art": "https://lorcana-api.com/images/sergeant_tibbs/courageous_cat/sergeant_tibbs-courageous_cat-no-art.png",
+      "large": "https://lorcana-api.com/images/sergeant_tibbs/courageous_cat/sergeant_tibbs-courageous_cat-large.png",
+      "art-crop": "https://lorcana-api.com/images/sergeant_tibbs/courageous_cat/sergeant_tibbs-courageous_cat-art-crop.png",
+      "medium": "https://lorcana-api.com/images/sergeant_tibbs/courageous_cat/sergeant_tibbs-courageous_cat-medium.png",
+      "foil": "https://lorcana-api.com/images/sergeant_tibbs/courageous_cat/sergeant_tibbs-courageous_cat-foil.png"
+    },
+    "name": "Sergeant Tibbs",
+    "ink-cost": 1,
+    "flavor-text": "Yes, sir. Righto, sir. Right away, sir!",
+    "rarity": "Common"
+  }
