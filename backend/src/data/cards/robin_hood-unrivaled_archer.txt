@@ -1,0 +1,35 @@
+{
+    "traits": [],
+    "set": "The First Chapter",
+    "lore-value": 2,
+    "card-number": 157,
+    "color": "Sapphire",
+    "strength": 4,
+    "artist": "John Loren",
+    "willpower": 4,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Hero"
+    ],
+    "set-code": "TFC",
+    "abilities": {
+      "Good Shot": "During your turn, this character has Evasive. (They can challenge characters with Evasive.)",
+      "Feed The Poor": "When you play this character, if an opponent has more cards in their hand than you, draw a card."
+    },
+    "inkable": true,
+    "body-text": "GOOD SHOT: During your turn, this character has Evasive. (They can challenge characters with Evasive.)\nFEED THE POOR: When you play this character, if an opponent has more cards in their hand than you, draw a card.",
+    "subtitle": "Unrivaled Archer",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/robin_hood/unrivaled_archer/robin_hood-unrivaled_archer-small.png",
+      "no-art": "https://lorcana-api.com/images/robin_hood/unrivaled_archer/robin_hood-unrivaled_archer-no-art.png",
+      "large": "https://lorcana-api.com/images/robin_hood/unrivaled_archer/robin_hood-unrivaled_archer-large.png",
+      "art-crop": "https://lorcana-api.com/images/robin_hood/unrivaled_archer/robin_hood-unrivaled_archer-art-crop.png",
+      "medium": "https://lorcana-api.com/images/robin_hood/unrivaled_archer/robin_hood-unrivaled_archer-medium.png",
+      "foil": "https://lorcana-api.com/images/robin_hood/unrivaled_archer/robin_hood-unrivaled_archer-foil.png"
+    },
+    "name": "Robin Hood",
+    "flavor-text": "\"We never rob. We just sort of borrow a bit from those who can afford it.\"",
+    "ink-cost": 6,
+    "rarity": "Super Rare"
+  }

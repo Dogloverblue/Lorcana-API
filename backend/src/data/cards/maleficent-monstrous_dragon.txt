@@ -1,0 +1,33 @@
+{
+    "lore-value": 2,
+    "traits": [],
+    "set": "The First Chapter",
+    "card-number": 113,
+    "color": "Ruby",
+    "strength": 7,
+    "artist": "Luis Huerta",
+    "willpower": 5,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Villain",
+      "Dragon"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Dragon Fire": "When you play this character, you may banish chosen opposing character."},
+    "inkable": true,
+    "body-text": "DRAGON FIRE: When you play this character, you may banish chosen opposing character.",
+    "subtitle": "Monstrous Dragon",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/maleficent/monstrous_dragon/maleficent-monstrous_dragon-small.png",
+      "no-art": "https://lorcana-api.com/images/maleficent/monstrous_dragon/maleficent-monstrous_dragon-no-art.png",
+      "large": "https://lorcana-api.com/images/maleficent/monstrous_dragon/maleficent-monstrous_dragon-large.png",
+      "art-crop": "https://lorcana-api.com/images/maleficent/monstrous_dragon/maleficent-monstrous_dragon-art-crop.png",
+      "medium": "https://lorcana-api.com/images/maleficent/monstrous_dragon/maleficent-monstrous_dragon-medium.png",
+      "foil": "https://lorcana-api.com/images/maleficent/monstrous_dragon/maleficent-monstrous_dragon-foil.png"
+    },
+    "name": "Maleficent",
+    "ink-cost": 9,
+    "flavor-text": "The ninth Rule of Villainy: When all else fails, turn into a dragon.",
+    "rarity": "Super Rare"
+  }

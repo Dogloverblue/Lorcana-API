@@ -1,0 +1,40 @@
+buildscript {
+    apply from: gradle.dolbyio.files.modules
+
+    dependencies {
+        classpath dolbyio.nexus.gradlePlugin
+        classpath dolbyio.sonarqube.gradlePlugin
+        classpath dolbyio.license.gradlePlugin
+        classpath dolbyio.kotlin.gradlePlugin
+    }
+}
+
+plugins {
+    alias(libs.plugins.shadowJar) apply false
+    alias(dolbyio.plugins.kotlin.jvm) apply false
+}
+
+allprojects {
+    repositories {
+        google()
+        maven { url = "https://maven.pkg.jetbrains.space/public/p/compose/dev" }
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+        mavenLocal()
+    }
+}
+
+subprojects {
+    task allDeps(type: DependencyReportTask) {}
+
+    if (isSourcesModule(it)) {
+        apply from: gradle.dolbyio.files.moduleSetup
+    }
+}
+
+// seems to be Railway's expected tasks
+[ "stage", "build" ].forEach {
+    tasks.register(it) {
+        dependsOn("shadowJar")
+    }
+}

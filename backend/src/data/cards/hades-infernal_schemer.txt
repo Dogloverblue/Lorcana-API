@@ -1,0 +1,33 @@
+{
+    "lore-value": 2,
+    "traits": [],
+    "set": "The First Chapter",
+    "card-number": 147,
+    "color": "Sapphire",
+    "strength": 3,
+    "artist": "Matthew Robert Davies",
+    "willpower": 6,
+    "type": "Character",
+    "subtypes": [
+      "Dreamborn",
+      "Villain",
+      "Deity"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Is There A Downside To This?": "When you play this character, you may put chosen opposing character into their player's inkwell facedown."},
+    "inkable": false,
+    "body-text": "IS THERE A DOWNSIDE TO THIS?: When you play this character, you may put chosen opposing character into their player's inkwell facedown.",
+    "subtitle": "Infernal Schemer",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/hades/infernal_schemer/hades-infernal_schemer-small.png",
+      "no-art": "https://lorcana-api.com/images/hades/infernal_schemer/hades-infernal_schemer-no-art.png",
+      "large": "https://lorcana-api.com/images/hades/infernal_schemer/hades-infernal_schemer-large.png",
+      "art-crop": "https://lorcana-api.com/images/hades/infernal_schemer/hades-infernal_schemer-art-crop.png",
+      "medium": "https://lorcana-api.com/images/hades/infernal_schemer/hades-infernal_schemer-medium.png",
+      "foil": "https://lorcana-api.com/images/hades/infernal_schemer/hades-infernal_schemer-foil.png"
+    },
+    "name": "Hades",
+    "ink-cost": 7,
+    "flavor-text": "\"He's gotta have a weakness, because everybody's got a weakness.\"",
+    "rarity": "Legendary"
+  }

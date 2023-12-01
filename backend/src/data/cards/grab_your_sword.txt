@@ -1,0 +1,24 @@
+{
+    "set": "The First Chapter",
+    "card-number": 198,
+    "color": "Steel",
+    "artist": "Peter Brockhammer",
+    "type": "Action - Song",
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": false,
+    "body-text": "Dead 2 damage to each opposing character.",
+    "effect": "Dead 2 damage to each opposing character.",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/grab_your_sword/grab_your_sword-small.png",
+      "no-art": "https://lorcana-api.com/images/grab_your_sword/grab_your_sword-no-art.png",
+      "large": "https://lorcana-api.com/images/grab_your_sword/grab_your_sword-large.png",
+      "art-crop": "https://lorcana-api.com/images/grab_your_sword/grab_your_sword-art-crop.png",
+      "medium": "https://lorcana-api.com/images/grab_your_sword/grab_your_sword-medium.png",
+      "foil": "https://lorcana-api.com/images/grab_your_sword/grab_your_sword-foil.png"
+    },
+    "name": "Grab Your Sword",
+    "ink-cost": 5,
+    "flavor-text": "We don't like\\nWhat we don't understand\\nIn fact, it scares us",
+    "rarity": "Rare"
+  }

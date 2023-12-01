@@ -1,0 +1,23 @@
+{
+    "set": "The First Chapter",
+    "card-number": 130,
+    "color": "Ruby",
+    "artist": "Luis Huerta",
+    "type": "Action",
+    "set-code": "TFC",
+    "inkable": false,
+    "body-text": "Banish chosen character",
+    "effect": "Banish chosen character",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/dragon_fire/dragon_fire-small.png",
+      "no-art": "https://lorcana-api.com/images/dragon_fire/dragon_fire-no-art.png",
+      "large": "https://lorcana-api.com/images/dragon_fire/dragon_fire-large.png",
+      "art-crop": "https://lorcana-api.com/images/dragon_fire/dragon_fire-art-crop.png",
+      "medium": "https://lorcana-api.com/images/dragon_fire/dragon_fire-medium.png",
+      "foil": "https://lorcana-api.com/images/dragon_fire/dragon_fire-foil.png"
+    },
+    "name": "Dragon Fire",
+    "ink-cost": 5,
+    "flavor-text": "",
+    "rarity": "Uncommon"
+  }

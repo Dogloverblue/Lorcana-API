@@ -1,0 +1,35 @@
+{
+    "lore-value": 2,
+    "traits": [],
+    "set": "The First Chapter",
+    "card-number": 82,
+    "color": "Emerald",
+    "strength": 5,
+    "artist": "Duyen Ngyen / Jared Nickerl",
+    "willpower": 5,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Villain",
+      "Alien",
+      "Pirate",
+      "Captain"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Pick Your Fights": "When you play this character and whenever he quests, chosen opposing character gains Reckless during their next turn."},
+    "inkable": true,
+    "body-text": "PICK YOUR FIGHTS: When you play this character and whenever he quests, chosen opposing character gains Reckless during their next turn.",
+    "subtitle": "Alien Pirate",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/john_silver/alien_pirate/john_silver-alien_pirate-small.png",
+      "no-art": "https://lorcana-api.com/images/john_silver/alien_pirate/john_silver-alien_pirate-no-art.png",
+      "large": "https://lorcana-api.com/images/john_silver/alien_pirate/john_silver-alien_pirate-large.png",
+      "art-crop": "https://lorcana-api.com/images/john_silver/alien_pirate/john_silver-alien_pirate-art-crop.png",
+      "medium": "https://lorcana-api.com/images/john_silver/alien_pirate/john_silver-alien_pirate-medium.png",
+      "foil": "https://lorcana-api.com/images/john_silver/alien_pirate/john_silver-alien_pirate-foil.png"
+    },
+    "name": "John Silver",
+    "ink-cost": 6,
+    "flavor-text": "\"Don't be too put off by this... hunk of hardware.\"",
+    "rarity": "Legendary"
+  }

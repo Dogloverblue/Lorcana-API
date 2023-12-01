@@ -1,6 +1,0 @@
-[
-  "cards",
-  "sets",
-  "colors",
-  "lists"
-]

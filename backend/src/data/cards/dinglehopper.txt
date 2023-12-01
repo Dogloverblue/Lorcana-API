@@ -1,0 +1,24 @@
+{
+    "set": "The First Chapter",
+    "card-number": 32,
+    "color": "Amber",
+    "artist": "Eri Welli",
+    "type": "Item",
+    "set-code": "TFC",
+    "abilities": {"Straighten Hair": "{t}- Remove up to 1 damage from chosen character"},
+    "inkable": true,
+    "body-text": "STRAIGHTEN HAIR: {t}- Remove up to 1 damage from chosen character",
+    "effect": null,
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/dinglehopper/dinglehopper-small.png",
+      "no-art": "https://lorcana-api.com/images/dinglehopper/dinglehopper-no-art.png",
+      "large": "https://lorcana-api.com/images/dinglehopper/dinglehopper-large.png",
+      "art-crop": "https://lorcana-api.com/images/dinglehopper/dinglehopper-art-crop.png",
+      "medium": "https://lorcana-api.com/images/dinglehopper/dinglehopper-medium.png",
+      "foil": "https://lorcana-api.com/images/dinglehopper/dinglehopper-foil.png"
+    },
+    "name": "Dinglehopper",
+    "ink-cost": 1,
+    "flavor-text": "Enjoy the finest of human hairstyles!",
+    "rarity": "Common"
+  }

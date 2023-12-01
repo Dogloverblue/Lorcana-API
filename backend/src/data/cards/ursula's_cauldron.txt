@@ -1,0 +1,24 @@
+{
+    "set": "The First Chapter",
+    "card-number": 67,
+    "color": "Amethyst",
+    "artist": "Oleg Yurkov",
+    "type": "Item",
+    "set-code": "TFC",
+    "abilities": {"Peer Into The Depths": "{t} - Look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom."},
+    "inkable": false,
+    "body-text": "PEER INTO THE DEPTHS: {t} - Look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom.",
+    "effect": "",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/ursula's_cauldron/ursula's_cauldron-small.png",
+      "no-art": "https://lorcana-api.com/images/ursula's_cauldron/ursula's_cauldron-no-art.png",
+      "large": "https://lorcana-api.com/images/ursula's_cauldron/ursula's_cauldron-large.png",
+      "art-crop": "https://lorcana-api.com/images/ursula's_cauldron/ursula's_cauldron-art-crop.png",
+      "medium": "https://lorcana-api.com/images/ursula's_cauldron/ursula's_cauldron-medium.png",
+      "foil": "https://lorcana-api.com/images/ursula's_cauldron/ursula's_cauldron-foil.png"
+    },
+    "name": "Ursula's Cauldron",
+    "ink-cost": 2,
+    "flavor-text": "\"Perfect for mixing potions and stealing voices.\"",
+    "rarity": "Uncommon"
+  }

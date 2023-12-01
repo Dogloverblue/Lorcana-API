@@ -1,0 +1,33 @@
+{
+    "lore-value": 1,
+    "traits": [],
+    "set": "The First Chapter",
+    "card-number": 106,
+    "color": "Ruby",
+    "strength": 6,
+    "artist": "Brian Weisz",
+    "willpower": 5,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Ally",
+      "Captain"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "body-text": "",
+    "subtitle": "Colonel's Lieutenant",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/captain/colonel's_lieutenant/captain-colonel's_lieutenant-small.png",
+      "no-art": "https://lorcana-api.com/images/captain/colonel's_lieutenant/captain-colonel's_lieutenant-no-art.png",
+      "large": "https://lorcana-api.com/images/captain/colonel's_lieutenant/captain-colonel's_lieutenant-large.png",
+      "art-crop": "https://lorcana-api.com/images/captain/colonel's_lieutenant/captain-colonel's_lieutenant-art-crop.png",
+      "medium": "https://lorcana-api.com/images/captain/colonel's_lieutenant/captain-colonel's_lieutenant-medium.png",
+      "foil": "https://lorcana-api.com/images/captain/colonel's_lieutenant/captain-colonel's_lieutenant-foil.png"
+    },
+    "name": "Captain",
+    "ink-cost": 5,
+    "flavor-text": "\"Barking signal. It's an alert. Report to the Colonel at once!\"",
+    "rarity": "Uncommon"
+  }

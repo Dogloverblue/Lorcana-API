@@ -1,0 +1,33 @@
+{
+    "traits": ["Challenger 2"],
+    "set": "The First Chapter",
+    "lore-value": 1,
+    "card-number": 38,
+    "color": "Amethyst",
+    "strength": 0,
+    "artist": "Grace Tran",
+    "willpower": 4,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Villain",
+      "Sorcerer"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "body-text": "Challenger 2 When challenging, this character get +2{strength}.) ",
+    "subtitle": "Charlatan",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/dr._facilier/charlatan/dr._facilier-charlatan-small.png",
+      "no-art": "https://lorcana-api.com/images/dr._facilier/charlatan/dr._facilier-charlatan-no-art.png",
+      "large": "https://lorcana-api.com/images/dr._facilier/charlatan/dr._facilier-charlatan-large.png",
+      "art-crop": "https://lorcana-api.com/images/dr._facilier/charlatan/dr._facilier-charlatan-art-crop.png",
+      "medium": "https://lorcana-api.com/images/dr._facilier/charlatan/dr._facilier-charlatan-medium.png",
+      "foil": "https://lorcana-api.com/images/dr._facilier/charlatan/dr._facilier-charlatan-foil.png"
+    },
+    "name": "Dr. Facilier",
+    "flavor-text": "\\\"Enchantee. A tip of the hat from Dr. Facilier.\\\"",
+    "ink-cost": 2,
+    "rarity": "Common"
+  }

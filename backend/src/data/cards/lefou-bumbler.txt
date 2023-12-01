@@ -1,0 +1,32 @@
+{
+    "traits": [],
+    "set": "The First Chapter",
+    "lore-value": 2,
+    "card-number": 8,
+    "color": "Amber",
+    "strength": 1,
+    "artist": "Andrey Chomak",
+    "willpower": 2,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Ally"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Loyal": "If you have a character named Gaston in play, you pay 1? less to play this character."},
+    "inkable": true,
+    "body-text": "LOYAL: If you have a character named Gaston in play, you pay 1? less to play this character.",
+    "subtitle": "Bumbler",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/lefou/bumbler/lefou-bumbler-small.png",
+      "no-art": "https://lorcana-api.com/images/lefou/bumbler/lefou-bumbler-no-art.png",
+      "large": "https://lorcana-api.com/images/lefou/bumbler/lefou-bumbler-large.png",
+      "art-crop": "https://lorcana-api.com/images/lefou/bumbler/lefou-bumbler-art-crop.png",
+      "medium": "https://lorcana-api.com/images/lefou/bumbler/lefou-bumbler-medium.png",
+      "foil": "https://lorcana-api.com/images/lefou/bumbler/lefou-bumbler-foil.png"
+    },
+    "name": "Lefou",
+    "flavor-text": "You need a good today to be a proper bad guy",
+    "ink-cost": 2,
+    "rarity": "Uncommon"
+  }

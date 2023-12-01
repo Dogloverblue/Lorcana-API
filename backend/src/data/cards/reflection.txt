@@ -1,0 +1,24 @@
+{
+    "set": "The First Chapter",
+    "card-number": 65,
+    "color": "Amethyst",
+    "artist": "Kevin Hong",
+    "type": "Action - Song",
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "body-text": "Look at the top 3 cards of your deck. Put them back on the top of your deck in any order.",
+    "effect": "Look at the top 3 cards of your deck. Put them back on the top of your deck in any order.",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/reflection/reflection-small.png",
+      "no-art": "https://lorcana-api.com/images/reflection/reflection-no-art.png",
+      "large": "https://lorcana-api.com/images/reflection/reflection-large.png",
+      "art-crop": "https://lorcana-api.com/images/reflection/reflection-art-crop.png",
+      "medium": "https://lorcana-api.com/images/reflection/reflection-medium.png",
+      "foil": "https://lorcana-api.com/images/reflection/reflection-foil.png"
+    },
+    "name": "Reflection",
+    "ink-cost": 1,
+    "flavor-text": "When will my reflection show\\nWho I am inside?",
+    "rarity": "Uncommon"
+  }

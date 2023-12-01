@@ -1,0 +1,33 @@
+{
+    "lore-value": 2,
+    "traits": ["Singer 5"],
+    "set": "The First Chapter",
+    "card-number": 3,
+    "color": "Amber",
+    "strength": 2,
+    "artist": "Javier Salas",
+    "willpower": 5,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "set-code": "TFC",
+    "abilities": {"A Wonderful Dream": "{t}- Remove up to 3 damage from chosen Princess character."},
+    "inkable": true,
+    "body-text": "Singer 5 (This character counts as cost 5 to sing songs.) \nA WONDERFUL DREAM: {t}- Remove up to 3 damage from chosen Princess character.",
+    "subtitle": "Gentle and Kind",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/cinderella/gentle_and_kind/cinderella-gentle_and_kind-small.png",
+      "no-art": "https://lorcana-api.com/images/cinderella/gentle_and_kind/cinderella-gentle_and_kind-no-art.png",
+      "large": "https://lorcana-api.com/images/cinderella/gentle_and_kind/cinderella-gentle_and_kind-large.png",
+      "art-crop": "https://lorcana-api.com/images/cinderella/gentle_and_kind/cinderella-gentle_and_kind-art-crop.png",
+      "medium": "https://lorcana-api.com/images/cinderella/gentle_and_kind/cinderella-gentle_and_kind-medium.png",
+      "foil": "https://lorcana-api.com/images/cinderella/gentle_and_kind/cinderella-gentle_and_kind-foil.png"
+    },
+    "name": "Cinderella",
+    "ink-cost": 4,
+    "flavor-text": "",
+    "rarity": "Uncommon"
+  }

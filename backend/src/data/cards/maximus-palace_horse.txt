@@ -1,0 +1,35 @@
+{
+    "lore-value": 0,
+    "traits": [
+      "Bodyguard",
+      "Support"
+    ],
+    "set": "The First Chapter",
+    "card-number": 10,
+    "color": "Amber",
+    "strength": 4,
+    "artist": "Brian Weisz",
+    "willpower": 5,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Ally"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "body-text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) \nSupport (Whenever this character quests, you may add their {strength} to another chosen character's {strength} this turn.) ",
+    "subtitle": "Palace Horse",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/maximus/palace_horse/maximus-palace_horse-small.png",
+      "no-art": "https://lorcana-api.com/images/maximus/palace_horse/maximus-palace_horse-no-art.png",
+      "large": "https://lorcana-api.com/images/maximus/palace_horse/maximus-palace_horse-large.png",
+      "art-crop": "https://lorcana-api.com/images/maximus/palace_horse/maximus-palace_horse-art-crop.png",
+      "medium": "https://lorcana-api.com/images/maximus/palace_horse/maximus-palace_horse-medium.png",
+      "foil": "https://lorcana-api.com/images/maximus/palace_horse/maximus-palace_horse-foil.png"
+    },
+    "name": "Maximus",
+    "ink-cost": 5,
+    "flavor-text": "",
+    "rarity": "Super Rare"
+  }

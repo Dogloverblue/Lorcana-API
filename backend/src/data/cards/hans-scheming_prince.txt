@@ -1,0 +1,33 @@
+{
+    "lore-value": 3,
+    "traits": [],
+    "set": "The First Chapter",
+    "card-number": 78,
+    "color": "Emerald",
+    "strength": 3,
+    "artist": "Massimiliano Narciso",
+    "willpower": 3,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Villain",
+      "Prince"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "body-text": "",
+    "subtitle": "Scheming Prince",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/hans/scheming_prince/hans-scheming_prince-small.png",
+      "no-art": "https://lorcana-api.com/images/hans/scheming_prince/hans-scheming_prince-no-art.png",
+      "large": "https://lorcana-api.com/images/hans/scheming_prince/hans-scheming_prince-large.png",
+      "art-crop": "https://lorcana-api.com/images/hans/scheming_prince/hans-scheming_prince-art-crop.png",
+      "medium": "https://lorcana-api.com/images/hans/scheming_prince/hans-scheming_prince-medium.png",
+      "foil": "https://lorcana-api.com/images/hans/scheming_prince/hans-scheming_prince-foil.png"
+    },
+    "name": "Hans",
+    "ink-cost": 4,
+    "flavor-text": "Rules are like older siblings. All they do is get in the way.",
+    "rarity": "Rare"
+  }

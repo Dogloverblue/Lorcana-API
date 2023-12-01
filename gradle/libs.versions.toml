@@ -1,0 +1,13 @@
+[versions]
+json = "20231013"
+fuzzywuzzy = "1.4.0"
+mysql-connector = "8.2.0"
+shadowJar = "7.+"
+
+[libraries]
+json = { module = "org.json:json", version.ref = "json" }
+fuzzywuzzy = { module = "me.xdrop:fuzzywuzzy", version.ref = "fuzzywuzzy" }
+mysql-connector-j = { module = "com.mysql:mysql-connector-j", version.ref = "mysql-connector" }
+
+[plugins]
+shadowJar = { id = "com.github.johnrengelman.shadow", version.ref = "shadowJar" }

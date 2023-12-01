@@ -1,1 +1,1 @@
-web: java -jar target/kinsta-java-hello-world-1.0-SNAPSHOT.jar
+web: java -jar backend/build/libs/backend-0.0.1-all.jar

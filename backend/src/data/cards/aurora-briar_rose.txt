@@ -1,0 +1,33 @@
+{
+    "lore-value": 1,
+    "traits": [],
+    "set": "The First Chapter",
+    "card-number": 138,
+    "color": "Sapphire",
+    "strength": 2,
+    "artist": "Rosalia Radosti",
+    "willpower": 5,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Disarming Beauty": "When you play this character, chosen character gets -2{strength} this turn."},
+    "inkable": true,
+    "body-text": "DISARMING BEAUTY: When you play this character, chosen character gets -2{strength} this turn.",
+    "subtitle": "Briar Rose",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/aurora/briar_rose/aurora-briar_rose-small.png",
+      "no-art": "https://lorcana-api.com/images/aurora/briar_rose/aurora-briar_rose-no-art.png",
+      "large": "https://lorcana-api.com/images/aurora/briar_rose/aurora-briar_rose-large.png",
+      "art-crop": "https://lorcana-api.com/images/aurora/briar_rose/aurora-briar_rose-art-crop.png",
+      "medium": "https://lorcana-api.com/images/aurora/briar_rose/aurora-briar_rose-medium.png",
+      "foil": "https://lorcana-api.com/images/aurora/briar_rose/aurora-briar_rose-foil.png"
+    },
+    "name": "Aurora",
+    "ink-cost": 4,
+    "flavor-text": "\"There was something strange about that voice. Too beautiful to be real...\" -Prince Phillip",
+    "rarity": "Common"
+  }

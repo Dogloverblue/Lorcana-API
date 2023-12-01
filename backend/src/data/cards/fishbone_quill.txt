@@ -1,0 +1,24 @@
+{
+    "set": "The First Chapter",
+    "card-number": 168,
+    "color": "Sapphire",
+    "artist": "Tanisha Cherislin",
+    "type": "Item",
+    "set-code": "TFC",
+    "abilities": {"Go Ahead And Sing": "{t} - Put any card from your hand into your inkwell facedown"},
+    "inkable": true,
+    "body-text": "GO AHEAD AND SING: {t} - Put any card from your hand into your inkwell facedown",
+    "effect": "",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/fishbone_quill/fishbone_quill-small.png",
+      "no-art": "https://lorcana-api.com/images/fishbone_quill/fishbone_quill-no-art.png",
+      "large": "https://lorcana-api.com/images/fishbone_quill/fishbone_quill-large.png",
+      "art-crop": "https://lorcana-api.com/images/fishbone_quill/fishbone_quill-art-crop.png",
+      "medium": "https://lorcana-api.com/images/fishbone_quill/fishbone_quill-medium.png",
+      "foil": "https://lorcana-api.com/images/fishbone_quill/fishbone_quill-foil.png"
+    },
+    "name": "Fishbone Quill",
+    "ink-cost": 3,
+    "flavor-text": "\"If you want tot cross the bridge, my sweet, you've got to pay the toll.\" -Ursula",
+    "rarity": "Rare"
+  }

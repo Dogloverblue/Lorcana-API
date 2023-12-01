@@ -1,0 +1,24 @@
+{
+    "set": "The First Chapter",
+    "card-number": 204,
+    "color": "Steel",
+    "artist": "Oleg Yurkov",
+    "type": "Item",
+    "set-code": "TFC",
+    "abilities": {"Quick Shot": "{t}, 2{ink} - Deal 1 damage to chosen character"},
+    "inkable": false,
+    "body-text": "QUICK SHOT: {t}, 2{ink} - Deal 1 damage to chosen character",
+    "effect": "",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/plasma_blaster/plasma_blaster-small.png",
+      "no-art": "https://lorcana-api.com/images/plasma_blaster/plasma_blaster-no-art.png",
+      "large": "https://lorcana-api.com/images/plasma_blaster/plasma_blaster-large.png",
+      "art-crop": "https://lorcana-api.com/images/plasma_blaster/plasma_blaster-art-crop.png",
+      "medium": "https://lorcana-api.com/images/plasma_blaster/plasma_blaster-medium.png",
+      "foil": "https://lorcana-api.com/images/plasma_blaster/plasma_blaster-foil.png"
+    },
+    "name": "Plasma Blaster",
+    "ink-cost": 3,
+    "flavor-text": "\"You don't have to say 'pew pew' when you use it, but it doesn't hurt.\" -Lilo, galactiv hero",
+    "rarity": "Rare"
+  }

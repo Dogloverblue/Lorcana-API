@@ -1,8 +1,0 @@
-[
-  "Ruby",
-  "Sapphire",
-  "Emerald",
-  "Amber",
-  "Amethyst",
-  "Steel"
-]

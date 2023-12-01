@@ -1,0 +1,24 @@
+{
+    "set": "The First Chapter",
+    "card-number": 196,
+    "color": "Steel",
+    "artist": "Grace Tran",
+    "type": "Action",
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "body-text": "Banish chosen item.",
+    "effect": "Banish chosen item.",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/break/break-small.png",
+      "no-art": "https://lorcana-api.com/images/break/break-no-art.png",
+      "large": "https://lorcana-api.com/images/break/break-large.png",
+      "art-crop": "https://lorcana-api.com/images/break/break-art-crop.png",
+      "medium": "https://lorcana-api.com/images/break/break-medium.png",
+      "foil": "https://lorcana-api.com/images/break/break-foil.png"
+    },
+    "name": "Break",
+    "ink-cost": 2,
+    "flavor-text": "No one throws a tantrum like a beast.",
+    "rarity": "Common"
+  }

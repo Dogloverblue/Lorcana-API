@@ -1,0 +1,33 @@
+{
+    "lore-value": 3,
+    "traits": [],
+    "set": "The First Chapter",
+    "card-number": 185,
+    "color": "Steel",
+    "strength": 8,
+    "artist": "Isaiah Mesq",
+    "willpower": 8,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Hero",
+      "Deity"
+    ],
+    "set-code": "TFC",
+    "abilities": {},
+    "inkable": true,
+    "body-text": "",
+    "subtitle": "Demigod",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/maui/demigod/maui-demigod-small.png",
+      "no-art": "https://lorcana-api.com/images/maui/demigod/maui-demigod-no-art.png",
+      "large": "https://lorcana-api.com/images/maui/demigod/maui-demigod-large.png",
+      "art-crop": "https://lorcana-api.com/images/maui/demigod/maui-demigod-art-crop.png",
+      "medium": "https://lorcana-api.com/images/maui/demigod/maui-demigod-medium.png",
+      "foil": "https://lorcana-api.com/images/maui/demigod/maui-demigod-foil.png"
+    },
+    "name": "Maui",
+    "ink-cost": 8,
+    "flavor-text": "When the gods gift you a boat, you take it. The boat's owner is optional.",
+    "rarity": "Rare"
+  }

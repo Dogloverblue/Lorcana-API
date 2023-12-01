@@ -1,0 +1,8 @@
+[
+  {
+    "The First Chapter": {
+      "set-code": "TFC",
+      "card-count": 204
+    }
+  }
+]

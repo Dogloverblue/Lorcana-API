@@ -1,0 +1,33 @@
+{
+    "lore-value": 0,
+    "traits": ["Singer 5"],
+    "set": "The First Chapter",
+    "card-number": 2,
+    "color": "Amber",
+    "strength": 2,
+    "artist": "Alice Pisoni",
+    "willpower": 3,
+    "type": "Character",
+    "subtypes": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "set-code": "TFC",
+    "abilities": {"Musical Debut": "When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest back in any order."},
+    "inkable": true,
+    "body-text": "Singer 5 (This character counts as cost 5 to sing songs.) \nMUSICAL DEBUT: When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest back in any order.",
+    "subtitle": "Spectacular Singer",
+    "image-urls": {
+      "small": "https://lorcana-api.com/images/ariel/spectacular_singer/ariel-spectacular_singer-small.png",
+      "no-art": "https://lorcana-api.com/images/ariel/spectacular_singer/ariel-spectacular_singer-no-art.png",
+      "large": "https://lorcana-api.com/images/ariel/spectacular_singer/ariel-spectacular_singer-large.png",
+      "art-crop": "https://lorcana-api.com/images/ariel/spectacular_singer/ariel-spectacular_singer-art-crop.png",
+      "medium": "https://lorcana-api.com/images/ariel/spectacular_singer/ariel-spectacular_singer-medium.png",
+      "foil": "https://lorcana-api.com/images/ariel/spectacular_singer/ariel-spectacular_singer-foil.png"
+    },
+    "name": "Ariel",
+    "ink-cost": 3,
+    "flavor-text": "",
+    "rarity": "Super Rare"
+  }
