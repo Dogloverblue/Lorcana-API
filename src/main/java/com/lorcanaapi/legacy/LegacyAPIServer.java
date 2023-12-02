@@ -24,7 +24,7 @@ import com.sun.net.httpserver.HttpServer;
 
 public class LegacyAPIServer {
 	static HttpServer server;
-	static File dir = new File("src//data");
+	static File dir = new File("src//data//legacy_data");
 	static HashMap<String, String> data;
     public static void startLegacyServer(HttpServer httpserver) throws Exception {
         Integer port = Integer.parseInt(
@@ -42,7 +42,7 @@ public class LegacyAPIServer {
     }
     
     public static String getAllNames() {
-    	File cardDirectory = new File("src//data//cards");
+    	File cardDirectory = new File("src//data//legacy_data//cards");
     	StringBuilder sb = new StringBuilder("[\n");
     	
     	for (File file : cardDirectory.listFiles()) {
@@ -76,7 +76,7 @@ public static void doMainSetupStuff() {
 		    	File[] fileListing = childdir.listFiles();
 				if (fileListing != null) {
 				    for (File child : fileListing) {
-		    	String content = new String(Files.readAllBytes(Paths.get("src//data/" + name + "/" + child.getName())), StandardCharsets.UTF_8);
+		    	String content = new String(Files.readAllBytes(Paths.get("src//data//legacy_data/" + name + "/" + child.getName())), StandardCharsets.UTF_8);
 		    	System.out.println("/" + name + "/" + child.getName().replaceFirst("[.][^.]+$", ""));
 		    	JSONHandler jh = new JSONHandler(content);
 		      server.createContext("/" + name + "/" + child.getName().replaceFirst("[.][^.]+$", ""), jh);
@@ -99,7 +99,7 @@ public static void doMainSetupStuff() {
 
 static void setupHashMap() {
   	data = new HashMap<String, String>();
-  	File dir = new File("src//data//cards");
+  	File dir = new File("src//data//legacy_data//cards");
   	File[] directoryListing = dir.listFiles();
   	 if (directoryListing != null) {
 		    for (File child : directoryListing) {

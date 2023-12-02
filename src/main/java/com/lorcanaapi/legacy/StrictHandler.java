@@ -15,7 +15,7 @@ import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
 
 public class StrictHandler implements HttpHandler {
-	File cardDirectory = new File("src//data//cards");
+	File cardDirectory = new File("src//data//legacy_data//cards");
 	static int StrictRequestCount = 0;
 	String response;
 	ArrayList<String> names = null;
