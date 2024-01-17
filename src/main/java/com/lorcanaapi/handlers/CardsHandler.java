@@ -38,7 +38,7 @@ public class CardsHandler implements HttpHandler {
 			pm = defaultParameterValues();
 			pem = defaultPrecursorValues();
 		}
-
+		System.out.println("HELP ME");
 		System.out.println("URL is " + t.getRequestURI().toString());
 
 		APIResponse response = new APIResponse("card_info");
