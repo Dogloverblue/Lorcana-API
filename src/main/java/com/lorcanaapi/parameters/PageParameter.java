@@ -21,7 +21,7 @@ public class PageParameter extends URLParameter {
 			System.out.println("the from is:" + response.getSqlQuery().getOrderBy() + " LIMIT " + startingPos + ", " + pageSize);
 			response.getSqlQuery().setOrderBy(response.getSqlQuery().getOrderBy() + " LIMIT " + startingPos + ", " + pageSize);
 		} catch (NumberFormatException e) {
-			e.printStackTrace();
+//			e.printStackTrace();
 			System.out.println("fail");
 			response.setErrored(true);
 			response.setErrorMessage("invalid_datatype", "'" + bit.getValue() + "' is not an integer! [Parameter=page]", 200);
