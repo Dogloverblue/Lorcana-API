@@ -43,7 +43,8 @@ public class CardsHandler implements HttpHandler {
 
 		APIResponse response = new APIResponse("card_info");
 		HashMap<String, String> paramMap = new HashMap<>();
-		String url = t.getRequestURI().toString().replace("'", "''");
+		String url = t.getRequestURI().toString().replace("%27", "%27%27");
+		
 		String[] precursors = { "fetch", "all" };
 
 		boolean foundPrecursor = false;
