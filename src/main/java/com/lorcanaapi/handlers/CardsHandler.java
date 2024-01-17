@@ -43,7 +43,7 @@ public class CardsHandler implements HttpHandler {
 
 		APIResponse response = new APIResponse("card_info");
 		HashMap<String, String> paramMap = new HashMap<>();
-		String url = t.getRequestURI().toString();
+		String url = t.getRequestURI().toString().replace("'", "''");
 		String[] precursors = { "fetch", "all" };
 
 		boolean foundPrecursor = false;
@@ -93,7 +93,9 @@ public class CardsHandler implements HttpHandler {
 				}
 			}
 		}
-//		System.out.println("SQL Query is " + response.getSqlQuery().getQuery());
+		if (response.isErrored()) {
+			System.out.println("SQL Query is " + response.getSqlQuery().getQuery());
+		}
 //		System.out.println("Bit is " + bit);                                                                                                                              
 //		System.out.println("REPONSE IS " + response.getResponse());     
 		TextRequestCount++;
