@@ -29,7 +29,7 @@ CREATE TABLE `set_info` (
   `Set_ID` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
   `Set_Num` int(11) NOT NULL AUTO_INCREMENT,
   PRIMARY KEY (`Set_Num`)
-) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -38,8 +38,9 @@ CREATE TABLE `set_info` (
 
 LOCK TABLES `set_info` WRITE;
 /*!40000 ALTER TABLE `set_info` DISABLE KEYS */;
-INSERT INTO `set_info` VALUES ('The First Chapter','2023-08-18',204,'TFC',1)
-('Rise of The Floodborn','2023-11-17',204,'RFB',2);
+INSERT INTO `set_info` VALUES ('The First Chapter','2023-08-18',204,'TFC',1),
+('Rise of The Floodborn','2023-11-17',204,'ROF',2),
+('Into the Inklands','2024-02-23',204,'INK',3);
 /*!40000 ALTER TABLE `set_info` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -52,4 +53,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2024-01-11 18:32:24
+-- Dump completed on 2024-02-18 19:14:12
