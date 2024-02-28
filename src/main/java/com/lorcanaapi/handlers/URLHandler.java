@@ -2,6 +2,7 @@ package com.lorcanaapi.handlers;
 import java.io.IOException;
 import java.io.OutputStream;
 import java.nio.charset.StandardCharsets;
+import java.util.Collection;
 import java.util.HashMap;
 
 import com.lorcanaapi.APIResponse;
@@ -33,10 +34,10 @@ public class URLHandler implements HttpHandler{
 
 		APIResponse response = new APIResponse(sqlTable);
 		HashMap<String, String> paramMap = new HashMap<>();
-		String url = t.getRequestURI().toString().replace("%27", "%27%27");
+		String url = java.net.URLDecoder.decode(t.getRequestURI().toString(), StandardCharsets.UTF_8.name()).toString().replace("'", "''");
 		System.out.println("URL IS" + url);
 		
-		String[] precursors = { "fetch", "all" };
+		Collection<String> precursors = precursorManager.getAllPrecursors();
 
 		boolean foundPrecursor = false;
 		String precursorString = "";
