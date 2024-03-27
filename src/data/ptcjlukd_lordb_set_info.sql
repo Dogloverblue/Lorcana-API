@@ -1,4 +1,4 @@
--- MySQL dump 10.13  Distrib 8.0.34, for Win64 (x86_64)
+-- MySQL dump 10.13  Distrib 8.0.36, for Linux (x86_64)
 --
 -- Host: mysql.anaxanet.com    Database: ptcjlukd_lordb
 -- ------------------------------------------------------
@@ -38,7 +38,8 @@ CREATE TABLE `set_info` (
 
 LOCK TABLES `set_info` WRITE;
 /*!40000 ALTER TABLE `set_info` DISABLE KEYS */;
-INSERT INTO `set_info` VALUES ('The First Chapter','2023-08-18',204,'TFC',1),
+INSERT INTO `set_info` VALUES 
+('The First Chapter','2023-08-18',204,'TFC',1),
 ('Rise of The Floodborn','2023-11-17',204,'ROF',2),
 ('Into the Inklands','2024-02-23',204,'INK',3);
 /*!40000 ALTER TABLE `set_info` ENABLE KEYS */;
@@ -53,4 +54,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2024-02-18 19:14:12
+-- Dump completed on 2024-03-27 16:05:02
