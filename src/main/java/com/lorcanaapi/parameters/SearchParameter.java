@@ -16,20 +16,15 @@ public class SearchParameter extends URLParameter {
 		super(parameterKey, executionPriority);
 	}
 
-	String[] seperators = { "=", "!=", "<", ">", "<=", ">=" };
+	String[] seperators = { "=", "!=", "<", ">", "<=", ">=", "~"};
 
 	@Override
 	public void modifyReponse(URIBit bit, APIResponse response) {
 		try {
 			StringBuilder where = new StringBuilder("WHERE ");
 			String uri = bit.toString().toLowerCase().replace("search=", "");
-			uri = uri.replace("%3c", "<");
-			uri = uri.replace("%3e", ">");
-			uri = uri.replace("%7c", "|");
-			uri = uri.replace("%28", "(");
-			uri = uri.replace("%29", ")");
-			System.out.println("Bit is:" + bit);
-			System.out.println("URI is:" + uri);
+//			System.out.println("Bit is:" + bit);
+//			System.out.println("URI is:" + uri);
 			int i = 0;
 			for (String thing : uri.split(";")) {
 				i++;
@@ -59,6 +54,16 @@ public class SearchParameter extends URLParameter {
 									|| thing.charAt(thing.indexOf(sep) - 1) == '!') {
 								continue;
 							}
+						}
+						
+						
+						if (sep.equals("~")) {
+							String[] splt = thing.split("~");
+							if (i > 1) {
+								where.append(logicString + " ");
+							}
+							where.append(splt[0] + " LIKE '%" + splt[1] + "%' ");
+							continue;
 						}
 						String[] splt = thing.split(sep);
 						// may want to consider not quote numbers
