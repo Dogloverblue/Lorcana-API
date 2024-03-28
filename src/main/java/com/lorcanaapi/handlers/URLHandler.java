@@ -31,6 +31,7 @@ public class URLHandler implements HttpHandler{
 	@Override
 	public void handle(HttpExchange t) throws IOException {
 		System.out.println("URL is " + t.getRequestURI().toString());
+		StatisticsHandler.incrementHandlerCount(handlerName);
 
 		APIResponse response = new APIResponse(sqlTable);
 		HashMap<String, String> paramMap = new HashMap<>();

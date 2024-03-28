@@ -6,6 +6,7 @@ import java.util.Optional;
 
 import com.lorcanaapi.handlers.CardsHandler;
 import com.lorcanaapi.handlers.SetsHandler;
+import com.lorcanaapi.handlers.StatisticsHandler;
 import com.lorcanaapi.legacy.LegacyAPIServer;
 import com.lorcanaapi.parameters.MandatorySQLExecutor;
 import com.sun.net.httpserver.HttpServer;
@@ -28,6 +29,7 @@ public class APIServer {
 			
 			server.createContext("/cards", new CardsHandler());
 			server.createContext("/sets", new SetsHandler());
+			server.createContext("/stats", new StatisticsHandler());
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
