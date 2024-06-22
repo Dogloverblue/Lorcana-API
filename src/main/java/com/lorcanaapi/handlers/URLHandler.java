@@ -59,7 +59,7 @@ public class URLHandler implements HttpHandler{
 		if (foundPrecursor == false) {
 //			System.out.println("Founbdnt");
 			response.setErrored(true);
-			response.setErrorMessage("invalid_url", "Invalid URL! The current URLs avaliable for /cards/ is "
+			response.setErrorMessage("invalid_url", "Invalid URL! The current URLs avaliable for /" + handlerName + "/ is "
 					+ precursorString.substring(0, precursorString.length() - 2), 404);
 		} else {
 

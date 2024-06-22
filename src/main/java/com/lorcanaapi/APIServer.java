@@ -4,11 +4,13 @@ import java.io.IOException;
 import java.net.InetSocketAddress;
 import java.util.Optional;
 
+import com.lorcanaapi.handlers.BulkHandler;
 import com.lorcanaapi.handlers.CardsHandler;
 import com.lorcanaapi.handlers.SetsHandler;
 import com.lorcanaapi.handlers.StatisticsHandler;
 import com.lorcanaapi.legacy.LegacyAPIServer;
 import com.lorcanaapi.parameters.MandatorySQLExecutor;
+import com.lorcanaapi.precursors.bulkhandler.BulkCardsPrecursor;
 import com.sun.net.httpserver.HttpServer;
 
 public class APIServer {
@@ -29,6 +31,7 @@ public class APIServer {
 			
 			server.createContext("/cards", new CardsHandler());
 			server.createContext("/sets", new SetsHandler());
+			server.createContext("/bulk", new BulkHandler());
 			server.createContext("/stats", new StatisticsHandler());
 		} catch (IOException e) {
 			e.printStackTrace();

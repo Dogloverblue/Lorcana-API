@@ -55,7 +55,8 @@ public class MandatorySQLExecutor extends URLParameter {
 	   static String USER;
 	   static String PASS;
 	   static String errorCause;
-	public JSONArray getSQLResponseAsJSON(String sqlCommand) {
+	   
+	public static JSONArray getSQLResponseAsJSON(String sqlCommand) {
 		 try(Connection conn = DriverManager.getConnection(DB_URL, USER, PASS);
 		         Statement stmt = conn.createStatement();
 		      ) {		      
@@ -73,7 +74,7 @@ public class MandatorySQLExecutor extends URLParameter {
 			 return null;
 		 }
 	}
-	public JSONArray resultSetToJSONArray(ResultSet resultSet) {
+	public static JSONArray resultSetToJSONArray(ResultSet resultSet) {
 		try {
 		ResultSetMetaData md = resultSet.getMetaData();
 		int numCols = md.getColumnCount();
