@@ -5,9 +5,11 @@ import com.lorcanaapi.parameters.DisplayOnlyParameter;
 import com.lorcanaapi.parameters.FuzzyMinimunParameter;
 import com.lorcanaapi.parameters.FuzzyParameter;
 import com.lorcanaapi.parameters.FuzzyTestParemeter;
+import com.lorcanaapi.parameters.OrderByParameter;
 import com.lorcanaapi.parameters.PageParameter;
 import com.lorcanaapi.parameters.PageSizeParameter;
 import com.lorcanaapi.parameters.SearchParameter;
+import com.lorcanaapi.parameters.SortDirectionParameter;
 import com.lorcanaapi.parameters.StrictParameter;
 import com.lorcanaapi.precursors.AllPrecursor;
 import com.lorcanaapi.precursors.FetchPrecursor;
@@ -28,6 +30,8 @@ public class CardsHandler extends URLHandler implements HttpHandler {
 				new PageParameter("page", -1),
 				new DisplayOnlyParameter("displayonly", -1), 
 				new StrictParameter("strict", -1, "fetch"),
+				new OrderByParameter("orderby", -1),
+				new SortDirectionParameter("sortdirection", -1),
 				new FuzzyParameter("fuzzy", -1, "fetch"), 
 				new FuzzyMinimunParameter("fuzzymin", -1, "fetch"),
 				new FuzzyTestParemeter("fuzzytest", -1));
