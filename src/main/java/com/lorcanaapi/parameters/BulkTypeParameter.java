@@ -3,11 +3,13 @@ package com.lorcanaapi.parameters;
 import java.time.Duration;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
+import java.util.ArrayList;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
 import org.json.JSONArray;
+import org.json.JSONObject;
 
 import com.lorcanaapi.APIResponse;
 import com.lorcanaapi.URIBit;
@@ -51,6 +53,12 @@ class BulkParameterThread extends Thread {
 		}
 		return cards;
 	}
+	
+	private static ArrayList<String> cardNames = new ArrayList<>();
+	
+	public static ArrayList<String> getCardNames() {
+		return cardNames;
+	}
 
 	private static JSONArray sets;
 
@@ -85,7 +93,21 @@ class BulkParameterThread extends Thread {
 
 				cards = MandatorySQLExecutor.getSQLResponseAsJSON("select * from card_info");
 				sets = MandatorySQLExecutor.getSQLResponseAsJSON("select * from set_info");
+				
 				System.out.println("fetching complete");
+				
+				
+				ArrayList<String> cardNamesTemp = new ArrayList<String>();
+				try {
+				for (int i = 0 ; i < cards.length(); i++) {
+			        JSONObject jo = cards.getJSONObject(i);
+			        String name = jo.getString("Name");
+			        cardNamesTemp.add(name);
+				}
+				cardNames = cardNamesTemp;
+				} catch(Exception e) {
+					e.printStackTrace();
+				}
 
 			}
 
@@ -93,4 +115,6 @@ class BulkParameterThread extends Thread {
 		
 
 	}
+
+
 }

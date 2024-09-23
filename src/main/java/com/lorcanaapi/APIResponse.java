@@ -6,6 +6,8 @@ public class APIResponse {
 	
 	protected String response;
 	protected int pageSize = 50;
+	// TODO change to an enum and eliminated the "DONOTEFETCH" garbage
+	protected boolean singleResponse = false;
 	private boolean isErrored = false;
 	private ErrorMessageResponse errorMessage = new ErrorMessageResponse("should_never_see_this_error", "If you see this message, you have encountered a bug... Please contact the developer", -1);
 	private SQLQuery sqlQuery = new SQLQuery();
@@ -42,6 +44,12 @@ public class APIResponse {
 		pageSize = size;
 	}
 	
+	public boolean isSingleResponse() {
+		return singleResponse;
+	}
+	public void setSingleResponse(boolean singleResponse) {
+		this.singleResponse = singleResponse;
+	}
 
 	public String getReference() {
 		return reference;

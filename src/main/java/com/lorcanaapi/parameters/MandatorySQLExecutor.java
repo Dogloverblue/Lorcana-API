@@ -42,8 +42,12 @@ public class MandatorySQLExecutor extends URLParameter {
 			response.setErrorMessage("invalid_column", errorCause, 400);
 			return;
 		}
-		
-		response.setResponse(getSQLResponseAsJSON(response.getSqlQuery().getQuery()).toString());
+		String responseString =getSQLResponseAsJSON(response.getSqlQuery().getQuery()).toString();
+		if (!response.isSingleResponse()) {
+		response.setResponse(responseString);
+		} else {
+			response.setResponse(responseString.substring(1, responseString.length() - 1));
+		}
 	}
 
 	public static void setSQLCreddentials(String SQLDBURL, String SQLUser, String SQLPass) {
