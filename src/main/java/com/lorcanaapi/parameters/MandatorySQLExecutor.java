@@ -65,7 +65,7 @@ public class MandatorySQLExecutor extends URLParameter {
 		         Statement stmt = conn.createStatement();
 		      ) {		      
 //		         String sql = "USE lorcanaapi;";
-			 	String sql = "USE ptcjlukd_lordb;";
+			 	String sql = "USE sys;";
 //		         System.out.println(stmt.executeUpdate(sql));
 		         stmt.executeUpdate(sql);
 		         ResultSet set = stmt.executeQuery(sqlCommand);
