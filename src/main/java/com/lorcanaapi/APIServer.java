@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.net.InetSocketAddress;
 import java.util.Optional;
 
+import com.lorcanaapi.handlers.AdminHandler;
 import com.lorcanaapi.handlers.BulkHandler;
 import com.lorcanaapi.handlers.CardsHandler;
 import com.lorcanaapi.handlers.PostHandler;
@@ -35,6 +36,7 @@ public class APIServer {
 			server.createContext("/bulk", new BulkHandler());
 			server.createContext("/stats", new StatisticsHandler());
 			server.createContext("/post", new PostHandler());
+			server.createContext("/admin", new AdminHandler());
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
