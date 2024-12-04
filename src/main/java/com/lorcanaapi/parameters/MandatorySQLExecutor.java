@@ -77,6 +77,21 @@ public class MandatorySQLExecutor extends URLParameter {
         return url;
     }
 
+
+	public static Statement getStatement() {
+		try {
+			String newURL = getModifedDatabaseURL(DB_URL, "sys");
+			Connection conn = DriverManager.getConnection(newURL, USER, PASS);
+			Statement stmt = conn.createStatement();
+			return stmt;
+		} catch (SQLException e) {
+			System.out.println("ERROR");
+			errorCause = e.getLocalizedMessage();
+			e.printStackTrace();
+			return null;
+		}
+	}
+
 	/**Gets a prepared statemend, so that SQL can be run securely. Looking at you over there mr firefox/dogloverblue*/
 	public static PreparedStatement getPreparedStatement(String sqlCommand) {
 		try {

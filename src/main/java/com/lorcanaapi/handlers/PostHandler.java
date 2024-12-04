@@ -8,6 +8,7 @@ import java.security.NoSuchAlgorithmException;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
+import java.sql.Statement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Timestamp;
@@ -205,6 +206,9 @@ public class PostHandler extends URLHandler {
             case "removesubmissionsfromuser":
                 postRemoveSubmissionsFromUser(t);
                 break;
+            case "mergedatabase":
+                postMergeDatabase(t);
+                break;
             default:
                 sendResponse(t, "ERROR: Please specifiy post/add, post/modify, or post/delete");
                 return;
@@ -212,12 +216,43 @@ public class PostHandler extends URLHandler {
 
     }
 
+    private void postMergeDatabase(HttpExchange t) throws IOException {
+        String requestBody = new String(t.getRequestBody().readAllBytes(), StandardCharsets.UTF_8);
+        if (!isNormalAndAuthed(t, requestBody)) {
+            return;
+        }
+        replaceCardInfoData(t);
+    }
 
+    private void replaceCardInfoData(HttpExchange t) throws IOException {
+        String truncateSQL = "TRUNCATE TABLE card_info;";
+        String insertSQL = "INSERT INTO card_info (Name, Type, Cost, Inkable, Color, Classifications, Body_Text, Abilities, Flavor_Text, Strength, Willpower, Lore, Move_Cost, Rarity, Artist, Franchise, Set_Name, Set_Num, Set_ID, Image, Card_Variants, Card_Num, Unique_ID, Date_Added, Date_Modified, Gamemode) "
+                +
+                "SELECT Name, Type, Cost, Inkable, Color, Classifications, Body_Text, Abilities, Flavor_Text, Strength, Willpower, Lore, Move_Cost, Rarity, Artist, Franchise, Set_Name, Set_Num, Set_ID, Image, Card_Variants, Card_Num, Unique_ID, Date_Added, Date_Modified, Gamemode "
+                +
+                "FROM card_info_submissions;";
+        String updateSQL = "UPDATE card_info_submissions SET Submitter_Token_Hash = NULL;";
 
-    
+        Statement statement = MandatorySQLExecutor.getStatement();
+        try {
+            statement.executeUpdate(truncateSQL);
+
+            statement.executeUpdate(insertSQL);
+
+            statement.executeUpdate(updateSQL);
+
+        } catch (SQLException e) {
+            e.printStackTrace();
+            sendResponse(t, "failure");
+        }
+
+        sendResponse(t, "success");
+
+    }
 
     private boolean isAdminAuthed(String token) {
-        JSONArray dbresponse = MandatorySQLExecutor.getSQLResponseAsJSON("SELECT permission_level FROM sys.user_logins WHERE token_hash= ?;", token);
+        JSONArray dbresponse = MandatorySQLExecutor
+                .getSQLResponseAsJSON("SELECT permission_level FROM sys.user_logins WHERE token_hash= ?;", token);
         String permissionLevel = dbresponse.getJSONObject(0).getString("permission_level");
         return permissionLevel.equalsIgnoreCase("admin");
     }
@@ -230,7 +265,7 @@ public class PostHandler extends URLHandler {
         JSONObject requestObject = new JSONObject(requestBody);
         String tokenHash = requestObject.getString("tokenHash").trim();
         String deleteSQL = "DELETE FROM card_info_submissions WHERE Submitter_Token_Hash = ?;";
-        PreparedStatement ps =  MandatorySQLExecutor.getPreparedStringStatement(deleteSQL, tokenHash);
+        PreparedStatement ps = MandatorySQLExecutor.getPreparedStringStatement(deleteSQL, tokenHash);
         int rowsAffected = 0;
         try {
             rowsAffected = ps.executeUpdate();
@@ -250,10 +285,10 @@ public class PostHandler extends URLHandler {
         JSONObject requestObject = new JSONObject(requestBody);
 
         String name = requestObject.getString("name");
-        String newToken  = UUID.randomUUID().toString();
+        String newToken = UUID.randomUUID().toString();
         String tokenHash = hashToken(newToken);
         String insertSQL = "INSERT INTO sys.user_logins (name, token_hash, permission_level) VALUES (?, ?, ?);";
-        PreparedStatement ps =  MandatorySQLExecutor.getPreparedStringStatement(insertSQL, name, tokenHash, "user");
+        PreparedStatement ps = MandatorySQLExecutor.getPreparedStringStatement(insertSQL, name, tokenHash, "user");
         try {
             ps.executeUpdate();
         } catch (SQLException e) {
@@ -274,8 +309,10 @@ public class PostHandler extends URLHandler {
         }
         String token = hashToken(new JSONObject(requestBody).getString("token"));
         String username = new JSONObject(requestBody).getString("username");
-        JSONArray dbresponse = MandatorySQLExecutor.getSQLResponseAsJSON("SELECT permission_level FROM sys.user_logins WHERE token_hash= ? AND name = ?;", token, username);
-        String permissionLevel = dbresponse.length() > 0 ? dbresponse.getJSONObject(0).getString("permission_level") : "fail";
+        JSONArray dbresponse = MandatorySQLExecutor.getSQLResponseAsJSON(
+                "SELECT permission_level FROM sys.user_logins WHERE token_hash= ? AND name = ?;", token, username);
+        String permissionLevel = dbresponse.length() > 0 ? dbresponse.getJSONObject(0).getString("permission_level")
+                : "fail";
         String response = permissionLevel.equalsIgnoreCase("admin") ? "success" : "fail";
 
         sendResponse(t, response);
@@ -292,11 +329,14 @@ public class PostHandler extends URLHandler {
         JSONArray response = MandatorySQLExecutor.getSQLResponseAsJSON("SELECT * FROM sys.user_logins;");
         for (int i = 0; i < response.length(); i++) {
             JSONObject user = response.getJSONObject(i);
-            int amountOfContributions = MandatorySQLExecutor.getSQLResponseAsJSON("SELECT COUNT(*) FROM card_info_submissions WHERE Submitter_Token_Hash = ?;", user.getString("token_hash")).getJSONObject(0).getInt("COUNT(*)");
+            int amountOfContributions = MandatorySQLExecutor
+                    .getSQLResponseAsJSON("SELECT COUNT(*) FROM card_info_submissions WHERE Submitter_Token_Hash = ?;",
+                            user.getString("token_hash"))
+                    .getJSONObject(0).getInt("COUNT(*)");
             user.put("amount", amountOfContributions);
         }
         sendResponseJson(t, response.toString());
-        
+
     }
 
     private boolean isNormalAndAuthed(HttpExchange t, String requestBody) throws IOException {
