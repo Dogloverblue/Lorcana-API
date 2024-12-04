@@ -12,12 +12,15 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Timestamp;
 import java.util.Base64;
+import java.util.UUID;
 
+import org.json.JSONArray;
 import org.json.JSONObject;
 
 import com.lorcanaapi.ParameterManager;
 import com.lorcanaapi.parameters.MandatorySQLExecutor;
 import com.lorcanaapi.precursors.PrecursorManager;
+import com.mysql.cj.xdevapi.JsonArray;
 import com.sun.net.httpserver.HttpExchange;
 
 public class PostHandler extends URLHandler {
@@ -66,23 +69,18 @@ public class PostHandler extends URLHandler {
 
     private void postAdd(HttpExchange t) throws IOException {
         String requestBody = new String(t.getRequestBody().readAllBytes(), StandardCharsets.UTF_8);
-        // if (requestBody.isEmpty()) {
-        // sendResponse(t, "ERROR: No request body");
-        // return;
-        // }
-        System.out.println("adding: " + requestBody);
-
-        System.out.println("token2");
+        if (requestBody.isEmpty()) {
+            sendResponse(t, "ERROR: No request body");
+            return;
+        }
         JSONObject jsonObject;
         try {
             jsonObject = new JSONObject(requestBody);
         } catch (Exception e) {
             e.printStackTrace();
-            sendResponse(t, "ERROR: 23");
+            sendResponse(t, "ERROR: Invalid JSON");
             return;
         }
-
-        System.out.println("token: " + jsonObject.getString("Token"));
 
         if (!isTokenValid(jsonObject.getString("Token"))) {
             sendResponse(t, "ERROR: Invalid token");
@@ -157,7 +155,7 @@ public class PostHandler extends URLHandler {
             int rowsAffected = preparedStatement.executeUpdate();
             System.out.println("Rows affected: " + rowsAffected);
 
-            sendResponse(t, "you added");
+            sendResponse(t, "Sucess!");
 
         } catch (Exception e) {
             e.printStackTrace();
@@ -195,11 +193,138 @@ public class PostHandler extends URLHandler {
             case "delete":
                 postDelete(t);
                 break;
+            case "auth":
+                postAuth(t);
+                break;
+            case "users":
+                postUsers(t);
+                break;
+            case "adduser":
+                postAddUser(t);
+                break;
+            case "removesubmissionsfromuser":
+                postRemoveSubmissionsFromUser(t);
+                break;
             default:
                 sendResponse(t, "ERROR: Please specifiy post/add, post/modify, or post/delete");
                 return;
         }
 
+    }
+
+
+
+    
+
+    private boolean isAdminAuthed(String token) {
+        JSONArray dbresponse = MandatorySQLExecutor.getSQLResponseAsJSON("SELECT permission_level FROM sys.user_logins WHERE token_hash= ?;", token);
+        String permissionLevel = dbresponse.getJSONObject(0).getString("permission_level");
+        return permissionLevel.equalsIgnoreCase("admin");
+    }
+
+    private void postRemoveSubmissionsFromUser(HttpExchange t) throws IOException {
+        String requestBody = new String(t.getRequestBody().readAllBytes(), StandardCharsets.UTF_8);
+        if (!isNormalAndAuthed(t, requestBody)) {
+            return;
+        }
+        JSONObject requestObject = new JSONObject(requestBody);
+        String tokenHash = requestObject.getString("tokenHash").trim();
+        String deleteSQL = "DELETE FROM card_info_submissions WHERE Submitter_Token_Hash = ?;";
+        PreparedStatement ps =  MandatorySQLExecutor.getPreparedStringStatement(deleteSQL, tokenHash);
+        int rowsAffected = 0;
+        try {
+            rowsAffected = ps.executeUpdate();
+        } catch (SQLException e) {
+            e.printStackTrace();
+            sendResponse(t, "ERROR: " + e.getMessage());
+            return;
+        }
+        sendResponseJson(t, "{\"success\":\"true\",\"rowsAffected\":\"" + rowsAffected + "\"}");
+    }
+
+    private void postAddUser(HttpExchange t) throws IOException {
+        String requestBody = new String(t.getRequestBody().readAllBytes(), StandardCharsets.UTF_8);
+        if (!isNormalAndAuthed(t, requestBody)) {
+            return;
+        }
+        JSONObject requestObject = new JSONObject(requestBody);
+
+        String name = requestObject.getString("name");
+        String newToken  = UUID.randomUUID().toString();
+        String tokenHash = hashToken(newToken);
+        String insertSQL = "INSERT INTO sys.user_logins (name, token_hash, permission_level) VALUES (?, ?, ?);";
+        PreparedStatement ps =  MandatorySQLExecutor.getPreparedStringStatement(insertSQL, name, tokenHash, "user");
+        try {
+            ps.executeUpdate();
+        } catch (SQLException e) {
+            e.printStackTrace();
+            sendResponse(t, "ERROR: " + e.getMessage());
+            return;
+        }
+        sendResponseJson(t, "{\"token\":\"" + newToken + "\"}");
+    }
+
+    private void postAuth(HttpExchange t) throws IOException {
+        System.out.println("postAuth");
+        String requestBody = new String(t.getRequestBody().readAllBytes(), StandardCharsets.UTF_8);
+        System.out.println("reQBody: " + requestBody);
+        if (requestBody.isEmpty()) {
+            sendResponse(t, "ERROR: No request body");
+            return;
+        }
+        String token = hashToken(new JSONObject(requestBody).getString("token"));
+        String username = new JSONObject(requestBody).getString("username");
+        JSONArray dbresponse = MandatorySQLExecutor.getSQLResponseAsJSON("SELECT permission_level FROM sys.user_logins WHERE token_hash= ? AND name = ?;", token, username);
+        String permissionLevel = dbresponse.length() > 0 ? dbresponse.getJSONObject(0).getString("permission_level") : "fail";
+        String response = permissionLevel.equalsIgnoreCase("admin") ? "success" : "fail";
+
+        sendResponse(t, response);
+    }
+
+    private void postUsers(HttpExchange t) throws IOException {
+        System.out.println("WOEKER");
+        String requestBody = new String(t.getRequestBody().readAllBytes(), StandardCharsets.UTF_8);
+        if (!isNormalAndAuthed(t, requestBody)) {
+            System.out.println("not authed");
+            return;
+        }
+        System.out.println("authed");
+        JSONArray response = MandatorySQLExecutor.getSQLResponseAsJSON("SELECT * FROM sys.user_logins;");
+        for (int i = 0; i < response.length(); i++) {
+            JSONObject user = response.getJSONObject(i);
+            int amountOfContributions = MandatorySQLExecutor.getSQLResponseAsJSON("SELECT COUNT(*) FROM card_info_submissions WHERE Submitter_Token_Hash = ?;", user.getString("token_hash")).getJSONObject(0).getInt("COUNT(*)");
+            user.put("amount", amountOfContributions);
+        }
+        sendResponseJson(t, response.toString());
+        
+    }
+
+    private boolean isNormalAndAuthed(HttpExchange t, String requestBody) throws IOException {
+        if (requestBody.isEmpty()) {
+            sendResponse(t, "ERROR: No request body");
+            return false;
+        }
+        JSONObject requestObject = new JSONObject(requestBody);
+        String token = hashToken(requestObject.getString("adminToken"));
+        if (!isAdminAuthed(token)) {
+            sendResponse(t, "ERROR: Invalid token");
+            return false;
+        }
+        return true;
+    }
+
+    private void sendResponseJson(HttpExchange t, String response) throws IOException {
+        System.out.println("response: " + response);
+        t.getResponseHeaders().set("Access-Control-Allow-Origin", "*");
+        t.getResponseHeaders().set("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE");
+        t.getResponseHeaders().set("Access-Control-Allow-Headers", "Content-Type");
+        t.getResponseHeaders().set("Content-Type",
+                String.format("application/json; charset=%s", StandardCharsets.UTF_8));
+
+        t.sendResponseHeaders(200, 0);
+        OutputStream os = t.getResponseBody();
+        os.write(response.getBytes());
+        os.close();
     }
 
     private void sendResponse(HttpExchange t, String response) throws IOException {

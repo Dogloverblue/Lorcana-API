@@ -92,6 +92,44 @@ public class MandatorySQLExecutor extends URLParameter {
 		}
 	}
 
+	public static PreparedStatement getPreparedStringStatement(String sqlCommand, String... arguments) {
+		try {
+			String newURL = getModifedDatabaseURL(DB_URL, "sys");
+			Connection conn = DriverManager.getConnection(newURL, USER, PASS);
+			PreparedStatement pstmt = conn.prepareStatement(sqlCommand);
+			for (int i = 0; i < arguments.length; i++) {
+				pstmt.setString(i + 1, arguments[i]);
+			}
+			return pstmt;
+		} catch (SQLException e) {
+			System.out.println("ERROR");
+			errorCause = e.getLocalizedMessage();
+			e.printStackTrace();
+			return null;
+		}
+	}
+
+	public static JSONArray getSQLResponseAsJSON(String sqlCommand, String... arguments) {
+		return getSQLResponseAsJSON(sqlCommand, List.of(arguments));
+	}
+
+	public static JSONArray getSQLResponseAsJSON(String sqlCommand, List<String> arguments) {
+		String newURL = getModifedDatabaseURL(DB_URL, "sys");
+		try (Connection conn = DriverManager.getConnection(newURL, USER, PASS);
+				PreparedStatement pstmt = conn.prepareStatement(sqlCommand);) {
+			for (int i = 0; i < arguments.size(); i++) {
+				pstmt.setString(i + 1, arguments.get(i));
+			}
+			ResultSet set = pstmt.executeQuery();
+			return resultSetToJSONArray(set);
+		} catch (SQLException e) {
+			System.out.println("ERROR");
+			errorCause = e.getLocalizedMessage();
+			e.printStackTrace();
+			return null;
+		}
+	}
+
 	public static JSONArray getSQLResponseAsJSON(String sqlCommand) {
 		try (Connection conn = DriverManager.getConnection(DB_URL, USER, PASS);
 				Statement stmt = conn.createStatement();) {
