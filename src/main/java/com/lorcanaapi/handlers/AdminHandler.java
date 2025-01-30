@@ -129,22 +129,20 @@ public class AdminHandler extends URLHandler {
     }
 
     private void replaceCardInfoData(HttpExchange t) throws IOException {
-        String truncateSQL = "TRUNCATE TABLE card_info;";
         String insertSQL = "INSERT INTO card_info (Name, Type, Cost, Inkable, Color, Classifications, Body_Text, Abilities, Flavor_Text, Strength, Willpower, Lore, Move_Cost, Rarity, Artist, Franchise, Set_Name, Set_Num, Set_ID, Image, Card_Variants, Card_Num, Unique_ID, Date_Added, Date_Modified, Gamemode) "
                 +
                 "SELECT Name, Type, Cost, Inkable, Color, Classifications, Body_Text, Abilities, Flavor_Text, Strength, Willpower, Lore, Move_Cost, Rarity, Artist, Franchise, Set_Name, Set_Num, Set_ID, Image, Card_Variants, Card_Num, Unique_ID, Date_Added, Date_Modified, Gamemode "
                 +
                 "FROM card_info_submissions;";
-        String updateSQL = "UPDATE card_info_submissions SET Submitter_Token_Hash = NULL;";
+        String truncateSubmissionSQL = "truncate card_info_submissions;";
 
         Statement statement = MandatorySQLExecutor.getStatement();
         int rowsAffected = 0;
         try {
-            statement.executeUpdate(truncateSQL);
 
-            statement.executeUpdate(insertSQL);
+            rowsAffected =  statement.executeUpdate(insertSQL);
 
-            rowsAffected = statement.executeUpdate(updateSQL);
+            statement.executeUpdate(truncateSubmissionSQL);
 
         } catch (SQLException e) {
             e.printStackTrace();
