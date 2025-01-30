@@ -35,7 +35,6 @@ public class AdminHandler extends URLHandler {
         return pm;
     }
 
-
     public static String hashToken(String token) {
         try {
             MessageDigest digest = MessageDigest.getInstance("SHA-256");
@@ -45,8 +44,6 @@ public class AdminHandler extends URLHandler {
             throw new RuntimeException(e);
         }
     }
-
-   
 
     @Override
     public void handle(HttpExchange t) throws IOException {
@@ -133,14 +130,18 @@ public class AdminHandler extends URLHandler {
                 +
                 "SELECT Name, Type, Cost, Inkable, Color, Classifications, Body_Text, Abilities, Flavor_Text, Strength, Willpower, Lore, Move_Cost, Rarity, Artist, Franchise, Set_Name, Set_Num, Set_ID, Image, Card_Variants, Card_Num, Unique_ID, Date_Added, Date_Modified, Gamemode "
                 +
-                "FROM card_info_submissions;";
+                "FROM card_info_submissions "
+                +
+                "ON DUPLICATE KEY UPDATE "
+                +
+                "Name = VALUES(Name), Type = VALUES(Type), Cost = VALUES(Cost), Inkable = VALUES(Inkable), Color = VALUES(Color), Classifications = VALUES(Classifications), Body_Text = VALUES(Body_Text), Abilities = VALUES(Abilities), Flavor_Text = VALUES(Flavor_Text), Strength = VALUES(Strength), Willpower = VALUES(Willpower), Lore = VALUES(Lore), Move_Cost = VALUES(Move_Cost), Rarity = VALUES(Rarity), Artist = VALUES(Artist), Franchise = VALUES(Franchise), Set_Name = VALUES(Set_Name), Set_Num = VALUES(Set_Num), Set_ID = VALUES(Set_ID), Image = VALUES(Image), Card_Variants = VALUES(Card_Variants), Card_Num = VALUES(Card_Num), Unique_ID = VALUES(Unique_ID), Date_Modified = VALUES(Date_Modified), Gamemode = VALUES(Gamemode);";
         String truncateSubmissionSQL = "truncate card_info_submissions;";
 
         Statement statement = MandatorySQLExecutor.getStatement();
         int rowsAffected = 0;
         try {
 
-            rowsAffected =  statement.executeUpdate(insertSQL);
+            rowsAffected = statement.executeUpdate(insertSQL);
 
             statement.executeUpdate(truncateSubmissionSQL);
 

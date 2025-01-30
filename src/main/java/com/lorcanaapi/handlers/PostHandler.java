@@ -11,11 +11,13 @@ import java.sql.SQLException;
 import java.sql.Timestamp;
 import java.util.Base64;
 
+import org.json.JSONArray;
 import org.json.JSONObject;
 
 import com.lorcanaapi.ParameterManager;
 import com.lorcanaapi.parameters.MandatorySQLExecutor;
 import com.lorcanaapi.precursors.PrecursorManager;
+import com.mysql.cj.xdevapi.JsonArray;
 import com.sun.net.httpserver.HttpExchange;
 
 public class PostHandler extends URLHandler {
@@ -64,43 +66,17 @@ public class PostHandler extends URLHandler {
 
     private void postAdd(HttpExchange t) throws IOException {
         String requestBody = new String(t.getRequestBody().readAllBytes(), StandardCharsets.UTF_8);
-        if (requestBody.isEmpty()) {
-            sendResponse(t, "ERROR: No request body");
+        if (!isNormalAndAuthed(t, requestBody)) {
             return;
         }
-        JSONObject jsonObject;
-        try {
-            jsonObject = new JSONObject(requestBody);
-        } catch (Exception e) {
-            e.printStackTrace();
-            sendResponse(t, "ERROR: Invalid JSON");
-            return;
-        }
-
-        if (!isTokenValid(jsonObject.getString("Token"))) {
-            sendResponse(t, "ERROR: Invalid token");
-            return;
-        }
-
-        String uniqueID = jsonObject.getString("Unique_ID");
-        String checkSQL = "SELECT COUNT(*) FROM card_info_submissions WHERE Unique_ID = ?";
-
-        try (PreparedStatement checkStatement = MandatorySQLExecutor.getPreparedStatement(checkSQL)) {
-            checkStatement.setString(1, uniqueID);
-            ResultSet resultSet = checkStatement.executeQuery();
-            if (resultSet.next() && resultSet.getInt(1) > 0) {
-                sendResponse(t, "ERROR: Card " + uniqueID + " already exists");
-                return;
-            }
-        } catch (SQLException e) {
-            e.printStackTrace();
-            sendResponse(t, "ERROR: " + e.getMessage());
-            return;
-        }
-
-        String insertSQL = "INSERT INTO card_info_submissions (Submitter_Token_Hash, Name, Type, Cost, Inkable, Color, Classifications, Body_Text, Abilities, Flavor_Text, Strength, Willpower, Lore, Move_Cost, Rarity, Artist, Franchise, Set_Name, Set_Num, Set_ID, Image, Card_Variants, Card_Num, Unique_ID, Date_Added, Date_Modified, Gamemode) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
-
+        JSONObject jsonObject = new JSONObject(requestBody);
         String tokenHash = hashToken(jsonObject.getString("Token"));
+
+        String insertSQL = "INSERT INTO card_info_submissions (Submitter_Token_Hash, Name, Type, Cost, Inkable, Color, Classifications, Body_Text, Abilities, Flavor_Text, Strength, Willpower, Lore, Move_Cost, Rarity, Artist, Franchise, Set_Name, Set_Num, Set_ID, Image, Card_Variants, Card_Num, Unique_ID, Date_Added, Date_Modified, Gamemode) "
+            + "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) "
+            + "ON DUPLICATE KEY UPDATE "
+            + "Submitter_Token_Hash = VALUES(Submitter_Token_Hash), Name = VALUES(Name), Type = VALUES(Type), Cost = VALUES(Cost), Inkable = VALUES(Inkable), Color = VALUES(Color), Classifications = VALUES(Classifications), Body_Text = VALUES(Body_Text), Abilities = VALUES(Abilities), Flavor_Text = VALUES(Flavor_Text), Strength = VALUES(Strength), Willpower = VALUES(Willpower), Lore = VALUES(Lore), Move_Cost = VALUES(Move_Cost), Rarity = VALUES(Rarity), Artist = VALUES(Artist), Franchise = VALUES(Franchise), Set_Name = VALUES(Set_Name), Set_Num = VALUES(Set_Num), Set_ID = VALUES(Set_ID), Image = VALUES(Image), Card_Variants = VALUES(Card_Variants), Card_Num = VALUES(Card_Num), Unique_ID = VALUES(Unique_ID), Date_Modified = VALUES(Date_Modified), Gamemode = VALUES(Gamemode);";
+
 
         try (PreparedStatement preparedStatement = MandatorySQLExecutor.getPreparedStatement(insertSQL)) {
             preparedStatement.setString(1, tokenHash);
@@ -165,6 +141,57 @@ public class PostHandler extends URLHandler {
         sendResponse(t, "ERROR: Not implemented yet");
     }
 
+    private void postGet(HttpExchange t) throws IOException {
+        String requestBody = new String(t.getRequestBody().readAllBytes(), StandardCharsets.UTF_8);
+        System.out.println("attempt post get with body |" + requestBody+"|");
+        if (!isNormalAndAuthed(t, requestBody)) {
+            return;
+        }
+        System.out.println("is atuhed!");
+        JSONObject jsonObject = new JSONObject(requestBody);
+        if (!jsonObject.has("Unique_ID")) {
+            sendResponse(t, "ERROR: No field Unique_ID");
+            return;
+        }
+        String uniqueID = jsonObject.getString("Unique_ID");
+        String querySQL = "SELECT * FROM card_info_submissions WHERE Unique_ID = ?";
+        JSONArray jsonArray = MandatorySQLExecutor.getSQLResponseAsJSON(querySQL, uniqueID);
+        if (jsonArray != null && jsonArray.length() > 0) {
+            sendResponseJson(t, jsonArray.get(0).toString());
+            return;
+        }
+
+        querySQL = "SELECT * FROM card_info WHERE Unique_ID = ?";
+        jsonArray = MandatorySQLExecutor.getSQLResponseAsJSON(querySQL, uniqueID);
+        if (jsonArray != null && jsonArray.length() > 0) {
+            sendResponseJson(t, jsonArray.get(0).toString());
+            return;
+        }
+
+        sendResponseJson(t, "{}");
+    }
+
+    private boolean isNormalAndAuthed(HttpExchange t, String requestBody) throws IOException {
+        if (requestBody.isEmpty()) {
+            sendResponse(t, "ERROR: No request body");
+            return false;
+        }
+        JSONObject jsonObject;
+        try {
+            jsonObject = new JSONObject(requestBody);
+        } catch (Exception e) {
+            e.printStackTrace();
+            sendResponse(t, "ERROR: Invalid JSON");
+            return false;
+        }
+
+        if (!jsonObject.has("Token") || !isTokenValid(jsonObject.getString("Token"))) {
+            sendResponse(t, "ERROR: Invalid token");
+            return false;
+        }
+        return true;
+    }
+
     @Override
     public void handle(HttpExchange t) throws IOException {
         String url = t.getRequestURI().toString();
@@ -185,6 +212,9 @@ public class PostHandler extends URLHandler {
             case "delete":
                 postDelete(t);
                 break;
+            case "getcard":
+                postGet(t);
+                break;
             default:
                 sendResponse(t, "ERROR: Please specifiy post/add, post/modify, or post/delete");
                 return;
@@ -192,9 +222,22 @@ public class PostHandler extends URLHandler {
 
     }
 
-
     private void sendResponse(HttpExchange t, String response) throws IOException {
         response = "{\"message\":\"" + response + "\"}";
+        t.getResponseHeaders().set("Access-Control-Allow-Origin", "*");
+        t.getResponseHeaders().set("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE");
+        t.getResponseHeaders().set("Access-Control-Allow-Headers", "Content-Type");
+        t.getResponseHeaders().set("Content-Type",
+                String.format("application/json; charset=%s", StandardCharsets.UTF_8));
+
+        t.sendResponseHeaders(200, 0);
+        OutputStream os = t.getResponseBody();
+        os.write(response.getBytes());
+        os.close();
+    }
+
+    private void sendResponseJson(HttpExchange t, String response) throws IOException {
+        System.out.println(response);
         t.getResponseHeaders().set("Access-Control-Allow-Origin", "*");
         t.getResponseHeaders().set("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE");
         t.getResponseHeaders().set("Access-Control-Allow-Headers", "Content-Type");
