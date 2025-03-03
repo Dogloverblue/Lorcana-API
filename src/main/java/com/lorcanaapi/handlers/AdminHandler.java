@@ -49,7 +49,6 @@ public class AdminHandler extends URLHandler {
     public void handle(HttpExchange t) throws IOException {
         String url = t.getRequestURI().toString();
         if (url.length() <= 6) {
-            System.out.println(url);
             sendResponse(t, "ERROR: invalid url, please specify admin/auth, admin/users, etc.");
             return;
         }
@@ -79,7 +78,6 @@ public class AdminHandler extends URLHandler {
                 postDeleteUser(t);
                 break;
             default:
-                System.out.println(url);
                 sendResponse(t, "ERROR: invalid url, please specify admin/auth, admin/users, etc.");
                 return;
         }
@@ -263,7 +261,6 @@ public class AdminHandler extends URLHandler {
     }
 
     private void sendResponseJson(HttpExchange t, String response) throws IOException {
-        System.out.println(response);
         t.getResponseHeaders().set("Access-Control-Allow-Origin", "*");
         t.getResponseHeaders().set("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE");
         t.getResponseHeaders().set("Access-Control-Allow-Headers", "Content-Type");
@@ -278,7 +275,6 @@ public class AdminHandler extends URLHandler {
 
     private void sendResponse(HttpExchange t, String response) throws IOException {
         response = "{\"message\":\"" + response + "\"}";
-        System.out.println(response);
         t.getResponseHeaders().set("Access-Control-Allow-Origin", "*");
         t.getResponseHeaders().set("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE");
         t.getResponseHeaders().set("Access-Control-Allow-Headers", "Content-Type");

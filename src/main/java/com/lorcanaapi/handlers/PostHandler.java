@@ -9,7 +9,11 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Timestamp;
+import java.util.ArrayList;
 import java.util.Base64;
+import java.util.HashSet;
+import java.util.Set;
+import java.util.TreeSet;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -17,13 +21,13 @@ import org.json.JSONObject;
 import com.lorcanaapi.ParameterManager;
 import com.lorcanaapi.parameters.MandatorySQLExecutor;
 import com.lorcanaapi.precursors.PrecursorManager;
-import com.mysql.cj.xdevapi.JsonArray;
 import com.sun.net.httpserver.HttpExchange;
 
 public class PostHandler extends URLHandler {
 
     public PostHandler() {
         super("post", "card_info_submissions", defaultParameterValues(), defaultPrecursorValues());
+        PostHandler.refreshUnaddedCards();
     }
 
     private static ParameterManager defaultParameterValues() {
@@ -111,7 +115,7 @@ public class PostHandler extends URLHandler {
             }
             preparedStatement.setString(15, jsonObject.getString("Rarity"));
             preparedStatement.setString(16, jsonObject.getString("Artist"));
-            preparedStatement.setString(17, jsonObject.getString("Franchise"));
+            preparedStatement.setString(17, jsonObject.optString("Franchise"));
             preparedStatement.setString(18, jsonObject.getString("Set_Name"));
             preparedStatement.setInt(19, jsonObject.getInt("Set_Num"));
             preparedStatement.setString(20, jsonObject.getString("Set_ID"));
@@ -143,11 +147,9 @@ public class PostHandler extends URLHandler {
 
     private void postGet(HttpExchange t) throws IOException {
         String requestBody = new String(t.getRequestBody().readAllBytes(), StandardCharsets.UTF_8);
-        System.out.println("attempt post get with body |" + requestBody+"|");
         if (!isNormalAndAuthed(t, requestBody)) {
             return;
         }
-        System.out.println("is atuhed!");
         JSONObject jsonObject = new JSONObject(requestBody);
         if (!jsonObject.has("Unique_ID")) {
             sendResponse(t, "ERROR: No field Unique_ID");
@@ -192,6 +194,38 @@ public class PostHandler extends URLHandler {
         return true;
     }
 
+    private static final Set<String> UNADDED_CARDS = new TreeSet<String>();
+
+    private static final String UNADDED_SET_ID = "ARI";
+    private static final int NUMBER_OF_CARDS_IN_UNADDED_SET = 204;
+    
+    private static void refreshUnaddedCards() {
+        String querySQL = "SELECT Unique_ID FROM card_info WHERE Set_ID = ?";
+        JSONArray jsonArray = MandatorySQLExecutor.getSQLResponseAsJSON(querySQL, UNADDED_SET_ID);
+        Set<String> addedCards = new HashSet<String>();
+        for (int i = 0; i < jsonArray.length(); i++) {
+            addedCards.add(jsonArray.getJSONObject(i).getString("Unique_ID"));
+        }
+        
+        querySQL = "SELECT Unique_ID FROM card_info_submissions WHERE Set_ID = ?";
+        jsonArray = MandatorySQLExecutor.getSQLResponseAsJSON(querySQL, UNADDED_SET_ID);
+        for (int i = 0; i < jsonArray.length(); i++) {
+            addedCards.add(jsonArray.getJSONObject(i).getString("Unique_ID"));
+        }
+        
+        UNADDED_CARDS.clear();
+        for (int i = 1; i <= NUMBER_OF_CARDS_IN_UNADDED_SET; i++) {
+            String uniqueID = UNADDED_SET_ID + "-"+ String.format("%03d", i);
+            if (!addedCards.contains(uniqueID)) {
+                UNADDED_CARDS.add(uniqueID);
+            }
+        }
+    }
+
+    private void postGetUnaddedCards(HttpExchange t) throws IOException {
+        sendResponseJson(t, new JSONArray(UNADDED_CARDS).toString());
+    }
+
     @Override
     public void handle(HttpExchange t) throws IOException {
         String url = t.getRequestURI().toString();
@@ -205,6 +239,7 @@ public class PostHandler extends URLHandler {
         switch (precursor) {
             case "add":
                 postAdd(t);
+                refreshUnaddedCards();
                 break;
             case "modify":
                 postModify(t);
@@ -214,6 +249,9 @@ public class PostHandler extends URLHandler {
                 break;
             case "getcard":
                 postGet(t);
+                break;
+            case "getunaddedcards":
+                postGetUnaddedCards(t);
                 break;
             default:
                 sendResponse(t, "ERROR: Please specifiy post/add, post/modify, or post/delete");
@@ -237,7 +275,6 @@ public class PostHandler extends URLHandler {
     }
 
     private void sendResponseJson(HttpExchange t, String response) throws IOException {
-        System.out.println(response);
         t.getResponseHeaders().set("Access-Control-Allow-Origin", "*");
         t.getResponseHeaders().set("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE");
         t.getResponseHeaders().set("Access-Control-Allow-Headers", "Content-Type");
