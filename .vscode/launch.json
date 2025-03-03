@@ -1,0 +1,25 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "args": "jdbc:mysql://127.0.0.1:3306/?user=root root fgK@AS42i23@#asf"
+
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.lorcanaapi.App",
+            "projectName": "lorcanaapi",
+            "args": "jdbc:mysql://127.0.0.1:3306/?user=root root fgK@AS42i23@#asf"
+
+        }
+    ]
+}
