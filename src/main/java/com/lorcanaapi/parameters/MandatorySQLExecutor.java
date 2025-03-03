@@ -79,7 +79,7 @@ public class MandatorySQLExecutor extends URLParameter {
 
 	public static Statement getStatement() {
 		try {
-			String newURL = getModifedDatabaseURL(DB_URL, "sys");
+			String newURL = getModifedDatabaseURL(DB_URL, "ptcjlukd_lordb");
 			Connection conn = DriverManager.getConnection(newURL, USER, PASS);
 			Statement stmt = conn.createStatement();
 			return stmt;
@@ -94,7 +94,7 @@ public class MandatorySQLExecutor extends URLParameter {
 	/**Gets a prepared statemend, so that SQL can be run securely. Looking at you over there mr firefox/dogloverblue*/
 	public static PreparedStatement getPreparedStatement(String sqlCommand) {
 		try {
-			String newURL = getModifedDatabaseURL(DB_URL, "sys");
+			String newURL = getModifedDatabaseURL(DB_URL, "ptcjlukd_lordb");
 			Connection conn = DriverManager.getConnection(newURL, USER, PASS);
 			PreparedStatement pstmt = conn.prepareStatement(sqlCommand);
 			return pstmt;
@@ -108,7 +108,7 @@ public class MandatorySQLExecutor extends URLParameter {
 
 	public static PreparedStatement getPreparedStringStatement(String sqlCommand, String... arguments) {
 		try {
-			String newURL = getModifedDatabaseURL(DB_URL, "sys");
+			String newURL = getModifedDatabaseURL(DB_URL, "ptcjlukd_lordb");
 			Connection conn = DriverManager.getConnection(newURL, USER, PASS);
 			PreparedStatement pstmt = conn.prepareStatement(sqlCommand);
 			for (int i = 0; i < arguments.length; i++) {
@@ -128,7 +128,7 @@ public class MandatorySQLExecutor extends URLParameter {
 	}
 
 	public static JSONArray getSQLResponseAsJSON(String sqlCommand, List<String> arguments) {
-		String newURL = getModifedDatabaseURL(DB_URL, "sys");
+		String newURL = getModifedDatabaseURL(DB_URL, "ptcjlukd_lordb");
 		try (Connection conn = DriverManager.getConnection(newURL, USER, PASS);
 				PreparedStatement pstmt = conn.prepareStatement(sqlCommand);) {
 			for (int i = 0; i < arguments.size(); i++) {
@@ -148,7 +148,7 @@ public class MandatorySQLExecutor extends URLParameter {
 		try (Connection conn = DriverManager.getConnection(DB_URL, USER, PASS);
 				Statement stmt = conn.createStatement();) {
 			// String sql = "USE lorcanaapi;";
-			String sql = "USE sys;";
+			String sql = "USE ptcjlukd_lordb;";
 			// System.out.println(stmt.executeUpdate(sql));
 			stmt.executeUpdate(sql);
 			ResultSet set = stmt.executeQuery(sqlCommand);

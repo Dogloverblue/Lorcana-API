@@ -18,6 +18,7 @@ import com.sun.net.httpserver.HttpServer;
 public class APIServer {
 
 	HttpServer server;
+	boolean isAdminServer = false;
 
 	public void startServer() {
 		try {
@@ -30,20 +31,31 @@ public class APIServer {
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
-			
+			// they should just be two seperate applications, but what cha gonna do?
+			if (isAdminServer) {
+				server.createContext("/post", new PostHandler());
+				server.createContext("/admin", new AdminHandler());
+			} else {
 			server.createContext("/cards", new CardsHandler());
 			server.createContext("/sets", new SetsHandler());
 			server.createContext("/bulk", new BulkHandler());
 			server.createContext("/stats", new StatisticsHandler());
-			server.createContext("/post", new PostHandler());
-			server.createContext("/admin", new AdminHandler());
+			
+			}
+			
+				
+			
+			
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
 	}
 	public APIServer(String SQLDBURL, String SQLUser, String SQLPass) {
 		MandatorySQLExecutor.setSQLCreddentials(SQLDBURL, SQLUser, SQLPass);
-		startServer();
+	}
+	
+	public void setAdministratorMode(boolean admin) {
+		isAdminServer = admin;
 	}
 	
 }

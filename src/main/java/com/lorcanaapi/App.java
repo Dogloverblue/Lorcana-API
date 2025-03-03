@@ -28,9 +28,19 @@ public class App {
 			System.err.println("You must provide SQL details for this service to run properly. Put in '<JDBC URL> <Database Username> <Database Password>' into JVM arguments.");
 			System.exit(0);
 		}
+
 		System.out.println("Server successfully booted!");
 //		System.err.println("Hey You! You need to edit the source code and change the ");
 		APIServer server = new APIServer(args[0], args[1], args[2]);
+		
+		if (args.length > 3) {
+			if (args[3].equals("admin")) {
+				server.setAdministratorMode(true);
+			}
+		}
+		
+		server.startServer();
+		
 		
 	}
 

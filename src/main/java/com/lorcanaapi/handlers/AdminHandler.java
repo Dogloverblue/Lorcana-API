@@ -91,7 +91,7 @@ public class AdminHandler extends URLHandler {
         }
         JSONObject requestObject = new JSONObject(requestBody);
         String tokenHash = requestObject.getString("tokenHash");
-        String deleteSQL = "DELETE FROM sys.user_logins WHERE token_hash = ?;";
+        String deleteSQL = "DELETE FROM ptcjlukd_lordb.user_logins WHERE token_hash = ?;";
         PreparedStatement ps = MandatorySQLExecutor.getPreparedStringStatement(deleteSQL, tokenHash);
         try {
             ps.executeUpdate();
@@ -154,7 +154,7 @@ public class AdminHandler extends URLHandler {
 
     private boolean isAdminAuthed(String token) {
         JSONArray dbresponse = MandatorySQLExecutor
-                .getSQLResponseAsJSON("SELECT permission_level FROM sys.user_logins WHERE token_hash= ?;", token);
+                .getSQLResponseAsJSON("SELECT permission_level FROM ptcjlukd_lordb.user_logins WHERE token_hash= ?;", token);
         String permissionLevel = dbresponse.getJSONObject(0).getString("permission_level");
         return permissionLevel.equalsIgnoreCase("admin");
     }
@@ -189,7 +189,7 @@ public class AdminHandler extends URLHandler {
         String name = requestObject.getString("name");
         String newToken = UUID.randomUUID().toString();
         String tokenHash = hashToken(newToken);
-        String insertSQL = "INSERT INTO sys.user_logins (name, token_hash, permission_level) VALUES (?, ?, ?);";
+        String insertSQL = "INSERT INTO ptcjlukd_lordb.user_logins (name, token_hash, permission_level) VALUES (?, ?, ?);";
         PreparedStatement ps = MandatorySQLExecutor.getPreparedStringStatement(insertSQL, name, tokenHash, "user");
         try {
             ps.executeUpdate();
@@ -210,7 +210,7 @@ public class AdminHandler extends URLHandler {
         String token = hashToken(new JSONObject(requestBody).getString("token"));
         String username = new JSONObject(requestBody).getString("username");
         JSONArray dbresponse = MandatorySQLExecutor.getSQLResponseAsJSON(
-                "SELECT permission_level FROM sys.user_logins WHERE token_hash= ? AND name = ?;", token, username);
+                "SELECT permission_level FROM ptcjlukd_lordb.user_logins WHERE token_hash= ? AND name = ?;", token, username);
         String permissionLevel = dbresponse.length() > 0 ? dbresponse.getJSONObject(0).getString("permission_level")
                 : "fail";
         String response = permissionLevel.equalsIgnoreCase("admin") ? "success" : "fail";
@@ -223,7 +223,7 @@ public class AdminHandler extends URLHandler {
         if (!isNormalAndAdminAuthed(t, requestBody)) {
             return;
         }
-        JSONArray response = MandatorySQLExecutor.getSQLResponseAsJSON("SELECT * FROM sys.user_logins;");
+        JSONArray response = MandatorySQLExecutor.getSQLResponseAsJSON("SELECT * FROM ptcjlukd_lordb.user_logins;");
         for (int i = 0; i < response.length(); i++) {
             JSONObject user = response.getJSONObject(i);
             int amountOfContributions = MandatorySQLExecutor
